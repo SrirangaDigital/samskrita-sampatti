@@ -2,6 +2,7 @@
 
 define('BASE_URL', 'http://localhost/samskrita/');
 define('PUBLIC_URL', BASE_URL . 'public/');
+define('STOCK_IMAGE_URL', BASE_URL . 'public/images/stock/');
 
 // Physical location of resources
 define('PHY_BASE_URL', '/var/www/html/samskrita/');

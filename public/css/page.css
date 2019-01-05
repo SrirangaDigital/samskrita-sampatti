@@ -1,0 +1,24 @@
+.mainpage{
+	margin-top: 100px;
+	font-family: 'Lato', sans-serif;
+}
+.border-2{
+	border: 1px solid rgba(0, 0, 0, 0.5);
+}
+.intro{
+	margin-bottom: 80px;
+}
+.intro h1{
+	font-family: 'Playfair Display', serif;
+	font-weight: 700;
+	color: rgba(0, 0, 0, 0.15);
+}
+.intro p{
+	font-size: 1.25em;
+	line-height: 1.75em;
+	font-weight: 300;
+	color: rgba(0, 0, 0, 0.75);
+}
+.intro img{
+	margin: 40px 0;
+}

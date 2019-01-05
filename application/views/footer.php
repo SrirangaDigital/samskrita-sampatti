@@ -4,11 +4,11 @@
             <div class="row"><!-- row -->
                 <div class="col-lg-12">
                     <p class="copy-text text-center">
-                        © 2018 Samskrita Sampatti
+                        <!-- © 2018 Samskrita Sampatti -->
                     </p>
                 </div>
-            </div><!-- row end -->
-        </div><!-- container end -->
+            </div>
+        </div>
     </div>
 
     <!-- End Main page layout
