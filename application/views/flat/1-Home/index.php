@@ -5,12 +5,17 @@
 			<p>A curated &amp; well annotated Digital Library containing more than a million pages of carefully selected Samskrita literature in various subjects with table of contents, keywords and full-text based search engines along with a descriptive two page summary for each book to enhance accessibility of such a collection. A <em>freemium</em> based access is given to the digital library with additional features that could be subscribed to.</p>
 		</div>
 		<div class="col-md-6">
-			<img class="img-fluid border-2" src="<?=STOCK_IMAGE_URL?>scene-08.jpg" />
+			<figure class="figure">
+				<img class="img-fluid border-2" src="<?=STOCK_IMAGE_URL?>scene-08.jpg" />
+				<!-- <figcaption class="figure-caption">पुराण । इतिहास</figcaption> -->
+			</figure>
 		</div>
 	</div>
 	<div class="row align-items-center justify-content-around intro">
 		<div class="col-md-6">
-			<img class="img-fluid border-2" src="<?=STOCK_IMAGE_URL?>scene-01.jpg" />
+			<figure class="figure">
+				<img class="img-fluid border-2" src="<?=STOCK_IMAGE_URL?>scene-01.jpg" />
+			</figure>
 		</div>
 		<div class="col-md-6">
 			<h1>Why?</h1>
@@ -23,12 +28,16 @@
 			<p>Books will be slected by a team of traditional Vidwans across various subjects such as Veda, Vedanga, Darshana, Sahitya and other forms &amp; genres of literature in Samskrita.<br />Content of over a million pages will be scanned, processed for increased readability, delivered in a rich interactive and intuitive web &amp; mobile based user interface.<br />A section of such content will also be made available in Unicode for enhanced usability.</p>
 		</div>
 		<div class="col-md-6">
-			<img class="img-fluid border-2" src="<?=STOCK_IMAGE_URL?>scene-04.jpg" />
+			<figure class="figure">
+				<img class="img-fluid border-2" src="<?=STOCK_IMAGE_URL?>scene-04.jpg" />
+			</figure>
 		</div>
 	</div>
 	<div class="row align-items-center justify-content-around intro">
 		<div class="col-md-6">
-			<img class="img-fluid border-2" src="<?=STOCK_IMAGE_URL?>scene-03.jpg" />
+			<figure class="figure">
+				<img class="img-fluid border-2" src="<?=STOCK_IMAGE_URL?>scene-03.jpg" />
+			</figure>
 		</div>
 		<div class="col-md-6">
 			<h1>When?</h1>
@@ -41,12 +50,16 @@
 			<p>Samskrita Sampatti Private Limited is a wholly owned subsidiary of Sriranga Digital, a pioneer in the field of digital archiving in India. Sriranga Digital has worked with institutions like Sri Sharada Peetham, Sringeri, Sri Ramakrishna Maths across the country and the Bharatiya Vidya Bhavan to name a few and have digitized more than a million pages of text in the process.</p>
 		</div>
 		<div class="col-md-6">
-			<img class="img-fluid border-2" src="<?=STOCK_IMAGE_URL?>scene-07.jpg" />
+			<figure class="figure">
+				<img class="img-fluid border-2" src="<?=STOCK_IMAGE_URL?>scene-07.jpg" />
+			</figure>
 		</div>
 	</div>
 	<div class="row align-items-center justify-content-around intro">
 		<div class="col-md-6">
-			<img class="img-fluid border-2" src="<?=STOCK_IMAGE_URL?>scene-05.jpg" />
+			<figure class="figure">
+				<img class="img-fluid border-2" src="<?=STOCK_IMAGE_URL?>scene-05.jpg" />
+			</figure>
 		</div>
 		<div class="col-md-6">
 			<h1>Get Involved</h1>
@@ -59,7 +72,9 @@
 			<p>You can reach out to us as<br />sriranga.yoga@gmail.com or<br />arjun.kashyap@srirangadigital.com</p>
 		</div>
 		<div class="col-md-6">
-			<img class="img-fluid border-2" src="<?=STOCK_IMAGE_URL?>scene-02.jpg" />
+			<figure class="figure">
+				<img class="img-fluid border-2" src="<?=STOCK_IMAGE_URL?>scene-02.jpg" />
+			</figure>
 		</div>
 	</div>
 </div>

@@ -11,7 +11,7 @@
 .intro h1{
 	font-family: 'Playfair Display', serif;
 	font-weight: 700;
-	color: rgba(0, 0, 0, 0.15);
+	color: rgba(255, 153, 86, 0.5);
 }
 .intro p{
 	font-size: 1.25em;
@@ -19,6 +19,21 @@
 	font-weight: 300;
 	color: rgba(0, 0, 0, 0.75);
 }
-.intro img{
+.intro .figure{
 	margin: 40px 0;
+	z-index: 1;
+	position: relative;
 }
+.intro .figure .figure-caption{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	background-color: #ff9956;
+	color: #800000;
+	padding: 1em;
+	opacity: 0.9;
+}
+/*.intro .figure .figure-caption p{
+	width: 50;
+	line-height: 50px;
+}*/
