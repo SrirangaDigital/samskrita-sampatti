@@ -1,7 +1,10 @@
 Options -MultiViews
 RewriteEngine On
 
-RewriteBase /ias-fellows/
+RewriteBase /samskrita/
+
+RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
 
 php_value session.cookie_domain localhost
 
