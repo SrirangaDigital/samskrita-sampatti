@@ -25,6 +25,7 @@
 	<!-- FONT
 	–––––––––––––––––––––––––––––––––––––––––––––––––– -->
 	<link href="https://fonts.googleapis.com/css?family=Lato:300,300i|Playfair+Display:700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Laila:300,400,500,600,700|Martel:200,300,400,600,700,800,900&amp;subset=devanagari" rel="stylesheet">
 
 	<!-- Javascript calls
 	–––––––––––––––––––––––––––––––––––––––––––––––––– -->

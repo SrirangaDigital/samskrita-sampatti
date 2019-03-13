@@ -3,18 +3,19 @@
 define('BASE_URL', 'http://localhost/samskrita/');
 define('PUBLIC_URL', BASE_URL . 'public/');
 define('STOCK_IMAGE_URL', BASE_URL . 'public/images/stock/');
+define('API_URL', BASE_URL . 'api/');
 
 // Physical location of resources
 define('PHY_BASE_URL', '/var/www/html/samskrita/');
 define('PHY_PUBLIC_URL', PHY_BASE_URL . 'public/');
 define('PHY_FLAT_URL', PHY_BASE_URL . 'application/views/flat/');
-
+define('PHY_BOOKS_METADATA_URL', PHY_BASE_URL . 'md-src/books/');
 
 define('DB_HOST', '127.0.0.1');
 define('DB_PORT', '27017');
-define('DB_NAME', 'iasINFRA');
-define('DB_USER', 'iasUSER');
-define('DB_PASSWORD', 'ias123');
+define('DB_NAME', 'samskritaSAMPATTI');
+define('DB_USER', 'samskritaSAMPATTIUSER');
+define('DB_PASSWORD', 'samskritaSAMPATTI123');
 
 // use iasINFRA;
 // db.createUser(

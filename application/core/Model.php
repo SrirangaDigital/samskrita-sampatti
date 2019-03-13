@@ -32,16 +32,6 @@ class Model {
 		return $content;
 	}
 
-	public function getDetailsById($id, $collection){
-		
-		$db = $this->db->useDB();
-		$collection = $this->db->selectCollection($db, $collection);
-
-		$result = $collection->findOne(['id' => $id ]);
-
-		return $result;
-	}
-
 	public function getPrecastKey($type, $key){
 
 	    $structure = json_decode(file_get_contents(PHY_JSON_PRECAST_URL . 'archive-structure.json'), true);

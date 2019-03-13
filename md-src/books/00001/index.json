@@ -1,0 +1,23 @@
+{
+	"details" : {
+		"title" : "Sri Ganesa Atharvasirsham Sabhashyam",
+		"contributors" : {
+			"author" : "Vamansastri Islampurkar"
+		},
+		"attributes" : {
+			"year" : "1889",
+			"edition" : "1"
+		},
+		"collection" : [
+			{
+				"name" : "Anandashram Samskrita Granthavali",
+				"index" : "2"
+			}
+		]
+	},
+	"media" : {
+		"pdf" : {
+			"link" : "https://ia801704.us.archive.org/2/items/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_001_Ganesa_Atharvasirsham_Sabhashyam_-_Vamansastri_Islampurkar_1889.pdf"
+		}
+	}
+}

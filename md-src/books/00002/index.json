@@ -1,0 +1,23 @@
+{
+	"details" : {
+		"title" : "Rudradhyaya with Commentaries of Sayana & Bhattabhaskara",
+		"contributors" : {
+			"author" : "Vamansastri Islampurkar"
+		},
+		"attributes" : {
+			"year" : "1889",
+			"edition" : "1"
+		},
+		"collection" : [
+			{
+				"name" : "Anandashram Samskrita Granthavali",
+				"index" : "2"
+			}
+		]
+	},
+	"media" : {
+		"pdf" : {
+			"link" : "https://ia601704.us.archive.org/2/items/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_002_Rudradhyaya_with_Commentaries_of_Sayana__Bhattabhaskara_1888_GQ.pdf"
+		}
+	}
+}

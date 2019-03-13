@@ -1,0 +1,23 @@
+{
+	"details" : {
+		"title" : "Purushasukta with Sayanabhashya",
+		"contributors" : {
+			"author" : "Vamansastri Islampurkar"
+		},
+		"attributes" : {
+			"year" : "1889",
+			"edition" : "1"
+		},
+		"collection" : [
+			{
+				"name" : "Anandashram Samskrita Granthavali",
+				"index" : "2"
+			}
+		]
+	},
+	"media" : {
+		"pdf" : {
+			"link" : "https://ia801704.us.archive.org/2/items/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_003_Purushasukta_with_Sayanabhashya_-_GB_Kale_1952.pdf"
+		}
+	}
+}
