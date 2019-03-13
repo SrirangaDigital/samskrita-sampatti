@@ -1,0 +1,42 @@
+.book .row{
+	margin-bottom: 50px;
+}
+.book .coverpage {
+	text-align: right;
+}
+.book .coverpage img {
+	box-shadow: 0 1px 15px rgba(0,0,0,.1);
+	height: 250px;
+}
+.book .headblock{
+	font-family: 'Halant', serif;
+}
+.book .headblock .title{
+	font-size: 32px;
+	font-weight: 600;
+}
+.book .headblock .author{
+	font-size: 18px;
+	font-weight: 600;
+}
+.book .headblock .collection{
+	margin-top: 28px;
+	font-size: 16px;
+	color: #D84315;
+}
+.book .headblock .collection span{
+	border-radius: 10px;
+	box-shadow: 0 1px 15px rgba(0,0,0,0.1);
+	padding: 3px 10px;
+	line-height: 40px;
+	white-space: nowrap;
+}
+.book .headblock .features{
+	margin-top: 28px;
+	font-size: 16px;
+}
+.book .headblock .features i{
+	color: #CCC;
+	font-size: 24px;
+	margin: 0 20px 0 10px;
+}

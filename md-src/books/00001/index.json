@@ -1,8 +1,8 @@
 {
 	"details" : {
-		"title" : "Sri Ganesa Atharvasirsham Sabhashyam",
+		"title" : "श्री गणेशाथर्वशीर्षं सभाष्यम्",
 		"contributors" : {
-			"author" : "Vamansastri Islampurkar"
+			"author" : ["पण्डित वामनशास्त्री इसलामपुरकर इत्येतैः", "महादेव चिमणाजी आपटे"]
 		},
 		"attributes" : {
 			"year" : "1889",
@@ -10,7 +10,7 @@
 		},
 		"collection" : [
 			{
-				"name" : "Anandashram Samskrita Granthavali",
+				"name" : "आनन्दाश्रमसंस्कृतग्रन्थावलिः",
 				"index" : "2"
 			}
 		]

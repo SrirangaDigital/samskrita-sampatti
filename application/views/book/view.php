@@ -1,17 +1,20 @@
-<div class="container">
+<div class="container book">
 	<div class="row">
-		<div class="col-md-4">
+		<div class="col-md-3 coverpage">
 			<img src="<?=$data['cover']?>" alt="cover page" />
 		</div>
-		<div class="col-md-8">
-			<h1><?=$data['details']['title']?></h1>
-			<h2><?=$data['details']['contributors']['author']?></h2>
-			<h4><?=$data['details']['collection'][0]['name']?> - <?=$data['details']['collection'][0]['index']?></h4>
+		<div class="col-md-8 headblock">
+			<h1 class="title"><?=$data['details']['title']?></h1>
+			<?php foreach ($data['details']['contributors']['author'] as $author) echo '<h2 class="author">' . $author . '</h2>'; ?>
 
-			<div>
-				<?php if($data['contents']) echo '<span>TOC</span>'; ?>
-				<?php if($data['summary']) echo '<span>Summary</span>'; ?>
-				<?php if($data['media']['pdf']['link']) echo '<span>PDF</span>'; ?>
+			<h4 class="collection">
+				<span><?=$data['details']['collection'][0]['name']?></span>
+			</h4>
+
+			<div class="features">
+				<?php if($data['contents']) echo '<i class="fa fa-list-ul"></i>'; ?>
+				<?php if($data['summary']) echo '<i class="far fa-file-alt"></i>'; ?>
+				<?php if($data['media']['pdf']['link']) echo '<i class="far fa-file-pdf"></i>'; ?>
 			</div>
 		</div>
 	</div>
