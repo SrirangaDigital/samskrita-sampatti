@@ -14,6 +14,8 @@ class api extends Controller {
 
 		$details = $this->model->getBookDetails($id, $collection);
 
+		header('Content-Type: application/json');
+		http_response_code(200);
 		echo $details;
 	}
 }
