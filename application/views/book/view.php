@@ -5,16 +5,17 @@
 		</div>
 		<div class="col-md-8 headblock">
 			<h1 class="title"><?=$data['details']['title']?></h1>
+
 			<?php foreach ($data['details']['contributors']['author'] as $author) echo '<h2 class="author">' . $author . '</h2>'; ?>
 
 			<h4 class="collection">
 				<span><?=$data['details']['collection'][0]['name']?></span>
 			</h4>
 
-			<div class="features">
-				<?php if($data['contents']) echo '<i class="fa fa-list-ul"></i>'; ?>
-				<?php if($data['summary']) echo '<i class="far fa-file-alt"></i>'; ?>
-				<?php if($data['media']['pdf']['link']) echo '<i class="far fa-file-pdf"></i>'; ?>
+			<div class="badges">
+				<?php if($data['contents']) echo '<img src="' . PUBLIC_URL . 'images/stock/bullet-list.svg" alt="pdf" />'; ?>
+				<?php if($data['summary']) echo '<img src="' . PUBLIC_URL . 'images/stock/document.svg" alt="pdf" />'; ?>
+				<?php if($data['media']['pdf']['link']) echo '<img src="' . PUBLIC_URL . 'images/stock/pdf.svg" alt="pdf" />'; ?>
 			</div>
 		</div>
 	</div>

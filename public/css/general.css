@@ -1,3 +1,11 @@
+/*Resets*/
+a:HOVER{
+	text-decoration: none !important;
+}
+.eng{
+	font-family: 'Raleway', sans-serif !important;
+}
+/*Colors*/
 .back-gray{
 	background-color: #FAFAFA;
 }

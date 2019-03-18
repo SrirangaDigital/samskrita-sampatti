@@ -2,7 +2,7 @@
 	"details" : {
 		"title" : "Rudradhyaya with Commentaries of Sayana & Bhattabhaskara",
 		"contributors" : {
-			"author" : "Vamansastri Islampurkar"
+			"author" : ["Vamansastri Islampurkar"]
 		},
 		"attributes" : {
 			"year" : "1889",

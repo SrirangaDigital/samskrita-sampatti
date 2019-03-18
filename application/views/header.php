@@ -27,6 +27,7 @@
 	<link href="https://fonts.googleapis.com/css?family=Lato:300,300i|Playfair+Display:700" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Laila:300,400,500,600,700|Martel:200,300,400,600,700,800,900&amp;subset=devanagari" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Halant:400,600,700&amp;subset=devanagari" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700,800,900" rel="stylesheet">
 
 	<!-- Javascript calls
 	–––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -40,6 +41,7 @@
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
 	<link rel="stylesheet" href="<?=PUBLIC_URL?>css/navbar.css?v=1.0">
+	<link rel="stylesheet" href="<?=PUBLIC_URL?>css/home.css?v=1.0">
 	<link rel="stylesheet" href="<?=PUBLIC_URL?>css/page.css?v=1.1">
 	<link rel="stylesheet" href="<?=PUBLIC_URL?>css/book.css?v=1.0">
 	<link rel="stylesheet" href="<?=PUBLIC_URL?>css/general.css?v=1.0">
@@ -60,22 +62,9 @@
 				<span class="navbar-toggler-icon"></span>
 			</button>
 
-			<div class="collapse navbar-collapse" id="navbarSupportedContent">
-				<!-- <?=$this->printNavigation($navigation)?> -->
-				<!-- <ul class="navbar-nav ml-auto">
-					<li class="nav-item">
-						<a class="nav-link" href="#">Home</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="#">Idea</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="#">Resources</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="#">Patricipate</a>
-					</li>
-				</ul> -->
+			<div class="collapse navbar-collapse" id="navbar-nav">
+				<?=$this->printNavigation($navigation)?>
+				<div class="login"><i class="fas fa-user"></i></div>
 			</div>
 		</nav>
 		<!-- End Navigation

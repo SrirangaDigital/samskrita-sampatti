@@ -16,7 +16,7 @@ class apiModel extends Model {
 		$data = [];
 		foreach ($iterator as $row) {
 			
-			$row['cover'] = (file_exists(PHY_BOOKS_METADATA_URL . $row['id'] . '/cover.jpg')) ? BOOKS_METADATA_URL . $row['id'] . '/cover.jpg' : PUBLIC_URL . 'images/cover.svg';
+			$row['cover'] = (file_exists(PHY_BOOKS_METADATA_URL . $row['id'] . '/cover.jpg')) ? BOOKS_METADATA_URL . $row['id'] . '/cover.jpg' : DEFAULT_COVER_IMAGE;
 			// Summary
 			$row['summary'] = (file_exists(PHY_BOOKS_METADATA_URL . $row['id'] . '/summary.html')) ? file_get_contents(PHY_BOOKS_METADATA_URL . $row['id'] . '/summary.html') : '';
 			// Table of contents

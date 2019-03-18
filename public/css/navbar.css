@@ -1,7 +1,17 @@
 .bg-light{
 	background-color: #FFF !important;
-	margin-bottom: 40px;
 }
 .navbar-brand img{
 	height: 72px;	
+}
+#navbar-nav {
+	font-family: 'Raleway', sans-serif;
+}
+#navbar-nav .nav-item{
+	margin: 0 10px;
+}
+#navbar-nav .login{
+	margin: 0 20px;
+	color: #AAA;
+	font-size: 1.5em;
 }

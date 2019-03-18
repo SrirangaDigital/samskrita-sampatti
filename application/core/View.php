@@ -123,7 +123,7 @@ class View {
                 		$navLink = $isExternal['URL'];
                 		if($isExternal['type'] == 'InsideDomain') $navLink = BASE_URL . $navLink;
                 	}
-                	echo "\t" . '<li><a ' . $targetBlank . 'href="' . $navLink . '">' . $anchorText . '</a></li>' . "\n";
+                	echo "\t" . '<li class="nav-item"><a class="nav-link" ' . $targetBlank . 'href="' . $navLink . '">' . $anchorText . '</a></li>' . "\n";
                 }
                 else{
 

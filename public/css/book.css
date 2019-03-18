@@ -1,15 +1,22 @@
+.book{
+	font-family: 'Halant', serif;
+}
 .book .row{
 	margin-bottom: 50px;
 }
+.book h3{
+	font-size: 21px;
+	font-weight: 600;
+}
 .book .coverpage {
 	text-align: right;
+	padding-right: 30px;
 }
 .book .coverpage img {
 	box-shadow: 0 1px 15px rgba(0,0,0,.1);
 	height: 250px;
 }
 .book .headblock{
-	font-family: 'Halant', serif;
 }
 .book .headblock .title{
 	font-size: 32px;
@@ -31,12 +38,11 @@
 	line-height: 40px;
 	white-space: nowrap;
 }
-.book .headblock .features{
+.book .headblock .badges{
 	margin-top: 28px;
 	font-size: 16px;
 }
-.book .headblock .features i{
-	color: #CCC;
-	font-size: 24px;
+.book .headblock .badges img{
 	margin: 0 20px 0 10px;
+	height: 40px;
 }

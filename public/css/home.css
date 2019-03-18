@@ -1,0 +1,85 @@
+.slider-1{
+	background-image: url('../images/stock/slide-1.jpg');
+	background-size: cover;
+    background-position: center;
+}
+.slider{
+	padding: 100px;
+}
+.slider .callout{
+	font-family: 'Halant', serif;
+	font-size: 32px;
+	font-weight: 600;
+	color: #FFF;
+	margin-left: -50px;
+}
+.slider .description{
+	font-family: 'Raleway', sans-serif;
+	font-size: 21px;
+	font-weight: 300;
+	color: #FFF;
+	margin-left: -50px;
+}
+
+/*Card slider*/
+.card-slider{
+	padding: 40px 80px 60px 80px;
+}
+.card-slider .title{
+	color: #333;
+	font-size: 32px;
+	text-align: center;
+	/*font-family: 'Martel', sans-serif;*/
+	font-family: 'Laila', sans-serif;
+	font-weight: 800;
+	padding: 30px 0px 20px 0;
+}
+.card-slider .card{
+	padding: 0;
+	border: none;
+	box-shadow: 0 1px 15px rgba(0,0,0,0.1);
+    border-radius: 5px;
+}
+.card-slider .card img{
+    border-radius: 5px;
+}
+.card-slider .card .card-title{
+	margin-bottom: 0;
+	text-align: center;
+	font-family: 'Laila', sans-serif;
+	font-size: 18px;
+	font-weight: 600;
+}
+.card-slider .card-small{
+	padding: 0;
+	border: none;
+    border-radius: 5px;
+}
+.card-slider .card-small img{
+    border-radius: 5px;
+}
+.card-slider .card-small .card-title{
+	margin-bottom: 0;
+	text-align: center;
+	font-family: 'Laila', sans-serif;
+	font-size: 18px;
+	font-weight: 600;
+}
+
+
+.card-slider .description{
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+}
+.card-slider .description p span.more{
+	text-transform: uppercase;
+	font-size: 0.8em;
+	font-weight: 600;
+	color: #D84315;
+	line-height: 40px;
+	border-radius: 10px;
+	box-shadow: 0 1px 15px rgba(0,0,0,0.1);
+	padding: 7px 10px;
+	margin: 0 10px;
+	white-space: nowrap;
+}
