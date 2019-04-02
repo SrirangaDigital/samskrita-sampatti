@@ -1,6 +1,10 @@
 /*Resets*/
+a{
+	color: inherit;
+}
 a:HOVER{
 	text-decoration: none !important;
+	color: inherit;
 }
 .eng{
 	font-family: 'Raleway', sans-serif !important;
