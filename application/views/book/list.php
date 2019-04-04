@@ -12,7 +12,7 @@
 					<a href="<?=BASE_URL?>book/v/<?=$row['id']?>"><img src="<?=$row['cover']?>" alt="cover page" /></a>
 				</div>
 				<div class="col-md-8 headblock">
-					<h1 class="title"><?=$row['details']['title']?></h1>
+					<a href="<?=BASE_URL?>book/v/<?=$row['id']?>"><h1 class="title"><?=$row['details']['title']?></h1></a>
 
 					<?php foreach ($row['details']['contributors']['author'] as $author) echo '<h2 class="author">' . $author . '</h2>'; ?>
 
