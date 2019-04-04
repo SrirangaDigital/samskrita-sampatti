@@ -1,0 +1,26 @@
+{
+    "details": {
+        "title": "अग्निपुराणम्",
+        "contributors": {
+            "author": [
+                "आनन्दाश्रमस्थपण्डितैः",
+                "हरि नारायण आपटे"
+            ]
+        },
+        "attributes": {
+            "edition": "1",
+            "year": "1900"
+        },
+        "collection": [
+            {
+                "name": "Anandashram Samskrita Granthavali",
+                "index": "41"
+            }
+        ]
+    },
+    "media": {
+        "pdf": {
+            "link": "https://ia801704.us.archive.org/2/items/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_041_Agni_Puranam_of_Vedavyasa_1900.pdf"
+        }
+    }
+}

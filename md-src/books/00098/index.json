@@ -1,0 +1,25 @@
+{
+    "details": {
+        "title": "बृहद्ब्रह्मसंहिता",
+        "contributors": {
+            "author": [
+                "हरि नारायण आपटे"
+            ]
+        },
+        "attributes": {
+            "edition": "1",
+            "year": "1912"
+        },
+        "collection": [
+            {
+                "name": "Anandashram Samskrita Granthavali",
+                "index": "68"
+            }
+        ]
+    },
+    "media": {
+        "pdf": {
+            "link": "https://ia601704.us.archive.org/2/items/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_068_Brihat_Brahmasamhita_-_SS_Venegavkar_1912.pdf"
+        }
+    }
+}

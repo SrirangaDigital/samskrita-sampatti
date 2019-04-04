@@ -1,0 +1,25 @@
+{
+    "details": {
+        "title": "हस्त्यायुर्वेदः",
+        "contributors": {
+            "author": [
+                "महादेव चिमणाजी आपटे"
+            ]
+        },
+        "attributes": {
+            "edition": "1",
+            "year": "1894"
+        },
+        "collection": [
+            {
+                "name": "Anandashram Samskrita Granthavali",
+                "index": "26"
+            }
+        ]
+    },
+    "media": {
+        "pdf": {
+            "link": "https://ia801704.us.archive.org/2/items/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_026_Hastyayurvedah_of_Palakapya_Muni_-_Sivadatta_Sarma_1894.pdf"
+        }
+    }
+}

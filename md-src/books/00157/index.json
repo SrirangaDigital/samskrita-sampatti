@@ -1,0 +1,25 @@
+{
+    "details": {
+        "title": "श्रीमद्भगवद्गीता",
+        "contributors": {
+            "author": [
+                "विनायक गणेश आपटे"
+            ]
+        },
+        "attributes": {
+            "edition": "1",
+            "year": "1939"
+        },
+        "collection": [
+            {
+                "name": "Anandashram Samskrita Granthavali",
+                "index": "112"
+            }
+        ]
+    },
+    "media": {
+        "pdf": {
+            "link": "https://ia601704.us.archive.org/2/items/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_112_Bhagavad_Gita_Kashmir_Text_-_SN_Tadpatrikar_1939.pdf"
+        }
+    }
+}
