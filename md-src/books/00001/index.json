@@ -1,23 +1,26 @@
 {
-	"details" : {
-		"title" : "श्री गणेशाथर्वशीर्षं सभाष्यम्",
-		"contributors" : {
-			"author" : ["पण्डित वामनशास्त्री इसलामपुरकर इत्येतैः", "महादेव चिमणाजी आपटे"]
-		},
-		"attributes" : {
-			"year" : "1889",
-			"edition" : "1"
-		},
-		"collection" : [
-			{
-				"name" : "आनन्दाश्रमसंस्कृतग्रन्थावलिः",
-				"index" : "2"
-			}
-		]
-	},
-	"media" : {
-		"pdf" : {
-			"link" : "https://ia801704.us.archive.org/2/items/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_001_Ganesa_Atharvasirsham_Sabhashyam_-_Vamansastri_Islampurkar_1889.pdf"
-		}
-	}
+    "details": {
+        "title": "श्री गणेशाथर्वशीर्षं सभाष्यम्",
+        "contributors": {
+            "author": [
+                "पण्डित वामनशास्त्री इसलामपुरकर इत्येतैः",
+                "महादेव चिमणाजी आपटे"
+            ]
+        },
+        "attributes": {
+            "year": "1889",
+            "edition": "1"
+        },
+        "collection": [
+            {
+                "name": "Anandashram Samskrita Granthavali",
+                "index": "1"
+            }
+        ]
+    },
+    "media": {
+        "pdf": {
+            "link": "https://ia801704.us.archive.org/2/items/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_001_Ganesa_Atharvasirsham_Sabhashyam_-_Vamansastri_Islampurkar_1889.pdf"
+        }
+    }
 }

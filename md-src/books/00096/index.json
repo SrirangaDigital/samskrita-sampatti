@@ -1,0 +1,24 @@
+{
+    "details": {
+        "title": "काव्यप्रकाशः",
+        "contributors": {
+            "author": [
+                "विनायक गणेश आपटे"
+            ]
+        },
+        "attributes": {
+            "edition": "1"
+        },
+        "collection": [
+            {
+                "name": "Anandashram Samskrita Granthavali",
+                "index": "66"
+            }
+        ]
+    },
+    "media": {
+        "pdf": {
+            "link": "https://ia601704.us.archive.org/2/items/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_066_Kavyaprakasa_with_Udyota_of_Nagojibhatta__Pradipa_-_VS_Abhyankar_1851.pdf"
+        }
+    }
+}

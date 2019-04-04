@@ -1,0 +1,22 @@
+{
+    "details": {
+        "title": "",
+        "contributors": {
+            "author": []
+        },
+        "attributes": {
+            "edition": "1"
+        },
+        "collection": [
+            {
+                "name": "Trivandrum Sanskrit Series - Anantasayana Samskrita Granthavali",
+                "index": "100"
+            }
+        ]
+    },
+    "media": {
+        "pdf": {
+            "link": "https://archive.org/download/Trivandrum_Sanskrit_Series_TSS/TSS-100_Kavyaprakasa_of_Mammatabhatta_Part_2_-_K_Sambasiva_Sastri_1930.pdf"
+        }
+    }
+}

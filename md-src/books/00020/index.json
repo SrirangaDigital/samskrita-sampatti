@@ -1,0 +1,25 @@
+{
+    "details": {
+        "title": "सोरपुराणं व्यासकृतम्",
+        "contributors": {
+            "author": [
+                "विनायक गणेश आपटे"
+            ]
+        },
+        "attributes": {
+            "edition": "1",
+            "year": "1924"
+        },
+        "collection": [
+            {
+                "name": "Anandashram Samskrita Granthavali",
+                "index": "18"
+            }
+        ]
+    },
+    "media": {
+        "pdf": {
+            "link": "https://ia801704.us.archive.org/2/items/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_018_Saura_Purana_-_Kasinath_Sastri_Lele_1924.pdf"
+        }
+    }
+}

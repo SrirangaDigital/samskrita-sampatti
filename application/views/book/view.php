@@ -13,7 +13,7 @@
 			</h4>
 
 			<div class="badges">
-				<?php if($data['contents']) echo '<img src="' . PUBLIC_URL . 'images/stock/bullet-list.svg" alt="pdf" />'; ?>
+				<?php if($data['contents']) echo '<img src="' . PUBLIC_URL . 'images/stock/diagram.svg" alt="pdf" />'; ?>
 				<?php if($data['summary']) echo '<img src="' . PUBLIC_URL . 'images/stock/document.svg" alt="pdf" />'; ?>
 				<?php if($data['media']['pdf']['link']) echo '<img src="' . PUBLIC_URL . 'images/stock/pdf.svg" alt="pdf" />'; ?>
 			</div>
