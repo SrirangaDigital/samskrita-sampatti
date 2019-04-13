@@ -1,4 +1,5 @@
-.book{
+.book,
+.bookList{
 	font-family: 'Halant', serif;
 }
 .book .row{
@@ -45,4 +46,64 @@
 .book .headblock .badges img{
 	margin: 0 20px 0 10px;
 	height: 40px;
+}
+
+
+.bookList{
+	
+}
+.bookList .card{
+	margin: 20px;
+	padding: 40px 40px 0px 40px;
+	border: none;
+	box-shadow: 0 1px 15px rgba(0,0,0,0.1);
+    border-radius: 5px;
+}
+.bookList h3{
+	font-size: 21px;
+	font-weight: 600;
+}
+.bookList .coverpage {
+	text-align: center;
+	padding-left: 10px;
+}
+.bookList .coverpage img {
+	box-shadow: 0 1px 15px rgba(0,0,0,.1);
+	width: 120px;
+}
+.bookList .headblock{
+	padding: 15px 20px;
+}
+.bookList .headblock .title{
+	font-size: 24px;
+	font-weight: 600;
+}
+.bookList .headblock .author{
+	font-size: 16px;
+	font-weight: 400;
+}
+.bookList .headblock .collection{
+	margin-top: 18px;
+	font-size: 16px;
+	color: #D84315;
+}
+.bookList .headblock .collection span{
+	border-radius: 10px;
+	box-shadow: 0 1px 15px rgba(0,0,0,0.1);
+	padding: 3px 10px;
+	line-height: 40px;
+	white-space: nowrap;
+}
+.bookList .headblock .badges{
+	margin-top: 18px;
+	font-size: 16px;
+	margin-bottom: 18px;
+}
+.bookList .headblock .badges img{
+	margin: 0 10px 0 0px;
+	height: 28px;
+}
+.bookList.card .coverpage img {
+	height: auto;
+	max-height: 200px;
 }

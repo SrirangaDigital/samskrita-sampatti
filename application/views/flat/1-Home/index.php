@@ -27,21 +27,21 @@
 		</div>
 	</div>
 	<div class="row justify-content-center mb-5 card-deck">
-		<a href="#" class="card col-md-3">
+		<a href="<?=BASE_URL?>book/list" class="card col-md-3">
 			<img src="<?=PUBLIC_URL?>images/stock/scene-01.jpg" class="card-img-top" alt="वेदवेदाङ्ग">
 			<div class="card-body">
 				<h5 class="card-title">वेदवेदाङ्ग</h5>
 				<p class="card-desc eng">3 Categories, 32 Books</p>
 			</div>
 		</a>
-		<a href="#" class="card col-md-3">
+		<a href="<?=BASE_URL?>book/list" class="card col-md-3">
 			<img src="<?=PUBLIC_URL?>images/stock/scene-02.jpg" class="card-img-top" alt="षड्दर्शनानि">
 			<div class="card-body">
 				<h5 class="card-title">षड्दर्शनानि</h5>
 				<p class="card-desc eng">3 Categories, 32 Books</p>
 			</div>
 		</a>
-		<a href="#" class="card col-md-3">
+		<a href="<?=BASE_URL?>book/list" class="card col-md-3">
 			<img src="<?=PUBLIC_URL?>images/stock/scene-03.jpg" class="card-img-top" alt="पुराणं - इतिहासः">
 			<div class="card-body">
 				<h5 class="card-title">पुराणं - इतिहासः</h5>
@@ -50,21 +50,21 @@
 		</a>
 	</div>
 	<div class="row justify-content-center mb-5 card-deck">
-		<a href="#" class="card col-md-3">
+		<a href="<?=BASE_URL?>book/list" class="card col-md-3">
 			<img src="<?=PUBLIC_URL?>images/stock/scene-04.jpg" class="card-img-top" alt="साहित्य">
 			<div class="card-body">
 				<h5 class="card-title">साहित्य</h5>
 				<p class="card-desc eng">3 Categories, 32 Books</p>
 			</div>
 		</a>
-		<a href="#" class="card col-md-3">
+		<a href="<?=BASE_URL?>book/list" class="card col-md-3">
 			<img src="<?=PUBLIC_URL?>images/stock/scene-01.jpg" class="card-img-top" alt="वेदवेदाङ्ग">
 			<div class="card-body">
 				<h5 class="card-title">वेदवेदाङ्ग</h5>
 				<p class="card-desc eng">3 Categories, 32 Books</p>
 			</div>
 		</a>
-		<a href="#" class="card col-md-3">
+		<a href="<?=BASE_URL?>book/list" class="card col-md-3">
 			<img src="<?=PUBLIC_URL?>images/stock/scene-02.jpg" class="card-img-top" alt="षड्दर्शनानि">
 			<div class="card-body">
 				<h5 class="card-title">षड्दर्शनानि</h5>
