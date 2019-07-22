@@ -6,58 +6,7 @@ class viewHelper extends View {
 
     }
 
-    public function printFellowName($data) {
-
-    	$name = '';
-    	if(isset($data['profile']['name']['salutation'])) $name .= $data['profile']['name']['salutation'] . ' ';
-    	if(isset($data['profile']['name']['first'])) $name .= $data['profile']['name']['first'] . ' ';
-    	if(isset($data['profile']['name']['last'])) $name .= $data['profile']['name']['last'];
-
-    	return $name;
-    }
-
-    public function printFellowAffiliation($data) {
-
-    	$affl = [];
-
-	   	if(isset($data['profile']['degree'])) array_push($affl, $data['profile']['degree']);
-    	if(isset($data['profile']['honours'])) array_push($affl, $data['profile']['honours']);
-
-    	return implode(', ', $affl);
-    }
-
-    public function printFellowshipType($data) {
-
-        $fellowship = 'Elected into the ';
-        if(preg_match('/honorary/', $data['fellowship']['type'])) $fellowship .= 'Honorary ';
-        $fellowship .= 'fellowship in ' . $data['fellowship']['yearelected'];
     
-        if(isset($data['fellowship']['section']))
-            if($data['fellowship']['section'] != '') $fellowship .= ' under the <strong>' . $data['fellowship']['section'] . '</strong> section';
-
-        return $fellowship;
-    }
-
-    public function printContact($data) {
-
-        $contact = '<p>';
-
-        $addressType = (isset($data['profile']['deathDate'])) ? '<strong>Last known address:</strong>' : '<strong>Address:</strong>';
-        if(isset($data['contact']['address'])) $contact .= $addressType . '<br />' . $data['contact']['address'] . '<br />';
-        if(isset($data['contact']['city'])) $contact .= $data['contact']['city'] . ', ';
-        if(isset($data['contact']['state'])) $contact .= $data['contact']['state'];
-
-        $contact .= '</p><p>';
-
-        if(isset($data['contact']['telephone']['office'])) $contact .= '<strong>Office:</strong> ' . $data['contact']['telephone']['office'] . '<br />';
-        if(isset($data['contact']['telephone']['residence'])) $contact .= '<strong>Residence:</strong> ' . $data['contact']['telephone']['residence'] . '<br />';
-        if(isset($data['contact']['telephone']['official'])) $contact .= '<strong>Email:</strong> ' . $data['contact']['telephone']['official'];
-        
-        $contact .= '</p>';
-
-       	return $contact;
-    }
-
     public function isLoggedIn() {
 
         $isLoggedIn = false;
@@ -140,12 +89,25 @@ class viewHelper extends View {
         return $html;
     }
 
-    public function printAvatar($data) {
+    public function displayContents($bookID, $data) {
+        
+        $displayString = '';
+        $data = preg_split('/\n/', $data);
 
-        $rand = rand();
-        $imgUrl = (file_exists(PHY_AVATAR_URL . $data['id'] . '.jpg')) ? AVATAR_URL . $data['id'] . '.jpg' : STOCK_AVATAR_URL;
-        return '<img src="' . $imgUrl . '?v=$rand" class="card-img-top" alt="Profile image of ' . $data['profile']['name']['display'] . '" />';
-    }
+        foreach ($data as $line) {
+
+            if(preg_match('/<li data-page="(.*?)">(.*)/', $line, $matches)){
+
+                $matches[2] = preg_replace('/<\/li>$/', '', $matches[2]);
+                $displayString .= '<li><a href="' . BASE_URL . 'bookreader/templates/book.php?bookID=' . $bookID . '&pagenum=' . $matches[1] . '" target="_blank">' . $matches[2] . '</a></li>';
+            }
+            else{
+                $displayString .= $line;   
+            }
+        }
+
+        return $displayString;
+    }    
 }
 
 ?>
