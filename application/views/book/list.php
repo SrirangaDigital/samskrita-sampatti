@@ -23,7 +23,8 @@
 					<div class="badges">
 						<?php if($row['contents']) echo '<img src="' . PUBLIC_URL . 'images/stock/diagram.svg" alt="pdf" />'; ?>
 						<?php if($row['summary']) echo '<img src="' . PUBLIC_URL . 'images/stock/document.svg" alt="pdf" />'; ?>
-						<?php if($row['media']['pdf']['link']) echo '<img src="' . PUBLIC_URL . 'images/stock/pdf.svg" alt="pdf" />'; ?>
+						<?php if($row['media']['pdf']['link']) echo '<a href="' . PUBLIC_URL . 'data/pdf/' . $row['id'] . '/index.pdf" target="_blank"><img src="' . PUBLIC_URL . 'images/stock/pdf.svg" alt="pdf" /></a>'; ?>
+						<a href="<?=BASE_URL?>bookreader/templates/book.php?bookID=<?=$row['id']?>&pagenum=0001" target="_blank"><img src="<?=PUBLIC_URL?>images/stock/logo1.png" alt="Bookreader" /></a>
 					</div>
 				</div>
 			</div>
