@@ -2,10 +2,13 @@
     "details": {
         "title": "",
         "contributors": {
-            "author": []
+            "author": [
+                ""
+            ]
         },
         "attributes": {
-            "edition": "1"
+            "edition": "1",
+            "year": ""
         },
         "collection": [
             {
@@ -15,6 +18,8 @@
         ]
     },
     "media": {
-        "pdf": []
+        "pdf": {
+            "link": ""
+        }
     }
 }

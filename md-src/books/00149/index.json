@@ -2,7 +2,9 @@
     "details": {
         "title": "",
         "contributors": {
-            "author": []
+            "author": [
+                ""
+            ]
         },
         "attributes": {
             "edition": "1",
@@ -16,6 +18,8 @@
         ]
     },
     "media": {
-        "pdf": []
+        "pdf": {
+            "link": ""
+        }
     }
 }

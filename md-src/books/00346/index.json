@@ -1,16 +1,25 @@
 {
     "details": {
-        "title": "सहृदया / The Sanskrit Journal",
+        "title": "",
         "contributors": {
-            "editor": [
-                "R. Krishnamachariar"
+            "author": [
+                "Amalananda"
             ]
+        },
+        "attributes": {
+            "edition": "1",
+            "year": ""
         },
         "collection": [
             {
-                "name": "Journal / Periodical",
-                "index": "1"
+                "name": "",
+                "index": "0"
             }
         ]
+    },
+    "media": {
+        "pdf": {
+            "link": "https://ia802606.us.archive.org/5/items/sastradarpana00amal/sastradarpana00amal.pdf"
+        }
     }
 }
