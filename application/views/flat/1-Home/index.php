@@ -34,11 +34,12 @@
 				<p class="card-desc eng">3 Categories, 32 Books</p>
 			</div>
 		</a>
-		<a href="<?=BASE_URL?>book/list" class="card col-md-3">
+		<a href="<?=BASE_URL?>book/list?details.collection.category=ShankaraGranthavali" class="card col-md-3">
 			<img src="<?=PUBLIC_URL?>images/stock/scene-02.jpg" class="card-img-top" alt="षड्दर्शनानि">
 			<div class="card-body">
-				<h5 class="card-title">Shastra</h5>
-				<p class="card-desc eng">3 Categories, 32 Books</p>
+				<!-- <h5 class="card-title">Shastra</h5> -->
+				<h5 class="card-title">Shankara Granthavali</h5>
+				<p class="card-desc eng">20 Books</p>
 			</div>
 		</a>
 		<a href="<?=BASE_URL?>book/list" class="card col-md-3">

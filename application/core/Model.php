@@ -71,6 +71,26 @@ class Model {
 
 		return $filter;
 	}
+
+	public function filterArrayToString($filter){
+
+		$urlFilterArray = [];
+		foreach ($filter as $key => $value) {
+			
+			array_push($urlFilterArray, $key . '=' . $this->filterSpecialChars($value));
+		}
+		$urlFilter = implode('&', $urlFilterArray);
+
+		return $urlFilter;
+	}
+
+	public function filterSpecialChars($string){
+
+		$string = str_replace('_', '.', $string);
+		$string = urlencode($string);
+
+		return $string;
+	}
 }
 
 ?>

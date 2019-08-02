@@ -12,7 +12,7 @@ class book extends Controller {
 
 		if(!$id) $this->view('error/index');
 
-		$url = API_URL . 'book/' . $id;
+		$url = API_URL . 'book/?id=' . $id;
 		$data = $this->model->getDataFromApi($url);
 		$data = json_decode($data, true);
 		$data = $data[0];
@@ -24,10 +24,9 @@ class book extends Controller {
 
 	public function list($query = []) {
 
-		$url = API_URL . 'book/';
+		$url = API_URL . 'book?' . $this->model->filterArrayToString($query);
 		$data = $this->model->getDataFromApi($url);
 		$data = json_decode($data, true);
-
 		$this->view('book/list', $data);
 	}
 }
