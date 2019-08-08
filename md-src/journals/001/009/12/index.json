@@ -1,0 +1,89 @@
+{
+    "journal": "Sahridaya",
+    "journalID": "001",
+    "volume": "009",
+    "issue": "12",
+    "month": "फाल्गुनमासः",
+    "year": "नलवर्ष",
+    "id": "001/009/12",
+    "toc": [
+        {
+            "title": "सुभाषितानि",
+            "text": "",
+            "feature": "सुभाषितानि",
+            "page": "0353-0353",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "श्रीमती सती कमला",
+            "text": "",
+            "feature": "",
+            "page": "0354-0366",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "श्री चिदम्बरशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "भारतसावित्री",
+            "text": "",
+            "feature": "",
+            "page": "0366-0371",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "पण्डित रामकृष्णयोः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "सावित्रीचरितम्",
+            "text": "",
+            "feature": "",
+            "page": "0372-0376",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "अल्लुण्डु. सत्यनारायणशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "द्रौपदीपरिणयम्",
+            "text": "",
+            "feature": "",
+            "page": "0377-0384",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "चक्रकवेः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "journal": "Sahridaya",
+    "journalID": "001",
+    "volume": "005",
+    "issue": "10",
+    "month": "पौषमासः",
+    "year": "परीधाविवर्ष",
+    "id": "001/005/10",
+    "toc": [
+        {
+            "title": "सुभाषितानि",
+            "text": "",
+            "feature": "सुभाषितानि",
+            "page": "0193-0193",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "अनन्तशयनसंस्कृतग्रन्थावलिः",
+            "text": "",
+            "feature": "पुस्तकसमालोचना",
+            "page": "0194-0195",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "सौभरिचरित्रम्",
+            "text": "",
+            "feature": "",
+            "page": "0196-0200",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "के. रङ्गसामिताताचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "शंकराभ्युदयः",
+            "text": "",
+            "feature": "",
+            "page": "0201-0208",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "राजचूडामणिदीक्षितः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "अशोकः",
+            "text": "",
+            "feature": "",
+            "page": "0209-0214",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "श्रीहरिहरसुरूपशर्मा",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "वेदः",
+            "text": "",
+            "feature": "",
+            "page": "0214-0216",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "टि. वेणुगोपालाचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

@@ -44,6 +44,7 @@
 	<link rel="stylesheet" href="<?=PUBLIC_URL?>css/home.css?v=1.0">
 	<link rel="stylesheet" href="<?=PUBLIC_URL?>css/page.css?v=1.1">
 	<link rel="stylesheet" href="<?=PUBLIC_URL?>css/book.css?v=1.0">
+	<link rel="stylesheet" href="<?=PUBLIC_URL?>css/archive.css?v=1.0">
 	<link rel="stylesheet" href="<?=PUBLIC_URL?>css/general.css?v=1.0">
 
 	<!-- Favicon

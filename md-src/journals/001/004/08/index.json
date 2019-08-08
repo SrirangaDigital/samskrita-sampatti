@@ -1,0 +1,116 @@
+{
+    "journal": "Sahridaya",
+    "journalID": "001",
+    "volume": "004",
+    "issue": "08",
+    "month": "कार्तिकमासः",
+    "year": "विरोधिकृद्वर्ष",
+    "id": "001/004/08",
+    "toc": [
+        {
+            "title": "चक्रवर्तिपट्टाभिषेकमहोत्सवः",
+            "text": "",
+            "feature": "",
+            "page": "0113-0115",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "संपादकः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "श्रीमच्चक्रवर्त्यभिषेकमञ्जरी",
+            "text": "",
+            "feature": "",
+            "page": "0115-0116",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वान, शतावधानम्, श्रीनिवासाचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "श्रीसदाशिवेन्द्रसरस्वती",
+            "text": "",
+            "feature": "",
+            "page": "0116-0119",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "संपदकः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "विष्णुपादादिकेशान्तस्तोत्रम्",
+            "text": "",
+            "feature": "पुस्तकसमालोचना",
+            "page": "0120-0120",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "विजयिनी",
+            "text": "",
+            "feature": "",
+            "page": "0121-0123",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "परशुरामशर्मा, वैद्योपाह्वयः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "तुरीय आश्वासः",
+            "text": "",
+            "feature": "",
+            "page": "0124-0124",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "आर्यभाषाचरितम्",
+            "text": "",
+            "feature": "",
+            "page": "0125-0128",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "म. वे. रमणाचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

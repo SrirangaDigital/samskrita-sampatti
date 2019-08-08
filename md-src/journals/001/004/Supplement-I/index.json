@@ -1,0 +1,28 @@
+{
+    "journal": "Sahridaya",
+    "journalID": "001",
+    "volume": "004",
+    "issue": "Supplement-I",
+    "month": "",
+    "year": "",
+    "id": "001/004/Supplement-I",
+    "toc": [
+        {
+            "title": "भाट्टसारः",
+            "text": "",
+            "feature": "",
+            "page": "0001-0096",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महामहोपाध्याय तिरुप्पक्कुलि स्वामी",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "journal": "Sahridaya",
+    "journalID": "001",
+    "volume": "003",
+    "issue": "10",
+    "month": "पौषमासः",
+    "year": "साधारणवर्ष",
+    "id": "001/003/10",
+    "toc": [
+        {
+            "title": "सुभाषितानि",
+            "text": "",
+            "feature": "सुभाषितानि",
+            "page": "0217-0217",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "एम्. डि. सुब्रह्मण्यार्थस्य",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "मेघसंदेशरसानुभवविमर्शः",
+            "text": "",
+            "feature": "पुस्तकसमालोचना",
+            "page": "0218-0221",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "श्रीकृष्णलीलाथितम्",
+            "text": "",
+            "feature": "",
+            "page": "0221-0224",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वान् शतावधानम् श्रीनिवासाचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "पाणिनीयघातुविचारः",
+            "text": "",
+            "feature": "",
+            "page": "0225-0232",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "के. रामनाथशास्त्री",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "भूगोलशास्त्रम्",
+            "text": "",
+            "feature": "",
+            "page": "0237-0240",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "अ. कुप्पुस्वाम्यार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

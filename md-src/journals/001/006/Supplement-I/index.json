@@ -1,0 +1,51 @@
+{
+    "journal": "Sahridaya",
+    "journalID": "001",
+    "volume": "006",
+    "issue": "Supplement-I",
+    "month": "",
+    "year": "",
+    "id": "001/006/Supplement-I",
+    "toc": [
+        {
+            "title": "कविकाव्यादिप्रशंसनम्",
+            "text": "",
+            "feature": "",
+            "page": "0001-0015",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "अथ काव्योपक्रमविचारः",
+            "text": "",
+            "feature": "",
+            "page": "0015-0022",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "काव्यादानप्रशंसा",
+            "text": "",
+            "feature": "",
+            "page": "0022-0028",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "प्राकृतादिभाषाप्रशंसा",
+            "text": "",
+            "feature": "",
+            "page": "0029-0034",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        }
+    ]
+}

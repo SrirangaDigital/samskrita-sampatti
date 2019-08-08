@@ -1,0 +1,99 @@
+{
+    "journal": "Sahridaya",
+    "journalID": "001",
+    "volume": "005",
+    "issue": "05",
+    "month": "श्रावणमासः",
+    "year": "परीधाविवर्ष",
+    "id": "001/005/05",
+    "toc": [
+        {
+            "title": "सुभाषितानि",
+            "text": "",
+            "feature": "सुभाषितानि",
+            "page": "0073-0073",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "पाणिग्रहणम्",
+            "text": "",
+            "feature": "",
+            "page": "0074-0077",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "संपादकः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "स्त्रीविद्याभ्यासः",
+            "text": "",
+            "feature": "",
+            "page": "0078-0081",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "पुन्नश्शेरि, नम्बि - नीलकण्ठशर्मा",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "परोपकारः",
+            "text": "",
+            "feature": "",
+            "page": "0082-0088",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "पण्डित. यम्. डि. सुब्रह्मण्यशास्त्री",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "श्रीवत्सचिह्नमिश्रः",
+            "text": "",
+            "feature": "",
+            "page": "0089-0095",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "श्रीशैलताताचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "अतिमानुषस्तवः",
+            "text": "",
+            "feature": "",
+            "page": "0096-0096",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        }
+    ]
+}

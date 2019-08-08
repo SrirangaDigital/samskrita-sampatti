@@ -1,0 +1,38 @@
+{
+    "journal": "Sahridaya",
+    "journalID": "001",
+    "volume": "003",
+    "issue": "Supplement",
+    "month": "",
+    "year": "",
+    "id": "001/003/Supplement",
+    "toc": [
+        {
+            "title": "कनकलता",
+            "text": "",
+            "feature": "",
+            "page": "0001-0085",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "कल्याणरामशास्त्री",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "न्यासदशकं सब्याख्यानम्",
+            "text": "",
+            "feature": "",
+            "page": "0001-0007",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        }
+    ]
+}

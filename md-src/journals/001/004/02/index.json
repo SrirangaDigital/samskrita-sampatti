@@ -1,0 +1,96 @@
+{
+    "journal": "Sahridaya",
+    "journalID": "001",
+    "volume": "004",
+    "issue": "02",
+    "month": "वैशाखमासः",
+    "year": "विरोधिकृद्वर्ष",
+    "id": "001/004/02",
+    "toc": [
+        {
+            "title": "सुभाषितानि",
+            "text": "",
+            "feature": "सुभाषितानि",
+            "page": "0017-0017",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वान्. शतावधानं श्रीनिवासाचार्याणाम्",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "भाट्टसारविषयिणी काचनाभिनन्दनपत्रिका",
+            "text": "",
+            "feature": "",
+            "page": "0018-0019",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वान्. शतावधानम्. श्रीनिवासाचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "भारतवर्षे गीर्वाणभाषाभ्युदयः",
+            "text": "",
+            "feature": "",
+            "page": "0019-0021",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "र. श्रीनिवासराघवः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "स्थावरतत्त्वदर्शनम्",
+            "text": "",
+            "feature": "",
+            "page": "0022-0024",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "वे. कृष्णमाचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "शाकुन्तलसंविधानरामणीयकम्",
+            "text": "",
+            "feature": "",
+            "page": "0025-0032",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वान्, शतावधानम्, श्रीनिवासाचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

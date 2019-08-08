@@ -1,0 +1,72 @@
+{
+    "journal": "Sahridaya",
+    "journalID": "001",
+    "volume": "008",
+    "issue": "02",
+    "month": "वैशाखमासः",
+    "year": "राक्षसवर्ष",
+    "id": "001/008/02",
+    "toc": [
+        {
+            "title": "सुभाषितानि",
+            "text": "",
+            "feature": "सुभाषितानि",
+            "page": "0025-0025",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "कुमारसंभवविमर्शः",
+            "text": "",
+            "feature": "",
+            "page": "0026-0030",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "संपादकः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "अघोरकामिनी",
+            "text": "",
+            "feature": "",
+            "page": "0030-0032",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "रामाचार्य, गलगलि",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "नारदनैपुणी",
+            "text": "",
+            "feature": "",
+            "page": "0033-0040",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "शङ्करसुब्रह्मण्यशास्त्री",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

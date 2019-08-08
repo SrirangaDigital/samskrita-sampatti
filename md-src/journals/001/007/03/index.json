@@ -1,0 +1,130 @@
+{
+    "journal": "Sahridaya",
+    "journalID": "001",
+    "volume": "007",
+    "issue": "03",
+    "month": "ज्येष्ठमासः",
+    "year": "आनन्दवर्ष",
+    "id": "001/007/03",
+    "toc": [
+        {
+            "title": "सुभाषितानि",
+            "text": "",
+            "feature": "सुभाषितानि",
+            "page": "0049-0049",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "प्राचीनकवीनाम्",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "नामलिङ्गानुशासनम्",
+            "text": "",
+            "feature": "",
+            "page": "0050-0054",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "संपादकः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "कालिदासः",
+            "text": "",
+            "feature": "",
+            "page": "0054-0055",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "पण्डित. रमणाचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "राजभक्तिः",
+            "text": "",
+            "feature": "",
+            "page": "0055-0061",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "पण्डित. श्रीनिवासाचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "सीमन्तिनीचरितम्",
+            "text": "",
+            "feature": "",
+            "page": "0061-0065",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "पण्डित नारायणाशास्त्री",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "साहितीहृदयम्",
+            "text": "",
+            "feature": "",
+            "page": "0065-0068",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "पण्डित. वे. अनन्ताचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "वैजयन्ती",
+            "text": "",
+            "feature": "",
+            "page": "0068-0072",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "पण्डित केशवरामशर्मा गलगलि",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

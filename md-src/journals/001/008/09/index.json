@@ -1,0 +1,55 @@
+{
+    "journal": "Sahridaya",
+    "journalID": "001",
+    "volume": "008",
+    "issue": "09",
+    "month": "चापमासः",
+    "year": "राक्षसवर्ष",
+    "id": "001/008/09",
+    "toc": [
+        {
+            "title": "सुभाषितानि",
+            "text": "",
+            "feature": "सुभाषितानि",
+            "page": "0137-0137",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "भारतीयसंघसंस्करणम्",
+            "text": "",
+            "feature": "",
+            "page": "0138-0144",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "केशवभट्टः, गलगलि",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "नारदनैपुणी",
+            "text": "",
+            "feature": "",
+            "page": "0145-0152",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "शङ्करसुब्रह्मण्यशास्त्री",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

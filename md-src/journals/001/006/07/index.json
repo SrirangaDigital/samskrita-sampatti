@@ -1,0 +1,96 @@
+{
+    "journal": "Sahridaya",
+    "journalID": "001",
+    "volume": "006",
+    "issue": "07",
+    "month": "आश्विनमासः",
+    "year": "प्रमादीचवर्ष",
+    "id": "001/006/07",
+    "toc": [
+        {
+            "title": "सुभाषितानि",
+            "text": "",
+            "feature": "सुभाषितानि",
+            "page": "0145-0145",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "प्राचीनकवीनाम्",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "गैर्वाणी",
+            "text": "",
+            "feature": "",
+            "page": "0146-0150",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "संपादकः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "माणवकानुवाकः",
+            "text": "",
+            "feature": "",
+            "page": "0151-0152",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "कडयम्-विद्वान्-नाणुशास्त्री",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "वेमभूपालचरितम्",
+            "text": "",
+            "feature": "",
+            "page": "0153-0160",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "पण्डित. रा. च. वि. कृष्णमाचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "शंकराभ्युदयः",
+            "text": "",
+            "feature": "",
+            "page": "0161-0168",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "राजचूडामणिदीक्षितः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

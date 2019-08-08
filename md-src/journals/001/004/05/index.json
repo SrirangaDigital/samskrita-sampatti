@@ -1,0 +1,96 @@
+{
+    "journal": "Sahridaya",
+    "journalID": "001",
+    "volume": "004",
+    "issue": "05",
+    "month": "श्रावणमासः",
+    "year": "विरोधिकृद्वर्ष",
+    "id": "001/004/05",
+    "toc": [
+        {
+            "title": "सुभाषितानि",
+            "text": "",
+            "feature": "सुभाषितानि",
+            "page": "0065-0065",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वान्. शतावधानं श्रीनिवासाचार्याणाम्",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "श्रीसदाशिवेन्द्रसरस्वती",
+            "text": "",
+            "feature": "",
+            "page": "0066-0069",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "संपदकः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "धनिकः करण्डकारश्च",
+            "text": "",
+            "feature": "",
+            "page": "0069-0072",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "र. श्रीनिवासाचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "विजयिनी",
+            "text": "",
+            "feature": "",
+            "page": "0073-0076",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "परशुरामशर्मा, वैद्योपाह्वयः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "शाकुन्तलसंविधानरामणीयकम्",
+            "text": "",
+            "feature": "",
+            "page": "0077-0080",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वान्, शतावधानम्, श्रीनिवासाचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

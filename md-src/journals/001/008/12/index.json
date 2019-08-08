@@ -1,0 +1,89 @@
+{
+    "journal": "Sahridaya",
+    "journalID": "001",
+    "volume": "008",
+    "issue": "12",
+    "month": "फाल्गुनमासः",
+    "year": "राक्षसवर्ष",
+    "id": "001/008/12",
+    "toc": [
+        {
+            "title": "सुभाषितानि",
+            "text": "",
+            "feature": "सुभाषितानि",
+            "page": "0175-0175",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "कुमारसंभवविमर्शः",
+            "text": "",
+            "feature": "",
+            "page": "0176-0178",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "संपादकः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "सिताकण्टकांकिततिलभाषितं",
+            "text": "",
+            "feature": "",
+            "page": "0179-0184",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "मुद्दुविट्टलाचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "वसन्तकोकिलः",
+            "text": "",
+            "feature": "",
+            "page": "0184-0190",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "रामाचार्यः, गलगलि",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "गोविन्दसूरिः",
+            "text": "",
+            "feature": "",
+            "page": "0190-0190",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "श्रीशैलताताचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

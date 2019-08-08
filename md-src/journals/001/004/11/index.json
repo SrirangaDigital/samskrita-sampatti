@@ -1,0 +1,123 @@
+{
+    "journal": "Sahridaya",
+    "journalID": "001",
+    "volume": "004",
+    "issue": "11",
+    "month": "माघमासः",
+    "year": "विरोधिकृद्वर्ष",
+    "id": "001/004/11",
+    "toc": [
+        {
+            "title": "सुभाषितानि",
+            "text": "",
+            "feature": "सुभाषितानि",
+            "page": "0161-0161",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वान्. शतावधानं श्रीनिवासाचार्याणाम्",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "वाणीविलासादवतारितानां ग्रन्थानां विमर्शः",
+            "text": "",
+            "feature": "पुस्तकसमालोचना",
+            "page": "0162-0163",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "आधुनिकधर्माधिकरणव्यवस्था",
+            "text": "",
+            "feature": "",
+            "page": "0163-0168",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "वे. कृष्णमाचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "पण्डितपरिषत्",
+            "text": "",
+            "feature": "",
+            "page": "0168-0168",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "वे. कृष्णमाचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "विजयिनी",
+            "text": "",
+            "feature": "",
+            "page": "0169-0170",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "परशुरामशर्मा, वैद्योपाह्वयः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "शाकुन्तलसंविधानरामणीयकम्",
+            "text": "",
+            "feature": "",
+            "page": "0171-0174",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वान्, शतावधानम्, श्रीनिवासाचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "आर्यभाषाचरितम्",
+            "text": "",
+            "feature": "",
+            "page": "0174-0176",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "म. वे. रमणाचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

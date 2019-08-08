@@ -1,0 +1,99 @@
+{
+    "journal": "Sahridaya",
+    "journalID": "001",
+    "volume": "009",
+    "issue": "08",
+    "month": "कार्तिकमासः",
+    "year": "नलवर्ष",
+    "id": "001/009/08",
+    "toc": [
+        {
+            "title": "सुभाषितानि",
+            "text": "",
+            "feature": "सुभाषितानि",
+            "page": "0225-0225",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "धर्मे सर्वं प्रतिष्ठितम्",
+            "text": "",
+            "feature": "",
+            "page": "0226-0232",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "श्रीचिदम्बरशर्मणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "श्रीरामोदन्तः",
+            "text": "",
+            "feature": "",
+            "page": "0233-0240",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "शङ्करसुब्रह्मण्यशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "साळुवाभ्युदयम्",
+            "text": "",
+            "feature": "",
+            "page": "0241-0248",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "श्रीडिण्डिमराजनाथकवेः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "कुम्भाभिषेकचम्पूः",
+            "text": "",
+            "feature": "",
+            "page": "0249-0252",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "द्रौपदीपरिणयम्",
+            "text": "",
+            "feature": "",
+            "page": "0253-0256",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "चक्रकवेः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

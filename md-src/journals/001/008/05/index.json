@@ -1,0 +1,89 @@
+{
+    "journal": "Sahridaya",
+    "journalID": "001",
+    "volume": "008",
+    "issue": "05",
+    "month": "श्रावणमासः",
+    "year": "राक्षसवर्ष",
+    "id": "001/008/05",
+    "toc": [
+        {
+            "title": "सुभाषितानि",
+            "text": "",
+            "feature": "सुभाषितानि",
+            "page": "0073-0073",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "कुमारसंभवविमर्शः",
+            "text": "",
+            "feature": "",
+            "page": "0074-0076",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "संपादकः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "अघोरकामिनी",
+            "text": "",
+            "feature": "",
+            "page": "0076-0078",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "रामाचार्य, गलगलि",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "चित्रकेतूपाख्यानम्",
+            "text": "",
+            "feature": "",
+            "page": "0079-0080",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "रामय्यशास्त्री",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "नारदनैपुणी",
+            "text": "",
+            "feature": "",
+            "page": "0081-0088",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "शङ्करसुब्रह्मण्यशास्त्री",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "journal": "Sahridaya",
+    "journalID": "001",
+    "volume": "006",
+    "issue": "08",
+    "month": "कार्तिकिकमासः",
+    "year": "प्रमादीचवर्ष",
+    "id": "001/006/08",
+    "toc": [
+        {
+            "title": "सुभाषितानि",
+            "text": "",
+            "feature": "सुभाषितानि",
+            "page": "0169-0169",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "प्राचीनकवीनाम्",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "कै. अप्पाशास्त्रीराशीवडेकरमुद्दिश्य विलापः",
+            "text": "",
+            "feature": "",
+            "page": "0170-0170",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "भट्टकेशवशर्मा",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "हरिश्चन्द्रोपाख्यानम्",
+            "text": "",
+            "feature": "",
+            "page": "0171-0175",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "संपादकः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "वाल्मीकिश्च कालिदासश्च",
+            "text": "",
+            "feature": "",
+            "page": "0175-0178",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "पण्डित. रा. च. वि. कृष्णमाचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "आधुनिकी संस्कृतस्थितिः",
+            "text": "",
+            "feature": "",
+            "page": "0178-0184",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महोपाध्याय, मु, नारायणशास्त्री",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "शंकराभ्युदयः",
+            "text": "",
+            "feature": "",
+            "page": "0185-0192",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "राजचूडामणिदीक्षितः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

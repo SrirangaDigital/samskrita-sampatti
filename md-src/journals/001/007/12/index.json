@@ -1,0 +1,147 @@
+{
+    "journal": "Sahridaya",
+    "journalID": "001",
+    "volume": "007",
+    "issue": "12",
+    "month": "फाल्गुनमासः",
+    "year": "आनन्दवर्ष",
+    "id": "001/007/12",
+    "toc": [
+        {
+            "title": "सुभाषितानि",
+            "text": "",
+            "feature": "सुभाषितानि",
+            "page": "0269-0269",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "उद्दण्डशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "नामलिङ्गानुशासनम्",
+            "text": "",
+            "feature": "",
+            "page": "0270-0277",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "संपादकः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "साहितीहृदयम्",
+            "text": "",
+            "feature": "",
+            "page": "0277-0281",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "पण्डित. वे. अनन्ताचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "तद्वदनांबुजम्",
+            "text": "",
+            "feature": "",
+            "page": "0281-0286",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "पण्डित. केशवशर्मा, गलगलि",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "श्रीबलचरितम्",
+            "text": "",
+            "feature": "",
+            "page": "0286-0286",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "पि. शङ्करसुब्रह्मण्यशास्त्री",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "महाभाष्यस्य ।। रमणीयानि वाक्यानि ।।",
+            "text": "",
+            "feature": "",
+            "page": "0287-0293",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "रा. च. वि. कृष्णमाचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "वासवदत्ता",
+            "text": "",
+            "feature": "",
+            "page": "0294-0299",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "पण्डित. रा. च. वि. कृष्णमाचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "अस्मदीयदेवार्चनम्",
+            "text": "",
+            "feature": "",
+            "page": "0299-0300",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "पण्डितकेशवरामशर्मा, गलगलि",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

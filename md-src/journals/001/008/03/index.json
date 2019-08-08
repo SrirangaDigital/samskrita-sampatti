@@ -1,0 +1,72 @@
+{
+    "journal": "Sahridaya",
+    "journalID": "001",
+    "volume": "008",
+    "issue": "03",
+    "month": "ज्येष्ठमासः",
+    "year": "राक्षसवर्ष",
+    "id": "001/008/03",
+    "toc": [
+        {
+            "title": "सुभाषितानि",
+            "text": "",
+            "feature": "सुभाषितानि",
+            "page": "0041-0041",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "अमरवाणी",
+            "text": "",
+            "feature": "",
+            "page": "0042-0045",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "संपादकः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "श्रीसुरभारतीसंदेशः",
+            "text": "",
+            "feature": "",
+            "page": "0046-0048",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "रामाचार्यः, गलगलि",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "नारदनैपुणी",
+            "text": "",
+            "feature": "",
+            "page": "0049-0056",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "शङ्करसुब्रह्मण्यशास्त्री",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

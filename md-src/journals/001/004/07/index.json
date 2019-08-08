@@ -1,0 +1,96 @@
+{
+    "journal": "Sahridaya",
+    "journalID": "001",
+    "volume": "004",
+    "issue": "07",
+    "month": "आश्विनमासः",
+    "year": "विरोधिकृद्वर्ष",
+    "id": "001/004/07",
+    "toc": [
+        {
+            "title": "सुभाषितानि",
+            "text": "",
+            "feature": "सुभाषितानि",
+            "page": "0097-0097",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "वि. कृष्णमाचार्याणाम्",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "श्रीसदाशिवेन्द्रसरस्वती",
+            "text": "",
+            "feature": "",
+            "page": "0098-0103",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "संपदकः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "श्रीमच्चक्रवर्त्यभिषेकमञ्जरी",
+            "text": "",
+            "feature": "",
+            "page": "0103-0104",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वान, शतावधानम्, श्रीनिवासाचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "विजयिनी",
+            "text": "",
+            "feature": "",
+            "page": "0105-0108",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "परशुरामशर्मा, वैद्योपाह्वयः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "भारवेर्जीवनचरितम्",
+            "text": "",
+            "feature": "",
+            "page": "0109-0112",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "समुद्राल. वेङ्कट. अप्पलाचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

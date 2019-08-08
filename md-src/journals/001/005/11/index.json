@@ -1,0 +1,82 @@
+{
+    "journal": "Sahridaya",
+    "journalID": "001",
+    "volume": "005",
+    "issue": "11",
+    "month": "माघमासः",
+    "year": "परीधाविवर्ष",
+    "id": "001/005/11",
+    "toc": [
+        {
+            "title": "सुभाषितानि",
+            "text": "",
+            "feature": "सुभाषितानि",
+            "page": "0217-0217",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "पूर्वकालीनः स्त्रीविद्याभ्यासः",
+            "text": "",
+            "feature": "",
+            "page": "0218-0222",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "श्रीमती. गोदावरी",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "दैवम्",
+            "text": "",
+            "feature": "पुस्तकसमालोचना",
+            "page": "0223-0224",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "शंकराभ्युदयः",
+            "text": "",
+            "feature": "",
+            "page": "0225-0232",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "राजचूडामणिदीक्षितः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "कालिदासस्य ग्रन्थाः",
+            "text": "",
+            "feature": "",
+            "page": "0233-0240",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "रा. चक्रवर्ति. कृष्णमाचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

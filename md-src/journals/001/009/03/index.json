@@ -1,0 +1,89 @@
+{
+    "journal": "Sahridaya",
+    "journalID": "001",
+    "volume": "009",
+    "issue": "03",
+    "month": "ज्येष्ठमासः",
+    "year": "नलवर्ष",
+    "id": "001/009/03",
+    "toc": [
+        {
+            "title": "सुभाषितानि",
+            "text": "",
+            "feature": "सुभाषितानि",
+            "page": "0065-0065",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "पाणिनिः",
+            "text": "",
+            "feature": "",
+            "page": "0066-0073",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "के. एल्. व्यासरायशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "गैर्वाणीनिवेदनम्",
+            "text": "",
+            "feature": "",
+            "page": "0073-0079",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "रामाचार्यस्य (गलगली)",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "श्रीमती कमलकुमारी",
+            "text": "",
+            "feature": "",
+            "page": "0079-0086",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "पण्डित श्री चिदम्बरशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "जीर्णमङ्गे सुभाषितम्",
+            "text": "",
+            "feature": "",
+            "page": "0087-0096",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "के. साम्बशिवशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

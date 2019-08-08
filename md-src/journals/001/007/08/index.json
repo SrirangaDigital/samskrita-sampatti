@@ -1,0 +1,96 @@
+{
+    "journal": "Sahridaya",
+    "journalID": "001",
+    "volume": "007",
+    "issue": "08",
+    "month": "कार्तिकमासः",
+    "year": "आनन्दवर्ष",
+    "id": "001/007/08",
+    "toc": [
+        {
+            "title": "सुभाषितानि",
+            "text": "",
+            "feature": "सुभाषितानि",
+            "page": "0169-0169",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "प्राचीनकवीनाम्",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "वामनभट्टबाणस्य देशावस्थितिज्ञानम्",
+            "text": "",
+            "feature": "",
+            "page": "0170-0171",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "वु. व. वेम्बुरामलिङ्गशर्मा",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "वात-पित्त-कफानां तत्त्वम्",
+            "text": "",
+            "feature": "",
+            "page": "0171-0176",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "पण्डित. दुरैस्वाम्यय्यङ्गार्",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "वेणीसंहारकथासङ्ग्रहः",
+            "text": "",
+            "feature": "",
+            "page": "0177-0186",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "पण्डित. व्e. अनन्ताचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "जैनमततत्त्वम्",
+            "text": "",
+            "feature": "",
+            "page": "0186-0192",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "डाक्टर लड्डु",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

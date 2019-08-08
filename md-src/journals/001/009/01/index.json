@@ -1,0 +1,99 @@
+{
+    "journal": "Sahridaya",
+    "journalID": "001",
+    "volume": "009",
+    "issue": "01",
+    "month": "चैत्रमासः",
+    "year": "नलवर्ष",
+    "id": "001/009/01",
+    "toc": [
+        {
+            "title": "सुभाषितानि",
+            "text": "",
+            "feature": "सुभाषितानि",
+            "page": "0001-0001",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "विज्ञापना",
+            "text": "",
+            "feature": "",
+            "page": "0002-0004",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "संपादकः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "कुमारसंभवविमर्शः",
+            "text": "",
+            "feature": "",
+            "page": "0004-0006",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "संपादकस्य",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "अम्ब कृष्णवेणि",
+            "text": "",
+            "feature": "",
+            "page": "0006-0015",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "मृहु. विट्टलाचार्यस्य",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "अतिमूत्रम्",
+            "text": "",
+            "feature": "",
+            "page": "0015-0024",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "पण्डित रामानुजस्वामिनः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "श्री सनातनधर्म महासम्मेलनम्",
+            "text": "",
+            "feature": "",
+            "page": "0024-0032",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "journal": "Sahridaya",
+    "journalID": "001",
+    "volume": "003",
+    "issue": "03",
+    "month": "ज्येष्ठमासः",
+    "year": "साधारणवर्ष",
+    "id": "001/003/03",
+    "toc": [
+        {
+            "title": "सुभाषितानि",
+            "text": "",
+            "feature": "सुभाषितानि",
+            "page": "0049-0049",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "नीलकण्ठदीक्षितस्य",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "मेघसंदेशविमर्शः",
+            "text": "",
+            "feature": "",
+            "page": "0050-0053",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "संपादकः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "वेदान्तवादावली",
+            "text": "",
+            "feature": "पुस्तकसमालोचना",
+            "page": "0054-0056",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "भूगोलशास्त्रम्",
+            "text": "",
+            "feature": "",
+            "page": "0059-0064",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "अ. कुप्पुस्वाम्यार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "प्रत्युत्पन्नमतिः",
+            "text": "",
+            "feature": "",
+            "page": "0065-0071",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "एं. डि. सुब्रह्मण्यार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "स्थावरतत्त्वदर्शनम्",
+            "text": "",
+            "feature": "",
+            "page": "0071-0072",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "वि. कृष्णमाचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

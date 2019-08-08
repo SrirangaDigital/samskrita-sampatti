@@ -1,0 +1,96 @@
+{
+    "journal": "Sahridaya",
+    "journalID": "001",
+    "volume": "007",
+    "issue": "04",
+    "month": "आषाढमासः",
+    "year": "आनन्दवर्ष",
+    "id": "001/007/04",
+    "toc": [
+        {
+            "title": "सुभाषितानि",
+            "text": "",
+            "feature": "सुभाषितानि",
+            "page": "0073-0073",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "प्राचीनकवीनाम्",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "नामलिङ्गानुशासनम्",
+            "text": "",
+            "feature": "",
+            "page": "0074-0078",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "संपादकः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "महेन्द्रमङ्गले श्रीशङ्कराचार्याः",
+            "text": "",
+            "feature": "",
+            "page": "0079-0089",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "पण्डित. प. पञ्चापगेशशास्त्री",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "साहितीहृदयम्",
+            "text": "",
+            "feature": "",
+            "page": "0089-0093",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "पण्डित. वे. अनन्ताचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "सीमन्तिनीचरितम्",
+            "text": "",
+            "feature": "",
+            "page": "0094-0096",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "पण्डित नारायणाशास्त्री",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

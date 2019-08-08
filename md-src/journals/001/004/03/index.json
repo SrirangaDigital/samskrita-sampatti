@@ -1,0 +1,72 @@
+{
+    "journal": "Sahridaya",
+    "journalID": "001",
+    "volume": "004",
+    "issue": "03",
+    "month": "ज्येष्ठमासः",
+    "year": "विरोधिकृद्वर्ष",
+    "id": "001/004/03",
+    "toc": [
+        {
+            "title": "सुभाषितानि",
+            "text": "",
+            "feature": "सुभाषितानि",
+            "page": "0033-0033",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "चक्रवर्ती. श्री. वेङ्कटाचार्याणाम्",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "शिवलीलार्णवविमर्शः",
+            "text": "",
+            "feature": "",
+            "page": "0034-0037",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "भारवेर्जीवनचरितम्",
+            "text": "",
+            "feature": "",
+            "page": "0038-0044",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "समुद्राल. वेङ्कट. अप्पलाचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "भूगोलशास्त्रम्",
+            "text": "",
+            "feature": "",
+            "page": "0044-0048",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "अ. कुप्पुस्वाम्यार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

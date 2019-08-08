@@ -1,0 +1,72 @@
+{
+    "journal": "Sahridaya",
+    "journalID": "001",
+    "volume": "005",
+    "issue": "02",
+    "month": "वैशाखमासः",
+    "year": "परीधाविवर्ष",
+    "id": "001/005/02",
+    "toc": [
+        {
+            "title": "सुभाषितानि",
+            "text": "",
+            "feature": "सुभाषितानि",
+            "page": "0017-0017",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "पातिव्रत्यम्",
+            "text": "",
+            "feature": "",
+            "page": "0018-0022",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "संपादकः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "अलंधनः चित्रप्रदीपश्च",
+            "text": "",
+            "feature": "",
+            "page": "0022-0026",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "अ. कुप्पुस्वाम्यार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "आर्यभाषाचरितम्",
+            "text": "",
+            "feature": "",
+            "page": "0026-0032",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "म. वे. रमणाचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

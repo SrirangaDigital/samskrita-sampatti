@@ -1,0 +1,72 @@
+{
+    "journal": "Sahridaya",
+    "journalID": "001",
+    "volume": "007",
+    "issue": "02",
+    "month": "वैशाखमासः",
+    "year": "आनन्दवर्ष",
+    "id": "001/007/02",
+    "toc": [
+        {
+            "title": "सुभाषितानि",
+            "text": "",
+            "feature": "सुभाषितानि",
+            "page": "0025-0025",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "प्राचीनकवीनाम्",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "नामलिङ्गानुशासनम्",
+            "text": "",
+            "feature": "",
+            "page": "0026-0029",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "संपादकः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "मद्रपुरराजकीय प्राच्यलिखितकोशसंग्रहालयः",
+            "text": "",
+            "feature": "पुस्तकसमालोचनाः",
+            "page": "0029-0033",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "कालिदासः",
+            "text": "",
+            "feature": "",
+            "page": "0033-0048",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "पण्डित. रमणाचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

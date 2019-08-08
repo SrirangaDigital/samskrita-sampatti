@@ -1,0 +1,106 @@
+{
+    "journal": "Sahridaya",
+    "journalID": "001",
+    "volume": "003",
+    "issue": "01",
+    "month": "चैत्रमासः",
+    "year": "साधारणवर्ष",
+    "id": "001/003/01",
+    "toc": [
+        {
+            "title": "सुभाषितानि",
+            "text": "",
+            "feature": "सुभाषितानि",
+            "page": "0001-0001",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "प्राचीनकवीनाम्",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "श्रीमच्छंकराचार्यग्रन्थरत्नपेटिका",
+            "text": "",
+            "feature": "पुस्तकसमालोचना",
+            "page": "0002-0004",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "मेघसंदेशविमर्शः",
+            "text": "",
+            "feature": "",
+            "page": "0005-0008",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "संपादकः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "आहारः तज्जरणं च",
+            "text": "",
+            "feature": "",
+            "page": "0009-0012",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "पण्डितदुरैस्वाम्यय्यङ्गार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "उपदेशसूक्तिमाला",
+            "text": "",
+            "feature": "",
+            "page": "0013-0016",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "कडयं विद्वान् नाणुशास्त्री",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "भूगोलशास्त्रम्",
+            "text": "",
+            "feature": "",
+            "page": "0020-0024",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "अ. कुप्पुस्वाम्यार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

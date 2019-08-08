@@ -1,0 +1,89 @@
+{
+    "journal": "Sahridaya",
+    "journalID": "001",
+    "volume": "007",
+    "issue": "07",
+    "month": "आश्विनमासः",
+    "year": "आनन्दवर्ष",
+    "id": "001/007/07",
+    "toc": [
+        {
+            "title": "सुभाषितानि",
+            "text": "",
+            "feature": "सुभाषितानि",
+            "page": "0145-0145",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "श्रीवेदान्तदेशिकः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "व्याकरणग्रन्थरत्नावली",
+            "text": "",
+            "feature": "पुस्तकसमालोचनाः",
+            "page": "0146-0150",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "कुमारसंभवः",
+            "text": "",
+            "feature": "",
+            "page": "0151-0162",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "पण्डित. रा. च. वि. कृष्णमाचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "साहितीहृदयम्",
+            "text": "",
+            "feature": "",
+            "page": "0162-0165",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "पण्डित. वे. अनन्ताचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "जैनमततत्वम्",
+            "text": "",
+            "feature": "",
+            "page": "0166-0168",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "डाक्टर लड्डु",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

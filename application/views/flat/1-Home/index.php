@@ -14,7 +14,7 @@
 		</div>
 		<div class="col-md-6">
 			<figure class="figure">
-				<img class="img-fluid border-2" src="https://samskritasampatti.in/public/images/stock/scene-08.jpg">
+				<img class="img-fluid border-2" src="<?=STOCK_IMAGE_URL?>scene-08.jpg">
 				<!-- <figcaption class="figure-caption">पुराण । इतिहास</figcaption> -->
 			</figure>
 		</div>
@@ -28,14 +28,14 @@
 	</div>
 	<div class="row justify-content-center mb-5 card-deck">
 		<a href="<?=BASE_URL?>book/list" class="card col-md-3">
-			<img src="<?=PUBLIC_URL?>images/stock/scene-01.jpg" class="card-img-top" alt="वेदवेदाङ्ग">
+			<img src="<?=STOCK_IMAGE_URL?>scene-01.jpg" class="card-img-top" alt="वेदवेदाङ्ग">
 			<div class="card-body">
 				<h5 class="card-title">Vedavedanga</h5>
 				<p class="card-desc eng">3 Categories, 32 Books</p>
 			</div>
 		</a>
 		<a href="<?=BASE_URL?>book/list?details.collection.category=ShankaraGranthavali" class="card col-md-3">
-			<img src="<?=PUBLIC_URL?>images/stock/scene-02.jpg" class="card-img-top" alt="षड्दर्शनानि">
+			<img src="<?=STOCK_IMAGE_URL?>scene-02.jpg" class="card-img-top" alt="षड्दर्शनानि">
 			<div class="card-body">
 				<!-- <h5 class="card-title">Shastra</h5> -->
 				<h5 class="card-title">Shankara Granthavali</h5>
@@ -43,7 +43,7 @@
 			</div>
 		</a>
 		<a href="<?=BASE_URL?>book/list" class="card col-md-3">
-			<img src="<?=PUBLIC_URL?>images/stock/scene-03.jpg" class="card-img-top" alt="पुराणं - इतिहासः">
+			<img src="<?=STOCK_IMAGE_URL?>scene-03.jpg" class="card-img-top" alt="पुराणं - इतिहासः">
 			<div class="card-body">
 				<h5 class="card-title">Puranam itihasaha</h5>
 				<p class="card-desc eng">3 Categories, 32 Books</p>
@@ -52,21 +52,21 @@
 	</div>
 	<div class="row justify-content-center mb-5 card-deck">
 		<a href="<?=BASE_URL?>book/list" class="card col-md-3">
-			<img src="<?=PUBLIC_URL?>images/stock/scene-04.jpg" class="card-img-top" alt="साहित्य">
+			<img src="<?=STOCK_IMAGE_URL?>scene-04.jpg" class="card-img-top" alt="साहित्य">
 			<div class="card-body">
 				<h5 class="card-title">Sahitya</h5>
 				<p class="card-desc eng">3 Categories, 32 Books</p>
 			</div>
 		</a>
 		<a href="<?=BASE_URL?>book/list" class="card col-md-3">
-			<img src="<?=PUBLIC_URL?>images/stock/scene-01.jpg" class="card-img-top" alt="वेदवेदाङ्ग">
+			<img src="<?=STOCK_IMAGE_URL?>scene-01.jpg" class="card-img-top" alt="वेदवेदाङ्ग">
 			<div class="card-body">
 				<h5 class="card-title">Journals and Periodicals</h5>
 				<p class="card-desc eng">3 Categories, 32 Books</p>
 			</div>
 		</a>
 		<a href="<?=BASE_URL?>book/list" class="card col-md-3">
-			<img src="<?=PUBLIC_URL?>images/stock/scene-02.jpg" class="card-img-top" alt="षड्दर्शनानि">
+			<img src="<?=STOCK_IMAGE_URL?>scene-02.jpg" class="card-img-top" alt="षड्दर्शनानि">
 			<div class="card-body">
 				<h5 class="card-title">Kosha</h5>
 				<p class="card-desc eng">3 Categories, 32 Books</p>
@@ -90,31 +90,31 @@
 	</div>
 	<div class="row justify-content-around mb-5 card-deck">
 		<div class="card-small col-md-2">
-			<img src="<?=PUBLIC_URL?>images/stock/web.svg" class="card-img-top" alt="वेदवेदाङ्ग">
+			<img src="<?=STOCK_IMAGE_URL?>web.svg" class="card-img-top" alt="वेदवेदाङ्ग">
 			<div class="card-body">
 				<h5 class="card-title eng">Curated Collection</h5>
 			</div>
 		</div>
 		<div class="card-small col-md-2">
-			<img src="<?=PUBLIC_URL?>images/stock/document.svg" class="card-img-top" alt="वेदवेदाङ्ग">
+			<img src="<?=STOCK_IMAGE_URL?>document.svg" class="card-img-top" alt="वेदवेदाङ्ग">
 			<div class="card-body">
 				<h5 class="card-title eng">Book Summary</h5>
 			</div>
 		</div>
 		<div class="card-small col-md-2">
-			<img src="<?=PUBLIC_URL?>images/stock/diagram.svg" class="card-img-top" alt="साहित्य">
+			<img src="<?=STOCK_IMAGE_URL?>diagram.svg" class="card-img-top" alt="साहित्य">
 			<div class="card-body">
 				<h5 class="card-title eng">Table of Contents</h5>
 			</div>
 		</div>
 		<div class="card-small col-md-2">
-			<img src="<?=PUBLIC_URL?>images/stock/structure.svg" class="card-img-top" alt="साहित्य">
+			<img src="<?=STOCK_IMAGE_URL?>structure.svg" class="card-img-top" alt="साहित्य">
 			<div class="card-body">
 				<h5 class="card-title eng">Subject Hierarchy</h5>
 			</div>
 		</div>
 		<div class="card-small col-md-2">
-			<img src="<?=PUBLIC_URL?>images/stock/library.svg" class="card-img-top" alt="साहित्य">
+			<img src="<?=STOCK_IMAGE_URL?>library.svg" class="card-img-top" alt="साहित्य">
 			<div class="card-body">
 				<h5 class="card-title eng">Full-text Search</h5>
 			</div>
