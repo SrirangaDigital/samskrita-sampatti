@@ -17,7 +17,9 @@ class data extends Controller {
 
 		foreach ($files as $file) {
 			
-			$data = $this->model->getDataFromFile($file);
+			$id = preg_replace('/.*\/(\d+)\/index\.json$/', "$1", $file);
+			$data = array_merge(['id' => $id], $this->model->getDataFromFile($file));
+			
 			$result = $collection->insertOne($data);
 		}
 
