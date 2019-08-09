@@ -58,7 +58,7 @@
 				<p class="card-desc eng">3 Categories, 32 Books</p>
 			</div>
 		</a>
-		<a href="<?=BASE_URL?>book/list" class="card col-md-3">
+		<a href="<?=BASE_URL?>listing/journal" class="card col-md-3">
 			<img src="<?=STOCK_IMAGE_URL?>scene-01.jpg" class="card-img-top" alt="वेदवेदाङ्ग">
 			<div class="card-body">
 				<h5 class="card-title">Journals and Periodicals</h5>

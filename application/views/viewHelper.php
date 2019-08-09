@@ -107,7 +107,93 @@ class viewHelper extends View {
         }
 
         return $displayString;
-    }    
+    }
+
+    public function getCoverPage($filter){
+
+        $coverURL = PHY_JOURNALS_METADATA_URL;
+        $coverURL .= (isset($filter['journalID'])) ? $filter['journalID'] . '/' : '';
+        $coverURL .= (isset($filter['volume'])) ? $filter['volume'] . '/' : '';
+        $coverURL .= (isset($filter['issue'])) ? $filter['issue'] . '/' : '01/';
+        $coverURL .= 'cover.jpg';
+
+        return (file_exists($coverURL)) ? str_replace(PHY_JOURNALS_METADATA_URL, JOURNALS_METADATA_URL, $coverURL) : IMAGE_URL . 'generic-cover.jpg'; 
+    }
+
+    public function getStructurePageTitle($filter){
+
+        $pageTitle = NAV_ARCHIVE_VOLUME;
+        if(isset($filter['journal'])) unset($filter['journal']);
+        foreach ($filter as $key => $value) {
+                
+            $pageTitle .= ' > ' . constant('ARCHIVE_' . strtoupper($key)) . ' ' . $this->roman2Devnagari($this->rlZero($value));
+        }
+
+        $pageTitle = preg_replace('/^' . NAV_ARCHIVE_VOLUME . ' > /', '', $pageTitle);
+
+        return $pageTitle;
+    }
+
+    public function roman2Devnagari($vid)
+    {
+        $vid = preg_replace("/^0/", "", $vid);
+
+        $vid = preg_replace("/0/", "०", $vid);
+        $vid = preg_replace("/0/", "०", $vid);
+        $vid = preg_replace("/1/", "१", $vid);
+        $vid = preg_replace("/2/", "२", $vid);
+        $vid = preg_replace("/3/", "३", $vid);
+        $vid = preg_replace("/4/", "४", $vid);
+        $vid = preg_replace("/5/", "५", $vid);
+        $vid = preg_replace("/6/", "६", $vid);
+        $vid = preg_replace("/7/", "७", $vid);
+        $vid = preg_replace("/8/", "८", $vid);
+        $vid = preg_replace("/9/", "९", $vid);
+        $vid = preg_replace('/^specialA$/i', 'विशेषाङ्कः', $vid);
+        $vid = preg_replace('/^specialB$/i', 'विशेषाङ्कः', $vid);
+        $vid = preg_replace('/^special$/i', 'विशेषाङ्कः', $vid);
+
+        return($vid);
+    }
+
+    public function rlZero($term) {
+
+        return preg_replace('/^0+|\-0+/', '', $term);
+    }
+
+    public function getDisplayName($filter){
+
+        $displayString = '';
+
+        foreach ($filter as $key => $value) {
+
+            if(!preg_match('/.*supplement.*/i', $value))    $displayString .= constant('ARCHIVE_' . strtoupper($key)) . ' ';
+            $displayString .= ($key == 'month') ?  $this->getMonthDevanagari($value) : $this->roman2Devnagari($value);
+        }
+
+        return $displayString;
+    }
+
+    public function getMonthDevanagari($month)
+    {
+        $month = preg_replace('/^special[AB]*/i', 'विशेषाङ्कः', $month);
+
+        $month = preg_replace('/01/', 'जनवरी', $month);
+        $month = preg_replace('/02/', 'फेब्रवरी', $month);
+        $month = preg_replace('/03/', 'मार्च्', $month);
+        $month = preg_replace('/04/', 'एप्रिल्', $month);
+        $month = preg_replace('/05/', 'मे', $month);
+        $month = preg_replace('/06/', 'जून्', $month);
+        $month = preg_replace('/07/', 'जुलै', $month);
+        $month = preg_replace('/08/', 'अगस्ट्', $month);
+        $month = preg_replace('/09/', 'सप्टम्बर्', $month);
+        $month = preg_replace('/10/', 'अक्टोबर्', $month);
+        $month = preg_replace('/11/', 'नवम्बर्', $month);
+        $month = preg_replace('/12/', 'डिसेम्बर्', $month);
+
+        return $month;
+    }
+
 }
 
 ?>

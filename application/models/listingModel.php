@@ -11,13 +11,12 @@ class listingModel extends Model {
 	public function getCategories($type, $selectKey, $filter = ''){
 
 		$db = $this->db->useDB();
-		$collection = $this->db->selectCollection($db, ARTEFACT_COLLECTION);
+		$collection = $this->db->selectCollection($db, JOURNALS_COLLECTION);
 
 		$skip = 0;
 		$limit = NO_LIMIT;
 
-		$matchFilter = $this->preProcessQueryFilter($filter);
-		$match = [ 'Type' => $type ] + $matchFilter;
+		$match = $this->preProcessQueryFilter($filter);
 
 		$iterator = $collection->aggregate(
 				 [
@@ -34,17 +33,15 @@ class listingModel extends Model {
 		$precastSelectKeys = $this->getPrecastKey($type, 'selectKey');
 		$selectKeyIndex = array_search($selectKey, $precastSelectKeys);
 		$nextSelectKey = (isset($precastSelectKeys[$selectKeyIndex + 1])) ? $precastSelectKeys[$selectKeyIndex + 1] : false;
-
+		
 		$urlFilter = $this->filterArrayToString($filter);
 		$urlFilter = ($urlFilter) ? '&' . $urlFilter : '';
-
 		$auxiliary = ['parentType' => $type, 'selectKey' => $selectKey, 'filter' => $filter];
 
 		foreach ($iterator as $row) {
-			
+					
 			$category['name'] = (isset($row['_id']['Category'])) ? $row['_id']['Category'] : MISCELLANEOUS_NAME;
 			$filter[$selectKey] = (isset($row['_id']['Category'])) ? $category['name'] : 'notExists';
-
 			$category['nameURL'] = $this->filterSpecialChars($category['name']);
 			$category['parentType'] = $row['_id']['Type'];
 			// $category['leafCount'] = $row['count'];

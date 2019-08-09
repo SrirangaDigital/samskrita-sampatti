@@ -91,6 +91,16 @@ class Model {
 
 		return $string;
 	}
+
+	public function preProcessURLQuery($filter){
+
+		foreach ($filter as $key => $value) {
+			
+			$filter{$key} = str_replace('_', '/', $filter{$key});
+		}
+
+		return $filter;
+	}
 }
 
 ?>

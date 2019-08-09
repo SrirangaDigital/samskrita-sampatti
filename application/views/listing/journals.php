@@ -4,7 +4,7 @@
 <div class="container dynamic-page">
     <div class="row">
         <div class="col-md-12">
-            <h4 class="archiveTitle"><?=MAIN_TITLE?></h4>
+            <h4 class="archiveTitle"><?=ARCHIVE_JOURNAL?></h4>
             <h1 class="title">List of Journals and Periodicals</h1>
         </div>
     </div>

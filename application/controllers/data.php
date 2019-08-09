@@ -30,6 +30,7 @@ class data extends Controller {
 		foreach ($files as $file) {
 			
 			$data = $this->model->getDataFromFile($file);
+			$data['Type'] = 'Journal';
 			$result = $collection->insertOne($data);
 		}
 	}

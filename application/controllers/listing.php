@@ -20,7 +20,6 @@ class listing extends Controller {
 
 		if(array_search($selectKey, $precastSelectKeys) === false) {$this->view('error/index');return;}
 		$categories['values'] = $this->model->getCategories($type, $selectKey, $query);
-		
 		($categories['values']) ? $this->view('listing/structure', json_encode($categories)) : $this->view('error/index');
 	}
 
