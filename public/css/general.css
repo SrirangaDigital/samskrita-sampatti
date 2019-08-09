@@ -13,3 +13,22 @@ a:HOVER{
 .back-gray{
 	background-color: #FAFAFA;
 }
+
+.gray{
+  color: #333;
+}
+.red{
+  color: #BE0709;
+}
+.brown{
+  color: #9c581b;
+}
+.gold{
+  color: #FB8C00;
+}
+.orange{
+  color: #ff5722;
+}
+.maroon{
+  color: #2471A3;
+}

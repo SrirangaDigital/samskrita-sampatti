@@ -1,6 +1,6 @@
 <?php
 
-define('BASE_URL', 'http://localhost/samskrita-sampatti/');
+define('BASE_URL', 'http://192.168.1.86/samskrita-sampatti/');
 define('PUBLIC_URL', BASE_URL . 'public/');
 define('STOCK_IMAGE_URL', BASE_URL . 'public/images/stock/');
 define('API_URL', BASE_URL . 'api/');
@@ -22,9 +22,6 @@ define('DB_PORT', '27017');
 define('DB_NAME', 'samskritaSAMPATTI');
 define('DB_USER', 'samskritaSAMPATTIUSER');
 define('DB_PASSWORD', 'sampati123');
-
-define('NO_SKIP', 0);
-define('NO_LIMIT', 500);
 
 // use samskritaSAMPATTI;
 // db.createUser(

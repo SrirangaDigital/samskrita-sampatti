@@ -24,15 +24,7 @@ class data extends Controller {
 		// Journals Insertion
 		$collection = '';
 		$collection = $this->model->db->createCollection($db, JOURNALS_COLLECTION);
-		
-		$files = $this->model->getFilesIteratively(PHY_JOURNALS_METADATA_URL, $pattern = '/index.json$/i');
-
-		foreach ($files as $file) {
-			
-			$data = $this->model->getDataFromFile($file);
-			$data['Type'] = 'Journal';
-			$result = $collection->insertOne($data);
-		}
+		$this->model->insertJournalEntries($collection);
 	}
 }
 

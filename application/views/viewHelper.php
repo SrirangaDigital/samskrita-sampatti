@@ -194,6 +194,30 @@ class viewHelper extends View {
         return $month;
     }
 
+    public function getIssueDevanagari($issue)
+    {
+        $issue = preg_replace("/^0/", "", $issue);
+
+        $issue = ISSUE . ' ' . $issue;
+
+        $issue = preg_replace("/0/", "०", $issue);
+        $issue = preg_replace("/0/", "०", $issue);
+        $issue = preg_replace("/1/", "१", $issue);
+        $issue = preg_replace("/2/", "२", $issue);
+        $issue = preg_replace("/3/", "३", $issue);
+        $issue = preg_replace("/4/", "४", $issue);
+        $issue = preg_replace("/5/", "५", $issue);
+        $issue = preg_replace("/6/", "६", $issue);
+        $issue = preg_replace("/7/", "७", $issue);
+        $issue = preg_replace("/8/", "८", $issue);
+        $issue = preg_replace("/9/", "९", $issue);
+        $issue = preg_replace('/^' . ISSUE . ' specialA$/i', 'विशेषाङ्कः', $issue);
+        $issue = preg_replace('/^' . ISSUE . ' specialB$/i', 'विशेषाङ्कः', $issue);
+        $issue = preg_replace('/^' . ISSUE . ' special$/i', 'विशेषाङ्कः', $issue);
+        
+        return $issue;
+    }
+
 }
 
 ?>
