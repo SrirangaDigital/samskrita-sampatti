@@ -90,6 +90,9 @@
   padding-top: 20px;
   line-height: 32px
 }
+.red-edge{
+  border-bottom: 3px solid #68A0C4;
+}
 .full-width-card h3.author{
   font-size: 16px;
   color: #333;
