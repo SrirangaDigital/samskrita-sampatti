@@ -28,6 +28,7 @@ define('NAV_ARCHIVE_ARTICLES', 'लेखाः');
 define('NAV_ARCHIVE_AUTHORS', 'लेखकाः');
 define('NAV_ARCHIVE_FEATURES', 'प्रधानविभागाः');
 define('TOC', 'विषयसूची');
+define('ARCHIVE_STRUCTURE_TYPE', 'textual'); //can take either pictorial or textual
 
 // css variables
 define('ARCHIVE_BASE_FONT_SIZE', '18px'); //for Nudi = 18px, English = 16px, Devanagari = 18px

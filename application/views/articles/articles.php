@@ -48,7 +48,7 @@ if(isset($data['fullTextSearch'])) $searchTerm = $data['fullTextSearch'];
             <h4 class="publication-details">
                 <?php if(isset($article['feature'])) { ?><span class="orange"><a href="<?=BASE_URL?>articles/category/feature/<?=$article['feature']?>"><?=$article['feature']?></a></span><?php } ?>
                 <?php if(isset($article['series'])) { ?><span class="brown"><a href="<?=BASE_URL?>articles/category/series/<?=$article['series']?>"><?=$article['series']?></a></span><?php } ?>
-                <span class="maroon"><a href="<?=BASE_URL?>articles/toc?volume=<?=$article['volume']?>&issue=<?=$article['issue']?>"><?=$viewHelper->getissueDevanagari($article['issue'])?> <?=$viewHelper->roman2Devnagari($article['volume'])?> (<?=VOLUME?> <?=$viewHelper->roman2Devnagari($viewHelper->rlZero($article['volume']))?>, <?=$viewHelper->getIssueDevanagari($article['issue'])?>)</a></span>
+                <span class="maroon"><a href="<?=BASE_URL?>articles/toc?volume=<?=$article['volume']?>&issue=<?=$article['issue']?>"><?=$viewHelper->getissueDevanagari($article['issue'])?>, <?=$viewHelper->roman2Devnagari($viewHelper->rlZero($article['volume']))?> (<?=$article['year']?>, <?=$article['month']?>)</a></span>
             </h4>
             <h2 class="title">
                 <a target="_blank" href="<?=BASE_URL?>article/text/<?=$article['volume']?>/<?=$article['issue']?>/<?=$article['page']?>?search=<?=$searchTerm?>" class="pdf"><?=$article['title']?></a>

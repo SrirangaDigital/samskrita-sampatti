@@ -117,7 +117,8 @@ class viewHelper extends View {
         $coverURL .= (isset($filter['issue'])) ? $filter['issue'] . '/' : '01/';
         $coverURL .= 'cover.jpg';
 
-        return (file_exists($coverURL)) ? str_replace(PHY_JOURNALS_METADATA_URL, JOURNALS_METADATA_URL, $coverURL) : IMAGE_URL . 'generic-cover.jpg'; 
+        return str_replace(PHY_JOURNALS_METADATA_URL, JOURNALS_METADATA_URL, $coverURL); 
+        // return (file_exists($coverURL)) ? str_replace(PHY_JOURNALS_METADATA_URL, JOURNALS_METADATA_URL, $coverURL) : IMAGE_URL . 'generic-cover.jpg'; 
     }
 
     public function getStructurePageTitle($filter){
@@ -136,8 +137,6 @@ class viewHelper extends View {
 
     public function roman2Devnagari($vid)
     {
-        $vid = preg_replace("/^0/", "", $vid);
-
         $vid = preg_replace("/0/", "०", $vid);
         $vid = preg_replace("/0/", "०", $vid);
         $vid = preg_replace("/1/", "१", $vid);
@@ -168,7 +167,7 @@ class viewHelper extends View {
         foreach ($filter as $key => $value) {
 
             if(!preg_match('/.*supplement.*/i', $value))    $displayString .= constant('ARCHIVE_' . strtoupper($key)) . ' ';
-            $displayString .= ($key == 'month') ?  $this->getMonthDevanagari($value) : $this->roman2Devnagari($value);
+            $displayString .= ($key == 'month') ?  $this->getMonthDevanagari($value) : $this->roman2Devnagari($this->rlZero($value));
         }
 
         return $displayString;

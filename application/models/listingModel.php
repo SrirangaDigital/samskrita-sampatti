@@ -21,7 +21,7 @@ class listingModel extends Model {
 		$iterator = $collection->aggregate(
 				 [
 					[ '$match' => $match ],
-					[ '$group' => [ '_id' => [ 'Category' => '$' . $selectKey, 'Type' => '$Type' ], 'count' => [ '$sum' => 1 ]]],
+					[ '$group' => [ '_id' => [ 'Category' => '$' . $selectKey, 'Type' => '$Type', 'journalID' => '$journalID' ], 'count' => [ '$sum' => 1 ]]],
 					[ '$sort' => [ '_id' => 1 ] ],
 					[ '$skip' => $skip ],
 					[ '$limit' => $limit ]
@@ -39,12 +39,12 @@ class listingModel extends Model {
 		$auxiliary = ['parentType' => $type, 'selectKey' => $selectKey, 'filter' => $filter];
 
 		foreach ($iterator as $row) {
-					
+
 			$category['name'] = (isset($row['_id']['Category'])) ? $row['_id']['Category'] : MISCELLANEOUS_NAME;
 			$filter[$selectKey] = (isset($row['_id']['Category'])) ? $category['name'] : 'notExists';
 			$category['nameURL'] = $this->filterSpecialChars($category['name']);
 			$category['parentType'] = $row['_id']['Type'];
-			// $category['leafCount'] = $row['count'];
+			$category['journalID'] = $row['_id']['journalID'];
 			
             if(!(isset($row['_id']['Category'])))
             	$category['nameURL'] = 'notExists';
