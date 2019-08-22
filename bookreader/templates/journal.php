@@ -16,7 +16,10 @@
     <script type="text/javascript" src="../static/BookReader/BookReader.js?v=1.0"></script>
     
     <?php
-		$bookID = $_GET['bookID'];
+    	$book = [];
+		$journalID = $_GET['journalID'];
+		$volume = $_GET['volume'];
+		$issue = $_GET['issue'];
 		$page = $_GET['pagenum'].".jpg";
 		
 		if(isset($_GET['searchText']) && $_GET['searchText'] != "")
@@ -25,28 +28,31 @@
 			$book["searchText"] = $search;
 		}
 		
-		$imgurl = "../../public/data/books/jpg/2/" . $bookID . '/';
+		$book["type"] = 'journals';
+		$imgurl = "../../public/data/" . $book["type"] . "/jpg/2/" . $journalID . '/' . $volume . '/' . $issue . '/';
 		$images = [];
-
+		
 		foreach (glob($imgurl . '*.jpg') as $filename) {
 			array_push($images, preg_replace('/.*\/(.*?)\.jpg/', "$1.jpg", $filename));
 		}
 		
-		$book['type'] = 'books';
 		$book["imglist"]=array_values($images);
 		$book["Title"] = "Samskrita Sampatti";
 		$book["TotalPages"] = count($book["imglist"]);
 		$book["SourceURL"] = "";
 		$result = array_keys($book["imglist"], $page);
+		$book["journalID"] = $journalID;
+		$book["volume"] = $volume;
+		$book["issue"] = $issue;
+		$book["journalID"] = $journalID;
 		$book["pagenum"] = $result[0];
-		$book["bookID"] = $bookID;
 		$book["imgurl"] = $imgurl;
     ?>
 <script type="text/javascript">
 	var book = <?php echo json_encode($book); ?>;
 </script>
 <script>
-	$.ajax({url: "filesRemover.php", async: true});
+// $.ajax({url: "filesRemover.php", async: true});
 </script>
 </head>
 <body style="background-color: #939598;">

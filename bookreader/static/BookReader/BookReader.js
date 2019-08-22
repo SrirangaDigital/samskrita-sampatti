@@ -214,12 +214,12 @@ BookReader.prototype.init = function() {
         e.data.loadLeafs();
     });
     
-    $("#BRcontainer").bind('scroll click', function() {
-        window.applicationCache.update();
-    });
-    $("#BRpage").bind('click', function() {
-        window.applicationCache.update();
-    });
+    // $("#BRcontainer").bind('scroll click', function() {
+    //     window.applicationCache.update();
+    // });
+    // $("#BRpage").bind('click', function() {
+    //     window.applicationCache.update();
+    // });
     
     this.setupKeyListeners();
     this.startLocationPolling();
