@@ -1,0 +1,147 @@
+{
+    "journal": "Trimasika",
+    "journalID": "002",
+    "volume": "008",
+    "issue": "01",
+    "month": "जनवरि",
+    "year": "१९३२",
+    "id": "002/008/01",
+    "toc": [
+        {
+            "title": "शैवदर्शनम्",
+            "text": "",
+            "feature": "",
+            "page": "0003-0011",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महामहोपाध्यायाः पण्डितरत्नं लक्ष्मीपुरं श्रीनिवासाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "कुवलयानन्दपाठसंशोधनम् VII",
+            "text": "",
+            "feature": "",
+            "page": "0012-0017",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महाविद्वांसः क. गोपालकृष्णशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "कुट्टाकारशिरोमणेः शुद्धिपत्रम्",
+            "text": "",
+            "feature": "",
+            "page": "0018-0022",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महाविद्वांसः करूरु शेषाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "श्रवणानन्दम् (श्रीवेङ्कटाध्वरिविरचितम्))",
+            "text": "",
+            "feature": "",
+            "page": "0023-0032",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "श्रीयोगनरसिह्मर्यैः परिशोधितम्",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "मेघमाला (श्रीकृष्णब्रह्मतत्त्वपरकालसंयमीन्द्रकृता)",
+            "text": "",
+            "feature": "",
+            "page": "0033-0041",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महाविद्वद्भिः क. शेषाचार्यैः परिशोधिता",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "आत्मनो महिमा तच्छक्तिश्च",
+            "text": "",
+            "feature": "",
+            "page": "0041-0048",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः पि. आर्. शिवसुब्रह्मण्यशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "घ्राणनयनविवादः",
+            "text": "",
+            "feature": "",
+            "page": "0049-0051",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्यार्थी नारायणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "अभिप्रायमयूखः, पत्रिकाविषयः",
+            "text": "",
+            "feature": "",
+            "page": "0052-0056",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "सम्पादकः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

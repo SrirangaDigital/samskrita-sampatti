@@ -1,0 +1,116 @@
+{
+    "journal": "Trimasika",
+    "journalID": "002",
+    "volume": "016",
+    "issue": "03",
+    "month": "सेप्टेंबर््",
+    "year": "१९४०",
+    "id": "002/016/03",
+    "toc": [
+        {
+            "title": "महाराजश्रीकृष्णराजेन्द्रनिर्वाणम्-चरमश्लोकावळि",
+            "text": "",
+            "feature": "",
+            "page": "0001-0008",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः पि. आर्. शिवसुब्रह्मण्यशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                },
+                {
+                    "name": "ज्यौतिषरत्नं करूरु शेषाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                },
+                {
+                    "name": "काव्यकलानिधयः चिदम्बरशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "वणीकर्णाभरणम्",
+            "text": "",
+            "feature": "",
+            "page": "0009-0018",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "श्रीमन्तः कृष्णमूर्तिशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "हयवदनविजयः [श्रीवेङ्कटराघवसूरिविरचितः]",
+            "text": "",
+            "feature": "",
+            "page": "0018aa-0018af",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "ज्यौतिषरत्नं करूरु शेषाचार्यैः शोधितः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "नन्त्रतत्त्वाधिजिगांसा",
+            "text": "",
+            "feature": "",
+            "page": "0018ag-0018aw",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः पि. आर्. शिवसुब्रह्मण्यशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "श्रीसम्पत्कुमारनवरत्नहारस्तवः उभयवेदान्तप्रवर्तनमहासभामङ्गळाशासनं च.",
+            "text": "",
+            "feature": "",
+            "page": "0018ax-0018az",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "ज्यौतिषरत्नं करूरु शेषाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "श्रीहयवदनसेवासङ्घमहोत्सवः",
+            "text": "",
+            "feature": "",
+            "page": "0018ba-0018be",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        }
+    ]
+}

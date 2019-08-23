@@ -1,0 +1,138 @@
+{
+    "journal": "Trimasika",
+    "journalID": "002",
+    "volume": "016",
+    "issue": "04",
+    "month": "डिसेंबर्",
+    "year": "१९४०",
+    "id": "002/016/04",
+    "toc": [
+        {
+            "title": "मकुटाभिषेकवैजयन्ती",
+            "text": "",
+            "feature": "",
+            "page": "0001-0002",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "श्रीमज्जयचामराजपट्टाभिषेकमङ्गलाशंसनपद्यमाला",
+            "text": "",
+            "feature": "",
+            "page": "0003-0008",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "ज्यौतिषरत्नं करूरु शेषाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                },
+                {
+                    "name": "विद्वांसः पि. आर्. शिवसुब्रह्मण्यशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                },
+                {
+                    "name": "काव्यकलानिधयः चिदम्बरशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                },
+                {
+                    "name": "टि. कृष्णमाचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "श्रीमज्जयचामराजपट्टाभिषेकप्रमोदपद्यावळिः",
+            "text": "",
+            "feature": "",
+            "page": "0008aa-0008ag",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "तिरुमले सत्यागालं श्रीनिवासदेशिकाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "श्रीचामराजेन्द्रविजयोत्सवाशीर्वादः",
+            "text": "",
+            "feature": "",
+            "page": "0008ah-0008ah",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "काव्यकलानिधयः चिदम्बरशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "सव्यभिचारटिप्पणी",
+            "text": "",
+            "feature": "",
+            "page": "0008ai-0008ap",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः आत्मकूरु दीक्षाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "हयशीर्षविलासः",
+            "text": "",
+            "feature": "",
+            "page": "0008aq-0008bg",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "तिरुमले सत्यागालं श्रीनिवासदेशिकाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "दर्शनतत्त्वम्",
+            "text": "",
+            "feature": "",
+            "page": "0008bh-0008bo",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः काशी प्राणेशाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

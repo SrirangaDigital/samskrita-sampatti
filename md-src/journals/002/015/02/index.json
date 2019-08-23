@@ -1,0 +1,157 @@
+{
+    "journal": "Trimasika",
+    "journalID": "002",
+    "volume": "015",
+    "issue": "02",
+    "month": "जून्",
+    "year": "१९३९",
+    "id": "002/015/02",
+    "toc": [
+        {
+            "title": "सुभाषितानि",
+            "text": "",
+            "feature": "",
+            "page": "000i-000j",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "प्रो. सि. आर्. नरसिंहशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "हंस-मानिनीसंवादः",
+            "text": "",
+            "feature": "",
+            "page": "0001-0006",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महाविद्वांसः कुक्के सुब्रह्मण्यशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "काव्यजिज्ञासा (vii)",
+            "text": "",
+            "feature": "",
+            "page": "0061-0076",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः पि. आर्. शिवसुब्रह्मण्यशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "हयशीर्षविलासः (i)",
+            "text": "",
+            "feature": "",
+            "page": "0076aa-0076ap",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "निरुमले सत्यागालं श्रीनिवासदेशिकाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "भारतषोडशी",
+            "text": "",
+            "feature": "",
+            "page": "0076aq-0076as",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महाविद्वांसः कुक्के सुब्रह्मण्यशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "यादवाभ्युदयम्",
+            "text": "",
+            "feature": "",
+            "page": "0076at-0076at",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः के. श्रीनिवासरङ्गाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "लक्ष्मीस्तुतिपञ्चकम्",
+            "text": "",
+            "feature": "",
+            "page": "0076au-0076au",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः एस्. वेङ्कटाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "राजाशीर्वचन पद्यावळिः",
+            "text": "",
+            "feature": "",
+            "page": "0076aw-0076aw",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "धर्माधिकारि पौराणिकरत्न होळवनहळ्ळि शेषाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "डृक्पञ्चाङ्गविमर्शशुद्धिपत्रम्",
+            "text": "",
+            "feature": "",
+            "page": "0076ax-0076ay",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "journal": "Trimasika",
+    "journalID": "002",
+    "volume": "002",
+    "issue": "03",
+    "month": "जुलै",
+    "year": "१९२६",
+    "id": "002/002/03",
+    "toc": [
+        {
+            "title": "प्रमाणपरीक्षा",
+            "text": "",
+            "feature": "",
+            "page": "0109-0119",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "क्यांट्नामक पाश्चात्य विद्वद्वरविरचित ग्रंथसारः डाक्टर् अर्थशास्त्रविशारद शामशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "ज्योतिश्शास्त्रस्य वेदमूलत्वम्",
+            "text": "",
+            "feature": "",
+            "page": "0120-0134",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "संस्कृतमहापाठशालाज्योतिश्शास्त्र प्रधानोपाध्यायाः ज्यौतिषरत्नं नरहरिज्यौतिषिकाः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "महिशूरदेसाभ्युदयचम्पूप्रबन्धः",
+            "text": "",
+            "feature": "",
+            "page": "0135-0152",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "आस्थानमहाविद्वांसः सहस्त्रनाम सीतारामशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "पाठशालावृत्तान्तः",
+            "text": "",
+            "feature": "",
+            "page": "0153-0156",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महापाठशालाध्यक्षः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

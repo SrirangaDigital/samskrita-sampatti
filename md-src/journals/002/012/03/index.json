@@ -1,0 +1,143 @@
+{
+    "journal": "Trimasika",
+    "journalID": "002",
+    "volume": "012",
+    "issue": "03",
+    "month": "जुलै",
+    "year": "१९३६",
+    "id": "002/012/03",
+    "toc": [
+        {
+            "title": "सुभाषितानि",
+            "text": "",
+            "feature": "",
+            "page": "0001-0002",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "ताम्बूलमीमांसा",
+            "text": "",
+            "feature": "",
+            "page": "0002a-0006",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महामहोपाध्यायाः सिद्धान्ति शिवशङ्करशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "साहित्यतत्त्वम्",
+            "text": "",
+            "feature": "",
+            "page": "0006aa-0006ah",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "आस्थानविद्वांसः तिरुमले सत्यागालं कृष्णदेशिकाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "काव्यजिज्ञासा",
+            "text": "",
+            "feature": "",
+            "page": "0006ai-0006ap",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः पि. आर्. शिवसुब्रह्मण्यशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "श्रीवेलापुरीयसौम्यकेशवोत्सवमालिका-(अनुवृत्तः)",
+            "text": "",
+            "feature": "",
+            "page": "0006aq-0006ay",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "श्रीकृष्णब्रह्मतन्त्रपरकालसंयमीन्द्राः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "वृन्दावनम्",
+            "text": "",
+            "feature": "",
+            "page": "0006az-0006be",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महाविद्वांसः कुक्के सुब्रह्मण्यशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "योगवादः",
+            "text": "",
+            "feature": "",
+            "page": "0006bf-0006bl",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः काशी प्रणेशाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "पत्रिकासमालोचना",
+            "text": "",
+            "feature": "",
+            "page": "0006bm-0006bo",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "वादभूमिः",
+            "text": "",
+            "feature": "",
+            "page": "0006bp-0006bq",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "journal": "Trimasika",
+    "journalID": "002",
+    "volume": "012",
+    "issue": "01-02",
+    "month": "जनवरि, एप्रिल्",
+    "year": "१९३६",
+    "id": "002/012/01-02",
+    "toc": [
+        {
+            "title": "सुभाषितानि",
+            "text": "",
+            "feature": "",
+            "page": "0001-0001",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "धातृवत्सरारम्भमङ्गलाशासनम्",
+            "text": "",
+            "feature": "",
+            "page": "0001a-0001b",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "आस्थानमहाविद्वांसः करूरु शेषाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "करुणरसतरङ्गिणी",
+            "text": "",
+            "feature": "",
+            "page": "0001c-0005",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः जग्गू आळ्वारय्यङ्गार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "योगवादः (समाप्तः)",
+            "text": "",
+            "feature": "",
+            "page": "0047-0054",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः काशी प्राणेशाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "श्रुतिप्रामाण्यविषयः",
+            "text": "",
+            "feature": "",
+            "page": "0054aa-0054ab",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "चि. महादेवय्य",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "श्रीकृष्णराजयशोवर्णनम्",
+            "text": "",
+            "feature": "",
+            "page": "0054ac-0054ae",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "पण्डित श्रीनिवासदेशिकाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "वादभूमिः",
+            "text": "",
+            "feature": "",
+            "page": "0054af-0054ah",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः जग्गू वेङ्कटाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "श्रीकृष्णराजनवनीतसुधोपहारः",
+            "text": "",
+            "feature": "",
+            "page": "0054ai-0054au",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "पण्डित श्रीनिवासदेशिकाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "श्रौतप्रकाशिका",
+            "text": "",
+            "feature": "",
+            "page": "0054ax-0054ag",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः रा. नारायणस्वामिदीक्षिताः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "स्वर्णमुक्तासंवादः (तालापत्रपुस्तकतः)",
+            "text": "",
+            "feature": "",
+            "page": "0054bh-0054bs",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "श्रीवेलापुरीयसौम्यकेशवोत्सवमालिका-(अनुवृत्तः)",
+            "text": "",
+            "feature": "",
+            "page": "0054bt-0054cf",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "श्रीकृष्णब्रह्मतन्त्रपरकालसंयमीन्द्राः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

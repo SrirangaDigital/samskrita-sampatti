@@ -1,0 +1,96 @@
+{
+    "journal": "Trimasika",
+    "journalID": "002",
+    "volume": "002",
+    "issue": "01",
+    "month": "जनवरि",
+    "year": "१९२६",
+    "id": "002/002/01",
+    "toc": [
+        {
+            "title": "पत्रिकाविषयः. (स्वविषयः)",
+            "text": "",
+            "feature": "",
+            "page": "0001-0007",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "संपादकः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "वैदिकधर्मप्ररोचनम्",
+            "text": "",
+            "feature": "",
+            "page": "0008-0026",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "संस्कृतमहापाठशाला तर्कशास्त्र प्रधानोपाध्यायाः महाविद्वांसः आत्मकूरु रङ्गाचार्याः [इदानीं श्री परकालमठमहास्थानी मलंकुर्वाणाः]",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "वेदभाषा-शेषांशः",
+            "text": "",
+            "feature": "",
+            "page": "0027-0034",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महाविद्वांसः वि।। शामाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "महीशूरराज्याभिवृद्दिचम्पू",
+            "text": "",
+            "feature": "",
+            "page": "0035-0053",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "संस्कृत महापाठशाला वेदभाष्यप्रधानोपाध्यायाः महाविद्वांसः करपत्तूरु वेङ्कटरामशाश्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "क्रोधनसंवत्सर विद्वत्परीक्षा वृत्तान्तसंग्रहः",
+            "text": "",
+            "feature": "",
+            "page": "0054-0060",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महापाठशालाध्यक्षः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

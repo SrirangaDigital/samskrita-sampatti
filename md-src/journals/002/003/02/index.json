@@ -1,0 +1,79 @@
+{
+    "journal": "Trimasika",
+    "journalID": "002",
+    "volume": "003",
+    "issue": "02",
+    "month": "एप्रिल्",
+    "year": "१९२७",
+    "id": "002/003/02",
+    "toc": [
+        {
+            "title": "श्रीकृष्णनृपोदयप्रबन्धः",
+            "text": "",
+            "feature": "",
+            "page": "0049-0066",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "शिवमोग्गाभिजना श्री।। कुक्के. सुब्रह्मण्यशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "वेदसमयविमर्शः",
+            "text": "",
+            "feature": "",
+            "page": "0067-0086",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महापाठशाला साहित्य प्रधानोपाध्यायाः श्री।। के. गोपालकृष्णशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "महापाठशालावृत्तान्तः",
+            "text": "",
+            "feature": "",
+            "page": "0087-0090",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "पाठशालाध्यक्षाः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "पूर्वमीमांसाभाष्यभूषणम्",
+            "text": "",
+            "feature": "",
+            "page": "0091-0098",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महामहोपाध्यायाः पण्डितरत्नं लक्ष्मीपुरं श्रीनिवासाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

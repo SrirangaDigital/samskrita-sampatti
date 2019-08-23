@@ -1,0 +1,96 @@
+{
+    "journal": "Trimasika",
+    "journalID": "002",
+    "volume": "017",
+    "issue": "02",
+    "month": "जून्",
+    "year": "१९४१",
+    "id": "002/017/02",
+    "toc": [
+        {
+            "title": "अपर्णाचरणाभरणम्",
+            "text": "",
+            "feature": "",
+            "page": "0001-0008",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः ब्र।। श्री।। पि. एस्. वेङ्कटाचालशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "श्रीहयवदनविजयः-श्रीवेङ्कटराघवसूरिविरचितः",
+            "text": "",
+            "feature": "",
+            "page": "0015-0022",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "ज्यौतिषरत्नं ब्र।। श्री।। करूरु शेषाचार्यैश्शोधितः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "हयशीर्षविलासः",
+            "text": "",
+            "feature": "",
+            "page": "0065-0080",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "ब्र।। श्री।। पण्डित ति. स. श्रीनिवासदेशिकाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "तन्त्रतत्वाधिजिगांसा",
+            "text": "",
+            "feature": "",
+            "page": "0080a-0080h",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः ब्र।। श्री।। पि. आर्. शिवसुब्रह्मण्यशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "धर्मतत्त्वदर्पणम्",
+            "text": "",
+            "feature": "",
+            "page": "0080i-0080p",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः ब्र।। श्री।। यं. एन्. वेङ्कटेशशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

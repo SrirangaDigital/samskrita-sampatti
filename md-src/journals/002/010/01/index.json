@@ -1,0 +1,96 @@
+{
+    "journal": "Trimasika",
+    "journalID": "002",
+    "volume": "010",
+    "issue": "01",
+    "month": "जनवरि",
+    "year": "१९३४",
+    "id": "002/010/01",
+    "toc": [
+        {
+            "title": "तुतातभट्टाचार्यः",
+            "text": "",
+            "feature": "",
+            "page": "0002-0016",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः काशी प्राणेशाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "आत्मनो महिमा तच्छक्तिश्च (अनुवर्तते)",
+            "text": "",
+            "feature": "",
+            "page": "0017-0032",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः पि. आर्. शिवसुब्रह्मण्यशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "मुखरमुखमुकुरम् (प्रहसनम्)",
+            "text": "",
+            "feature": "",
+            "page": "0032aa-0032an",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महाविद्वांसः कुक्के सुब्रह्मण्यशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "कश्चन विमर्शः",
+            "text": "",
+            "feature": "",
+            "page": "0032ao-0032as",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महाविद्वांसः क. गोपालकृष्णशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "संपादकविज्ञप्तिः",
+            "text": "",
+            "feature": "",
+            "page": "0032at-0032at",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "संपादकः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

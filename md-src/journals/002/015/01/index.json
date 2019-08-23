@@ -1,0 +1,147 @@
+{
+    "journal": "Trimasika",
+    "journalID": "002",
+    "volume": "015",
+    "issue": "01",
+    "month": "मार्च्",
+    "year": "१९३९",
+    "id": "002/015/01",
+    "toc": [
+        {
+            "title": "सुभाषितानि",
+            "text": "",
+            "feature": "",
+            "page": "000i-000j",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "प्रो. सि. आर्. नरसिंहशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "इन्द्रध्वजलक्षणम्",
+            "text": "",
+            "feature": "",
+            "page": "0001-0006",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महाविद्वांसः करूरु शेषाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "काव्यजिज्ञासा (vi)",
+            "text": "",
+            "feature": "",
+            "page": "0045-0060",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः पि. आर्. शिवसुब्रह्मण्यशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "उत्तररामचरिते रसविवेचनम् (i)",
+            "text": "",
+            "feature": "",
+            "page": "0060aa-0060ah",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः काशी प्राणेशाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "सव्यभिचारटिप्पणी (i)",
+            "text": "",
+            "feature": "",
+            "page": "0060ai-0060ap",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः आत्मकूरु दीक्षाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "राजाशीर्वचन पद्यावळिः",
+            "text": "",
+            "feature": "",
+            "page": "0060aq-0060ay",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "पण्डित सत्यागालं श्रीनिवासदेशिकाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "नव्यप्रमाथिवत्सरारम्भमङ्गलाशंसनम्",
+            "text": "",
+            "feature": "",
+            "page": "0060az-0060ba",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महाविद्वांसः करूरु शेषाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "उदन्तसंन्दोहः",
+            "text": "",
+            "feature": "",
+            "page": "0066bd-0066be",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः काशी प्राणेशाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

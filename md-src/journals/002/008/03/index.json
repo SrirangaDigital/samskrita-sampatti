@@ -1,0 +1,96 @@
+{
+    "journal": "Trimasika",
+    "journalID": "002",
+    "volume": "008",
+    "issue": "03",
+    "month": "जुलै",
+    "year": "१९३२",
+    "id": "002/008/03",
+    "toc": [
+        {
+            "title": "कुवलयानन्दपाठसंशोधनम् VIII",
+            "text": "",
+            "feature": "",
+            "page": "0108-0112",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महाविद्वांसः क. गोपालकृष्णशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "अमिलिया गलेत्तिरिति नाटकम्",
+            "text": "",
+            "feature": "",
+            "page": "0113-0151",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महामहोपाध्यायाः अर्थशास्त्रविशारदाः शामशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "केम्मण्णुगुण्डिः (शोणशैलमधिकृत्य)",
+            "text": "",
+            "feature": "",
+            "page": "0152-0155",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "कुक्के, सुब्रह्मण्यशर्माणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "श्रवणानन्दः (श्रीवेङ्कटाध्वरिविरचितः)",
+            "text": "",
+            "feature": "",
+            "page": "0156-0159",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "श्रीयोगनरशिह्मार्यैः परिशोधितः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "श्रीमन्महाराजजन्मोत्सवशुभाशंसनश्लोकाः",
+            "text": "",
+            "feature": "",
+            "page": "0160-0160",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्यार्थी नारायणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

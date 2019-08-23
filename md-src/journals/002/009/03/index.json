@@ -1,0 +1,113 @@
+{
+    "journal": "Trimasika",
+    "journalID": "002",
+    "volume": "009",
+    "issue": "03",
+    "month": "जुलै",
+    "year": "१९३३",
+    "id": "002/009/03",
+    "toc": [
+        {
+            "title": "श्रवणानन्दे (श्रीवेङ्कटाध्वरिविरचिते) द्वितीयशतकम्",
+            "text": "",
+            "feature": "",
+            "page": "0081-0100",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "श्रीयोगनरसिह्मार्यैः परिशोधितः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "पञ्चरत्नम्",
+            "text": "",
+            "feature": "",
+            "page": "0101-0101",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "करूरु शेषाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "प्रदोषसङ्खः",
+            "text": "",
+            "feature": "",
+            "page": "0102-0102",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्यार्थी-टि. आर्. चेन्निगरायपौराणिकः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "प्रमोदविषयः",
+            "text": "",
+            "feature": "",
+            "page": "0103-0104",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्यार्थी-एन्. नरसिह्माचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "बीजफलविमर्शः",
+            "text": "",
+            "feature": "",
+            "page": "0105-0120",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महाविद्वांसः करूरु शेषाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "अदृष्टपरीक्षा",
+            "text": "",
+            "feature": "",
+            "page": "0121-0128",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महामहोपाध्यायाः पण्डितरत्नं लक्ष्मीपुरं श्रीनिवासाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "journal": "Trimasika",
+    "journalID": "002",
+    "volume": "008",
+    "issue": "04",
+    "month": "अक्टोबर्",
+    "year": "१९३२",
+    "id": "002/008/04",
+    "toc": [
+        {
+            "title": "अङ्गत्वनिरुक्तिः (अनुवृत्ता)",
+            "text": "",
+            "feature": "",
+            "page": "0162-0173",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः श्री आरडिकुप्पं सुब्रह्मण्यशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "हिन्दूधर्मशास्त्रसमितेः प्रश्नानां समाधाननिर्णयसंक्षेपः",
+            "text": "",
+            "feature": "",
+            "page": "0174-0191",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः श्री शिवसुब्रह्मण्यशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "विभ्रमविवेकविमर्शः",
+            "text": "",
+            "feature": "",
+            "page": "0192-0193",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महामहोपाध्यायाः पण्डितरत्नं लक्ष्मीपुरं श्रीनिवासाचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

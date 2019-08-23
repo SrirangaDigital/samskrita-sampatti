@@ -1,0 +1,225 @@
+{
+    "journal": "Trimasika",
+    "journalID": "002",
+    "volume": "025",
+    "issue": "01-02",
+    "month": "मार्च्-जून्",
+    "year": "१९४९",
+    "id": "002/025/01-02",
+    "toc": [
+        {
+            "title": "सुभाषितानि",
+            "text": "",
+            "feature": "",
+            "page": "000i-000j",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "प्रो।। सि. आर्. नरसिंहशास्त्री, एं.ए.",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "नव्यवत्सरारम्भमङ्गलाशंसनम्",
+            "text": "",
+            "feature": "",
+            "page": "000k-000k",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "ज्यौतिषरत्नं धर्माधिकारी ब्र. श्री करूरु शेषाचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "व्याळिशिक्षा",
+            "text": "",
+            "feature": "",
+            "page": "000m-000n",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "ब्र।। श्री।। साहित्यरत्नं महाविद्वान् जग्गु वेङ्कटाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "विदितपदस्य विचारः",
+            "text": "",
+            "feature": "",
+            "page": "0001-0005",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "ब्र।। श्री।। साहित्यरत्नं महाविद्वान् जग्गु वेङ्कटाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "कालिदासमतिशेते भासः",
+            "text": "",
+            "feature": "",
+            "page": "0005b-0005h",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "श्री।। के. एस्. भास्करभट्टः, महापाठशाला विद्यार्थी",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "मुरारिनान्दीश्लोकानुभवः",
+            "text": "",
+            "feature": "",
+            "page": "0013-0020",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "श्री।। ए. वि . गोपालाचार्यः, एं. ए., बि.एल्.",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "लौकिकगाथाचतुश्शती",
+            "text": "",
+            "feature": "",
+            "page": "0020a-0020h",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "ज्यौतिषरत्नं धर्माधिकारी ब्र. श्री. करूरु शेषाचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "व्याळिशिक्षा",
+            "text": "",
+            "feature": "",
+            "page": "0065-0076",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "ब्र।। श्री।। विद्वान् केशवशिवघनपाठी",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "मञ्जुळमञ्जीरस्योपोद्धातः (मुखपत्रसहितः)",
+            "text": "",
+            "feature": "",
+            "page": "0076aa-0076ae",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "ब्र।। श्री।। विद्वान् जग्गु आळ्वारय्यङ्गार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "विजयतां गैर्वाणी वाणी",
+            "text": "",
+            "feature": "",
+            "page": "0076ag-0076aj",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "ज्यौतिषरत्नं, धर्माधिकारी ब्र।। श्री।। करूरु शेषाचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "गोदासूक्तसर्वस्वम्",
+            "text": "",
+            "feature": "",
+            "page": "0076ak-0076ar",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "श्रीकाञ्जीप्रतिवादिभयङ्कर ब्र।। श्री।। अण्णङ्गराचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "कीर्तिसेना (मुखपत्रसहिता)",
+            "text": "",
+            "feature": "",
+            "page": "0076as-0076bb",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "ब्र।। श्री।। विद्वान् एन्. नरसिंहाचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "हस्तलिखितपुस्तकानां सविवरणसूचनी",
+            "text": "",
+            "feature": "",
+            "page": "0076bf-0076bm",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        }
+    ]
+}

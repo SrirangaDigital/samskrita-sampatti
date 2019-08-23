@@ -1,0 +1,225 @@
+{
+    "journal": "Trimasika",
+    "journalID": "002",
+    "volume": "027",
+    "issue": "01-04",
+    "month": "मार्च्-डिसेंबर",
+    "year": "१९५१",
+    "id": "002/027/01-04",
+    "toc": [
+        {
+            "title": "सुभाषितानि",
+            "text": "",
+            "feature": "",
+            "page": "0001-0002",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "ब्र।। श्री।। सि. रामचन्द्राचार्यः, मैसूरु",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "व्यासशिक्षा",
+            "text": "",
+            "feature": "",
+            "page": "0023-0038",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "सङ्ग्रहकारः-ब्र।। श्री।। विद्वान् कृष्णघनपाठी, मैसूरु",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "केरलप्रश्नमाला (मुखपत्रसहिता, भूमिका)",
+            "text": "",
+            "feature": "",
+            "page": "0038aa-0038ap",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "ज्यौतिषरत्नं, धर्माधिकारी ब्र।। श्री।। करूरु शेषाचार्यः, मैसूरु",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "श्रीभार्गवीग्रीवाभरणम्",
+            "text": "",
+            "feature": "",
+            "page": "0038aq-0038ay",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महामहोपाध्यायः, मद्रप्रान्तास्थानकविः पण्डितराजः, कृष्णमूर्तिशास्त्री, मधुरा",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "ज्योतिश्शास्त्रविचारप्रकटना",
+            "text": "",
+            "feature": "",
+            "page": "0038az-0038bc",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वत्सज्जनकृपाभिलाषी, ज्योतिःसिद्धान्तकेसरी, वेंकटसुब्बाशास्त्री, कोळ्ळेगाल",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "व्याळिशिक्षा",
+            "text": "",
+            "feature": "",
+            "page": "0038bd-0038cg",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "ब्र।। श्री।। विद्वान् केशवशिवघनपाठी, बेङ्गळूरु",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "विक्रमोर्वशीय नान्दीश्लोकानुभवः",
+            "text": "",
+            "feature": "",
+            "page": "0038ci-0038db",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "प्रबन्धा अ. वे. गोपालाचार्यः, तिरुचिनापल्ली",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "महाकविह्र्त्रइदयरत्नाकरपरानुस्मरणी स्फूर्तिः",
+            "text": "",
+            "feature": "",
+            "page": "0038dd-0038dw",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "पण्डितरत्नं ब्र।। श्री।। पि. आर्. शिवसुब्रह्मण्यशास्त्री, मैसूरु",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "हस्तलिखितपुस्तकानां सविवरणसूचनी",
+            "text": "",
+            "feature": "",
+            "page": "0038dy-0038en",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "केरलप्रश्नमाला",
+            "text": "",
+            "feature": "",
+            "page": "0038eo-0038ew",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "ज्यौतिषरत्नं, धर्माधिकारी ब्र।। श्री।। करूरु शेषाचार्यः, मैसूरु",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "भुवनेऽस्मिन् कवयो निरङ्कुशाः",
+            "text": "",
+            "feature": "",
+            "page": "0038ex-0038fa",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "ले. डा. शिवनाथशर्मा शास्त्री साहित्याचार्यः पुरातत्त्वविशारदः विद्यावारिधिः डी. ओ. सी. आदि. प्राध्यापकः गवर्न्मेण्ट् ओरियण्टल् कालेज्, श्रीनगर-काश्मीर",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "लक्ष्मीकल्याणम् मुखपत्रसहितम्",
+            "text": "",
+            "feature": "",
+            "page": "0038fb-0038fs",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "ब्र।। श्री।। सरसकविराजः रामानुजाचार्यः, मद्रपुरी",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "बन्धश्लोकः, मुखपत्रसहितः, भूमिकाभूषितश्च",
+            "text": "",
+            "feature": "",
+            "page": "0038ft-0038hl",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "ब्र।। श्री।। ति. स. श्रीनिवासदेशिकाचार्यः, मैसूरु",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

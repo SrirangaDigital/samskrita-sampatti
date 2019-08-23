@@ -1,0 +1,79 @@
+{
+    "journal": "Trimasika",
+    "journalID": "002",
+    "volume": "020",
+    "issue": "02",
+    "month": "जून्",
+    "year": "१९४४",
+    "id": "002/020/02",
+    "toc": [
+        {
+            "title": "सुभाषितानि",
+            "text": "",
+            "feature": "",
+            "page": "0001-0002",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "प्रो।। सि।। आर्. नरसिंहशास्त्रिणः, एं.ए.",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "श्री हयवदनविजयः - (श्रीवेङ्कटराघवसूरिविरचितः) मुखपत्रोपोद्धातविषयानुक्रमणिकाः",
+            "text": "",
+            "feature": "",
+            "page": "0002a-0073",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "ब्र।। श्री।। धर्माधिकारिभिः ज्यौतिषरत्नैः करूरु शेषाचार्यैश्शोधितः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "मञ्जुळमञ्जीरं नाम नाटकम्",
+            "text": "",
+            "feature": "",
+            "page": "0093-0100",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "ब्र।। श्री।। विद्वांसः जग्गु आळ्वारय्यङ्गार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "नारदीया शिक्षा",
+            "text": "",
+            "feature": "",
+            "page": "0100a-0100h",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "ब्र।। श्री।। विद्वांसः रा. नारायणस्वामिदीक्षिताः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

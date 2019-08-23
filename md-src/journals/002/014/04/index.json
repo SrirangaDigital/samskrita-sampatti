@@ -1,0 +1,123 @@
+{
+    "journal": "Trimasika",
+    "journalID": "002",
+    "volume": "014",
+    "issue": "04",
+    "month": "अक्टोबर्",
+    "year": "१९३८",
+    "id": "002/014/04",
+    "toc": [
+        {
+            "title": "सुभाषितानि",
+            "text": "",
+            "feature": "",
+            "page": "0001-0001",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "प्रो. सि. आर्. नरसिंहशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "श्रीमद्ब्रह्मतन्त्रपरकालमठीय षष्टितम (बहुधान्यवात्सरिक) विद्वत्सभोदन्तः",
+            "text": "",
+            "feature": "",
+            "page": "0002-0008",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "सनातनभौतिकविज्ञानम्",
+            "text": "",
+            "feature": "",
+            "page": "0027-0038",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "श्री वेङ्कटरमणार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "ब्र।। श्री।। विरूपाक्षशास्त्रिणां भावचित्रानावरण महोत्सवः",
+            "text": "",
+            "feature": "",
+            "page": "0039aa-0039ac",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः आ. सुब्रह्मण्यशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "अनाद्यादिदम्पती (ii)",
+            "text": "",
+            "feature": "",
+            "page": "0039ad-0039ag",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महामहोपाध्याय विद्यालङ्कार अर्थशास्त्रविशारद डा. शामशास्त्रिवर्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "काव्यजिज्ञासा (अनुवृत्ता)",
+            "text": "",
+            "feature": "",
+            "page": "0039ah-0039as",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः पि. आर्. शिवसुब्रह्मण्यशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "व्युत्पत्तिवाद टिप्पणी (iii)",
+            "text": "",
+            "feature": "",
+            "page": "0039at-0039bd",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "प्रकाशकाः-विद्वांसः डि. कृष्णमूर्त्याचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

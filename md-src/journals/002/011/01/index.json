@@ -1,0 +1,139 @@
+{
+    "journal": "Trimasika",
+    "journalID": "002",
+    "volume": "011",
+    "issue": "01",
+    "month": "जनवरि",
+    "year": "१९३५",
+    "id": "002/011/01",
+    "toc": [
+        {
+            "title": "सुभाषितानि",
+            "text": "",
+            "feature": "",
+            "page": "0001-0002",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "वत्सरारम्भमङ्गलाशासनम्",
+            "text": "",
+            "feature": "",
+            "page": "0003-0004",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "नरेन्द्राष्टकम्",
+            "text": "",
+            "feature": "",
+            "page": "0005-0006",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "एम्. जि. पाटील",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "आवेदनम्",
+            "text": "",
+            "feature": "",
+            "page": "0006-0006",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "नव्यन्यायचरितम् (समाप्तम्)",
+            "text": "",
+            "feature": "",
+            "page": "0009-0010",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः काशी प्राणेशाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "दयातत्त्वसमीक्षा (समाप्ता)",
+            "text": "",
+            "feature": "",
+            "page": "0025-0037",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः पि. आर्. शिवसुब्रह्मण्यशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "योगवादः (अनुवृत्तः)",
+            "text": "",
+            "feature": "",
+            "page": "0037aa-0037ac",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "लोचनोल्लासः (अनुवृत्तः)",
+            "text": "",
+            "feature": "",
+            "page": "0037ad-0037as",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "श्रीकृष्णब्रह्मतत्त्वपरकालसंयमिनः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "उदन्तसन्दोहः",
+            "text": "",
+            "feature": "",
+            "page": "0037at-0037ay",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "सम्पादकभूमिः",
+            "text": "",
+            "feature": "",
+            "page": "0037ay-0037bb",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        }
+    ]
+}

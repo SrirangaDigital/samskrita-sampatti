@@ -1,0 +1,96 @@
+{
+    "journal": "Trimasika",
+    "journalID": "002",
+    "volume": "002",
+    "issue": "04",
+    "month": "अक्टोबर्",
+    "year": "१९२६",
+    "id": "002/002/04",
+    "toc": [
+        {
+            "title": "लोकतत्त्वम्",
+            "text": "",
+            "feature": "",
+            "page": "0157-0167",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "संपादकः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "भाषातत्त्वम्",
+            "text": "",
+            "feature": "",
+            "page": "0168-0192",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "डाक्टर् अर्थशास्त्रविशारद शामाशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "दर्शनमीमांसा...",
+            "text": "",
+            "feature": "",
+            "page": "0193-0219",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "संपादकः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "पाठशालानुबन्धिवृत्तान्तः",
+            "text": "",
+            "feature": "",
+            "page": "0220-0258",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "पण्डिताः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "पञ्चाशत्सवत्संरमहोत्सवीयविज्ञप्तिः",
+            "text": "",
+            "feature": "",
+            "page": "0259-0268",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महापाठशालाध्यक्षः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

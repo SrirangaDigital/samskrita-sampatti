@@ -1,0 +1,109 @@
+{
+    "journal": "Trimasika",
+    "journalID": "002",
+    "volume": "003",
+    "issue": "01",
+    "month": "जनवरि",
+    "year": "१९२७",
+    "id": "002/003/01",
+    "toc": [
+        {
+            "title": "पत्रिकाविषयः, स्वविषयः",
+            "text": "",
+            "feature": "",
+            "page": "000e-000h",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "संपादकः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "संस्कृतभाषा",
+            "text": "",
+            "feature": "",
+            "page": "0001-0005",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "जि. वेंकटनरसिंहशास्त्रिणः, प्राच्यकोशागारपण्डिताः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "महिशूरदेशाभ्युदय चम्पूः",
+            "text": "",
+            "feature": "",
+            "page": "0006-0021",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "आस्थान महाविद्वांसः सहस्त्रनाम सीताराम शास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "महापाठशाला वृत्तान्तः (श्रीमन्महाराज सुभाषितम्)",
+            "text": "",
+            "feature": "",
+            "page": "0022-0027",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "ज्योतिश्शास्त्रावतरणम्",
+            "text": "",
+            "feature": "",
+            "page": "0028-0036",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "करूरु शेषाचार्याः, पाठशाला ज्योतिश्शास्त्र प्रधानोपाध्यायाः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "विद्वत्परीक्षा वृत्तान्तपत्रिका",
+            "text": "",
+            "feature": "",
+            "page": "0037-0041",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "पञ्चाशत्संवत्सर महोत्सववृत्तान्तः",
+            "text": "",
+            "feature": "",
+            "page": "0042-0047",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        }
+    ]
+}

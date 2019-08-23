@@ -1,0 +1,140 @@
+{
+    "journal": "Trimasika",
+    "journalID": "002",
+    "volume": "005",
+    "issue": "02",
+    "month": "एप्रिल्",
+    "year": "१९२९",
+    "id": "002/005/02",
+    "toc": [
+        {
+            "title": "सम्पादकीयम्",
+            "text": "",
+            "feature": "",
+            "page": "0054-0058",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "पाञ्चात्यप्रमाणतत्वम्",
+            "text": "",
+            "feature": "",
+            "page": "0059-0069",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "अर्थशास्त्रविशारदाः डाक्टर् आर्. शामशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "विशिष्टाद्वैतम्-(पूर्वतॊऽनुवृत्तम्)",
+            "text": "",
+            "feature": "",
+            "page": "0070-0075",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महामहोपाध्याय-पण्डितरत्नं-लष्मीपुरं श्रीनिवासाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "उपनयनमीमांसा",
+            "text": "",
+            "feature": "",
+            "page": "0076-0083",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "श्रीमन्महाराजास्थानधर्माधिकारिणः महाविद्वांसः काशी शेष वेङ्कटाचलशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "कुन्दमालाविमर्शः-(अनुवृत्तः)",
+            "text": "",
+            "feature": "",
+            "page": "0084-0092",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महाविद्वांसः साहित्यप्रधानोपाध्यायाः के. गोपालकृष्णशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "अभिनवसुभाषितावलिः",
+            "text": "",
+            "feature": "",
+            "page": "0093-0096",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महापाठशालोपाध्यायाः श्रीमन्तः एच्. एल्. हरियप्पार्याः, एं.ए.",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "महापाठशालावृत्तान्तः",
+            "text": "",
+            "feature": "",
+            "page": "0097-0100",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "श्रीमन्तः एच. एल्. हरियप्पार्याः, एं.ए.",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "श्रवणानन्दम्",
+            "text": "",
+            "feature": "",
+            "page": "0101-0107",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "श्री वेङ्कटाध्वरीकृतम् महापाठशालाध्यक्षैः श्रीमभ्दिः एच्. योगनरसिंहार्यैः परिशोधितम्",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

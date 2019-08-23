@@ -1,0 +1,116 @@
+{
+    "journal": "Trimasika",
+    "journalID": "002",
+    "volume": "012",
+    "issue": "04",
+    "month": "अक्टोबर्",
+    "year": "१९३६",
+    "id": "002/012/04",
+    "toc": [
+        {
+            "title": "वर्णापदेशः",
+            "text": "",
+            "feature": "",
+            "page": "0001-0002",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "साहित्यतत्त्वम् (अनुवृत्तम्)",
+            "text": "",
+            "feature": "",
+            "page": "0017-0022",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "आस्थानविद्वांसः तिरुमले सत्यागालं कृष्णदेशिकाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "व्युत्पत्तिवादस्य अनन्ताचार्यकृतटिप्पणी",
+            "text": "",
+            "feature": "",
+            "page": "0022aa-0022ah",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "सूक्तिसुधाकणः",
+            "text": "",
+            "feature": "",
+            "page": "0022ai-0022at",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "पण्डित श्रीनिवासदेशिकाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "श्रौतप्रकाशिका (अनुवृत्ता)",
+            "text": "",
+            "feature": "",
+            "page": "0022au-0022ay",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः रा. नारायणस्वामिदीक्षिताः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "श्रीवेलापुरीयसौम्यकेशवोत्सवमालिका-(अनुवृत्ता)",
+            "text": "",
+            "feature": "",
+            "page": "0022az-0022bf",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "श्रीकृष्णब्रह्मतन्त्रपरकालसंयमीन्द्राः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "ग्रन्थसमालोचना",
+            "text": "",
+            "feature": "",
+            "page": "0022bh-0022bi",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "श्रीवेङ्कटरमणार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

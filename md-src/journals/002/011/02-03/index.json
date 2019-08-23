@@ -1,0 +1,136 @@
+{
+    "journal": "Trimasika",
+    "journalID": "002",
+    "volume": "011",
+    "issue": "02-03",
+    "month": "एप्रिल्, जुलै",
+    "year": "१९३५",
+    "id": "002/011/02-03",
+    "toc": [
+        {
+            "title": "ग्राहकमहाशयेषु विज्ञप्तिः",
+            "text": "",
+            "feature": "",
+            "page": "0037bl-0037bl",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "मासावतरणिका सुभाषितानि च",
+            "text": "",
+            "feature": "",
+            "page": "0037bn-0037bo",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "योगवादः (अनुवृत्तः)",
+            "text": "",
+            "feature": "",
+            "page": "0037bp-0042",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः काशी प्राणेशाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "श्रीकृष्णराजजन्मोत्सवहर्षोद्गमः",
+            "text": "",
+            "feature": "",
+            "page": "0042aa-0042ab",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "अङ्गत्वनिरुक्तिः",
+            "text": "",
+            "feature": "",
+            "page": "0042ac-0042ai",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः आरडिकोप्प सुब्रह्मण्यशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "लोचनोल्लासः",
+            "text": "",
+            "feature": "",
+            "page": "0042aj-0042aq",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "श्रीकृष्णब्रह्मतत्त्वपरकालसंयमिनः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "चेतःप्रसादोनाम कालटी कुम्भाभिषेकचम्पूः",
+            "text": "",
+            "feature": "",
+            "page": "0042as-0042cb",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महाविद्वांसः कुक्के सुब्रह्मण्यशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "ग्रन्थविमर्शः",
+            "text": "",
+            "feature": "",
+            "page": "0042cc-0042cf",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "समस्यापूरणम्",
+            "text": "",
+            "feature": "",
+            "page": "0042cf-0042cf",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः पि. पि. लक्ष्मीनारायणोपाध्यायाः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,252 @@
+{
+    "journal": "Trimasika",
+    "journalID": "002",
+    "volume": "016",
+    "issue": "01-02",
+    "month": "मार्च्-जून्",
+    "year": "१९४०",
+    "id": "002/016/01-02",
+    "toc": [
+        {
+            "title": "सुभाषितानि",
+            "text": "",
+            "feature": "",
+            "page": "000i-000j",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "राजाशीर्वादपद्यावळिः",
+            "text": "",
+            "feature": "",
+            "page": "0001-0004",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "पण्डित ति. स. श्रीनिवासदेशिकाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "नव्यविक्रमवत्सरारम्भमङ्गलाशासनम्",
+            "text": "",
+            "feature": "",
+            "page": "0004a-0004b",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "ज्यौतिषरत्नं करूरु शेषाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "भौमान्तरिक्षसंसर्गसमर्थनम्",
+            "text": "",
+            "feature": "",
+            "page": "0017-0034",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "ज्यौतिषरत्नं करूरु शेषाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "नृसिंहजटालक्षणम्",
+            "text": "",
+            "feature": "",
+            "page": "0034ab-0034ah",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "श्रीयुवराजकण्ठीरवनरसिंहराजचरमश्लोकावळिः",
+            "text": "",
+            "feature": "",
+            "page": "0034ai-0034aj",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "ज्यौतिषरत्नं करूरु शेषाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "श्रीहयवदनविजयः-श्रीवेंकटराघवसूरिविरचितः",
+            "text": "",
+            "feature": "",
+            "page": "0034ak-0034ar",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "ज्यौतिषरत्नं करूरु शेषाचार्यैश्शोधितः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "मञ्जुळमञ्जीरम्",
+            "text": "",
+            "feature": "",
+            "page": "0034as-0034ba",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांस जग्गु आल्वारय्यङ्गार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "तन्त्रतत्वाधिजिगांसा",
+            "text": "",
+            "feature": "",
+            "page": "0034bb-0034bi",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः पि. आर्. शिवसुब्रह्मण्यशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "हयशीर्षविलासः",
+            "text": "",
+            "feature": "",
+            "page": "0034bj-0034bq",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "पण्डित ति. स. श्रीनिवासदेशिकाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "श्रीवाणीकर्णाभरणम्",
+            "text": "",
+            "feature": "",
+            "page": "0034br-0034bz",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "श्रीमन्तः कृष्णमूर्तिशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "श्रीकृष्णसार्वभौमाभिनन्दनपद्यमाला",
+            "text": "",
+            "feature": "",
+            "page": "0034ca-0034cb",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "ज्यौतिषरत्नं करूरु शेषाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "श्रीमज्जयचामराजमङ्गळाशंसनपञ्चरत्नम्",
+            "text": "",
+            "feature": "",
+            "page": "0034cc-0034cd",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "ज्यौतिषरत्नं करूरु शेषाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "विमर्शः",
+            "text": "",
+            "feature": "",
+            "page": "0034ce-0034cf",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः क्वाणदेशिकाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "कुलकम्",
+            "text": "",
+            "feature": "",
+            "page": "0034cg-0034cg",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "ब्र. श्री. गोपालाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

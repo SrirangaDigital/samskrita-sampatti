@@ -1,0 +1,123 @@
+{
+    "journal": "Trimasika",
+    "journalID": "002",
+    "volume": "013",
+    "issue": "03",
+    "month": "जुलै - सेप्टम्बर्",
+    "year": "१९३६",
+    "id": "002/013/03",
+    "toc": [
+        {
+            "title": "सुभाषितानि",
+            "text": "",
+            "feature": "",
+            "page": "0001-0002",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "अन्यापदेशः (अनुवर्तते)",
+            "text": "",
+            "feature": "",
+            "page": "0002a-0002j",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "श्रीगीर्वाणेन्द्रदीक्षिताः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "श्रौतप्रकाशिका (समाप्ता)",
+            "text": "",
+            "feature": "",
+            "page": "0023-0032",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः आर्. नारायणस्वामिदीक्षिताः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "श्रीमन्महीशूरदेशीयसंस्कृतविद्याभ्युदयः",
+            "text": "",
+            "feature": "",
+            "page": "0032aa-0032an",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "श्रीवेङ्कटरमणार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "साहित्यविचारः (अनुवर्तते)",
+            "text": "",
+            "feature": "",
+            "page": "0032ao-0032ar",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "आस्थानविद्वांसः टि. श्रीनिवासरङ्गाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "दृक्पञ्चाङ्गविमर्शः (अनुवर्तते)",
+            "text": "",
+            "feature": "",
+            "page": "0032as-0032aw",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "श्रीकृष्णपरमेश्वरभट्टसूरिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "उपासनाकाण्डम् (अनुवर्तते)",
+            "text": "",
+            "feature": "",
+            "page": "0032ax-0032ba",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "पि. आर्. सुब्रह्मण्यशास्त्रिणः बि.ए.",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "journal": "Trimasika",
+    "journalID": "002",
+    "volume": "005",
+    "issue": "04",
+    "month": "अक्टोबर्",
+    "year": "१९२९",
+    "id": "002/005/04",
+    "toc": [
+        {
+            "title": "मनस्तत्त्वम्",
+            "text": "",
+            "feature": "",
+            "page": "0158-0169",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "डाक्टर् आर्. शामशास्त्रिणः, पिएच्.डि., एम्. आर्. ए. एस्.",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "विशिष्टाद्वैतम्",
+            "text": "",
+            "feature": "",
+            "page": "0170-0180",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महामहोपाध्यायाः पण्डितरत्नं लक्ष्मीपुरं श्रीनिवासाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "कुट्टाकारशिरोमणिः (स्वोपज्ञया व्याख्याया संवलितः)",
+            "text": "",
+            "feature": "",
+            "page": "0181-0184",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महाविद्वांसः करूरु शेषाचार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "वालिवधन्यायदृढमञ्चूषा",
+            "text": "",
+            "feature": "",
+            "page": "0185-0192",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "धर्माधिकारिणः महाविद्वांसः काशी शेषवेङ्कटाचलशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "संस्कृत सक्तिमञ्चरी",
+            "text": "",
+            "feature": "",
+            "page": "0196-0205",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महाविद्वांसः मैसूरु सीतागमशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "श्रीशाङ्करवेदान्तः (निरुढ मैसूरु विश्वविद्यानिलय रेजिस्ट्रार्-नामकाधिकारैः वि. सुब्रह्मण्यायांर्थेगङ्लभाषायामारचितप्रबन्धस्य संस्कृतानुवादः)",
+            "text": "",
+            "feature": "",
+            "page": "0206-0207",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "एच्. योगनरसिंहार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

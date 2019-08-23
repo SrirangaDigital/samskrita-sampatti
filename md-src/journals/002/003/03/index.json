@@ -1,0 +1,79 @@
+{
+    "journal": "Trimasika",
+    "journalID": "002",
+    "volume": "003",
+    "issue": "03",
+    "month": "जुलै",
+    "year": "१९२७",
+    "id": "002/003/03",
+    "toc": [
+        {
+            "title": "कविकाव्यविचारः",
+            "text": "",
+            "feature": "",
+            "page": "0099-0111",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "सरलकविसूरिणः चक्रवर्ति राजगोपालाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "व्यवहारतत्त्वम्",
+            "text": "",
+            "feature": "",
+            "page": "0112-0123",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "प्राच्यकोशागार पण्डिताः सो ।। नरसिंहाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "महापाठशालावृत्तान्तः",
+            "text": "",
+            "feature": "",
+            "page": "0124-0126",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "पाठशालाध्यक्षाः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "पूर्वमीमांसाभाष्यभूषणम्",
+            "text": "",
+            "feature": "",
+            "page": "0126aa-0126ax",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महामहोपाध्यायाः पण्डितरत्नं लक्ष्मीपुरं श्रीनिवासाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "journal": "Trimasika",
+    "journalID": "002",
+    "volume": "004",
+    "issue": "02",
+    "month": "एप्रिल्",
+    "year": "१९२८",
+    "id": "002/004/02",
+    "toc": [
+        {
+            "title": "विद्यार्थिपारितोषिकसभा वृत्तान्तः",
+            "text": "",
+            "feature": "",
+            "page": "0025-0038",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "कालदासोपज्ञरसज्ञता",
+            "text": "",
+            "feature": "",
+            "page": "0039-0046",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महाविद्वांसः कन्नंबाडि ।। गोपालकृष्णशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "वर्णाश्रमधर्मः",
+            "text": "",
+            "feature": "",
+            "page": "0047-0062",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्यारत्नाकराः कोडवाशल् नरसिंहाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "महापाठशाला वृत्तान्तः",
+            "text": "",
+            "feature": "",
+            "page": "0063-0068",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "शालाध्यक्षः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "पूर्वमीमांसाभाष्यभूषणम्",
+            "text": "",
+            "feature": "",
+            "page": "0081-0104",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महामहोपाध्यायाः पण्डितरत्नं लक्ष्मीपुरं श्रीनिवासाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

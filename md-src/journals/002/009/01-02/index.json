@@ -1,0 +1,79 @@
+{
+    "journal": "Trimasika",
+    "journalID": "002",
+    "volume": "009",
+    "issue": "01-02",
+    "month": "जनवरि, एप्रिल्",
+    "year": "१९३३",
+    "id": "002/009/01-02",
+    "toc": [
+        {
+            "title": "अङ्गत्वनिरुक्तिः (अनुवृत्ता)",
+            "text": "",
+            "feature": "",
+            "page": "0002-0008",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः श्री आरडिकुप्पं सुब्रह्मण्यशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "अस्पृश्यशास्त्रार्थः",
+            "text": "",
+            "feature": "",
+            "page": "0009-0035",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महामहोपाध्यायाः पण्डितरत्नं लक्ष्मीपुरं श्रीनिवासाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "अखिलकर्णाटकज्यौतिषिकसम्मेलनाध्यक्षभाषणम्",
+            "text": "",
+            "feature": "",
+            "page": "0036-0052",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महाविद्वांसः करूरु शेषाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "आत्मनो महिमा तच्छक्तिश्च (अनुवृत्ता)",
+            "text": "",
+            "feature": "",
+            "page": "0053-0080",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः पि. आर्. शिवसुब्रह्मण्यशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

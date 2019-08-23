@@ -1,0 +1,153 @@
+{
+    "journal": "Trimasika",
+    "journalID": "002",
+    "volume": "014",
+    "issue": "01",
+    "month": "जनवरि-मार्च्",
+    "year": "१९३८",
+    "id": "002/014/01",
+    "toc": [
+        {
+            "title": "नववत्सरोदयः",
+            "text": "",
+            "feature": "",
+            "page": "0001-0001",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "नरस्य सप्तावस्थाः",
+            "text": "",
+            "feature": "",
+            "page": "0001-0002",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "साहित्यविचारः",
+            "text": "",
+            "feature": "",
+            "page": "0013-0018",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "आस्थानविद्वांसः टि. श्रीनिवासरङ्गाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "कवने काश्चन कामिन्यः",
+            "text": "",
+            "feature": "",
+            "page": "0018aa-0018ah",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः काशी प्राणेशाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "अन्यापदेशः",
+            "text": "",
+            "feature": "",
+            "page": "0018ai-0018ao",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "श्रीगीर्वाणेन्द्रदीक्षिताः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "महापाठशालापारितोषिकोत्सवे पठिताः श्लोकाः",
+            "text": "",
+            "feature": "",
+            "page": "0018ap-0018ap",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "शालाया उdnतसन्दोहः",
+            "text": "",
+            "feature": "",
+            "page": "0018aq-0018at",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "उपासनाकाण्डम्",
+            "text": "",
+            "feature": "",
+            "page": "0018au-0018bd",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "पि. आर्. सुब्रह्मण्यशास्त्रिणः बि.ए.)",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "बहुधान्यवत्सरारम्भमङ्गळाशंसनम्",
+            "text": "",
+            "feature": "",
+            "page": "0018bd-0018be",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महाविद्वांसः करूरु शेषाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "करुणरसतरङ्गिणी",
+            "text": "",
+            "feature": "",
+            "page": "0018bf-0018bm",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः जग्गू आळ्वारय्यङ्गार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

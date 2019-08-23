@@ -1,0 +1,150 @@
+{
+    "journal": "Trimasika",
+    "journalID": "002",
+    "volume": "022",
+    "issue": "01-02",
+    "month": "मार्च्-जून्",
+    "year": "१९४६",
+    "id": "002/022/01-02",
+    "toc": [
+        {
+            "title": "सुभाषितानि",
+            "text": "",
+            "feature": "",
+            "page": "000i-000j",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "प्रो।। सि. आर्. नरसिंहशास्त्रिणः, एं.ए.",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "राजस्थान-भारती-समालोचनम्",
+            "text": "",
+            "feature": "",
+            "page": "000k-000l",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "दशकुमारचरितविमर्शविमर्शः",
+            "text": "",
+            "feature": "",
+            "page": "0001-0008",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "साहित्यरत्नं ब्र।। श्री।। जग्गु वेङ्कटाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "श्रीशारीरकाराधनम्-श्रीमदनन्तदासविरचितम्",
+            "text": "",
+            "feature": "",
+            "page": "0009-0016",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "ब्र।। श्री।। विद्वद्भिः चक्रवर्ति तिरुमलाचार्यैः शोधितम्",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "मञ्जुळमञ्जीरं नाम नाटकम्",
+            "text": "",
+            "feature": "",
+            "page": "0141-0156",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "ब्र।। श्री।। विद्वांसः जग्गु आळ्वारय्यङ्गार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "होरासारः-श्री पृथुयशोविरचितः",
+            "text": "",
+            "feature": "",
+            "page": "0156aa-0156ap",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "ज्यौतिषरत्नं, धर्माधिकारि ब्र।। श्री।। करूरु शेषाचार्यैस्संशोधितः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "ताम्रपर्ण्यष्टोत्तरशतकम्",
+            "text": "",
+            "feature": "",
+            "page": "0156aq-0156ay",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "श्री वेङ्कटतातदेशिकाचार्यविरचितम्",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "संस्कृतव्याकरणम्",
+            "text": "",
+            "feature": "",
+            "page": "0156az-0156bg",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "ब्र।। श्री।। वि. कृष्णस्वाम्यय्यङ्गार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "हस्तलिखितपुस्तकानां सविवरणसूचनी",
+            "text": "",
+            "feature": "",
+            "page": "0156bh-0156bo",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        }
+    ]
+}

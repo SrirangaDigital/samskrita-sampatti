@@ -1,0 +1,113 @@
+{
+    "journal": "Trimasika",
+    "journalID": "002",
+    "volume": "010",
+    "issue": "02-03",
+    "month": "एप्रिल्, जुलै",
+    "year": "१९३४",
+    "id": "002/010/02-03",
+    "toc": [
+        {
+            "title": "आत्मनो महिमा तच्छक्तिश्च (अनुवृत्ता)",
+            "text": "",
+            "feature": "",
+            "page": "0034-0055",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः पि. आर्. शिवसुब्रह्मण्यशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "त्रिपाद्विद्या",
+            "text": "",
+            "feature": "",
+            "page": "0055ab-0055an",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महाविद्वांसः राजगोपालसूरिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "यज्ञीयपशुहिंसाविचारः",
+            "text": "",
+            "feature": "",
+            "page": "0055ap-0055az",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "पण्डितरत्नं काशी शेषवेङ्कटाचलशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "चेतःप्रसादो नाम जगद्गुरुचरितम्",
+            "text": "",
+            "feature": "",
+            "page": "0055ba-0055bi",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः कुक्के सुब्रह्मण्यशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "अङ्गत्वनिरुक्तिः (अनुवृत्ता)",
+            "text": "",
+            "feature": "",
+            "page": "0055bk-0055bn",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः आरडिकुप्पं सुब्रह्मण्यशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "योगवादः",
+            "text": "",
+            "feature": "",
+            "page": "0055bo-0055cg",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः काशी प्राणेशाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

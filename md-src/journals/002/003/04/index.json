@@ -1,0 +1,79 @@
+{
+    "journal": "Trimasika",
+    "journalID": "002",
+    "volume": "003",
+    "issue": "04",
+    "month": "अक्टोबर्",
+    "year": "१९२७",
+    "id": "002/003/04",
+    "toc": [
+        {
+            "title": "शरावती जोगजलपातवर्णनम्",
+            "text": "",
+            "feature": "",
+            "page": "0127-0136",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "कुक्के. सुब्रह्मण्यशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "रजतमहोत्सववृत्तान्तः",
+            "text": "",
+            "feature": "",
+            "page": "0137-0147",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "संपादकः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "महापाठशालावृत्तान्तः",
+            "text": "",
+            "feature": "",
+            "page": "0148-0152",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "संपादकः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "पूर्वमीमांसाभाष्यभूषणम्",
+            "text": "",
+            "feature": "",
+            "page": "0152aa-0152ax",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महामहोपाध्यायाः पण्डितरत्नं लक्ष्मीपुरं श्रीनिवासाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "journal": "Trimasika",
+    "journalID": "002",
+    "volume": "007",
+    "issue": "01",
+    "month": "जनवरि",
+    "year": "१९३१",
+    "id": "002/007/01",
+    "toc": [
+        {
+            "title": "कुट्टाकारशिरोमणिः (अनुवृत्तः) महालक्ष्मीमुक्तावल्याख्यया नवटीकया संवलितः",
+            "text": "",
+            "feature": "",
+            "page": "0001-0008",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महाविद्वांसः करूरु शेषाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "कुवलयानन्दपाठसंशोधनम् IV",
+            "text": "",
+            "feature": "",
+            "page": "0009-0016",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महाविद्वांसः क. गोपालकृष्णशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "अधिवनसंवादः (अथवा नाध्यायमीमांसा)",
+            "text": "",
+            "feature": "",
+            "page": "0017-0025",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः शिवसुब्रह्मण्यशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "अङ्गत्वनिरुक्तिः-कारकत्वविचारः",
+            "text": "",
+            "feature": "",
+            "page": "0026-0037",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः आरडिकुप्पं सुब्रह्मण्यशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "अमिलियागलेत्तिरितिनाटकम् (लेसिंग्नामकजर्मन् महाकवि विरचितम्)",
+            "text": "",
+            "feature": "",
+            "page": "0038-0054",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "अर्थशास्त्रविशारदाः महामहोपाध्यायाः आर्. शामशास्त्रिणः, बि.ए., पिएच्.डि.",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "वेदार्थसंग्रहप्रमेयसंग्रहः",
+            "text": "",
+            "feature": "",
+            "page": "0055-0062",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "पण्डितरत्नं महामहोपाध्यायाः लक्ष्मीपुरं श्रीनिवासाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "पत्रिकाविषयः (स्वविषयः)",
+            "text": "",
+            "feature": "",
+            "page": "0063-0064",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "सम्पादकः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "journal": "Trimasika",
+    "journalID": "002",
+    "volume": "002",
+    "issue": "02",
+    "month": "एप्रिल्",
+    "year": "१९२६",
+    "id": "002/002/02",
+    "toc": [
+        {
+            "title": "वेदतत्त्वम्",
+            "text": "",
+            "feature": "",
+            "page": "0061-0067",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "संपादकः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "शाकुन्तलनाटकविमर्शः",
+            "text": "",
+            "feature": "",
+            "page": "0068-0077",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "आजि रामानुजय्यंगार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "संस्कृतभाषा",
+            "text": "",
+            "feature": "",
+            "page": "0078-0087",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "मोक्षगुंडं लक्ष्मीपतय्य, बि.ए., अनुभूतमहाराजसंस्कृतमहापाठशाला प्रिन्सिपल्नामकाधिकारः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "ज्यौतिश्शास्त्रस्य विदमूलत्वम्",
+            "text": "",
+            "feature": "",
+            "page": "0088-0099",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "संस्कृतमहापाठशालाज्यौतिश्शास्त्र प्रधानोपाध्यायाः ज्यौतिषरत्नं तरहरिज्यौतिषिकाः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "महीशूरदेशाभ्युदयचम्पूप्रबन्धः",
+            "text": "",
+            "feature": "",
+            "page": "0100-0104",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "आस्थानमहाविद्वांसः समस्त्रनाम सीतारामशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "विद्यार्थिपारितोषिकसभा",
+            "text": "",
+            "feature": "",
+            "page": "0105-0108",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महापाठशालाध्यक्षः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

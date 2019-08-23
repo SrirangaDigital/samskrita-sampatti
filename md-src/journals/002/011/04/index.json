@@ -1,0 +1,163 @@
+{
+    "journal": "Trimasika",
+    "journalID": "002",
+    "volume": "011",
+    "issue": "04",
+    "month": "अक्टोबर्",
+    "year": "१९३५",
+    "id": "002/011/04",
+    "toc": [
+        {
+            "title": "सुभाषितानि",
+            "text": "",
+            "feature": "",
+            "page": "000i-000j",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "श्रीकृष्णराजनवनतिसुधोपहारः",
+            "text": "",
+            "feature": "",
+            "page": "0001-0008",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "पण्डित श्रीनिवासदेशिकाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "काव्यजिज्ञासा",
+            "text": "",
+            "feature": "",
+            "page": "0008aa-0008ah",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः पि. आर्. शिवसुब्रह्मण्यशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "श्रीरामस्तवतारावळी",
+            "text": "",
+            "feature": "",
+            "page": "0008ai-0008ar",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "कीर्तिशेष श्रमिच्छर्मोपाध्याय काशी तिम्मण्णाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "अखिलभारतीयप्राच्यविद्याविपश्चित्सम्मेलनोपक्रमभाषणम्",
+            "text": "",
+            "feature": "",
+            "page": "0008as-0008ba",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "योगवादः (अनुवृत्तः)",
+            "text": "",
+            "feature": "",
+            "page": "0008bb-0008be",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्वांसः काशी प्राणेशाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "चेतःप्रसादस्य शुद्धिपत्रम्",
+            "text": "",
+            "feature": "",
+            "page": "0008bf-0008bg",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "पत्रिकापरिचयः",
+            "text": "",
+            "feature": "",
+            "page": "0008bj-0008bj",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "लोचनोल्लासस्य शुद्धिपत्रम्",
+            "text": "",
+            "feature": "",
+            "page": "0008bk-0008bk",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "समस्यापूरणोद्यमाः",
+            "text": "",
+            "feature": "",
+            "page": "0008bl-0008bl",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "म. ग. पाटील्. मिरज.",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "समस्यापूरणम्",
+            "text": "",
+            "feature": "",
+            "page": "0008bm-0008bm",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "स. श्रीनिवासदेशिकाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

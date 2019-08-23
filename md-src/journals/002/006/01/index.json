@@ -1,0 +1,157 @@
+{
+    "journal": "Trimasika",
+    "journalID": "002",
+    "volume": "006",
+    "issue": "01",
+    "month": "जनवरि",
+    "year": "१९३०",
+    "id": "002/006/01",
+    "toc": [
+        {
+            "title": "श्रीशारदास्तोत्रचतुष्टयम्",
+            "text": "",
+            "feature": "",
+            "page": "0002-0002",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "जग्गु शिंग्रय्यंगार्यः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "कुवलयानन्दपाठसंशोधनम्",
+            "text": "",
+            "feature": "",
+            "page": "0003-0006",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महाविद्वांसः गोपालकृष्णशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "अन्धबालकः (The Blind Boy)",
+            "text": "",
+            "feature": "",
+            "page": "0007-0007",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "विद्यार्थी एच्. वि. नारायणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "वालिवधन्यायदृढमञ्चूषा",
+            "text": "",
+            "feature": "",
+            "page": "0008-0016",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "धर्माधिकारिणः काशीशेषवेङ्कटाचलशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "कुट्टाकारशिरोमणिः",
+            "text": "",
+            "feature": "",
+            "page": "0017-0024",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महाविद्वांसः करूरु शेषाचार्याः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "कुन्दमालाविमर्शः",
+            "text": "",
+            "feature": "",
+            "page": "0025-0032",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महाविद्वांसः गोपालकृष्णशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "अभिप्रायमयूखः",
+            "text": "",
+            "feature": "",
+            "page": "0033-0039",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "सम्पादकः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "महापाठशाला वृत्तान्तः",
+            "text": "",
+            "feature": "",
+            "page": "0040-0041",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": []
+        },
+        {
+            "title": "विद्वत्परीक्षा वृत्तान्तः",
+            "text": "",
+            "feature": "",
+            "page": "0042-0048",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "एच्, एल्. हरियप्प., एं.ए.",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

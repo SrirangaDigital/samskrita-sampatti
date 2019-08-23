@@ -1,0 +1,62 @@
+{
+    "journal": "Trimasika",
+    "journalID": "002",
+    "volume": "004",
+    "issue": "04",
+    "month": "अक्टोबर्",
+    "year": "१९२८",
+    "id": "002/004/04",
+    "toc": [
+        {
+            "title": "कुन्दमालाविमर्शः",
+            "text": "",
+            "feature": "",
+            "page": "0091-0107",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महाविद्वांसः क।। गोपालकृष्णशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "जीवन्मुक्तिपूजा",
+            "text": "",
+            "feature": "",
+            "page": "0108-0118",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "गोगनृसिंहार्याः, महापाठशालाध्यक्षाः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "उपनिषत्सारार्थः",
+            "text": "",
+            "feature": "",
+            "page": "0118-0124",
+            "media": "pdf",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [],
+            "author": [
+                {
+                    "name": "महामहोपाध्याय विद्यानिधि विरूपाक्षशास्त्रिणः",
+                    "salutation": "",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}
