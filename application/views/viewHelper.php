@@ -157,7 +157,9 @@ class viewHelper extends View {
 
     public function rlZero($term) {
 
-        return preg_replace('/^0+|\-0+/', '', $term);
+        $term = preg_replace('/^0+/', '', $term);
+        $term = preg_replace('/\-0+/', '-', $term);
+        return $term;
     }
 
     public function getDisplayName($filter){

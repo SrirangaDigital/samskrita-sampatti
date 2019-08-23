@@ -49,7 +49,7 @@ $(document).ready(function(){
             <h4 class="publication-details">
                 <?php if(isset($article['feature'])) { ?><span class="orange"><a href="<?=BASE_URL?>articles/category/feature/<?=$article['feature']?>"><?=$article['feature']?></a></span><?php } ?>
                 <?php if(isset($article['series'])) { ?><span class="brown"><a href="<?=BASE_URL?>articles/category/series/<?=$article['series']?>"><?=$article['series']?></a></span><?php } ?>
-                <span class="maroon"><a href="<?=BASE_URL?>articles/toc?volume=<?=$article['volume']?>&issue=<?=$article['issue']?>"><?=ISSUE?> <?=$viewHelper->getissueDevanagari($article['issue'])?>,<?=VOLUME?> <?=$viewHelper->roman2Devnagari($viewHelper->rlZero($article['volume']))?> (<?=(isset($article['year']) && $article['year'] != '') ? $article['year']: ''?>, <?=(isset($article['month']) && $article['month'] != '') ? $article['month'] : ''?>)</a></span>
+                <span class="maroon"><a href="<?=BASE_URL?>articles/toc?volume=<?=$article['volume']?>&issue=<?=$article['issue']?>"><?=ISSUE?> <?=$viewHelper->getissueDevanagari($viewHelper->rlZero($article['issue']))?>,<?=VOLUME?> <?=$viewHelper->roman2Devnagari($viewHelper->rlZero($article['volume']))?> (<?=(isset($article['year']) && $article['year'] != '') ? $article['year']: ''?>, <?=(isset($article['month']) && $article['month'] != '') ? $article['month'] : ''?>)</a></span>
             </h4>
             <h2 class="title">
                 <a target="_blank" href="<?=BASE_URL?>bookreader/templates/journal.php?journalID=<?=$article['journalID']?>&volume=<?=$article['volume']?>&issue=<?=$article['issue']?>&pagenum=<?=preg_replace('/(.*?)\-(.*)/', "$1", $article['page'])?>" class="pdf"><?=$article['title']?></a>

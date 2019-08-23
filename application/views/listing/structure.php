@@ -25,7 +25,7 @@
                         </div>
                     <?php } else { ?>
                     <div class="full-width-card red-edge">
-                        <h3 class="author"><?=$viewHelper->roman2Devnagari($row["name"]);?></h3>
+                        <h3 class="author"><strong><?=$viewHelper->roman2Devnagari($row["name"]);?></strong></h3>
                     </div>
                     <?php } ?>
                 </a>    
