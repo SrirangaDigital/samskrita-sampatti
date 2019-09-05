@@ -1,7 +1,11 @@
+<?php
+	$category = $data['category'];
+	unset($data['category'])
+?>
 <div class="container">
 	<div class="row justify-content-center">
 		<div class="col-md-8 text-center">
-			<h1>Books</h1>
+			<h3 class="title">Collection of <?=$category?> Books</h3>
 		</div>
 	</div>
 	<div class="row justify-content-around bookList">
@@ -17,13 +21,13 @@
 					<?php foreach ($row['details']['contributors']['author'] as $author) echo '<h2 class="author">' . $author . '</h2>'; ?>
 
 					<h4 class="collection">
-						<span><?=$row['details']['collection'][0]['name']?></span>
+						<?=$row['details']['collection'][0]['name']?>
 					</h4>
 
 					<div class="badges">
 						<?php if($row['contents']) echo '<img src="' . PUBLIC_URL . 'images/stock/diagram.svg" alt="pdf" />'; ?>
 						<?php if($row['summary']) echo '<img src="' . PUBLIC_URL . 'images/stock/document.svg" alt="pdf" />'; ?>
-						<?php if($row['media']['pdf']['link']) echo '<a href="' . PUBLIC_URL . 'data/pdf/' . $row['id'] . '/index.pdf" target="_blank"><img src="' . PUBLIC_URL . 'images/stock/pdf.svg" alt="pdf" /></a>'; ?>
+						<?php if($row['media']['pdf']['link']) echo '<a href="' . PUBLIC_URL . 'data/books/pdf/' . $row['id'] . '/index.pdf" target="_blank"><img src="' . PUBLIC_URL . 'images/stock/pdf.svg" alt="pdf" /></a>'; ?>
 						<a href="<?=BASE_URL?>bookreader/templates/book.php?bookID=<?=$row['id']?>&pagenum=0001" target="_blank"><img src="<?=PUBLIC_URL?>images/stock/logo1.png" alt="Bookreader" /></a>
 					</div>
 				</div>

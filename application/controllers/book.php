@@ -27,6 +27,7 @@ class book extends Controller {
 		$url = API_URL . 'book?' . $this->model->filterArrayToString($query);
 		$data = $this->model->getDataFromApi($url);
 		$data = json_decode($data, true);
+		$data['category'] = (isset($query['details_collection_category'])) ? $query['details_collection_category'] : '';
 		$this->view('book/list', $data);
 	}
 }
