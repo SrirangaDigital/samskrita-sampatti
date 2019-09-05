@@ -3,7 +3,7 @@
         "title": "",
         "contributors": {
             "author": [
-                ""
+                "Bhaskara"
             ]
         },
         "attributes": {
@@ -12,6 +12,7 @@
         },
         "collection": [
             {
+                "category": "Shastra",
                 "name": "",
                 "index": "0"
             }
@@ -19,7 +20,7 @@
     },
     "media": {
         "pdf": {
-            "link": ""
+            "link": "https://archive.org/details/BrahmaSutraBhashyaOfBhaskarNos.70185209Year1915ChowkhambaSanskritSeries"
         }
     }
 }

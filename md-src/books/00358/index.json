@@ -12,6 +12,7 @@
         },
         "collection": [
             {
+                "category": "Sahithya",
                 "name": "",
                 "index": "0"
             }
@@ -19,7 +20,7 @@
     },
     "media": {
         "pdf": {
-            "link": ""
+            "link": "https://archive.org/details/BrahmaSutrasWithRatnaPrabhaAndShakaraBhashyaI1888KhemaRajaPublishers.pdf"
         }
     }
 }

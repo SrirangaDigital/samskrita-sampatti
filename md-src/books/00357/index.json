@@ -12,6 +12,7 @@
         },
         "collection": [
             {
+                "category": "Shastra",
                 "name": "",
                 "index": "0"
             }
@@ -19,7 +20,7 @@
     },
     "media": {
         "pdf": {
-            "link": ""
+            "link": "https://archive.org/details/The.Brahmasutra.Sankara.Bhasya.with.Ratna-Prabha.Bhamati.and.Nyaya-Nirnaya"
         }
     }
 }
