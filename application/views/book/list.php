@@ -5,7 +5,7 @@
 <div class="container">
 	<div class="row justify-content-center">
 		<div class="col-md-8 text-center">
-			<h3 class="title">Collection of <?=$category?> Books</h3>
+			<h4 class="title">Collection of <span class="maroon"><?=$category?></span> Books</h4>
 		</div>
 	</div>
 	<div class="row justify-content-around bookList">
