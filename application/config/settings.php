@@ -12,6 +12,7 @@ define('NO_LIMIT', 500);
 
 define('UNICODE_START', 'ऄ');
 define('UNICODE_END', 'ह');
+define('DEFAULT_LETTER', 'अ');
 
 define('ARCHIVE', 'सङ्ग्रहः');
 define('ARCHIVE_JOURNAL', 'SAMSKRITA SAMPATI');
@@ -27,6 +28,7 @@ define('NAV_ARCHIVE_ISSUE', 'सञ्चिका');
 define('NAV_ARCHIVE_ARTICLES', 'लेखाः');
 define('NAV_ARCHIVE_AUTHORS', 'लेखकाः');
 define('NAV_ARCHIVE_FEATURES', 'प्रधानविभागाः');
+define('NAV_ARCHIVE_SEARCH', 'अन्वेषणम्');
 define('TOC', 'विषयसूची');
 define('ARCHIVE_STRUCTURE_TYPE', 'textual'); //can take either pictorial or textual
 

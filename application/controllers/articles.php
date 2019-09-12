@@ -19,9 +19,9 @@ class articles extends Controller {
 
 		if(isset($query['lpage']))		
 			$page = $query['lpage'];
+		$filter = $this->model->filterArrayToString($query);
 
-		// Exclude विज्ञापिकाः
-		$url = BASE_URL . 'api/articles?title=@^' . $letter . '&feature=@^(?!विज्ञापिकाः)&sort=title&lpage=' . $page;
+		$url = BASE_URL . 'api/articles?' . $filter . '&title=@^' . $letter . '&sort=title&lpage=' . $page;
 		$result = json_decode($this->model->getDataFromApi($url), true);
 		$result['pageTitle'] = ARTICLES;
 		$url = BASE_URL . 'api/alphabet/';
@@ -73,7 +73,9 @@ class articles extends Controller {
 		if(isset($query['lpage']))		
 			$page = $query['lpage'];
 
-		$url = BASE_URL . 'api/articles?author.name=' . $this->model->filterSpecialChars($author) . '&lpage=' . $page;
+		$filter = $this->model->filterArrayToString($query);
+
+		$url = BASE_URL . 'api/articles?' . $filter . '&author.name=' . $this->model->filterSpecialChars($author) . '&lpage=' . $page;
 		$result = json_decode($this->model->getDataFromApi($url), true);
 		$result['pageTitle'] = AUTHOR . ' - ' . $author;
 
@@ -95,8 +97,10 @@ class articles extends Controller {
 
 		if(isset($query['lpage']))		
 			$page = $query['lpage'];
-		
-		$url = BASE_URL . 'api/articles?' . $category . '=' . $this->model->filterSpecialChars($categoryValue) . '&lpage=' . $page;
+
+		$filter = $this->model->filterArrayToString($query);
+		$url = BASE_URL . 'api/articles?' . $filter . '&' . $category . '=' . $this->model->filterSpecialChars($categoryValue) . '&lpage=' . $page;
+		// var_dump($url); return;
 		$result = json_decode($this->model->getDataFromApi($url), true);
 		$result['pageTitle'] = constant(strtoupper($category)) . ' - ' . $categoryValue;
 		

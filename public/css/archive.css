@@ -6,7 +6,7 @@
   font-weight: 600;
   text-align: center;
   margin-top: 16px;
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 }
 .dynamic-page h4.archiveTitle {
   color: #ff5722;
@@ -117,8 +117,8 @@
 .full-width-card .starred,
 .full-width-card .param{
   position: absolute;
-  right: 1px;
-  top: 1px;
+  right: 5px;
+  top: 25%;
   z-index: 0;
 }
 .full-width-card .starred i{

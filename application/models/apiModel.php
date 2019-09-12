@@ -91,7 +91,6 @@ class apiModel extends Model {
 
 		$projection = [ 'projection' => ['_id' => 0], 'limit' => PER_PAGE, 'skip' => $skip];
 		if($sort) $projection['sort'] = $this->reformSort($sort);
-
 		$iterator = $collection->find($this->preProcessQueryFilter($filter), $projection);
 	
 		$articles = [];

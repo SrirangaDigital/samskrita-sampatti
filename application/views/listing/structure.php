@@ -5,7 +5,7 @@
 ?>
 
 <div class="container dynamic-page">
-    <div class="row">
+    <div class="row mb-5">
         <div class="col-md-12">
             <h4 class="archiveTitle"><?=ARCHIVE?></h4>
             <h1 class="title"><?=$viewHelper->getStructurePageTitle($auxiliary['filter'])?></h1>

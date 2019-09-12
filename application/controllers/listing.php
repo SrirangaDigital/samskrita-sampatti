@@ -34,7 +34,10 @@ class listing extends Controller {
 
 		// Albhabetic list of authors displayed letter wise
 		// listing/authors/A
-		$url = BASE_URL . 'api/distinct/author.name?author.name=@^' . $letter;
+
+		$filter = $this->model->filterArrayToString($query);
+		$url = BASE_URL . 'api/distinct/author.name?' . $filter . '&author.name=@^' . $letter;
+
 		$result = json_decode($this->model->getDataFromApi($url), true);
 		$result['pageTitle'] = NAV_ARCHIVE_AUTHORS;
 		$result['subTitle'] = AUTHOR;
@@ -58,6 +61,21 @@ class listing extends Controller {
 		$result['nextUrl'] = BASE_URL . 'listing/structure/Journal?select=volume&journal=';
 
 		($result['values']) ? $this->view('listing/journals', json_encode($result)) : $this->view('error/index');
+	}
+
+	public function category($query = [], $param = DEFAULT_PARAM) {
+
+		// Listing of various categories such as features and series
+		// listing/category/feature
+
+		$filter = $this->model->filterArrayToString($query);
+		$url = BASE_URL . 'api/distinct/' . $param . '?' . $filter . '&'. $param . '=@.*';
+
+		$result = json_decode($this->model->getDataFromApi($url), true);
+		$result['pageTitle'] = NAV_ARCHIVE_FEATURES;
+		$result['nextUrl'] = BASE_URL . 'articles/category/' . $param . '/';
+
+		($result['values']) ? $this->view('listing/items', json_encode($result)) : $this->view('error/index');
 	}
 }
 
