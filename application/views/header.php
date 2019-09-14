@@ -3,14 +3,11 @@
 <head>
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-131828791-1"></script>
-	<script>
-	  window.dataLayer = window.dataLayer || [];
-	  function gtag(){dataLayer.push(arguments);}
-	  gtag('js', new Date());
-
-	  gtag('config', 'UA-131828791-1');
+	<script type="text/javascript">
+		var base_url = "<?= BASE_URL?>";
+		var nav_archive_volume = "<?=VOLUME?>";
+		var nav_archive_issue = "<?=ISSUE?>";
 	</script>
-
 	<!-- Basic Page Needs
 	–––––––––––––––––––––––––––––––––––––––––––––––––– -->
 	<meta charset="utf-8">

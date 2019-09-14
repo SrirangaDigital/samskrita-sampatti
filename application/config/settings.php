@@ -23,12 +23,20 @@ define('AUTHOR', 'लेखकः');
 define('FEATURE', 'प्रधानविभागः');
 define('VOLUME', 'सम्पुटः');
 define('ISSUE', 'सञ्चिका');
+define('SEARCH', 'अन्वेषणम्');
 define('NAV_ARCHIVE_VOLUME', 'सम्पुटाः');
 define('NAV_ARCHIVE_ISSUE', 'सञ्चिका');
 define('NAV_ARCHIVE_ARTICLES', 'लेखाः');
 define('NAV_ARCHIVE_AUTHORS', 'लेखकाः');
 define('NAV_ARCHIVE_FEATURES', 'प्रधानविभागाः');
 define('NAV_ARCHIVE_SEARCH', 'अन्वेषणम्');
+define('SEARCH_ARTICLE', 'लेखः');
+define('SEARCH_AUTHOR', 'लेखकः');
+define('SEARCH_FEATURE', 'प्रधानविभागः');
+define('SEARCH_WORD', 'शब्दः');
+define('SEARCH_SEARCH', 'अन्विष्यताम्');
+define('SEARCH_RESET', 'पुनर्व्यवस्थापय');
+define('SEARCH_RESULTS', 'फलितांशाः');
 define('TOC', 'विषयसूची');
 define('ARCHIVE_STRUCTURE_TYPE', 'textual'); //can take either pictorial or textual
 

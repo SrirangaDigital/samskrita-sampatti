@@ -139,7 +139,7 @@ class articles extends Controller {
 		$result['fullTextSearch'] = (isset($query['fullText_text']))? preg_replace('/^@/', '', $query['fullText_text']): false;
 
 		if($page == '1')
-			($result['articles'] != 'noData') ? $this->view('articles/articles', json_encode($result)) : $this->view('error/noResults');
+			($result['articles'] != 'noData') ? $this->view('articles/searchResult', json_encode($result)) : $this->view('error/noResults');
 		else
 			echo json_encode($result);
 	}
