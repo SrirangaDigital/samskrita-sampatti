@@ -76,7 +76,6 @@ function displayArticlesFromJson(json){
     
     // var aux = (obj.auxiliary === undefined) ? '' : obj.auxiliary;
     // var filterString = (aux.filterString === undefined) ? '' : aux.filterString;
-    // console.log(obj['articles'][0]['author']);
 
     for(i = 0; i < Object.keys(obj['articles']).length; i++) {
 
