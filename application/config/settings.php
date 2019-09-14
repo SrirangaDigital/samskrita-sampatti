@@ -6,7 +6,7 @@ define('ALPHABET_COLLECTION', 'alphabet');
 define('MAIN_TITLE', 'SAMSKRITA SAMPATI');
 define('DEFAULT_COVER_IMAGE', PUBLIC_URL . 'images/stock/cover.svg');
 
-define('PER_PAGE', 50);
+define('PER_PAGE', 25);
 define('NO_SKIP', 0);
 define('NO_LIMIT', 500);
 

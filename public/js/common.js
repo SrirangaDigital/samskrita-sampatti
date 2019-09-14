@@ -83,14 +83,14 @@ function displayArticlesFromJson(json){
 
         displayString += '<div class="full-width-card col-md-5">';
         displayString += '<h4 class="publication-details">';
-
+        
         if(obj['articles'][i]['feature'])
-            displayString += '<span class="orange"><a href="' + base_url + 'articles/category/feature/' + obj['articles'][i]['feature'] + '">' + obj['articles'][i]['feature'] + '</a></span>';
+            displayString += '<span class="orange"><a href="' + base_url + 'articles/category/feature/' + obj['articles'][i]['feature'] + '?journal=' + obj['articles'][i]['journal'] + '">' + obj['articles'][i]['feature'] + '</a></span>';
 
         if(obj['articles'][i]['series'])
-            displayString += '<span class="brown"><a href="' + base_url + 'articles/category/series/' + obj['articles'][i]['series'] + '">' + obj['articles'][i]['series'] + '</a></span>';
+            displayString += '<span class="brown"><a href="' + base_url + 'articles/category/series/' + obj['articles'][i]['series'] + '?journal=' + obj['articles'][i]['journal'] + '">' + obj['articles'][i]['series'] + '</a></span>';
     
-        displayString += '<span class="gray"><a href="' + base_url + 'articles/toc?year=' + obj['articles'][i]['year'] + '&month=' + obj['articles'][i]['month'] + '">' + getMonthDevanagari(obj['articles'][i]['month']) + ' ' + roman2Devnagari(obj['articles'][i]['year']) + ' (' + nav_archive_volume + ' ' + roman2Devnagari(rlZero(obj['articles'][i]['volume'])) + ', ' + getIssueDevanagari(obj['articles'][i]['issue']) + ')</a></span>';
+        displayString += '<span class="maroon"><a href="' + base_url + 'articles/toc?volume=' + obj['articles'][i]['volume'] + '&issue=' + obj['articles'][i]['issue'] + '&journal=' + obj['articles'][i]['journal'] + '">' + getMonthDevanagari(obj['articles'][i]['month']) + ' ' + roman2Devnagari(obj['articles'][i]['year']) + ' (' + nav_archive_volume + ' ' + roman2Devnagari(rlZero(obj['articles'][i]['volume'])) + ', ' + getIssueDevanagari(obj['articles'][i]['issue']) + ')</a></span>';
     
         displayString += '</h4>';
         displayString += '<h2 class="title">';
@@ -102,7 +102,7 @@ function displayArticlesFromJson(json){
             displayString +=  '<h3 class="author by">';
             
             for(j = 0; j < Object.keys(obj['articles'][i]['author']).length; j++) {
-                displayString += '<span><a href="' + base_url + '/articles/author/' + obj['articles'][i]['author'][j]['name'] + '">' + obj['articles'][i]['author'][j]['name'] + '</a></span>';
+                displayString += '<span><a href="' + base_url + 'articles/author/' + obj['articles'][i]['author'][j]['name'] + '&journal=' + obj['articles'][i]['journal'] + '">' + obj['articles'][i]['author'][j]['name'] + '</a></span>';
             }
 
             displayString += '</h3>';
