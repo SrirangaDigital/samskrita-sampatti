@@ -2,7 +2,7 @@
 <!DOCTYPE yajurveda SYSTEM "yajurveda.dtd">
 
 <yajurveda>
-	<book bid="0091" title="कृष्णयजुर्वेदीयः एकाग्निकाण्डः - हरदत्तमिश्रविरचितव्याख्यासहितः (The Ekágnikáṇda of the Krishna-Yajur-Veda - with the Commentary of Haradattamisra)">
+	<book bid="00368" title="कृष्णयजुर्वेदीयः एकाग्निकाण्डः - हरदत्तमिश्रविरचितव्याख्यासहितः (The Ekágnikáṇda of the Krishna-Yajur-Veda - with the Commentary of Haradattamisra)">
 		<s1 title="एकाग्निकाण्डोपोद्घातः" page="0000c"></s1>
 		<s1 title="एकाग्निकाण्डः - मन्त्रव्याख्यान" page="0001">
 			<s2 title="प्रथमः प्रपाठकः" page="0001">
@@ -29,14 +29,14 @@
 		</s1>
 		<s1 title="अशुद्धशोधनपत्रिका" page="0203"></s1>
 	</book>
-	<book bid="0092" title="तैत्तिरीयारण्यकम् - भट्टभास्करमिश्रभाष्यसहितम् - Vol-I (The Taittiríyáraṇyaka - with the Commentary of Bhattabhaskaramisra - Vol-I)">
+	<book bid="00369" title="तैत्तिरीयारण्यकम् - भट्टभास्करमिश्रभाष्यसहितम् - Vol-I (The Taittiríyáraṇyaka - with the Commentary of Bhattabhaskaramisra - Vol-I)">
 		<s1 title="प्रथमः प्रपाठकः - आरुणकेतुकचयनम्" page="0001"></s1>
 		<s1 title="द्वितीयः प्रपाठकः - स्वाध्यायब्राह्मणम्" page="0186"></s1>
 		<s1 title="तृतीयः प्रपाठकः - चातुर्होत्रचयनम्" page="0000"></s1>
 		<s1 title="चतुर्थः प्रपाठकः - पितृमेधमन्त्राः" page="0000"></s1>
 		<s1 title="शुद्धिपत्रिका" page="0000"></s1>
 	</book>
-	<book bid="0093" title="तैत्तिरीयारण्यकम् - भट्टभास्करमिश्रविरचितभाष्यसहितम् - Vol-II (The Taittiríyáraṇyaka of the Krishṇa-Yajur-Veda- with the Commentary of Bhattabháskaramiśra - Vol-II)">
+	<book bid="00370" title="तैत्तिरीयारण्यकम् - भट्टभास्करमिश्रविरचितभाष्यसहितम् - Vol-II (The Taittiríyáraṇyaka of the Krishṇa-Yajur-Veda- with the Commentary of Bhattabháskaramiśra - Vol-II)">
 		<s1 title="पञ्चमः प्रपाठकः - ब्रह्मोपासनविधिस्सपरिकरः" page="0001">
 			<s2 title="ब्रह्माध्येष्यमाणस्य प्रत्यूहशान्तिप्रार्थनमन्त्रः" page="0001"></s2>
 			<s2 title="ब्रह्माध्ययनप्रसङ्गागतः शिक्षाशास्त्रार्थसङ्ग्रहः" page="0004"></s2>
@@ -77,7 +77,7 @@
 		</s1>
 		<s1 title="अशुद्धशोधनम्" page="0192"></s1>
 	</book>
-	<book bid="0094" title="तैत्तिरीयब्राह्मणम् - भट्टभास्करमिश्रविरचितभाष्यसहितम् - प्रथमाष्टकम् (The Taittiriya Brahmana - with the Commentary of Bhattabhaskaramisra - Ashtaka I)">
+	<book bid="00371" title="तैत्तिरीयब्राह्मणम् - भट्टभास्करमिश्रविरचितभाष्यसहितम् - प्रथमाष्टकम् (The Taittiriya Brahmana - with the Commentary of Bhattabhaskaramisra - Ashtaka I)">
 		<s1 title="प्रथमः प्रपाठकः - अग्न्याधेयब्राह्मण" page="0001">
 			<s2 title="१ अनुवाके सोमयागशेषभूताः शुक्रामन्थिग्रहप्रचारार्था मन्त्राः" page="0001"></s2>
 			<s2 title="२ अनुवाके अथाग्न्याधानप्रकरणम्, तत्र कालविशेषविधिः" page="0007"></s2>
@@ -173,7 +173,7 @@
 		</s1>
 		<s1 title="अशुद्धसंशोधनम्" page="0448"></s1>
 	</book>
-	<book bid="0095" title="तैत्तिरीयब्राह्मणम् - भट्टभास्करमिश्रविरचितभाष्येण क्वचिन्माधवीय भाष्येण च समेतं - द्वितीयाष्टकम् (The Taittiriya Brahmana - with the Commentary of Bhattabhaskaramisra Supplemented with Sayana's- Ashtaka II)">
+	<book bid="00372" title="तैत्तिरीयब्राह्मणम् - भट्टभास्करमिश्रविरचितभाष्येण क्वचिन्माधवीय भाष्येण च समेतं - द्वितीयाष्टकम् (The Taittiriya Brahmana - with the Commentary of Bhattabhaskaramisra Supplemented with Sayana's- Ashtaka II)">
 		<s1 title="उपोद्घातः" page="0000c"></s1>
 		<s1 title="अशुद्धशोधनम्" page="0000m"></s1>
 		<s1 title="प्रथमः प्रपाठकः - अग्निहोत्रब्राह्मणम्" page="0001">
@@ -271,7 +271,7 @@
 			<s2 title="9 अनुवाके शुक्लकृष्णपश्वादीनां सूक्तानि" page="0564"></s2>
 		</s1>
 	</book>
-	<book bid="0096" title="तैत्तिरीयब्राह्मणम् - भट्टभास्करमिश्रविरचितभाष्यसहिता - तृतीयाष्टके प्रथमभागः (The Taittiriya Brahmana - with the Commentary of Bhattabhaskaramisra - Ashtaka III Part I)">
+	<book bid="00373" title="तैत्तिरीयब्राह्मणम् - भट्टभास्करमिश्रविरचितभाष्यसहिता - तृतीयाष्टके प्रथमभागः (The Taittiriya Brahmana - with the Commentary of Bhattabhaskaramisra - Ashtaka III Part I)">
 		<s1 title="प्रथमः प्रपाठकः - नक्षत्रेष्टीनां याज्याऽनुवाक्याब्राह्मणानि" page="0001">
 			<s2 title="१ अनुवाके देवनक्षत्राणां याज्यानुवाक्याः" page="0001"></s2>
 			<s2 title="२ अनुवाके यमनक्षत्राणां याज्यानुवाक्याः" page="0014"></s2>
@@ -353,7 +353,7 @@
 			<s2 title="१४ अनुवाके अवभृथे कर्मणि सेचनादिमन्त्राः" page="0406"></s2>
 		</s1>
 	</book>
-	<book bid="0097" title="तैत्तिरीयब्राह्मणम् - भट्टभास्करमिश्रविरचितभाष्यसहिता - तृतीयाष्टके द्वितीयभागः (The Taittirîya Brâhmana - with the Commentary of Bhattabhaskaramisra - Ashtaka III Part II)">
+	<book bid="00374" title="तैत्तिरीयब्राह्मणम् - भट्टभास्करमिश्रविरचितभाष्यसहिता - तृतीयाष्टके द्वितीयभागः (The Taittirîya Brâhmana - with the Commentary of Bhattabhaskaramisra - Ashtaka III Part II)">
 		<s1 title="अष्टमः प्रपाठकः - अश्वमेधब्राह्मणं वैश्वदेवं काण्डं तत्र प्रथममहः" page="0001">
 			<s2 title="१ अनुवाके सांग्रहण्येष्ट्यादयः याजमानसंस्काराः" page="0001"></s2>
 			<s2 title="२ अनुवाके ब्रह्मौदनाभिधानम्" page="0005"></s2>
@@ -433,7 +433,7 @@
 		</s1>
 		<s1 title="अशुद्धसंशोधनम्" page="0298"></s1>
 	</book>
-	<book bid="0098" title="तैत्तिरीयसंहिता - भट्टभास्करमिश्रविरचितभाष्यसहिता - Vol-I (The Taittiriya Samhita of the Black Yajur-Veda - with the Commentary of Bhattabhaskaramisra - Vol-I)">
+	<book bid="00375" title="तैत्तिरीयसंहिता - भट्टभास्करमिश्रविरचितभाष्यसहिता - Vol-I (The Taittiriya Samhita of the Black Yajur-Veda - with the Commentary of Bhattabhaskaramisra - Vol-I)">
 		<s1 title="Preface" page="0000c"></s1>
 		<s1 title="प्रथमः काण्डः" page="0001">
 			<s2 title="प्रथमः प्रपाठकः - दर्शपूर्णमासाङ्गमन्त्राः आध्वर्यवाः" page="0001">
@@ -495,7 +495,7 @@
 		<s1 title="शुद्धाशुद्धपत्रिका" page="0391"></s1>
 		<s1 title="भट्टभास्करभाष्यस्य शुद्धाशुद्धपत्रिका" page="0393"></s1>
 	</book>
-	<book bid="0099" title="तैत्तिरीयसंहिता - भट्टभास्करमिश्रविरचितभाष्यसहिता - Vol-II (The Taittiriya Samhita of the Krishna-Yajur-Veda - with the Commentary of Bhattabhaskaramisra - Vol-II)">
+	<book bid="00376" title="तैत्तिरीयसंहिता - भट्टभास्करमिश्रविरचितभाष्यसहिता - Vol-II (The Taittiriya Samhita of the Krishna-Yajur-Veda - with the Commentary of Bhattabhaskaramisra - Vol-II)">
 		<s1 title="Preface" page="0000e"></s1>
 		<s1 title="प्रथमः काण्डः" page="0001">
 			<s2 title="चतुर्थः प्रपाठकः" page="0001">
@@ -559,7 +559,7 @@
 		<s1 title="शुद्धाशुद्धपत्रिका" page="0361"></s1>
 		<s1 title="भाष्यस्य शुद्धिपत्रम्" page="0364"></s1>
 	</book>
-	<book bid="0100" title="तैत्तिरीयसंहिता - भट्टभास्करमिश्रविरचितभाष्यसहिता - Vol-III (The Taittiriya Samhita - with the Commentary of Bhattabhaskaramisra - Vol-III)">
+	<book bid="00377" title="तैत्तिरीयसंहिता - भट्टभास्करमिश्रविरचितभाष्यसहिता - Vol-III (The Taittiriya Samhita - with the Commentary of Bhattabhaskaramisra - Vol-III)">
 		<s1 title="Preface" page="0000e"></s1>
 		<s1 title="प्रथमः काण्डः" page="0001">
 			<s2 title="सप्तमः प्रपाठकः" page="0001">
@@ -586,7 +586,7 @@
 		</s1>
 		<s1 title="शुद्धिपत्रिका" page="0467"></s1>
 	</book>
-	<book bid="0101" title="तैत्तिरीयसंहिता - भट्टभास्करमिश्रविरचितभाष्यसहिता - Vol-IV (The Taittiriya Samhita - with the Commentary of Bhattabhaskaramisra - Vol-IV)">
+	<book bid="00378" title="तैत्तिरीयसंहिता - भट्टभास्करमिश्रविरचितभाष्यसहिता - Vol-IV (The Taittiriya Samhita - with the Commentary of Bhattabhaskaramisra - Vol-IV)">
 		<s1 title="Editorial Note" page="0000e"></s1>
 		<s1 title="द्वितीयः काण्डः" page="0001">
 			<s2 title="तृतीयः प्रपाठकः" page="0001">
@@ -616,7 +616,7 @@
 		<s1 title="शुद्धिपत्रिका" page="0465"></s1>
 		<s1 title="शुद्धिपत्रिका" page="0471"></s1>
 	</book>
-	<book bid="0102" title="तैत्तिरीयसंहिता - भट्टभास्करमिश्रविरचितभाष्यसहिता - Vol-V (The Taittiriya Samhita - with the Commentary of Bhattabhaskaramisra - Vol-V)">
+	<book bid="00379" title="तैत्तिरीयसंहिता - भट्टभास्करमिश्रविरचितभाष्यसहिता - Vol-V (The Taittiriya Samhita - with the Commentary of Bhattabhaskaramisra - Vol-V)">
 		<s1 title="Prefatory Note" page="0000e"></s1>
 		<s1 title="तृतीयः काण्डः" page="0001">
 			<s2 title="प्रथमः प्रपाठकः" page="0001">
@@ -654,7 +654,7 @@
 		<s1 title="शोधनपत्रिका" page="0459"></s1>
 		<s1 title="भाष्यशुद्धपत्रिका" page="0461"></s1>
 	</book>
-	<book bid="0103" title="तैत्तिरीयसंहिता - भट्टभास्करमिश्रविरचितभाष्यसहिता - Vol-VIII (The Taittiriya Samhita - with the Commentary of Bhattabhaskaramisra - Vol-VIII)">
+	<book bid="00381" title="तैत्तिरीयसंहिता - भट्टभास्करमिश्रविरचितभाष्यसहिता - Vol-VIII (The Taittiriya Samhita - with the Commentary of Bhattabhaskaramisra - Vol-VIII)">
 		<s1 title="Editorial Note" page="0000e"></s1>
 		<s1 title="पञ्चमः काण्डः" page="0001">
 			<s2 title="प्रथमः प्रपाठकः" page="0001">
@@ -677,7 +677,7 @@
 		<s1 title="अशुद्धशोधनपत्रिका" page="0381"></s1>
 		<s1 title="शुद्धिपत्रिका" page="0383"></s1>
 	</book>
-	<book bid="0104" title="तैत्तिरीयसंहिता - भट्टभास्करमिश्रविरचितभाष्यसहिता - Vol-IX (The Taittiriya Samhita - with the Commentary of Bhattabhaskaramisra - Vol-IX)">
+	<book bid="00382" title="तैत्तिरीयसंहिता - भट्टभास्करमिश्रविरचितभाष्यसहिता - Vol-IX (The Taittiriya Samhita - with the Commentary of Bhattabhaskaramisra - Vol-IX)">
 		<s1 title="Editorial Note" page="0000e"></s1>
 		<s1 title="पञ्चमः काण्डः" page="0001">
 			<s2 title="पञ्चमः प्रपाठकः" page="0001">
@@ -695,7 +695,7 @@
 		</s1>
 		<s1 title="शुद्धिपत्रिका" page="0277"></s1>
 	</book>
-	<book bid="0105" title="तैत्तिरीयसंहिता - भट्टभास्करमिश्रविरचितभाष्यसहिता - Vol-X (The Taittiriya Samhita - with the Commentary of Bhattabhaskaramisra - Vol-X)">
+	<book bid="00383" title="तैत्तिरीयसंहिता - भट्टभास्करमिश्रविरचितभाष्यसहिता - Vol-X (The Taittiriya Samhita - with the Commentary of Bhattabhaskaramisra - Vol-X)">
 		<s1 title="Editor's Note" page="0000e"></s1>
 		<s1 title="षष्ठः काण्डः - सौमिकब्राह्मणम्" page="0001">
 			<s2 title="प्रथमः प्रपाठकः" page="0001">
@@ -754,7 +754,7 @@
 		<s1 title="शोधनपत्रम्" page="0465"></s1>
 		<s1 title="भाष्यस्य शुद्धपाठः पाठान्तरं च" page="0468"></s1>
 	</book>
-	<book bid="0106" title="तैत्तिरीयसंहिता - भट्टभास्करमिश्रविरचितभाष्यसहिता - Vol-XI (The Taittiriya Samhita - with the Commentary of Bhattabhaskaramisra - Vol-XI)">
+	<book bid="00384" title="तैत्तिरीयसंहिता - भट्टभास्करमिश्रविरचितभाष्यसहिता - Vol-XI (The Taittiriya Samhita - with the Commentary of Bhattabhaskaramisra - Vol-XI)">
 		<s1 title="Editor's Note" page="0000e"></s1>
 		<s1 title="षष्ठः काण्डः - सौमिकब्राह्मणम्" page="0001">
 			<s2 title="पञ्चमः प्रपाठकः" page="0001">
@@ -802,7 +802,7 @@
 		<s1 title="शुद्धिपत्रिका" page="0421"></s1>
 		<s1 title="भाष्यस्य शुद्धपाठः पाठान्तरं च" page="0423"></s1>
 	</book>
-	<book bid="0107" title="तैत्तिरीयसंहिता - भट्टभास्करमिश्रविरचितभाष्यसहिता - Vol-XII (The Taittiriya Samhita - with the Commentary of Bhattabhaskaramisra - Vol-XII)">
+	<book bid="00385" title="तैत्तिरीयसंहिता - भट्टभास्करमिश्रविरचितभाष्यसहिता - Vol-XII (The Taittiriya Samhita - with the Commentary of Bhattabhaskaramisra - Vol-XII)">
 		<s1 title="Editor's Note" page="0000c"></s1>
 		<s1 title="सप्तमः काण्डः" page="0001">
 			<s2 title="चतुर्थः प्रपाठकः" page="0001">
