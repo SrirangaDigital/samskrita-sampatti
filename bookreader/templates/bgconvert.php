@@ -47,10 +47,10 @@
 	
 	echo json_encode($array, JSON_UNESCAPED_SLASHES);
 	//~ Update manifest file to download the request file.
-	$myfile = fopen("appcache.manifest", "w") or die("Unable to open file!!!");
-	fwrite($myfile,"CACHE MANIFEST\n");
-	fwrite($myfile,$imgurl."/".$img[0].".jpg");
-	fwrite($myfile,"\n\nNETWORK:\n*\n");
-	fwrite($myfile,"FALLBACK:\n");
-	fclose($myfile);
+	// $myfile = fopen("appcache.manifest", "w") or die("Unable to open file!!!");
+	// fwrite($myfile,"CACHE MANIFEST\n");
+	// fwrite($myfile,$imgurl."/".$img[0].".jpg");
+	// fwrite($myfile,"\n\nNETWORK:\n*\n");
+	// fwrite($myfile,"FALLBACK:\n");
+	// fclose($myfile);
 ?>

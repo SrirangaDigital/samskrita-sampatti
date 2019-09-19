@@ -41,6 +41,7 @@
 		$book["pagenum"] = $result[0];
 		$book["bookID"] = $bookID;
 		$book["imgurl"] = $imgurl;
+		$book["bigImageUrl"] = "../../public/data/books/jpg/1/" . $bookID . '/';
     ?>
 <script type="text/javascript">
 	var book = <?php echo json_encode($book); ?>;

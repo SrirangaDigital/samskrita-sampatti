@@ -32,33 +32,36 @@ br.getPageURI = function(index, reduce, rotate) {
 		level = 2;
 	}
 	
-	
 	if(level == 1)
 	{
 		//~  to display loading popup
-		br.showProgressPopup('<img id="searchmarker" src="'+this.imagesBaseURL + 'marker_srch-on.png'+'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Loading...');
+		// br.showProgressPopup('<img id="searchmarker" src="'+this.imagesBaseURL + 'marker_srch-on.png'+'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Loading...');
+
 		if(book.type == 'books')
-			$.ajax({type: "POST", url: "../templates/bgconvert.php?level="+level+"&index="+index+"&bookID="+book.bookID+"&imgurl="+book.imgurl+"&mode="+this.mode+"&type="+book.type, async: true , success :function(data){br.updater(data);} , data : {book:this.book.imglist}});
+			return book.bigImageUrl+"/"+book.imglist[index];
+			// $.ajax({type: "POST", url: "../templates/bgconvert.php?level="+level+"&index="+index+"&bookID="+book.bookID+"&imgurl="+book.imgurl+"&mode="+this.mode+"&type="+book.type, async: true , success :function(data){br.updater(data);} , data : {book:this.book.imglist}});
 
 		else if(book.type == 'journals')
-			$.ajax({type: "POST", url: "../templates/bgconvert.php?level="+level+"&index="+index+"&journalID="+book.journalID+"&volume=" + book.volume + "&issue=" + book.issue + "&imgurl="+book.imgurl+"&mode="+this.mode+"&type="+book.type, async: true , success :function(data){br.updater(data);} , data : {book:this.book.imglist}});
-
-		return br.imagesBaseURL + "transparent.png";
+			return book.bigImageUrl+"/"+book.imglist[index];
+			// $.ajax({type: "POST", url: "../templates/bgconvert.php?level="+level+"&index="+index+"&journalID="+book.journalID+"&volume=" + book.volume + "&issue=" + book.issue + "&imgurl="+book.imgurl+"&mode="+this.mode+"&type="+book.type, async: true , success :function(data){br.updater(data);} , data : {book:this.book.imglist}});
+		
 	}
 	else
 	{
-		if(book.type == 'books')
-			$.ajax({type: "POST", url: "../templates/bgconvert.php?level="+level+"&index="+index+"&bookID="+book.bookID+"&imgurl="+book.imgurl+"&mode="+this.mode+"&type="+book.type, async: true , data : {book:this.book.imglist}});
-		else if(book.type == 'journals')
-			$.ajax({type: "POST", url: "../templates/bgconvert.php?level="+level+"&index="+index+"&journalID="+book.journalID+"&volume=" + book.volume + "&issue=" + book.issue +"&imgurl="+book.imgurl+"&mode="+this.mode+"&type="+book.type, async: true , data : {book:this.book.imglist}});
+		// if(book.type == 'books')
+		// 	$.ajax({type: "POST", url: "../templates/bgconvert.php?level="+level+"&index="+index+"&bookID="+book.bookID+"&imgurl="+book.imgurl+"&mode="+this.mode+"&type="+book.type, async: true , data : {book:this.book.imglist}});
+		// else if(book.type == 'journals')
+		// 	$.ajax({type: "POST", url: "../templates/bgconvert.php?level="+level+"&index="+index+"&journalID="+book.journalID+"&volume=" + book.volume + "&issue=" + book.issue +"&imgurl="+book.imgurl+"&mode="+this.mode+"&type="+book.type, async: true , data : {book:this.book.imglist}});
 
 		return book.imgurl+"/"+book.imglist[index]
 	}
 	
 }
+
 br.updater = function(result) {
 	    
 	result = jQuery.parseJSON(result);
+	
 	if(result.mode == 2)
 	{
 		var img = document.getElementById(result.id);
@@ -79,6 +82,7 @@ br.updater = function(result) {
 		})        
 	},br.timeout);
 }
+
 br.getBookId = function() {
 	return book.lang;
 }
