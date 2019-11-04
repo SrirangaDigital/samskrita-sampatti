@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00148",
         "title": "दशोपनिषदाः",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Veda Vedanga",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "106"
             }

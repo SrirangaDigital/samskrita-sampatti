@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00087",
         "title": "ओकोपाह्वत्र्यम्बकविरचितं हिरण्यकेश्याह्निकम् आचारभूषणम्",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Sahithya",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "57"
             }

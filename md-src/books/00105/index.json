@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00105",
         "title": "द्राह्यायणगृह्यसूत्रवृत्तिः",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "74"
             }

@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00086",
         "title": "वामकेश्वरतन्त्रान्तर्गतनित्याषोडशिकार्णवः",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Sahithya",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "56"
             }

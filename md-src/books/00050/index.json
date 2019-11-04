@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00050",
         "title": "भट्टगोपीनाथदीक्षितविरचिता संस्काररत्नमाला पूर्वार्धम् गृह्यसूत्रस्य प्रथमः प्रश्नः",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Sahithya",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "39"
             }

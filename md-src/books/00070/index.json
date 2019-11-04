@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00070",
         "title": "महामुनिश्रीमद्व्यासप्रणीतं वायुपुराणम्",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Ithihasa Purana",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "49"
             }

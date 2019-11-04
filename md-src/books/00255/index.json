@@ -1,9 +1,10 @@
 {
     "details": {
-        "title": "",
+        "bookId": "book_00255",
+        "title": "तन्त्रशुद्धाख्यं प्रकरणं",
         "contributors": {
             "author": [
-                ""
+                "भट्टारकश्रीवेदोत्तम"
             ]
         },
         "attributes": {
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Sahithya",
+                "veda": "",
                 "name": "Trivandrum Sanskrit Series - Anantasayana Samskrita Granthavali",
                 "index": "44"
             }

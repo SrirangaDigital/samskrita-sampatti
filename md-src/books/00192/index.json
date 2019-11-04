@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00192",
         "title": "ब्रह्मसूत्र भाष्यम् - १",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Shankara Granthavali - Vani Vilas",
                 "index": "1"
             }

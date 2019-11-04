@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00082",
         "title": "सत्याषाढविरचितं श्रौतसूत्रम् नवमो भागः",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "53"
             }

@@ -1,9 +1,10 @@
 {
     "details": {
-        "title": "",
+        "bookId": "book_00311",
+        "title": "काव्यप्रकाशः - द्वितीयः सम्पुटः",
         "contributors": {
             "author": [
-                ""
+                "श्रीमम्मटभट्ट"
             ]
         },
         "attributes": {
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Trivandrum Sanskrit Series - Anantasayana Samskrita Granthavali",
                 "index": "100"
             }

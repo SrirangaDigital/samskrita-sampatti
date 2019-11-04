@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00182",
         "title": "श्रीशिवभारतम्",
         "contributors": {
             "author": [
@@ -14,6 +15,7 @@
         "collection": [
             {
                 "category": "Sahithya",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "133"
             }

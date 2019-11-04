@@ -1,6 +1,7 @@
 {
     "details": {
-        "title": "",
+        "bookId": "book_00267",
+        "title": "मनुष्यालयचन्द्रिका",
         "contributors": {
             "author": [
                 ""
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Trivandrum Sanskrit Series - Anantasayana Samskrita Granthavali",
                 "index": "56"
             }

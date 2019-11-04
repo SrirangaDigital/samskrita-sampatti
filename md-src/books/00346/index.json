@@ -1,9 +1,10 @@
 {
     "details": {
-        "title": "",
+        "bookId": "book_00346",
+        "title": "शास्त्रदर्पणम्",
         "contributors": {
             "author": [
-                "Amalananda"
+                "अमलानन्दैः"
             ]
         },
         "attributes": {
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "",
                 "index": "0"
             }

@@ -1,9 +1,10 @@
 {
     "details": {
-        "title": "",
+        "bookId": "book_00340",
+        "title": "ऊरुभङ्गम्",
         "contributors": {
             "author": [
-                "Bhasa"
+                "भास"
             ]
         },
         "attributes": {
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Sahithya",
+                "veda": "",
                 "name": "",
                 "index": "0"
             }

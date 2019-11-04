@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00053",
         "title": "अग्निपुराणम्",
         "contributors": {
             "author": [
@@ -14,6 +15,7 @@
         "collection": [
             {
                 "category": "Ithihasa Purana",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "41"
             }

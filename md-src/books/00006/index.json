@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00006",
         "title": "केनोपनिषत्सदीकशांकरपदभाष्यवाक्यभाष्योपेता",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "6"
             }

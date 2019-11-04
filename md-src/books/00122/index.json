@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00122",
         "title": "श्रीमाणिक्यचन्द्रविरचितसंकेतसमेतः काव्यप्रकाशः",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Sahithya",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "89"
             }

@@ -1,9 +1,10 @@
 {
     "details": {
-        "title": "",
+        "bookId": "book_00240",
+        "title": "कुमारसम्भवः तृतीयः सम्पुटः ६. ७. ८ सर्गाः",
         "contributors": {
             "author": [
-                ""
+                "कालिदास"
             ]
         },
         "attributes": {
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Sahithya",
+                "veda": "",
                 "name": "Trivandrum Sanskrit Series - Anantasayana Samskrita Granthavali",
                 "index": "36"
             }

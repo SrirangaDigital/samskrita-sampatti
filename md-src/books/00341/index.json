@@ -1,9 +1,10 @@
 {
     "details": {
-        "title": "",
+        "bookId": "book_00341",
+        "title": "कर्णभारम्",
         "contributors": {
             "author": [
-                "Bhasa"
+                "भास"
             ]
         },
         "attributes": {
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Sahithya",
+                "veda": "",
                 "name": "",
                 "index": "0"
             }

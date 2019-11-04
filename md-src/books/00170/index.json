@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00170",
         "title": "धार्मिकविमर्शसमुच्चयः",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Sahithya",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "124"
             }

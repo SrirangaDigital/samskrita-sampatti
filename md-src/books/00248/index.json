@@ -1,9 +1,10 @@
 {
     "details": {
-        "title": "",
+        "bookId": "book_00248",
+        "title": "आशौचाष्टकं",
         "contributors": {
             "author": [
-                ""
+                "श्रीवररुचि"
             ]
         },
         "attributes": {
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Sahithya",
+                "veda": "",
                 "name": "Trivandrum Sanskrit Series - Anantasayana Samskrita Granthavali",
                 "index": "37"
             }

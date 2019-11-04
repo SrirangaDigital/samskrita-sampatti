@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00072",
         "title": "श्रीमन्माधवाचार्यप्रणीतः सर्वदर्शनसंग्रहः",
         "contributors": {
             "author": [
@@ -14,6 +15,7 @@
         "collection": [
             {
                 "category": "Sahithya",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "51"
             }

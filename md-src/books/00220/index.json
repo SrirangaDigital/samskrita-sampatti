@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00220",
         "title": "विरूपाक्षपञ्चाशिका",
         "contributors": {
             "author": [
@@ -14,6 +15,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Trivandrum Sanskrit Series - Anantasayana Samskrita Granthavali",
                 "index": "9"
             }

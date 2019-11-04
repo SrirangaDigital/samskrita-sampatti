@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00195",
         "title": "उपनिषद् भाष्य - १",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Shankara Granthavali - Vani Vilas",
                 "index": "4"
             }

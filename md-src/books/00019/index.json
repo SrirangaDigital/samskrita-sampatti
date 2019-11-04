@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00019",
         "title": "कृष्णयजुर्वेदीयश्वेताश्वतरोपनिषच्छांकरभाष्योपेता",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "17"
             }

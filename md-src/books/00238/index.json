@@ -1,9 +1,10 @@
 {
     "details": {
-        "title": "",
+        "bookId": "book_00238",
+        "title": "कुमारसम्भवः प्रथमः सम्पुटः १. २. सर्गौ",
         "contributors": {
             "author": [
-                ""
+                "कालिदास"
             ]
         },
         "attributes": {
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Sahithya",
+                "veda": "",
                 "name": "Trivandrum Sanskrit Series - Anantasayana Samskrita Granthavali",
                 "index": "27"
             }

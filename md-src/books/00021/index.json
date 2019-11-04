@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00021",
         "title": "रसरत्नसमुच्चयः",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "19"
             }

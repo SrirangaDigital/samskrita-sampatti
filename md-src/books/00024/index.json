@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00024",
         "title": "श्रीमद्ध्वैपायनप्रणीतब्रह्मसूत्राणि",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "21"
             }

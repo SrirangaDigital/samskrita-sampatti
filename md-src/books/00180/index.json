@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00180",
         "title": "पद्मपुराणम् श्चतुर्थो भागः",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Ithihasa Purana",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "131"
             }

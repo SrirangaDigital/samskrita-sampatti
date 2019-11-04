@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00031",
         "title": "हस्त्यायुर्वेदः",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "26"
             }

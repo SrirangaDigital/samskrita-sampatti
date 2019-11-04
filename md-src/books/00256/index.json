@@ -1,6 +1,7 @@
 {
     "details": {
-        "title": "",
+        "bookId": "book_00256",
+        "title": "प्रपञ्चहृदयम्",
         "contributors": {
             "author": [
                 ""
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Sahithya",
+                "veda": "",
                 "name": "Trivandrum Sanskrit Series - Anantasayana Samskrita Granthavali",
                 "index": "45"
             }

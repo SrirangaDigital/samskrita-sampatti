@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00100",
         "title": "स्मृत्यर्थसारः",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Sahithya",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "70"
             }

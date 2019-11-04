@@ -1,9 +1,10 @@
 {
     "details": {
-        "title": "",
+        "bookId": "book_00327",
+        "title": "अभिज्ञानशाकुन्तलम्",
         "contributors": {
             "author": [
-                "Mahakavi Kalidasa"
+                "महाकविश्रीकालिदास"
             ]
         },
         "attributes": {
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Sahithya",
+                "veda": "",
                 "name": "",
                 "index": "0"
             }

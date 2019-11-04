@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00075",
         "title": "सत्याषाढविरचितं श्रौतसूत्रम्  द्वितीयो भागः",
         "contributors": {
             "author": [
@@ -14,6 +15,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "53"
             }

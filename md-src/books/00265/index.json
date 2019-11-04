@@ -1,6 +1,7 @@
 {
     "details": {
-        "title": "",
+        "bookId": "book_00265",
+        "title": "स्फोटसिद्धिन्यायविचारः",
         "contributors": {
             "author": [
                 ""
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Trivandrum Sanskrit Series - Anantasayana Samskrita Granthavali",
                 "index": "54"
             }

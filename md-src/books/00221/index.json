@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00221",
         "title": "मातङ्गलीला",
         "contributors": {
             "author": [
@@ -14,6 +15,7 @@
         "collection": [
             {
                 "category": "Sahithya",
+                "veda": "",
                 "name": "Trivandrum Sanskrit Series - Anantasayana Samskrita Granthavali",
                 "index": "10"
             }

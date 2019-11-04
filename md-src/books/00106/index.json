@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00106",
         "title": "भाष्यार्थरत्नमाला",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "75"
             }

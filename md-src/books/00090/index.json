@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00090",
         "title": "यतिधर्मसंग्रहः",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Sahithya",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "60"
             }

@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00012",
         "title": "तैत्तिरीयोपनिषत्सटीकशङ्करभाष्योपेता",
         "contributors": {
             "author": [
@@ -14,6 +15,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "12"
             }

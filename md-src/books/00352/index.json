@@ -1,6 +1,7 @@
 {
     "details": {
-        "title": "",
+        "bookId": "book_00352",
+        "title": "पार्वतीपरिणयम्",
         "contributors": {
             "author": [
                 ""
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Sahithya",
+                "veda": "",
                 "name": "",
                 "index": "0"
             }

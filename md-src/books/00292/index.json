@@ -1,9 +1,10 @@
 {
     "details": {
-        "title": "",
+        "bookId": "book_00292",
+        "title": "श्रीयाज्ञवल्क्यस्मृतिः",
         "contributors": {
             "author": [
-                ""
+                "श्रीविश्वरूपाचार्य"
             ]
         },
         "attributes": {
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Trivandrum Sanskrit Series - Anantasayana Samskrita Granthavali",
                 "index": "81"
             }

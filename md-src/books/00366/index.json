@@ -1,0 +1,28 @@
+{
+    "details": {
+        "bookId": "book_00366",
+        "title": "युद्धकाण्ड -६",
+        "contributors": {
+            "author": [
+                "वाल्मीकि"
+            ]
+        },
+        "attributes": {
+            "edition": "1",
+            "year": ""
+        },
+        "collection": [
+            {
+                "category": "Ithihasa Purana",
+                "veda": "",
+                "name": "",
+                "index": "0"
+            }
+        ]
+    },
+    "media": {
+        "pdf": {
+            "link": ""
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "details": {
+        "bookId": "book_00386",
+        "title": "",
+        "contributors": {
+            "author": [
+                "Pashupati Nath Shastri"
+            ]
+        },
+        "attributes": {
+            "edition": "1",
+            "year": ""
+        },
+        "collection": [
+            {
+                "category": "",
+                "veda": "Rigveda",
+                "name": "",
+                "index": "0"
+            }
+        ]
+    },
+    "media": {
+        "pdf": {
+            "link": "https://archive.org/details/in.ernet.dli.2015.486010"
+        }
+    }
+}

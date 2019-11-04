@@ -1,9 +1,10 @@
 {
     "details": {
-        "title": "",
+        "bookId": "book_00355",
+        "title": "ब्रह्मसूत्रभाष्यम्",
         "contributors": {
             "author": [
-                "Bhaskara"
+                "भास्कराचार्य"
             ]
         },
         "attributes": {
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "",
                 "index": "0"
             }

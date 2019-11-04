@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00103",
         "title": "वैद्यनाथकृतगदाटीकासंवलितः परिभाषेन्दुशेखरः",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Sahithya",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "72"
             }

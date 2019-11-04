@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00104",
         "title": "गायत्रीपुरश्चरणपद्धतिः",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Sahithya",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "73"
             }

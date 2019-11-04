@@ -1,9 +1,10 @@
 {
     "details": {
-        "title": "",
+        "bookId": "book_00354",
+        "title": "श्रीमद्देवीभागवतं",
         "contributors": {
             "author": [
-                ""
+                "निलकण्ठ"
             ]
         },
         "attributes": {
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Ithihasa Purana",
+                "veda": "",
                 "name": "",
                 "index": "0"
             }

@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00120",
         "title": "दुर्गाचार्यकृतवृत्तिसमेतम् निरुक्तम् प्रथमो भागः",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "88"
             }

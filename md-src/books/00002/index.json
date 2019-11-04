@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00002",
         "title": "श्रीरुद्राध्यायः सायाणाचार्यभट्टभास्करप्रणीतभाष्याभ्यां संवलितः",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Veda Vedanga",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "2"
             }

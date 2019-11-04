@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00088",
         "title": "माटे इत्युपाह्वत्र्यम्बकविरचितः आचारेन्दुः",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Sahithya",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "58"
             }

@@ -1,9 +1,10 @@
 {
     "details": {
-        "title": "",
+        "bookId": "book_00362",
+        "title": "अयोध्या काण्ड-२",
         "contributors": {
             "author": [
-                ""
+                "वाल्मीकि"
             ]
         },
         "attributes": {
@@ -12,6 +13,8 @@
         },
         "collection": [
             {
+                "category": "Ithihasa Purana",
+                "veda": "",
                 "name": "",
                 "index": "0"
             }

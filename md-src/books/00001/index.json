@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00001",
         "title": "श्री गणेशाथर्वशीर्षं सभाष्यम्",
         "contributors": {
             "author": [
@@ -14,6 +15,7 @@
         "collection": [
             {
                 "category": "Veda Vedanga",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "1"
             }

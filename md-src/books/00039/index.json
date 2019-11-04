@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00039",
         "title": "राजनिघण्टुसहितो धन्वन्तरीयनिघण्टुः",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Kosha",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "33"
             }

@@ -1,6 +1,7 @@
 {
     "details": {
-        "title": "",
+        "bookId": "book_00303",
+        "title": "रसोपनिषत्",
         "contributors": {
             "author": [
                 ""
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Sahithya",
+                "veda": "",
                 "name": "Trivandrum Sanskrit Series - Anantasayana Samskrita Granthavali",
                 "index": "92"
             }

@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00225",
         "title": "नीतिसारः कामन्दकीयः",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Sahithya",
+                "veda": "",
                 "name": "Trivandrum Sanskrit Series - Anantasayana Samskrita Granthavali",
                 "index": "14"
             }

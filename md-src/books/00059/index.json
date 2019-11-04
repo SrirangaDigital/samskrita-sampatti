@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00059",
         "title": "श्रीमत्सायणाचार्यविरचितभाष्यसमेता कृष्णयजुर्वेदीयतैत्तिरीयसंहिता षष्ठमो भागः",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "Yajurveda",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "42"
             }

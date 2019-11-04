@@ -1,9 +1,10 @@
 {
     "details": {
-        "title": "",
+        "bookId": "book_00349",
+        "title": "रामकर्णरसायनम्",
         "contributors": {
             "author": [
-                "Ramabhadra Dikshita"
+                "रामभद्रदीक्षित"
             ]
         },
         "attributes": {
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "",
                 "index": "0"
             }

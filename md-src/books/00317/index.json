@@ -1,9 +1,10 @@
 {
     "details": {
-        "title": "",
+        "bookId": "book_00317",
+        "title": "प्रक्रियासर्वस्वं",
         "contributors": {
             "author": [
-                ""
+                "श्रीनारायाणभट्ट"
             ]
         },
         "attributes": {
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Trivandrum Sanskrit Series - Anantasayana Samskrita Granthavali",
                 "index": "106"
             }

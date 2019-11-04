@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00137",
         "title": "धर्मतत्त्वनिर्णयः",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "98"
             }

@@ -1,9 +1,10 @@
 {
     "details": {
-        "title": "",
+        "bookId": "book_00345",
+        "title": "ब्रह्मसूत्रवृत्तिः",
         "contributors": {
             "author": [
-                "Sadashiva Brahmendra"
+                "सदाशिवेन्द्रसरस्वत्या"
             ]
         },
         "attributes": {
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "",
                 "index": "0"
             }

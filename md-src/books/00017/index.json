@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00017",
         "title": "श्रीमत्सुरेश्वराचार्यविरचितं बृहदारण्यकोपनिषद्भाष्यवार्तिकम्",
         "contributors": {
             "author": [
@@ -14,6 +15,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "16"
             }

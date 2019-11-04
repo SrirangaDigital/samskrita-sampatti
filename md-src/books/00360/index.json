@@ -1,9 +1,10 @@
 {
     "details": {
-        "title": "",
+        "bookId": "book_00360",
+        "title": "कौटिलीयं अर्थशास्त्रम्",
         "contributors": {
             "author": [
-                ""
+                "कौटिल्य"
             ]
         },
         "attributes": {
@@ -12,6 +13,8 @@
         },
         "collection": [
             {
+                "category": "",
+                "veda": "",
                 "name": "",
                 "index": "0"
             }
@@ -19,7 +22,7 @@
     },
     "media": {
         "pdf": {
-            "link": ""
+            "link": "https://archive.org/details/in.ernet.dli.2015.280235"
         }
     }
 }

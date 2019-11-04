@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00011",
         "title": "ऐतरेयोपनिषत्",
         "contributors": {
             "author": [
@@ -14,6 +15,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "11"
             }

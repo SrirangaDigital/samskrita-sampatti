@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00022",
         "title": "श्रीमद्विद्यारण्यमुनिविरचितः जीवन्मुक्तिविवेकः",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Sahithya",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "20"
             }

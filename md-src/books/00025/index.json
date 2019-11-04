@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00025",
         "title": "श्रीविद्यारण्यविरचितः श्रीमच्छंकरदिग्विजयः",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Sahithya",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "22"
             }

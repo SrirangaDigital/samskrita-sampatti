@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00071",
         "title": "श्रीनिवासदासविरचिता यतीन्द्रमतदीपिका",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Sahithya",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "50"
             }

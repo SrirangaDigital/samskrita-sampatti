@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00084",
         "title": "श्रीमद्द्वैपायनमुनिप्रणीतं मत्स्यपुराणम्",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Ithihasa Purana",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "54"
             }

@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00111",
         "title": "श्रीमच्छकराचार्यकृता वाक्यवृत्तिः",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "80"
             }

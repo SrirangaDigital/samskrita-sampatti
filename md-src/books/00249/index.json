@@ -1,9 +1,10 @@
 {
     "details": {
-        "title": "",
+        "bookId": "book_00249",
+        "title": "नामलिङ्गानुशासनं प्रथमः सम्पुटः - प्रथमं काण्डम",
         "contributors": {
             "author": [
-                ""
+                "श्रीमदमरसिंह"
             ]
         },
         "attributes": {
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Kosha",
+                "veda": "",
                 "name": "Trivandrum Sanskrit Series - Anantasayana Samskrita Granthavali",
                 "index": "38"
             }

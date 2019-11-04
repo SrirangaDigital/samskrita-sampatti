@@ -1,9 +1,10 @@
 {
     "details": {
-        "title": "",
+        "bookId": "book_00289",
+        "title": "आश्वलायनगृह्यसूत्रं",
         "contributors": {
             "author": [
-                ""
+                "श्रीहरदत्ताचार्यमिश्रा"
             ]
         },
         "attributes": {
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Trivandrum Sanskrit Series - Anantasayana Samskrita Granthavali",
                 "index": "78"
             }

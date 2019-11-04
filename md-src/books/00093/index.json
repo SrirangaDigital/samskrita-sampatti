@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00093",
         "title": "श्रीमद्रङ्गरामानुजमुनिविरचितप्रकाशिकोपेता छान्दोग्योपनिषत्",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "63"
             }

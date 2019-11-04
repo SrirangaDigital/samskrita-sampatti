@@ -1,9 +1,10 @@
 {
     "details": {
-        "title": "",
+        "bookId": "book_00252",
+        "title": "अध्यात्मपटलम् - अथवा - आपस्तम्बीयधर्मप्रथमप्रश्नाष्टमपटलं",
         "contributors": {
             "author": [
-                ""
+                "श्रीमच्छङ्करभगवत्पाद"
             ]
         },
         "attributes": {
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Trivandrum Sanskrit Series - Anantasayana Samskrita Granthavali",
                 "index": "41"
             }

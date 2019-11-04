@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00108",
         "title": "वेदान्तसूत्रमुक्तावलिः",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "77"
             }

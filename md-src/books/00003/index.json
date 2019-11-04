@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00003",
         "title": "श्रीपुरुषसूक्तम्",
         "contributors": {
             "author": [
@@ -14,6 +15,7 @@
         "collection": [
             {
                 "category": "Veda Vedanga",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "3"
             }

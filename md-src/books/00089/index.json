@@ -1,6 +1,7 @@
 {
     "details": {
-        "title": "केळकरोपाह्ववापूभट्टविरचिता श्राद्धमञ्जरी",
+        "bookId": "book_00089",
+        "title": "केळकरोपाह्वबापूभट्टविरचिता श्राद्धमञ्जरी",
         "contributors": {
             "author": [
                 "हरि नारायण आपटे"
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Sahithya",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "59"
             }

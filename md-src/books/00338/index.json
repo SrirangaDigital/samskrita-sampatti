@@ -1,9 +1,10 @@
 {
     "details": {
-        "title": "",
+        "bookId": "book_00338",
+        "title": "रामचरितम् (भट्टिकाव्यम्)",
         "contributors": {
             "author": [
-                "Bhatti"
+                "भट्टि"
             ]
         },
         "attributes": {
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Sahithya",
+                "veda": "",
                 "name": "",
                 "index": "0"
             }

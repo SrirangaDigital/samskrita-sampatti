@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00098",
         "title": "बृहद्ब्रह्मसंहिता",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Sahithya",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "68"
             }

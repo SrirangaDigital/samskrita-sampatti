@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00152",
         "title": "व्याकरणमहाभाष्यम् द्वितीयो भागः",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "108"
             }

@@ -1,9 +1,10 @@
 {
     "details": {
-        "title": "",
+        "bookId": "book_00361",
+        "title": "बालकाण्ड- १",
         "contributors": {
             "author": [
-                ""
+                "वाल्मीकि"
             ]
         },
         "attributes": {
@@ -12,6 +13,8 @@
         },
         "collection": [
             {
+                "category": "Ithihasa Purana",
+                "veda": "",
                 "name": "",
                 "index": "0"
             }

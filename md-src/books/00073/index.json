@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00073",
         "title": "नीलकण्ठविरचितटीकासमेता श्रीमद्गणेशगीता",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Sahithya",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "52"
             }

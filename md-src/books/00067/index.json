@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00067",
         "title": "अपरार्कापराभिधापरादित्यविरचितटीकासमेता याज्ञवल्क्यस्मृतिः द्वितीयो भागः",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "46"
             }

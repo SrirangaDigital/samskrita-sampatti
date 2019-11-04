@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00027",
         "title": "जैमिनीयन्यायमाला",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "24"
             }

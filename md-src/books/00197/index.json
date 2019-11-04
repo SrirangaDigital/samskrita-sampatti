@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00197",
         "title": "तैत्तिरीयोपनिषद्भाष्यम्",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Shankara Granthavali - Vani Vilas",
                 "index": "6"
             }

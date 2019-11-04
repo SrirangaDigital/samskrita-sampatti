@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00101",
         "title": "बृहद्योगतरङ्गिणी प्रथमो भागः",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Sahithya",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "71"
             }

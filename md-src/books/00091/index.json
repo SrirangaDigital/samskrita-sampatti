@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00091",
         "title": "गौतमप्रणीतधर्मसूत्राणि",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "61"
             }

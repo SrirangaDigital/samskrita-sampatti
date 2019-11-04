@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00069",
         "title": "अङ्गिरःप्रश्रृतिबौधायनान्ताना सप्तविंशतिसंख्यामितानां स्मृतीनां समुच्चयः",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "48"
             }

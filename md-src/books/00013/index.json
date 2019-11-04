@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00013",
         "title": "तैत्तिरीयोपनिषद्भाष्यवार्तिकं सुरेश्वराचार्यकृतं सटीकम्",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "13"
             }

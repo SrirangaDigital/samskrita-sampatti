@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00038",
         "title": "ऐतरेयब्राह्मणम्",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "Rigveda",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "32"
             }

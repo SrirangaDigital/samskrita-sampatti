@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00032",
         "title": "वृन्दमाधवापरनामा सिद्धयोगः",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Sahithya",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "27"
             }

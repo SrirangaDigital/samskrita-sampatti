@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00117",
         "title": "ज्योतिर्निबन्धः",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Sahithya",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "85"
             }

@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00154",
         "title": "ग्रहगणिताध्यायः पूर्वार्धः",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "110"
             }

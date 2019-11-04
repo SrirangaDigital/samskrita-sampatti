@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00035",
         "title": "नृसिंहपूर्वोत्तरतापनीयोपनिषत्",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "30"
             }

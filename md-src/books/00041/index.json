@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00041",
         "title": "श्रीवेदव्यासप्रणीतमहाभारतान्तर्गता श्रीमद्भगवद्गीता",
         "contributors": {
             "author": [
@@ -14,6 +15,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "34"
             }

@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00126",
         "title": "दर्शपूर्णममासप्रकाशविषयानुकमः",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Sahithya",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "93"
             }

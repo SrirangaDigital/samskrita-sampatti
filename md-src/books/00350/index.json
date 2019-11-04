@@ -1,9 +1,10 @@
 {
     "details": {
-        "title": "",
+        "bookId": "book_00350",
+        "title": "काव्यदर्पणः",
         "contributors": {
             "author": [
-                "Rajachudamani Dikshita"
+                "राजचुडमणि"
             ]
         },
         "attributes": {
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "",
                 "index": "0"
             }

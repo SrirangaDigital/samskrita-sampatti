@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00136",
         "title": "श्रीमज्जैमिनिप्रणीते मीमांसादर्शने सप्तमो भागः",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "97"
             }

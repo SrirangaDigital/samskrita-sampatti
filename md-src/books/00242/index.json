@@ -1,9 +1,10 @@
 {
     "details": {
-        "title": "",
+        "bookId": "book_00242",
+        "title": "नानार्थार्णवसंक्षेपः",
         "contributors": {
             "author": [
-                ""
+                "केशवस्वामि"
             ]
         },
         "attributes": {
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Kosha",
+                "veda": "",
                 "name": "Trivandrum Sanskrit Series - Anantasayana Samskrita Granthavali",
                 "index": "29"
             }

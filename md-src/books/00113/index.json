@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00113",
         "title": "हरिदीक्षितकृता ब्रह्मसूत्रवृत्तिः",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "82"
             }

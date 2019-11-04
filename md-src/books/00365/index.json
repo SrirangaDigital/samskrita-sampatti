@@ -1,0 +1,28 @@
+{
+    "details": {
+        "bookId": "book_00365",
+        "title": "सुन्दरकाण्ड-५",
+        "contributors": {
+            "author": [
+                "वाल्मीकि"
+            ]
+        },
+        "attributes": {
+            "edition": "1",
+            "year": ""
+        },
+        "collection": [
+            {
+                "category": "Ithihasa Purana",
+                "veda": "",
+                "name": "",
+                "index": "0"
+            }
+        ]
+    },
+    "media": {
+        "pdf": {
+            "link": ""
+        }
+    }
+}

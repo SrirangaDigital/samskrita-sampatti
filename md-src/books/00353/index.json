@@ -1,9 +1,10 @@
 {
     "details": {
-        "title": "",
+        "bookId": "book_00353",
+        "title": "श्रीमद्भागवतम् द्वितीयः स्कन्धः",
         "contributors": {
             "author": [
-                ""
+                "वेदव्यास"
             ]
         },
         "attributes": {
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Ithihasa Purana",
+                "veda": "",
                 "name": "",
                 "index": "0"
             }

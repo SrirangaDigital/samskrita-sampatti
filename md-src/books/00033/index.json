@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00033",
         "title": "ब्रह्मपुराणम्",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Ithihasa Purana",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "28"
             }

@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00206",
         "title": "विवेकचूडामणिः & उपदेशसहस्त्री",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Shankara Granthavali - Vani Vilas",
                 "index": "14"
             }

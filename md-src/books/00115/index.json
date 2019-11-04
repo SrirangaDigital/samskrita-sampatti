@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00115",
         "title": "संक्षेपशारीरकम् द्वितीयो भागः",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Sahithya",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "83"
             }

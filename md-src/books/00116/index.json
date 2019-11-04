@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00116",
         "title": "अद्वैतामोदः",
         "contributors": {
             "author": [
@@ -15,6 +16,7 @@
         "collection": [
             {
                 "category": "Sahithya",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "84"
             }

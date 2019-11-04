@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00159",
         "title": "रुद्राध्यायः",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "114"
             }

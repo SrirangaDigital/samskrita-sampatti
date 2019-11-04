@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00092",
         "title": "ईशकेनकठप्रश्नमुण्डमाण्डूक्यानन्दवल्लीभृगूपनिषदः",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "62"
             }

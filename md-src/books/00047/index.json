@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00047",
         "title": "कृष्णयजुर्वेदीयं तैत्तिरीयब्राह्मणम् द्वितीयो भागः",
         "contributors": {
             "author": [
@@ -14,6 +15,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "Yajurveda",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "37"
             }

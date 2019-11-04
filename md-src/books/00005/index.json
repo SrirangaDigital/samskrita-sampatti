@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00005",
         "title": "ईशावास्योपनिषत्सटीकशांकरभाष्योपेता",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "5"
             }

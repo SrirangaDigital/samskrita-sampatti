@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00210",
         "title": "प्रपञ्चसारः - १",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Sahithya",
+                "veda": "",
                 "name": "Shankara Granthavali - Vani Vilas",
                 "index": "19"
             }

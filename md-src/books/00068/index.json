@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00068",
         "title": "वाचस्पतिमिश्रविरचितटीकासंवलितव्यासभाष्यसमेतानि पातञ्जलयोगसूत्राणि",
         "contributors": {
             "author": [
@@ -14,6 +15,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "47"
             }

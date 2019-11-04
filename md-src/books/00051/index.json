@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00051",
         "title": "भट्टगोपीनाथदीक्षितविरचिता संस्काररत्नमाला उत्तरार्धम् गृह्यसूत्रस्य द्वितीयः प्रश्नः",
         "contributors": {
             "author": [
@@ -15,6 +16,7 @@
         "collection": [
             {
                 "category": "Sahithya",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "39"
             }

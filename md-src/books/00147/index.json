@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00147",
         "title": "आश्वलायनगृह्यसूत्रम्",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "105"
             }

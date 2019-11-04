@@ -1,9 +1,10 @@
 {
     "details": {
-        "title": "",
+        "bookId": "book_00336",
+        "title": "हर्षचरितम्",
         "contributors": {
             "author": [
-                "Banabhatta"
+                "श्रीबाणभट्ट"
             ]
         },
         "attributes": {
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Sahithya",
+                "veda": "",
                 "name": "",
                 "index": "0"
             }

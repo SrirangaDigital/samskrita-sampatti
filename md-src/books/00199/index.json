@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00199",
         "title": "छान्ढोग्योपनिषत् - २",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Veda Vedanga",
+                "veda": "",
                 "name": "Shankara Granthavali - Vani Vilas",
                 "index": "7"
             }

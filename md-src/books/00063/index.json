@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00063",
         "title": "कौण्डभट्टविरचितवैयाकरभूषणसाराख्यव्याख्यासमताः भट्टोजिदीक्षितप्रणीत वैयाकरणसिद्धान्तकारिकाः",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "43"
             }

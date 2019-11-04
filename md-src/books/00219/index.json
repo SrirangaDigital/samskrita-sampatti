@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00219",
         "title": "प्रद्युम्नाभ्युदयं",
         "contributors": {
             "author": [
@@ -14,6 +15,7 @@
         "collection": [
             {
                 "category": "Sahithya",
+                "veda": "",
                 "name": "Trivandrum Sanskrit Series - Anantasayana Samskrita Granthavali",
                 "index": "8"
             }

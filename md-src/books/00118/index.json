@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00118",
         "title": "श्रीनृसिंहभट्टविरचिता विधानमाला",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Sahithya",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "86"
             }

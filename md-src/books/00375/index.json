@@ -1,0 +1,28 @@
+{
+    "details": {
+        "bookId": "book_00375",
+        "title": "तैत्तिरीय संहिता-भागः-१",
+        "contributors": {
+            "author": [
+                "वेदव्यास"
+            ]
+        },
+        "attributes": {
+            "edition": "1",
+            "year": ""
+        },
+        "collection": [
+            {
+                "category": "Veda Vedanga",
+                "veda": "Yajurveda",
+                "name": "",
+                "index": "0"
+            }
+        ]
+    },
+    "media": {
+        "pdf": {
+            "link": ""
+        }
+    }
+}

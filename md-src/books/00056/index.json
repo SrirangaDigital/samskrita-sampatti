@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00056",
         "title": "श्रीमत्सायणाचार्यविरचितभाष्यसमेता कृष्णयजुर्वेदीयतैत्तिरीयसंहिता तृतीयो भागः",
         "contributors": {
             "author": [
@@ -14,6 +15,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "Yajurveda",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "42"
             }

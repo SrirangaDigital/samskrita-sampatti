@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00110",
         "title": "छान्दोग्योपनिषत्",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "79"
             }

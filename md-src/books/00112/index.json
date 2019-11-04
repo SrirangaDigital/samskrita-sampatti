@@ -1,5 +1,6 @@
 {
     "details": {
+        "bookId": "book_00112",
         "title": "नारायणकृतवृत्तिसमेतमाश्वलायनश्रौतसूत्रम्",
         "contributors": {
             "author": [
@@ -13,6 +14,7 @@
         "collection": [
             {
                 "category": "Shastra",
+                "veda": "",
                 "name": "Anandashram Samskrita Granthavali",
                 "index": "81"
             }
