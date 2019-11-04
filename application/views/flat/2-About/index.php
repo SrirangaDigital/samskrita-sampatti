@@ -69,7 +69,7 @@
 	<div class="row align-items-center justify-content-around intro">
 		<div class="col-md-6">
 			<h1>Contact</h1>
-			<p>You can reach out to us as<br />sriranga.yoga@gmail.com or<br />arjun.kashyap@srirangadigital.com</p>
+			<p>You can reach out to us as<br />sriranga.yoga@gmail.com</p>
 		</div>
 		<div class="col-md-6">
 			<figure class="figure">
