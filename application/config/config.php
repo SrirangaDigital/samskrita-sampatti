@@ -1,6 +1,7 @@
 <?php
 
-define('BASE_URL', 'http://192.168.1.101/samskrita-sampatti/');
+define('BASE_URL', 'http://localhost/samskrita-sampatti/');
+define('SOLR_URL', 'http://localhost:8983/solr/');
 define('PUBLIC_URL', BASE_URL . 'public/');
 define('STOCK_IMAGE_URL', BASE_URL . 'public/images/stock/');
 define('API_URL', BASE_URL . 'api/');
