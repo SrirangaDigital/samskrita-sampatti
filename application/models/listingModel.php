@@ -8,6 +8,46 @@ class listingModel extends Model {
 		parent::__construct();
 	}
 
+	public function getMandalaDetails($query) {
+		$db= $this->db->useDB();
+		$collection = $this->db->selectCollection($db, MANDALA_COLLECTION);
+		if($query['type'] == 'mandala'){
+			$iterator = $collection->find(array('id'=>$query['id']));
+			$data['details'] = "mandala_details";
+
+			foreach ($iterator as $row) {
+				$data['total'] = $row['total'];
+			}
+			return $data;
+		} else if ($query['type'] == 'sukta') {
+			$iterator = $collection->find(array('id'=>$query['id']));
+			$data['details'] = $query['idx'];
+
+			foreach ($iterator as $row) {
+				$data['total'] = $row['sukta'];
+			}
+			return $data;
+		}
+
+	}
+
+	public function reformFilter($filter) {
+		var_dump($query);
+		$reformedFilter = [];
+		foreach ($filter as $key => $value) {
+
+			// Values beginning with @ are treated as regular expressions
+			if(preg_match('/^@/', $value)) {
+
+				$value = ['$regex' => preg_replace('/^@/', '', $value)];
+			}
+
+			// Here _ in key is replaced with dot. PHP had initially done this change
+			$reformedFilter{str_replace('_', '.', $key)} = $value;
+		}
+
+		return $reformedFilter;
+	}
 	public function getCategories($type, $selectKey, $filter = ''){
 
 		$db = $this->db->useDB();
@@ -33,7 +73,7 @@ class listingModel extends Model {
 		$precastSelectKeys = $this->getPrecastKey($type, 'selectKey');
 		$selectKeyIndex = array_search($selectKey, $precastSelectKeys);
 		$nextSelectKey = (isset($precastSelectKeys[$selectKeyIndex + 1])) ? $precastSelectKeys[$selectKeyIndex + 1] : false;
-		
+
 		$urlFilter = $this->filterArrayToString($filter);
 		$urlFilter = ($urlFilter) ? '&' . $urlFilter : '';
 		$auxiliary = ['parentType' => $type, 'selectKey' => $selectKey, 'filter' => $filter];
@@ -45,10 +85,10 @@ class listingModel extends Model {
 			$category['nameURL'] = $this->filterSpecialChars($category['name']);
 			$category['parentType'] = $row['_id']['Type'];
 			$category['journalID'] = $row['_id']['journalID'];
-			
+
             if(!(isset($row['_id']['Category'])))
             	$category['nameURL'] = 'notExists';
-			
+
             if($nextSelectKey)
     			$category['nextURL'] = BASE_URL . 'listing/structure/' . $category['parentType'] . '/?select=' . $nextSelectKey . '&' . $selectKey . '=' . $category['nameURL'] . $urlFilter;
             else
@@ -58,7 +98,7 @@ class listingModel extends Model {
 		if($data){
 
 			$data['auxiliary'] = $auxiliary;
-		}	
+		}
 
 		// This marks the end of sifting through results
 

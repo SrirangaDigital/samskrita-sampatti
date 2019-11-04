@@ -1,0 +1,98 @@
+.structure-1{
+  margin-top: 20px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.25);
+  margin-right: 60px;
+}
+.structure-2, .structure-4{
+  margin-top: 60px;
+  margin-right: 60px;
+}
+.mandala-page {
+  padding: 50px;
+}
+
+.structure-1 ul{
+  padding: 25px;
+}
+
+.structure-2 h2.lead{
+  border-bottom: 2px solid #1565C0;
+}
+.structure-1 li{
+  font-size: 20px;
+  text-align: center;
+  line-height: 36px;
+}
+.structure-1 li a{
+  font-size: 20px;
+  color: #B71C1C;
+  padding: 0 8px;
+}
+.structure-1 li a.selected{
+  font-size: 36px;
+  padding: 0 10px;
+  font-weight: bold;
+}
+
+.structure-1,.structure-2, h2.lead{
+  border-bottom: 2px solid #1565C0;
+  padding: 25px 25px 15px 0px;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-bottom: 10px;
+  color: #333;
+  font-size: 26px;
+  min-width: 120px;
+  background-clip: text;
+  border-bottom: 2px solid #E65100;
+}
+
+.structure-1,
+.structure-2{
+  background: url(../images/stock/mandala-back2.png) no-repeat;
+  background-position: right top;
+  background-size: auto;
+  box-shadow: 0 1px 15px rgba(0,0,0,0.1);
+  border-radius: 5px;
+      /*box-shadow: 0 1px 3px rgba(0,0,0,0.25);*/
+  /*padding: 20px;*/
+}
+
+.structure-2 ul{
+  padding: 25px;
+  text-align: left;
+}
+.structure-2 li{
+  font-size: 18px;
+  min-width: 45px;
+  text-align: center;
+  padding: 5px 10px;
+}
+.structure-2 li a{
+  color: #555;
+}
+.structure-2 li a.selected{
+  font-size: 24px;
+  color: #B71C1C;
+  font-weight: bold;
+}
+.structure-2 .prev-address, .structure-3 .prev-address{
+  text-align: right;
+  float: right;
+  color: #666;
+  font-size: 18px;
+}
+.mandala-page h1{
+  font-family: 'Siddhanta';
+	font-size: 32px;
+	line-height: 36px;
+	margin-top: 0;
+  margin-bottom: 40px;
+  padding: 50px 50px 50px 175px ;
+  color: rgb(79, 79, 79);
+  background: url(../images/stock/mandala-back1.png) no-repeat;
+  background-position: left center;
+  background-color: #FAFAFA;
+  background-size: contain;
+  /*box-shadow: 0 1px 15px rgba(0,0,0,0.1);*/
+}
