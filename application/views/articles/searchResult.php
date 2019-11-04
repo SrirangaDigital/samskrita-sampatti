@@ -17,7 +17,7 @@ $(document).ready(function(){
             }
         }
     });
-});     
+});
 </script>
 
 <?php $data = json_decode($data, true);

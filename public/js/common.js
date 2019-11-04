@@ -3,7 +3,7 @@ $(document).ready(function() {
     var isWider = $( '.wider' );
     isWider.next( '.container' ).addClass( 'push-down' );
 
-    
+
     var hloc = window.location.href;
     if(hloc.match('#')){
 
@@ -23,16 +23,33 @@ $(document).ready(function() {
 
     $(".TOCtoggle").click(function(){
 
-        var divID = "#toc-" + $(this).attr('data-name'); 
+        var divID = "#toc-" + $(this).attr('data-name');
         $(divID).slideToggle(1, function(){
 
             // buildMasonry();
-           
+
         });
-    });  
+    });
 
 });
 
+function bindMandalaStructure(){
+
+	$('.structure-1 .mandala a').on('click', function (e){
+		e.preventDefault();
+		$('.structure-1 .mandala a').removeClass('selected');
+     	$(this).addClass('selected');
+
+		url = BASE_URL + 'listing/sukta?mandala=' + $(this).attr('data-mandala');
+	    $.get( url, function( data ) {
+
+	        if(data) {
+    				$('.structure-3').html( '' );
+    				$('.structure-2').html( data );
+	        }
+	    });
+	});
+}
 
 function getresult(url) {
 
@@ -46,9 +63,9 @@ function getresult(url) {
             $('#loader-icon').show();
         },
         success: function(data){
-            
+
             $('#grid').attr('data-go', '0');
-            
+
             var obj = JSON.parse(data);
 
             if(obj.articles == "noData") {
@@ -73,7 +90,7 @@ function displayArticlesFromJson(json){
     var grid = $('#posts');
 
     var obj = JSON.parse(json);
-    
+
     // var aux = (obj.auxiliary === undefined) ? '' : obj.auxiliary;
     // var filterString = (aux.filterString === undefined) ? '' : aux.filterString;
 
@@ -83,24 +100,24 @@ function displayArticlesFromJson(json){
 
         displayString += '<div class="full-width-card col-md-5">';
         displayString += '<h4 class="publication-details">';
-        
+
         if(obj['articles'][i]['feature'])
             displayString += '<span class="orange"><a href="' + base_url + 'articles/category/feature/' + obj['articles'][i]['feature'] + '?journal=' + obj['articles'][i]['journal'] + '">' + obj['articles'][i]['feature'] + '</a></span>';
 
         if(obj['articles'][i]['series'])
             displayString += '<span class="brown"><a href="' + base_url + 'articles/category/series/' + obj['articles'][i]['series'] + '?journal=' + obj['articles'][i]['journal'] + '">' + obj['articles'][i]['series'] + '</a></span>';
-    
+
         displayString += '<span class="maroon"><a href="' + base_url + 'articles/toc?volume=' + obj['articles'][i]['volume'] + '&issue=' + obj['articles'][i]['issue'] + '&journal=' + obj['articles'][i]['journal'] + '">' + getMonthDevanagari(obj['articles'][i]['month']) + ' ' + roman2Devnagari(obj['articles'][i]['year']) + ' (' + nav_archive_volume + ' ' + roman2Devnagari(rlZero(obj['articles'][i]['volume'])) + ', ' + getIssueDevanagari(obj['articles'][i]['issue']) + ')</a></span>';
-    
+
         displayString += '</h4>';
         displayString += '<h2 class="title">';
         displayString += '<a target="_blank" href="' + base_url + 'article/text/' + obj['articles'][i]['year'] + '/' + obj['articles'][i]['month'] + '/' + obj['articles'][i]['page'] + '?search=' + obj['fullTextSearch'] + '" class="pdf">' + obj['articles'][i]['title'] + '</a>';
         displayString += '</h2>';
 
         if(obj['articles'][i]['author']){
-            
+
             displayString +=  '<h3 class="author by">';
-            
+
             for(j = 0; j < Object.keys(obj['articles'][i]['author']).length; j++) {
                 displayString += '<span><a href="' + base_url + 'articles/author/' + obj['articles'][i]['author'][j]['name'] + '&journal=' + obj['articles'][i]['journal'] + '">' + obj['articles'][i]['author'][j]['name'] + '</a></span>';
             }
@@ -130,7 +147,7 @@ function rlZero(month){
 function getMonthDevanagari(month){
 
     month = month.replace(/^special[AB]*/i, 'विशेषाङ्कः');
-    
+
     month = month.replace(/01/, 'जनवरी', month);
     month = month.replace(/02/, 'फेब्रवरी', month);
     month = month.replace(/03/, 'मार्च्', month);
@@ -150,7 +167,7 @@ function getMonthDevanagari(month){
 function getIssueDevanagari(issue){
 
     issue = issue.replace(/^0/g, "", issue);
-    
+
     issue = nav_archive_issue + ' ' + issue;
 
     issue = issue.replace(/0/g, "०", issue);

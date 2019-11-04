@@ -1,4 +1,4 @@
-// 
+//
 // This file shows the minimum you need to provide to BookReader to display a book
 //
 // Copyright(c)2008-2009 Internet Archive. Software license AGPL version 3.
@@ -13,7 +13,7 @@ br.getPageWidth = function(index) {
 
 // Return the height of a given page.  Here we assume all images are 1200 pixels high
 br.getPageHeight = function(index) {
-    return 1200;
+    return 1200  
 }
 
 br.getPageURI = function(index, reduce, rotate) {
@@ -31,7 +31,7 @@ br.getPageURI = function(index, reduce, rotate) {
 	{
 		level = 2;
 	}
-	
+
 	if(level == 1)
 	{
 		//~  to display loading popup
@@ -44,7 +44,7 @@ br.getPageURI = function(index, reduce, rotate) {
 		else if(book.type == 'journals')
 			return book.bigImageUrl+"/"+book.imglist[index];
 			// $.ajax({type: "POST", url: "../templates/bgconvert.php?level="+level+"&index="+index+"&journalID="+book.journalID+"&volume=" + book.volume + "&issue=" + book.issue + "&imgurl="+book.imgurl+"&mode="+this.mode+"&type="+book.type, async: true , success :function(data){br.updater(data);} , data : {book:this.book.imglist}});
-		
+
 	}
 	else
 	{
@@ -55,13 +55,13 @@ br.getPageURI = function(index, reduce, rotate) {
 
 		return book.imgurl+"/"+book.imglist[index]
 	}
-	
+
 }
 
 br.updater = function(result) {
-	    
+
 	result = jQuery.parseJSON(result);
-	
+
 	if(result.mode == 2)
 	{
 		var img = document.getElementById(result.id);
@@ -79,7 +79,7 @@ br.updater = function(result) {
 	setTimeout(function(){
 		$(br.popup).fadeOut('slow', function() {
 			br.removeProgressPopup();
-		})        
+		})
 	},br.timeout);
 }
 
@@ -99,7 +99,7 @@ br.getPageSide = function(index) {
 // spread that contains the given index.  The return values may be
 // null if there is no facing page or the index is invalid.
 br.getSpreadIndices = function(pindex) {
-    var spreadIndices = [null, null]; 
+    var spreadIndices = [null, null];
     if ('rl' == this.pageProgression) {
         // Right to Left
         if (this.getPageSide(pindex) == 'R') {
@@ -121,7 +121,7 @@ br.getSpreadIndices = function(pindex) {
             spreadIndices[0] = pindex - 1;
         }
     }
-    
+
     return spreadIndices;
 }
 

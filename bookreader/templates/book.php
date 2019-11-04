@@ -13,25 +13,25 @@
     <script type="text/javascript" src="../static/BookReader/jquery.colorbox-min.js"></script>
     <script type="text/javascript" src="../static/BookReader/jquery.ui.ipad.js"></script>
     <script type="text/javascript" src="../static/BookReader/jquery.bt.min.js"></script>
-    <script type="text/javascript" src="../static/BookReader/BookReader.js?v=1.0"></script>
-    
+    <script type="text/javascript" src="../static/BookReader/BookReader.js"></script>
+
     <?php
 		$bookID = $_GET['bookID'];
 		$page = $_GET['pagenum'].".jpg";
-		
+
 		if(isset($_GET['searchText']) && $_GET['searchText'] != "")
 		{
 			$search = $_GET['searchText'];
 			$book["searchText"] = $search;
 		}
-		
+
 		$imgurl = "../../public/data/books/jpg/2/" . $bookID . '/';
 		$images = [];
 
 		foreach (glob($imgurl . '*.jpg') as $filename) {
 			array_push($images, preg_replace('/.*\/(.*?)\.jpg/', "$1.jpg", $filename));
 		}
-		
+
 		$book['type'] = 'books';
 		$book["imglist"]=array_values($images);
 		$book["Title"] = "Samskrita Sampatti";
@@ -53,7 +53,7 @@
 <body style="background-color: #939598;">
 
 <div id="BookReader">
-    
+
 </div>
 <script type="text/javascript" src="../static/BookReaderJSSimple.js?v=1.0"></script>
 </body>
