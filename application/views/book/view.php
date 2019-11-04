@@ -15,7 +15,7 @@
 			<div class="badges">
 				<?php if($data['contents']) echo '<img src="' . PUBLIC_URL . 'images/stock/diagram.svg" alt="pdf" />'; ?>
 				<?php if($data['summary']) echo '<img src="' . PUBLIC_URL . 'images/stock/document.svg" alt="pdf" />'; ?>
-				<?php if($data['media']['pdf']['link']) echo '<a href="' . PUBLIC_URL . 'data/pdf/' . $data['id'] . '/index.pdf" target="_blank"><img src="' . PUBLIC_URL . 'images/stock/pdf.svg" alt="pdf" /></a>'; ?>
+				<?php if($data['media']['pdf']['link']) echo '<a href="' . PUBLIC_URL . 'data/books/pdf/' . $data['id'] . '/index.pdf" target="_blank"><img src="' . PUBLIC_URL . 'images/stock/pdf.svg" alt="pdf" /></a>'; ?>
 				<a href="<?=BASE_URL?>bookreader/templates/book.php?bookID=<?=$data['id']?>&pagenum=0001" target="_blank"><img src="<?=PUBLIC_URL?>images/stock/logo1.png" alt="Bookreader" /></a>
 			</div>
 		</div>
@@ -42,7 +42,7 @@
 			</div>
 			<div class="related">
 				<h3>Related books</h3>
-				
+
 			</div>
 		</div>
 	</div>

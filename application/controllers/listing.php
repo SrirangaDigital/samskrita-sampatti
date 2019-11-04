@@ -3,7 +3,7 @@
 class listing extends Controller {
 
 	public function __construct() {
-		
+
 		parent::__construct();
 	}
 
@@ -30,6 +30,51 @@ class listing extends Controller {
 		// listing/articles
 		$this->redirect('articles/all/' . DEFAULT_LETTER);
 	}
+
+	public function mandala() {
+		$query = array('id'=>'m00','type'=>'mandala');
+		$data = $this->model->getMandalaDetails($query);
+		($data) ? $this->view('listing/mandala', $data) : $this->view('error/index');
+	}
+
+
+	public function sukta($query = array()) {
+
+		$mandala = (isset($query['mandala'])) ? $this->buildMandalaId($query['mandala']) : DEFAULT_MANDALA;
+		$query = array('id' => $mandala,'type'=>'sukta','idx'=>$query['mandala']);
+		$data = $this->model->getMandalaDetails($query);
+		// // $filterJSON = '{"mandala" : "' . $mandala . '"}';
+		// // $data = $this->model->listDistinctAttribute('sukta', $filterJSON);
+		($data) ? $this->getComponent('listing/sukta', $data) : $this->view('error/index');
+	}
+
+	function buildMandalaId($id) {
+		switch($id) {
+			case '1' : return("m01");
+									break;
+			case '2' : return("m02");
+									break;
+			case '3' : return("m03");
+									break;
+			case '4' : return("m04");
+									break;
+			case '5' : return("m05");
+									break;
+			case '6' : return("m06");
+									break;
+			case '7' : return("m07");
+									break;
+			case '8' : return("m08");
+									break;
+			case '9' : return("m09");
+									break;
+			case '10' : return("m10");
+									break;
+			default : return("m01");
+									break;
+		}
+	}
+
 
 	public function authors($query = [], $letter = DEFAULT_LETTER) {
 

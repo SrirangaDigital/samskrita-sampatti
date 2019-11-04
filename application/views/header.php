@@ -27,13 +27,14 @@
 	<link href="https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700,800,900" rel="stylesheet">
 
 	<?php require_once('public/css/variables.css.php');?>
-	
+
 	<!-- Javascript calls
 	–––––––––––––––––––––––––––––––––––––––––––––––––– -->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
-	<script type="text/javascript" src="<?=PUBLIC_URL?>js/common.js?v=1.0.0"></script>
+	<!-- <script type="text/javascript" src="<?=PUBLIC_URL?>js/common.js?v=1.0.0"></script> -->
+	 <script type="text/javascript" src="<?=PUBLIC_URL?>js/common.js"></script>
 	<script type="text/javascript" src="<?=PUBLIC_URL?>js/main.js"></script>
 
 	<!-- CSS
@@ -43,6 +44,7 @@
 	<link rel="stylesheet" href="<?=PUBLIC_URL?>css/navbar.css?v=1.0">
 	<link rel="stylesheet" href="<?=PUBLIC_URL?>css/secondary-navbar.css?v=2.0">
 	<link rel="stylesheet" href="<?=PUBLIC_URL?>css/home.css?v=1.0">
+	<link rel="stylesheet" href="<?=PUBLIC_URL?>css/mandala.css">
 	<link rel="stylesheet" href="<?=PUBLIC_URL?>css/page.css?v=1.1">
 	<link rel="stylesheet" href="<?=PUBLIC_URL?>css/book.css?v=1.0">
 	<link rel="stylesheet" href="<?=PUBLIC_URL?>css/archive.css?v=1.0">

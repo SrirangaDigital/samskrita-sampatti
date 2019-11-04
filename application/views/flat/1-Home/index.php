@@ -27,25 +27,25 @@
 		</div>
 	</div>
 	<div class="row justify-content-center mb-5 card-deck">
-		<a href="<?=BASE_URL?>book/list?details.collection.category=Veda Vedanga" class="card col-md-3">
+		<a href="<?=BASE_URL?>book/list_veda" class="card col-md-3">
 			<img src="<?=STOCK_IMAGE_URL?>scene-01.jpg" class="card-img-top" alt="वेदवेदाङ्ग">
 			<div class="card-body">
 				<h5 class="card-title">Veda Vedanga</h5>
-				<p class="card-desc eng">8 Books</p>
+				<p class="card-desc eng"><?=$data['veda_vedanga'] . " Books"?></p>
 			</div>
 		</a>
 		<a href="<?=BASE_URL?>book/list?details.collection.category=Shastra" class="card col-md-3">
 			<img src="<?=STOCK_IMAGE_URL?>scene-02.jpg" class="card-img-top" alt="षड्दर्शनानि">
 			<div class="card-body">
 				<h5 class="card-title">Shastra</h5>
-				<p class="card-desc eng">188 Books</p>
+				<p class="card-desc eng"><?=$data['shastra'] . " Books"?></p>
 			</div>
 		</a>
 		<a href="<?=BASE_URL?>book/list?details.collection.category=Ithihasa Purana" class="card col-md-3">
 			<img src="<?=STOCK_IMAGE_URL?>scene-03.jpg" class="card-img-top" alt="पुराणं - इतिहासः">
 			<div class="card-body">
 				<h5 class="card-title">Puranam itihasaha</h5>
-				<p class="card-desc eng">13 Books</p>
+				<p class="card-desc eng"><?=$data['ithihasa_purana'] . " Books"?></p>
 			</div>
 		</a>
 	</div>
@@ -54,21 +54,21 @@
 			<img src="<?=STOCK_IMAGE_URL?>scene-04.jpg" class="card-img-top" alt="साहित्य">
 			<div class="card-body">
 				<h5 class="card-title">Sahitya</h5>
-				<p class="card-desc eng">144 Books</p>
+				<p class="card-desc eng"><?=$data['sahithya'] . " Books"?></p>
 			</div>
 		</a>
 		<a href="<?=BASE_URL?>listing/journal" class="card col-md-3">
 			<img src="<?=STOCK_IMAGE_URL?>scene-01.jpg" class="card-img-top" alt="वेदवेदाङ्ग">
 			<div class="card-body">
 				<h5 class="card-title">Journals and Periodicals</h5>
-				<p class="card-desc eng">2 Journals</p>
+				<p class="card-desc eng"><?= $data['journal'] . " Journals"?></p>
 			</div>
 		</a>
 		<a href="<?=BASE_URL?>book/list?details.collection.category=Kosha" class="card col-md-3">
 			<img src="<?=STOCK_IMAGE_URL?>scene-02.jpg" class="card-img-top" alt="षड्दर्शनानि">
 			<div class="card-body">
 				<h5 class="card-title">Kosha</h5>
-				<p class="card-desc eng">6 Books</p>
+				<p class="card-desc eng"><?=$data['kosha'] . " Books" ?></p>
 			</div>
 		</a>
 	</div>

@@ -6,11 +6,11 @@ class viewHelper extends View {
 
     }
 
-    
+
     public function isLoggedIn() {
 
         $isLoggedIn = false;
-        
+
         if(isset($_SESSION['auth_logged_in']))
             if($_SESSION['auth_logged_in'])
                 $isLoggedIn = true;
@@ -35,13 +35,13 @@ class viewHelper extends View {
         elseif($this->isLoggedIn())
             echo $this->printUserIcon();
     }
-    
+
     public function printUserIcon() {
 
         $fName = $_SESSION['fellow_fname'];
         $lName = $_SESSION['fellow_lname'];
         $initials = '';
-        
+
         if ($fName) $initials .= $fName[0];
         if ($lName) $initials .= $lName[0];
 
@@ -70,7 +70,7 @@ class viewHelper extends View {
     public function printAdminIcon() {
 
         $initials = 'A';
-        
+
         $html = '
             <ul class="navbar-nav" id="user">
                 <li class="nav-item dropdown">
@@ -90,7 +90,7 @@ class viewHelper extends View {
     }
 
     public function displayContents($bookID, $data) {
-        
+
         $displayString = '';
         $data = preg_split('/\n/', $data);
 
@@ -102,7 +102,7 @@ class viewHelper extends View {
                 $displayString .= '<li><a href="' . BASE_URL . 'bookreader/templates/book.php?bookID=' . $bookID . '&pagenum=' . $matches[1] . '" target="_blank">' . $matches[2] . '</a></li>';
             }
             else{
-                $displayString .= $line;   
+                $displayString .= $line;
             }
         }
 
@@ -117,8 +117,8 @@ class viewHelper extends View {
         $coverURL .= (isset($filter['issue'])) ? $filter['issue'] . '/' : '01/';
         $coverURL .= 'cover.jpg';
 
-        return str_replace(PHY_JOURNALS_METADATA_URL, JOURNALS_METADATA_URL, $coverURL); 
-        // return (file_exists($coverURL)) ? str_replace(PHY_JOURNALS_METADATA_URL, JOURNALS_METADATA_URL, $coverURL) : IMAGE_URL . 'generic-cover.jpg'; 
+        return str_replace(PHY_JOURNALS_METADATA_URL, JOURNALS_METADATA_URL, $coverURL);
+        // return (file_exists($coverURL)) ? str_replace(PHY_JOURNALS_METADATA_URL, JOURNALS_METADATA_URL, $coverURL) : IMAGE_URL . 'generic-cover.jpg';
     }
 
     public function getStructurePageTitle($filter){
@@ -126,7 +126,7 @@ class viewHelper extends View {
         $pageTitle = NAV_ARCHIVE_VOLUME;
         if(isset($filter['journal'])) unset($filter['journal']);
         foreach ($filter as $key => $value) {
-                
+
             $pageTitle .= ' > ' . constant('ARCHIVE_' . strtoupper($key)) . ' ' . $this->roman2Devnagari($this->rlZero($value));
         }
 
@@ -212,8 +212,25 @@ class viewHelper extends View {
         $issue = preg_replace('/.*supplement.*/i', 'विशेषाङ्कः', $issue);
         $issue = preg_replace('/.*supplement.*/i', 'विशेषाङ्कः', $issue);
         $issue = preg_replace('/.*supplement.*/i', 'विशेषाङ्कः', $issue);
-        
+
         return $issue;
+    }
+
+    public function roman2dev($text) {
+
+        $text = str_replace(" 0", "", strval($text));
+        $text = str_replace("0", "०", strval($text));
+        $text = str_replace("1", "१", strval($text));
+        $text = str_replace("2", "२", strval($text));
+        $text = str_replace("3", "३", strval($text));
+        $text = str_replace("4", "४", strval($text));
+        $text = str_replace("5", "५", strval($text));
+        $text = str_replace("6", "६", strval($text));
+        $text = str_replace("7", "७", strval($text));
+        $text = str_replace("8", "८", strval($text));
+        $text = str_replace("9", "९", strval($text));
+
+        return $text;
     }
 
 }

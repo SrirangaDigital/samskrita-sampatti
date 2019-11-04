@@ -1,5 +1,6 @@
 <?php
 	$category = $data['category'];
+	$veda = $data['veda'];
 	unset($data['category'])
 ?>
 <div class="container">
