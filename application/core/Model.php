@@ -6,16 +6,16 @@ class Model {
 
 		$this->db = new Database();
 	}
-	
+
 	public function getPostData() {
 
 		if (isset($_POST['submit'])) {
 
-			unset($_POST['submit']);	
+			unset($_POST['submit']);
 		}
 
 		if(!array_filter($_POST)) {
-		
+
 			return false;
 		}
 		else {
@@ -51,20 +51,17 @@ class Model {
 	}
 
 	public function getDataFromApi($url){
-
 		$curl = curl_init($url);
 		curl_setopt($curl, CURLOPT_RETURNTRANSFER, True);
-
 		$result = curl_exec($curl);
 		curl_close($curl);
-
 		return $result;
 	}
 
 	public function preProcessQueryFilter($filter){
 
 		foreach ($filter as $key => $value) {
-			
+
 			if($value == 'notExists')
 				$filter{$key} = ['$exists' => false];
 		}
@@ -76,7 +73,7 @@ class Model {
 
 		$urlFilterArray = [];
 		foreach ($filter as $key => $value) {
-			
+
 			array_push($urlFilterArray, $key . '=' . $this->filterSpecialChars($value));
 		}
 		$urlFilter = implode('&', $urlFilterArray);
@@ -95,7 +92,7 @@ class Model {
 	public function preProcessURLQuery($filter){
 
 		foreach ($filter as $key => $value) {
-			
+
 			$filter{$key} = str_replace('_', '/', $filter{$key});
 		}
 

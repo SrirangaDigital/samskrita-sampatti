@@ -1,9 +1,9 @@
 <?php
 
 class Controller {
-	
+
 	public function __construct() {
-		
+
 		if(!isset($_SESSION)) session_start();
 		$this->viewHelper = new viewHelper();
 	}
@@ -18,13 +18,19 @@ class Controller {
 			return new $model();
 		}
 	}
-	
+
+	public function getComponent($path, $data = array()) {
+
+		$view = new View();
+		$view->printComponent($data, $path);
+	}
+
 	public function view($path, $data = array()) {
 
 		$view = new View();
 		$model = new Model();
-		
-		// Get Navigation array in nested form	
+
+		// Get Navigation array in nested form
 		$navigation = $view->getNavigation(PHY_FLAT_URL);
 		// Get folder list in flat form
 		$folderList = $view->getFolderList($navigation);
