@@ -39,7 +39,7 @@
 				<feature></feature>
 				<page>००१३-००१६</page>
 				<allauthors>
-					<author type="" sal="">कडयं विद्वान् नाणुशास्त्री</author>
+					<author type="" sal="विद्वान्">कडयं नाणुशास्त्री</author>
 				</allauthors>
 			</entry>
 			<entry media="pdf">
@@ -47,7 +47,7 @@
 				<feature></feature>
 				<page>००२०-००२४</page>
 				<allauthors>
-					<author type="" sal="">अ. कुप्पुस्वाम्यार्यः</author>
+					<author type="" sal="">कुप्पुस्वाम्यार्यः, अ.</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -57,7 +57,7 @@
 				<feature>सुभाषितानि</feature>
 				<page>००२५-००२५</page>
 				<allauthors>
-					<author type="" sal="">नीलकण्ठदीक्षितस्य</author>
+					<author type="" sal="">नीलकण्ठदीक्षितः</author>
 				</allauthors>
 			</entry>
 			<entry media="pdf">
@@ -79,7 +79,7 @@
 				<feature></feature>
 				<page>००३३-००३६</page>
 				<allauthors>
-					<author type="" sal="">पण्डितदुरैस्वाम्यय्यङ्गार्यः</author>
+					<author type="" sal="पण्डित">दुरैस्वाम्यय्यङ्गार्यः</author>
 				</allauthors>
 			</entry>
 			<entry media="pdf">
@@ -87,7 +87,7 @@
 				<feature></feature>
 				<page>००३७-००४०</page>
 				<allauthors>
-					<author type="" sal="">वि. कृष्णमाचार्यः</author>
+					<author type="" sal="">कृष्णमाचार्यः, वि.</author>
 				</allauthors>
 			</entry>
 			<entry media="pdf">
@@ -105,7 +105,7 @@
 				<feature>सुभाषितानि</feature>
 				<page>००४९-००४९</page>
 				<allauthors>
-					<author type="" sal="">नीलकण्ठदीक्षितस्य</author>
+					<author type="" sal="">नीलकण्ठदीक्षितः</author>
 				</allauthors>
 			</entry>
 			<entry media="pdf">
@@ -127,7 +127,7 @@
 				<feature></feature>
 				<page>००५९-००६४</page>
 				<allauthors>
-					<author type="" sal="">अ. कुप्पुस्वाम्यार्यः</author>
+					<author type="" sal="">कुप्पुस्वाम्यार्यः, अ.</author>
 				</allauthors>
 			</entry>
 			<entry media="pdf">
@@ -135,7 +135,7 @@
 				<feature></feature>
 				<page>००६५-००७१</page>
 				<allauthors>
-					<author type="" sal="">एं. डि. सुब्रह्मण्यार्यः</author>
+					<author type="" sal="">सुब्रह्मण्यार्यः, एं. डि.</author>
 				</allauthors>
 			</entry>
 			<entry media="pdf">
@@ -143,7 +143,7 @@
 				<feature></feature>
 				<page>००७१-००७२</page>
 				<allauthors>
-					<author type="" sal="">वि. कृष्णमाचार्यः</author>
+					<author type="" sal="">कृष्णमाचार्यः, वि.</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -181,7 +181,7 @@
 				<feature></feature>
 				<page>००८५-००८८</page>
 				<allauthors>
-					<author type="" sal="">अ. कुप्पुस्वाम्यार्यः</author>
+					<author type="" sal="">कुप्पुस्वाम्यार्यः, अ.</author>
 				</allauthors>
 			</entry>
 			<entry media="pdf">
@@ -189,7 +189,7 @@
 				<feature></feature>
 				<page>००८९-००९४</page>
 				<allauthors>
-					<author type="" sal="">म. वे. रमणाचार्यः</author>
+					<author type="" sal="">रमणाचार्यः, म. वे.</author>
 				</allauthors>
 			</entry>
 			<entry media="pdf">
@@ -197,7 +197,7 @@
 				<feature></feature>
 				<page>००९४-००९६</page>
 				<allauthors>
-					<author type="" sal="">एम्. टि. नरसिंहय्यङ्गार्यः</author>
+					<author type="" sal="">नरसिंहय्यङ्गार्यः, एम्. टि.</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -207,7 +207,7 @@
 				<feature>सुभाषितानि</feature>
 				<page>००९७-००९७</page>
 				<allauthors>
-					<author type="" sal="">नीलकण्ठदीक्षितस्य</author>
+					<author type="" sal="">नीलकण्ठदीक्षितः</author>
 				</allauthors>
 			</entry>
 			<entry media="pdf">
@@ -229,7 +229,7 @@
 				<feature></feature>
 				<page>०१०५-०१०९</page>
 				<allauthors>
-					<author type="" sal="">विद्वान् शतावधानम् श्रीनिवासाचार्यः</author>
+					<author type="" sal="विद्वान् शतावधानम्">श्रीनिवासाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry media="pdf">
@@ -237,7 +237,7 @@
 				<feature></feature>
 				<page>०१०९-०११२</page>
 				<allauthors>
-					<author type="" sal="">पण्डितगोपालशास्त्री</author>
+					<author type="" sal="पण्डित">गोपालशास्त्री</author>
 				</allauthors>
 			</entry>
 			<entry media="pdf">
@@ -245,7 +245,7 @@
 				<feature></feature>
 				<page>०११३-०११४</page>
 				<allauthors>
-					<author type="" sal="">कडयं विद्वान् नाणुशास्त्री</author>
+					<author type="" sal="विद्वान्">कडयं नाणुशास्त्री</author>
 				</allauthors>
 			</entry>
 			<entry media="pdf">
@@ -253,7 +253,7 @@
 				<feature></feature>
 				<page>०११४-०१२०</page>
 				<allauthors>
-					<author type="" sal="">एम्. टि. नरसिंहय्यङ्गार्यः</author>
+					<author type="" sal="">नरसिंहय्यङ्गार्यः, एम्. टि.</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -287,7 +287,7 @@
 				<feature></feature>
 				<page>०१२७-०१३२</page>
 				<allauthors>
-					<author type="" sal="">पण्डितगोपालशास्त्री</author>
+					<author type="" sal="पण्डित">गोपालशास्त्री</author>
 				</allauthors>
 			</entry>		
 			<entry media="pdf">
@@ -295,7 +295,7 @@
 				<feature></feature>
 				<page>०१३३-०१३६</page>
 				<allauthors>
-					<author type="" sal="">एम्. टि. नरसिंहय्यङ्गार्यः</author>
+					<author type="" sal="">नरसिंहय्यङ्गार्यः, एम्. टि.</author>
 				</allauthors>
 			</entry>
 			<entry media="pdf">
@@ -303,7 +303,7 @@
 				<feature></feature>
 				<page>०१३७-०१४४</page>
 				<allauthors>
-					<author type="" sal="">विद्वान् शतावधानम् श्रीनिवासाचार्यः</author>
+					<author type="" sal="विद्वान् शतावधानम्">श्रीनिवासाचार्यः</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -3811,7 +3811,7 @@
 				<feature></feature>
 				<page>०३६६-०३७१</page>
 				<allauthors>
-					<author type="" sal="">पण्डित रामकृष्णयोः</author>
+					<author type="" sal="पण्डित"> रामकृष्णयोः</author>
 				</allauthors>
 			</entry>
 			<entry media="pdf">
@@ -3819,7 +3819,7 @@
 				<feature></feature>
 				<page>०३७२-०३७६</page>
 				<allauthors>
-					<author type="" sal="">अल्लुण्डु. सत्यनारायणशास्त्रिणः</author>
+					<author type="" sal="">सत्यनारायणशास्त्रिणः, अल्लुण्डु</author>
 				</allauthors>
 			</entry>
 			<entry media="pdf">
