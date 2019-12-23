@@ -17,7 +17,7 @@
 				<feature></feature>
 				<page>0008-0026</page>
 				<allauthors>
-					<author type="" sal="">संस्कृतमहापाठशाला तर्कशास्त्र प्रधानोपाध्यायाः महाविद्वांसः आत्मकूरु रङ्गाचार्याः [इदानीं श्री परकालमठमहास्थानी मलंकुर्वाणाः]</author>
+					<author type="" sal="महाविद्वांसः">आत्मकूरु रङ्गाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -25,7 +25,7 @@
 				<feature></feature>
 				<page>0027-0034</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः वि।। शामाचार्याः</author>
+					<author type="" sal="महाविद्वांसः">शामाचार्यः, वि</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -33,7 +33,7 @@
 				<feature></feature>
 				<page>0035-0053</page>
 				<allauthors>
-					<author type="" sal="">संस्कृत महापाठशाला वेदभाष्यप्रधानोपाध्यायाः महाविद्वांसः करपत्तूरु वेङ्कटरामशाश्त्रिणः</author>
+					<author type="" sal="महाविद्वांसः">करपत्तूरु वेङ्कटरामशाश्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -67,7 +67,7 @@
 				<feature></feature>
 				<page>0078-0087</page>
 				<allauthors>
-					<author type="" sal="">मोक्षगुंडं लक्ष्मीपतय्य, बि.ए., अनुभूतमहाराजसंस्कृतमहापाठशाला प्रिन्सिपल्नामकाधिकारः</author>
+					<author type="" sal="अनुभूतमहाराजसंस्कृतमहापाठशाला प्रिन्सिपल्नामकाधिकारः">मोक्षगुंडं लक्ष्मीपतय्य, बि.ए.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -75,7 +75,7 @@
 				<feature></feature>
 				<page>0088-0099</page>
 				<allauthors>
-					<author type="" sal="">संस्कृतमहापाठशालाज्यौतिश्शास्त्र प्रधानोपाध्यायाः ज्यौतिषरत्नं तरहरिज्यौतिषिकाः</author>
+					<author type="" sal="ज्यौतिषरत्नं">तरहरिज्यौतिषिकाः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -83,7 +83,7 @@
 				<feature></feature>
 				<page>0100-0104</page>
 				<allauthors>
-					<author type="" sal="">आस्थानमहाविद्वांसः समस्त्रनाम सीतारामशास्त्रिणः</author>
+					<author type="" sal="आस्थानमहाविद्वांसः समस्त्रनाम">सीतारामशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -97,11 +97,11 @@
 		</issue>
 		<issue inum="03" month="जुलै" year="१९२६" info="">
 			<entry>
-				<title>प्रमाणपरीक्षा</title>
+				<title>प्रमाणपरीक्षा (क्यांट्नामक पाश्चात्य विद्वद्वरविरचित ग्रंथसारः)</title>
 				<feature></feature>
 				<page>0109-0119</page>
 				<allauthors>
-					<author type="" sal="">क्यांट्नामक पाश्चात्य विद्वद्वरविरचित ग्रंथसारः डाक्टर् अर्थशास्त्रविशारद शामशास्त्रिणः</author>
+					<author type="" sal="डाक्टर् अर्थशास्त्रविशारद">शामशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -109,7 +109,7 @@
 				<feature></feature>
 				<page>0120-0134</page>
 				<allauthors>
-					<author type="" sal="">संस्कृतमहापाठशालाज्योतिश्शास्त्र प्रधानोपाध्यायाः ज्यौतिषरत्नं नरहरिज्यौतिषिकाः</author>
+					<author type="" sal="ज्यौतिषरत्नं">नरहरिज्यौतिषिकाः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -117,7 +117,7 @@
 				<feature></feature>
 				<page>0135-0152</page>
 				<allauthors>
-					<author type="" sal="">आस्थानमहाविद्वांसः सहस्त्रनाम सीतारामशास्त्रिणः</author>
+					<author type="" sal="आस्थानमहाविद्वांसः सहस्त्रनाम">सीतारामशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -143,7 +143,7 @@
 				<feature></feature>
 				<page>0168-0192</page>
 				<allauthors>
-					<author type="" sal="">डाक्टर् अर्थशास्त्रविशारद शामाशास्त्रिणः</author>
+					<author type="" sal="डाक्टर् अर्थशास्त्रविशारद">शामाशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -187,7 +187,7 @@
 				<feature></feature>
 				<page>0001-0005</page>
 				<allauthors>
-					<author type="" sal="">जि. वेंकटनरसिंहशास्त्रिणः, प्राच्यकोशागारपण्डिताः</author>
+					<author type="" sal="प्राच्यकोशागारपण्डिताः">वेंकटनरसिंहशास्त्रिणः, जि.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -195,7 +195,7 @@
 				<feature></feature>
 				<page>0006-0021</page>
 				<allauthors>
-					<author type="" sal="">आस्थान महाविद्वांसः सहस्त्रनाम सीताराम शास्त्रिणः</author>
+					<author type="" sal="आस्थान महाविद्वांसः सहस्त्रनाम">सीताराम शास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -209,7 +209,7 @@
 				<feature></feature>
 				<page>0028-0036</page>
 				<allauthors>
-					<author type="" sal="">करूरु शेषाचार्याः, पाठशाला ज्योतिश्शास्त्र प्रधानोपाध्यायाः</author>
+					<author type="" sal="पाठशाला ज्योतिश्शास्त्र प्रधानोपाध्यायाः">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -231,7 +231,7 @@
 				<feature></feature>
 				<page>0049-0066</page>
 				<allauthors>
-					<author type="" sal="">शिवमोग्गाभिजना श्री।। कुक्के. सुब्रह्मण्यशास्त्रिणः</author>
+					<author type="" sal="">कुक्के सुब्रह्मण्यशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -239,7 +239,7 @@
 				<feature></feature>
 				<page>0067-0086</page>
 				<allauthors>
-					<author type="" sal="">महापाठशाला साहित्य प्रधानोपाध्यायाः श्री।। के. गोपालकृष्णशास्त्रिणः</author>
+					<author type="" sal="महापाठशाला साहित्य प्रधानोपाध्यायाः">गोपालकृष्णशास्त्रिणः, के.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -255,7 +255,7 @@
 				<feature></feature>
 				<page>0091-0098</page>
 				<allauthors>
-					<author type="" sal="">महामहोपाध्यायाः पण्डितरत्नं लक्ष्मीपुरं श्रीनिवासाचार्याः</author>
+					<author type="" sal="पण्डितरत्नं">लक्ष्मीपुरं श्रीनिवासाचार्यः</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -265,7 +265,7 @@
 				<feature></feature>
 				<page>0099-0111</page>
 				<allauthors>
-					<author type="" sal="">सरलकविसूरिणः चक्रवर्ति राजगोपालाचार्याः</author>
+					<author type="" sal="सरलकविसूरिणः">चक्रवर्ति राजगोपालाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -273,7 +273,7 @@
 				<feature></feature>
 				<page>0112-0123</page>
 				<allauthors>
-					<author type="" sal="">प्राच्यकोशागार पण्डिताः सो ।। नरसिंहाचार्याः</author>
+					<author type="" sal="प्राच्यकोशागार पण्डिताः">नरसिंहाचार्याः, सो</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -289,7 +289,7 @@
 				<feature></feature>
 				<page>0126aa-0126ax</page>
 				<allauthors>
-					<author type="" sal="">महामहोपाध्यायाः पण्डितरत्नं लक्ष्मीपुरं श्रीनिवासाचार्याः</author>
+					<author type="" sal="महामहोपाध्यायाः पण्डितरत्नं">लक्ष्मीपुरं श्रीनिवासाचार्यः</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -299,7 +299,7 @@
 				<feature></feature>
 				<page>0127-0136</page>
 				<allauthors>
-					<author type="" sal="">कुक्के. सुब्रह्मण्यशास्त्रिणः</author>
+					<author type="" sal="">कुक्के सुब्रह्मण्यशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -323,7 +323,7 @@
 				<feature></feature>
 				<page>0152aa-0152ax</page>
 				<allauthors>
-					<author type="" sal="">महामहोपाध्यायाः पण्डितरत्नं लक्ष्मीपुरं श्रीनिवासाचार्याः</author>
+					<author type="" sal="महामहोपाध्यायाः पण्डितरत्नं">लक्ष्मीपुरं श्रीनिवासाचार्यः</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -343,7 +343,7 @@
 				<feature></feature>
 				<page>0003-0016</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः सरलकविसूरिणः चक्रवर्ति राजगोपालाचार्याः</author>
+					<author type="" sal="महाविद्वांसः सरलकविसूरिणः">चक्रवर्ति राजगोपालाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -351,7 +351,7 @@
 				<feature></feature>
 				<page>0017-0024</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः कन्नंबाडि ।। गोपालकृष्णशास्त्रिणः</author>
+					<author type="" sal="महाविद्वांसः">कन्नंबाडि गोपालकृष्णशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -359,7 +359,7 @@
 				<feature></feature>
 				<page>0057-0080</page>
 				<allauthors>
-					<author type="" sal="">महामहोपाध्यायाः पण्डितरत्नं लक्ष्मीपुरं श्रीनिवासाचार्याः</author>
+					<author type="" sal="महामहोपाध्यायाः पण्डितरत्नं">लक्ष्मीपुरं श्रीनिवासाचार्यः</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -375,7 +375,7 @@
 				<feature></feature>
 				<page>0039-0046</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः कन्नंबाडि ।। गोपालकृष्णशास्त्रिणः</author>
+					<author type="" sal="महाविद्वांसः">कन्नंबाडि गोपालकृष्णशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -383,7 +383,7 @@
 				<feature></feature>
 				<page>0047-0062</page>
 				<allauthors>
-					<author type="" sal="">विद्यारत्नाकराः कोडवाशल् नरसिंहाचार्याः</author>
+					<author type="" sal="विद्यारत्नाकराः">कोडवाशल् नरसिंहाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -399,7 +399,7 @@
 				<feature></feature>
 				<page>0081-0104</page>
 				<allauthors>
-					<author type="" sal="">महामहोपाध्यायाः पण्डितरत्नं लक्ष्मीपुरं श्रीनिवासाचार्याः</author>
+					<author type="" sal="महामहोपाध्यायाः पण्डितरत्नं">लक्ष्मीपुरं श्रीनिवासाचार्यः</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -409,7 +409,7 @@
 				<feature></feature>
 				<page>0069d-0079</page>
 				<allauthors>
-					<author type="" sal="">शिवमोग्गा कुक्के सुब्रह्मण्यशास्त्रिणः</author>
+					<author type="" sal="शिवमोग्गा">कुक्के सुब्रह्मण्यशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -417,7 +417,7 @@
 				<feature></feature>
 				<page>0080-0087</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः क ।। गोपालकृष्णशास्त्रिणः</author>
+					<author type="" sal="महाविद्वांसः">गोपालकृष्णशास्त्रिणः, क</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -425,7 +425,7 @@
 				<feature></feature>
 				<page>0088-0088</page>
 				<allauthors>
-					<author type="" sal="">केशवभट्टः, विद्यार्थी</author>
+					<author type="" sal="विद्यार्थी">केशवभट्टः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -439,7 +439,7 @@
 				<feature></feature>
 				<page>0105-0143</page>
 				<allauthors>
-					<author type="" sal="">महामहोपाध्यायाः पण्डितरत्नं लक्ष्मीपुरं श्रीनिवासाचार्याः</author>
+					<author type="" sal="महामहोपाध्यायाः पण्डितरत्नं">लक्ष्मीपुरं श्रीनिवासाचार्यः</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -449,7 +449,7 @@
 				<feature></feature>
 				<page>0091-0107</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः क।। गोपालकृष्णशास्त्रिणः</author>
+					<author type="" sal="महाविद्वांसः">गोपालकृष्णशास्त्रिणः, क</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -457,7 +457,7 @@
 				<feature></feature>
 				<page>0108-0118</page>
 				<allauthors>
-					<author type="" sal="">गोगनृसिंहार्याः, महापाठशालाध्यक्षाः</author>
+					<author type="" sal="महापाठशालाध्यक्षाः">गोगनृसिंहार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -465,7 +465,7 @@
 				<feature></feature>
 				<page>0118-0124</page>
 				<allauthors>
-					<author type="" sal="">महामहोपाध्याय विद्यानिधि विरूपाक्षशास्त्रिणः</author>
+					<author type="" sal="महामहोपाध्याय विद्यानिधि">विरूपाक्षशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -477,7 +477,7 @@
 				<feature></feature>
 				<page>0001-0004</page>
 				<allauthors>
-					<author type="" sal="">विद्यार्थी के. लक्ष्मीनारायणसोमयाजी (कोट-सालिग्राम)</author>
+					<author type="" sal="विद्यार्थी">लक्ष्मीनारायणसोमयाजी, के.(कोट-सालिग्राम)</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -485,7 +485,7 @@
 				<feature></feature>
 				<page>0005-0010</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वान् मीमांसारत्नं ब्र. वैद्यनाथशाश्त्रिणः बेंगळूरु.</author>
+					<author type="" sal="महाविद्वान् मीमांसारत्नं">वैद्यनाथशाश्त्रिणः, ब्र., बेंगळूरु.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -493,7 +493,7 @@
 				<feature></feature>
 				<page>0011-0016</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वान् ब्र. होळवनहळ्ळि शेषाचार्याः</author>
+					<author type="" sal="महाविद्वान् ">होळवनहळ्ळि शेषाचार्यः, ब्र.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -501,7 +501,7 @@
 				<feature></feature>
 				<page>0017-0025</page>
 				<allauthors>
-					<author type="" sal="">महामहोपाध्याय पण्डितरत्नं ब्र. लक्ष्मीपुरं श्रीनिवासाचार्याः</author>
+					<author type="" sal="महामहोपाध्याय पण्डितरत्नं">लक्ष्मीपुरं श्रीनिवासाचार्यः, ब्र.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -509,7 +509,7 @@
 				<feature></feature>
 				<page>0026-0038</page>
 				<allauthors>
-					<author type="" sal="">महामहोपाध्याय पण्डितरत्नं ब्र. लक्ष्मीपुरं श्रीनिवासाचार्याः</author>
+					<author type="" sal="महामहोपाध्याय पण्डितरत्नं">लक्ष्मीपुरं श्रीनिवासाचार्यः, ब्र.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -517,7 +517,7 @@
 				<feature></feature>
 				<page>0039-0044</page>
 				<allauthors>
-					<author type="" sal="">ब्र. पण्डित कुक्के-सुब्रह्मण्यशास्त्रिणः, शिवमोग्ग</author>
+					<author type="" sal="पण्डित">कुक्के सुब्रह्मण्यशास्त्रिणः, ब्र.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -547,7 +547,7 @@
 				<feature></feature>
 				<page>0059-0069</page>
 				<allauthors>
-					<author type="" sal="">अर्थशास्त्रविशारदाः डाक्टर् आर्. शामशास्त्रिणः</author>
+					<author type="" sal="अर्थशास्त्रविशारदाः डाक्टर्">शामशास्त्रिणः, आर्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -555,7 +555,7 @@
 				<feature></feature>
 				<page>0070-0075</page>
 				<allauthors>
-					<author type="" sal="">महामहोपाध्याय-पण्डितरत्नं-लष्मीपुरं श्रीनिवासाचार्याः</author>
+					<author type="" sal="महामहोपाध्याय पण्डितरत्नं">लष्मीपुरं श्रीनिवासाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -563,7 +563,7 @@
 				<feature></feature>
 				<page>0076-0083</page>
 				<allauthors>
-					<author type="" sal="">श्रीमन्महाराजास्थानधर्माधिकारिणः महाविद्वांसः काशी शेष वेङ्कटाचलशास्त्रिणः</author>
+					<author type="" sal="श्रीमन्महाराजास्थानधर्माधिकारिणः महाविद्वांसः">शेष वेङ्कटाचलशास्त्रिणः, काशी</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -571,7 +571,7 @@
 				<feature></feature>
 				<page>0084-0092</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः साहित्यप्रधानोपाध्यायाः के. गोपालकृष्णशास्त्रिणः</author>
+					<author type="" sal="महाविद्वांसः साहित्यप्रधानोपाध्यायाः">गोपालकृष्णशास्त्रिणः, के.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -579,7 +579,7 @@
 				<feature></feature>
 				<page>0093-0096</page>
 				<allauthors>
-					<author type="" sal="">महापाठशालोपाध्यायाः श्रीमन्तः एच्. एल्. हरियप्पार्याः, एं.ए.</author>
+					<author type="" sal="महापाठशालोपाध्यायाः श्रीमन्तः">हरियप्पार्यः, एच्. एल्, एं.ए.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -587,15 +587,15 @@
 				<feature></feature>
 				<page>0097-0100</page>
 				<allauthors>
-					<author type="" sal="">श्रीमन्तः एच. एल्. हरियप्पार्याः, एं.ए.</author>
+					<author type="" sal="श्रीमन्तः">हरियप्पार्यः, एच. एल्, एं.ए.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>श्रवणानन्दम्</title>
+				<title>श्रवणानन्दम् (श्री वेङ्कटाध्वरीकृतम्)</title>
 				<feature></feature>
 				<page>0101-0107</page>
 				<allauthors>
-					<author type="" sal="">श्री वेङ्कटाध्वरीकृतम् महापाठशालाध्यक्षैः श्रीमभ्दिः एच्. योगनरसिंहार्यैः परिशोधितम्</author>
+					<author type="2" sal="">योगनरसिंहार्यैः, एच्., परिशोधितम्</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -605,7 +605,7 @@
 				<feature></feature>
 				<page>0110-0115</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः भाग्यपल्ल्यभिजनाः श्रीनिवासाचार्याः</author>
+					<author type="" sal="विद्वांसः">श्रीनिवासाचार्यः, भाग्यपल्ल्यभिजनाः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -613,7 +613,7 @@
 				<feature></feature>
 				<page>0116-0126</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः कन्नंबाडि ।। गोपालकृष्णशास्त्रिणः</author>
+					<author type="" sal="महाविद्वांसः">कन्नंबाडि गोपालकृष्णशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -621,7 +621,7 @@
 				<feature></feature>
 				<page>0127-0131</page>
 				<allauthors>
-					<author type="" sal="">विद्वांस खङ्कीघट्टं वेङ्कटाचार्याः</author>
+					<author type="" sal="विद्वांसः">खङ्कीघट्टं वेङ्कटाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -629,7 +629,7 @@
 				<feature></feature>
 				<page>0132-0140</page>
 				<allauthors>
-					<author type="" sal="">अर्थशास्त्रविशारदाः विद्यालङ्काराः आर्. शामशास्त्रिणः, बि.ए., पि. एच्. डि., एम्. आर्. ए. एस्.</author>
+					<author type="" sal="अर्थशास्त्रविशारदाः विद्यालङ्काराः">शामशास्त्रिणः, आर्., बि.ए., पि. एच्. डि., एम्. आर्. ए. एस्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -637,7 +637,7 @@
 				<feature></feature>
 				<page>0141-0144</page>
 				<allauthors>
-					<author type="" sal="">महामहोपाध्याय-पण्डितरन्तं-लक्ष्मीपुरं श्रीनिवासाचार्याः</author>
+					<author type="" sal="महामहोपाध्याय पण्डितरन्तं">लक्ष्मीपुरं श्रीनिवासाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -645,7 +645,7 @@
 				<feature></feature>
 				<page>0145-0148</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः करूरु शेषाचार्याः</author>
+					<author type="" sal="महाविद्वांसः">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -653,7 +653,7 @@
 				<feature></feature>
 				<page>0149-0152</page>
 				<allauthors>
-					<author type="" sal="">एच्. एल्. हरियप्पाः, एम्. ए.</author>
+					<author type="" sal="">हरियप्पाः, एच्. एल्., एम्. ए.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -661,7 +661,7 @@
 				<feature></feature>
 				<page>0153-0155</page>
 				<allauthors>
-					<author type="" sal="">एच्. एल्. हरियप्पाः, एम्. ए.</author>
+					<author type="" sal="">हरियप्पाः, एच्. एल्., एम्. ए.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -677,7 +677,7 @@
 				<feature></feature>
 				<page>0158-0169</page>
 				<allauthors>
-					<author type="" sal="">डाक्टर् आर्. शामशास्त्रिणः, पिएच्.डि., एम्. आर्. ए. एस्.</author>
+					<author type="" sal="डाक्टर्">शामशास्त्रिणः, आर्., पिएच्.डि., एम्. आर्. ए. एस्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -685,7 +685,7 @@
 				<feature></feature>
 				<page>0170-0180</page>
 				<allauthors>
-					<author type="" sal="">महामहोपाध्यायाः पण्डितरत्नं लक्ष्मीपुरं श्रीनिवासाचार्याः</author>
+					<author type="" sal="महामहोपाध्यायाः पण्डितरत्नं">लक्ष्मीपुरं श्रीनिवासाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -693,7 +693,7 @@
 				<feature></feature>
 				<page>0181-0184</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः करूरु शेषाचार्यः</author>
+					<author type="" sal="महाविद्वांसः">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -701,7 +701,7 @@
 				<feature></feature>
 				<page>0185-0192</page>
 				<allauthors>
-					<author type="" sal="">धर्माधिकारिणः महाविद्वांसः काशी शेषवेङ्कटाचलशास्त्रिणः</author>
+					<author type="" sal="धर्माधिकारिणः महाविद्वांसः">शेषवेङ्कटाचलशास्त्रिणः, काशी</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -709,7 +709,7 @@
 				<feature></feature>
 				<page>0196-0205</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः मैसूरु सीतागमशास्त्रिणः</author>
+					<author type="" sal="महाविद्वांसः">मैसूरु सीतागमशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -717,7 +717,7 @@
 				<feature></feature>
 				<page>0206-0207</page>
 				<allauthors>
-					<author type="" sal="">एच्. योगनरसिंहार्याः</author>
+					<author type="" sal="">योगनरसिंहार्यः, एच्.</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -737,7 +737,7 @@
 				<feature></feature>
 				<page>0003-0006</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः गोपालकृष्णशास्त्रिणः</author>
+					<author type="" sal="महाविद्वांसः">गोपालकृष्णशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -745,7 +745,7 @@
 				<feature></feature>
 				<page>0007-0007</page>
 				<allauthors>
-					<author type="" sal="">विद्यार्थी एच्. वि. नारायणः</author>
+					<author type="" sal="विद्यार्थी">नारायणः, एच्. वि.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -753,7 +753,7 @@
 				<feature></feature>
 				<page>0008-0016</page>
 				<allauthors>
-					<author type="" sal="">धर्माधिकारिणः काशीशेषवेङ्कटाचलशास्त्रिणः</author>
+					<author type="" sal="धर्माधिकारिणः">शेषवेङ्कटाचलशास्त्रिणः, काशी</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -761,7 +761,7 @@
 				<feature></feature>
 				<page>0017-0024</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः करूरु शेषाचार्याः</author>
+					<author type="" sal="महाविद्वांसः">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -769,7 +769,7 @@
 				<feature></feature>
 				<page>0025-0032</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः गोपालकृष्णशास्त्रिणः</author>
+					<author type="" sal="महाविद्वांसः">गोपालकृष्णशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -791,7 +791,7 @@
 				<feature></feature>
 				<page>0042-0048</page>
 				<allauthors>
-					<author type="" sal="">एच्, एल्. हरियप्प., एं.ए.</author>
+					<author type="" sal="">हरियप्प, एच्, एल्., एं.ए.</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -801,7 +801,7 @@
 				<feature></feature>
 				<page>0049-0053</page>
 				<allauthors>
-					<author type="" sal="">य. सुब्रह्मण्यशर्माणः</author>
+					<author type="" sal="">सुब्रह्मण्यशर्माणः, य.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -809,7 +809,7 @@
 				<feature></feature>
 				<page>0054-0056</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः आरडिकुप्पं सुब्रह्मण्यशास्त्रिणः, श्रीमन्महाराजसंस्कृतमहापाठशाला मीमांसाप्रधानोपाध्यायाः</author>
+					<author type="" sal="विद्वांसः श्रीमन्महाराजसंस्कृतमहापाठशाला मीमांसाप्रधानोपाध्यायाः">आरडिकुप्पं सुब्रह्मण्यशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -817,7 +817,7 @@
 				<feature></feature>
 				<page>0057-0064</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः करूरु शेषाचार्याः</author>
+					<author type="" sal="महाविद्वांसः">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -825,7 +825,7 @@
 				<feature></feature>
 				<page>0065-0066</page>
 				<allauthors>
-					<author type="" sal="">आर्. कृष्णस्वामिनः</author>
+					<author type="" sal="">कृष्णस्वामिनः, आर्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -833,7 +833,7 @@
 				<feature></feature>
 				<page>0067-0074</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः पालघाट् नारायणशास्त्रिणः</author>
+					<author type="" sal="विद्वांसः">पालघाट् नारायणशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -841,7 +841,7 @@
 				<feature></feature>
 				<page>0075-0077</page>
 				<allauthors>
-					<author type="" sal="">एच्. एल्. हरियप्पाः, एं.ए.</author>
+					<author type="" sal="">हरियप्पाः, एच्. एल्., एं.ए.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -849,7 +849,7 @@
 				<feature></feature>
 				<page>0078-0083</page>
 				<allauthors>
-					<author type="" sal="">अर्थशास्त्रविशारदाः महामहोपाध्यायाः आर्. शामशास्त्रिणः, पिएच्.डि., एम्.आर्.ए.एस्</author>
+					<author type="" sal="अर्थशास्त्रविशारदाः महामहोपाध्यायाः">शामशास्त्रिणः, आर्., पिएच्.डि., एम्.आर्.ए.एस्</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -857,7 +857,7 @@
 				<feature></feature>
 				<page>0084-0087</page>
 				<allauthors>
-					<author type="" sal="">धर्माधिकारिणः काशीशेषवेङ्कटाचलशास्त्रिणः</author>
+					<author type="" sal="धर्माधिकारिणः">शेषवेङ्कटाचलशास्त्रिणः, काशी</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -865,7 +865,7 @@
 				<feature></feature>
 				<page>0088-0092</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः क. गोपालकृष्णशास्त्रिणः</author>
+					<author type="" sal="महाविद्वांसः">गोपालकृष्णशास्त्रिणः, क.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -883,7 +883,7 @@
 				<feature></feature>
 				<page>0104-0110</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः सिद्धान्तितम्मय्यशास्त्रिणः</author>
+					<author type="" sal="विद्वांसः सिद्धान्ति">तम्मय्यशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -891,7 +891,7 @@
 				<feature></feature>
 				<page>0111-0116</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः करूरु शेषाचार्याः</author>
+					<author type="" sal="महाविद्वांसः">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -899,7 +899,7 @@
 				<feature></feature>
 				<page>0117-0128</page>
 				<allauthors>
-					<author type="" sal="">विद्यार्थी एच्. वि. नारायणः</author>
+					<author type="" sal="विद्यार्थी">नारायणः, एच्. वि.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -907,7 +907,7 @@
 				<feature></feature>
 				<page>0129-0141</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः आरडिकुप्पं सुब्रह्मण्यशास्त्रिणः</author>
+					<author type="" sal="विद्वांसः">आरडिकुप्पं सुब्रह्मण्यशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -915,7 +915,7 @@
 				<feature></feature>
 				<page>0142-0149</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः क. गोपालकृष्णशास्त्रिणः</author>
+					<author type="" sal="महाविद्वांसः">गोपालकृष्णशास्त्रिणः, क.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -923,7 +923,7 @@
 				<feature></feature>
 				<page>0150-0153</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः कृष्णघनपाठिनः</author>
+					<author type="" sal="विद्वांसः">कृष्णघनपाठिनः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -931,7 +931,7 @@
 				<feature></feature>
 				<page>0154-0167</page>
 				<allauthors>
-					<author type="" sal="">धर्माधिकारिणः काशी शेषवेङ्कटाचलशास्त्रिणः</author>
+					<author type="" sal="धर्माधिकारिणः">शेषवेङ्कटाचलशास्त्रिणः, काशी</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -939,7 +939,7 @@
 				<feature></feature>
 				<page>0168-0168</page>
 				<allauthors>
-					<author type="" sal="">विद्यार्थी नारायणः</author>
+					<author type="" sal="विद्यार्थी">नारायणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -957,7 +957,7 @@
 				<feature></feature>
 				<page>0001-0008</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः करूरु शेषाचार्याः</author>
+					<author type="" sal="महाविद्वांसः">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -965,7 +965,7 @@
 				<feature></feature>
 				<page>0009-0016</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः क. गोपालकृष्णशास्त्रिणः</author>
+					<author type="" sal="महाविद्वांसः">गोपालकृष्णशास्त्रिणः, क.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -973,7 +973,7 @@
 				<feature></feature>
 				<page>0017-0025</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः शिवसुब्रह्मण्यशास्त्रिणः</author>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -981,7 +981,7 @@
 				<feature></feature>
 				<page>0026-0037</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः आरडिकुप्पं सुब्रह्मण्यशास्त्रिणः</author>
+					<author type="" sal="विद्वांसः">आरडिकुप्पं सुब्रह्मण्यशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -989,7 +989,7 @@
 				<feature></feature>
 				<page>0038-0054</page>
 				<allauthors>
-					<author type="" sal="">अर्थशास्त्रविशारदाः महामहोपाध्यायाः आर्. शामशास्त्रिणः, बि.ए., पिएच्.डि.</author>
+					<author type="" sal="अर्थशास्त्रविशारदाः महामहोपाध्यायाः">शामशास्त्रिणः, आर्., बि.ए., पिएच्.डि.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -997,7 +997,7 @@
 				<feature></feature>
 				<page>0055-0062</page>
 				<allauthors>
-					<author type="" sal="">पण्डितरत्नं महामहोपाध्यायाः लक्ष्मीपुरं श्रीनिवासाचार्याः</author>
+					<author type="" sal="पण्डितरत्नं महामहोपाध्यायाः">लक्ष्मीपुरं श्रीनिवासाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1015,7 +1015,7 @@
 				<feature></feature>
 				<page>0066-0084</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः करूरु शेषाचार्याः</author>
+					<author type="" sal="महाविद्वांसः">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1023,7 +1023,7 @@
 				<feature></feature>
 				<page>0085-0099</page>
 				<allauthors>
-					<author type="" sal="">पण्डितरत्नं महामहोपाध्यायाः लक्ष्मीपुरं श्रीनिवासाचार्याः</author>
+					<author type="" sal="पण्डितरत्नं महामहोपाध्यायाः">लक्ष्मीपुरं श्रीनिवासाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1031,7 +1031,7 @@
 				<feature></feature>
 				<page>0100-0109</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः क. गोपालकृष्णशास्त्रिणः</author>
+					<author type="" sal="महाविद्वांसः">गोपालकृष्णशास्त्रिणः, क.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1039,7 +1039,7 @@
 				<feature></feature>
 				<page>0110-0110</page>
 				<allauthors>
-					<author type="" sal="">विद्यार्थी नारायणः</author>
+					<author type="" sal="विद्यार्थी">नारायणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1063,7 +1063,7 @@
 				<feature></feature>
 				<page>0116-0136</page>
 				<allauthors>
-					<author type="" sal="">अर्थशास्त्रविशारदाः महामहोपाध्यायाः आर्. शामशास्त्रिणः, बि.ए., पिएच्.डि.</author>
+					<author type="" sal="अर्थशास्त्रविशारदाः महामहोपाध्यायाः">शामशास्त्रिणः, आर्., बि.ए., पिएच्.डि.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1071,7 +1071,7 @@
 				<feature></feature>
 				<page>0137-0146</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः करूरु शेषाचार्याः</author>
+					<author type="" sal="महाविद्वांसः">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1079,7 +1079,7 @@
 				<feature></feature>
 				<page>0147-0154</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः क. गोपालकृष्णशास्त्रिणः</author>
+					<author type="" sal="महाविद्वांसः">गोपालकृष्णशास्त्रिणः, क.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1087,7 +1087,7 @@
 				<feature></feature>
 				<page>0155-0162</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः आरडिकुप्पं सुब्रह्मण्यशास्त्रिणः</author>
+					<author type="" sal="विद्वांसः">आरडिकुप्पं सुब्रह्मण्यशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1105,7 +1105,7 @@
 				<feature></feature>
 				<page>0168-0187</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः श्री शिवसुब्रह्मण्यशास्त्रिणः</author>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1113,7 +1113,7 @@
 				<feature></feature>
 				<page>0188-0192</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः करूरु शेषाचार्याः</author>
+					<author type="" sal="महाविद्वांसः">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1121,7 +1121,7 @@
 				<feature></feature>
 				<page>0193-0196</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः श्री आरडिकुप्पं सुब्रह्मण्यशास्त्रिणः</author>
+					<author type="" sal="विद्वांसः">आरडिकुप्पं सुब्रह्मण्यशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1129,7 +1129,7 @@
 				<feature></feature>
 				<page>0197-0212</page>
 				<allauthors>
-					<author type="" sal="">महामहोपाध्यायाः पण्डितरत्नं श्री लक्ष्मीपुरंश्रीनिवासाचार्याः</author>
+					<author type="" sal="महामहोपाध्यायाः पण्डितरत्नं">लक्ष्मीपुरं श्रीनिवासाचार्यः</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -1141,7 +1141,7 @@
 				<feature></feature>
 				<page>0003-0011</page>
 				<allauthors>
-					<author type="" sal="">महामहोपाध्यायाः पण्डितरत्नं लक्ष्मीपुरं श्रीनिवासाचार्याः</author>
+					<author type="" sal="महामहोपाध्यायाः पण्डितरत्नं">लक्ष्मीपुरं श्रीनिवासाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1149,7 +1149,7 @@
 				<feature></feature>
 				<page>0012-0017</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः क. गोपालकृष्णशास्त्रिणः</author>
+					<author type="" sal="महाविद्वांसः">गोपालकृष्णशास्त्रिणः, क.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1157,7 +1157,7 @@
 				<feature></feature>
 				<page>0018-0022</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः करूरु शेषाचार्याः</author>
+					<author type="" sal="महाविद्वांसः">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1173,7 +1173,7 @@
 				<feature></feature>
 				<page>0033-0041</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वद्भिः क. शेषाचार्यैः परिशोधिता</author>
+					<author type="" sal="महाविद्वद्भिः">शेषाचार्यैः, क., परिशोधिता</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1181,7 +1181,7 @@
 				<feature></feature>
 				<page>0041-0048</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः पि. आर्. शिवसुब्रह्मण्यशास्त्रिणः</author>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1189,7 +1189,7 @@
 				<feature></feature>
 				<page>0049-0051</page>
 				<allauthors>
-					<author type="" sal="">विद्यार्थी नारायणः</author>
+					<author type="" sal="विद्यार्थी">नारायणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1207,7 +1207,7 @@
 				<feature></feature>
 				<page>0058-0072</page>
 				<allauthors>
-					<author type="" sal="">महामहोपाध्यायाः अर्थशास्त्रविशारदाः शामशास्त्रिणः</author>
+					<author type="" sal="महामहोपाध्यायाः अर्थशास्त्रविशारदाः">शामशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1215,7 +1215,7 @@
 				<feature></feature>
 				<page>0073-0074</page>
 				<allauthors>
-					<author type="" sal="">विद्यार्थी नारायणः</author>
+					<author type="" sal="विद्यार्थी">नारायणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1223,7 +1223,7 @@
 				<feature></feature>
 				<page>0075-0077</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः करूरु शेषाचार्याः</author>
+					<author type="" sal="महाविद्वांसः">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1231,7 +1231,7 @@
 				<feature></feature>
 				<page>0078-0088</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः पि. आर्. शिवसुब्रह्मण्यशास्त्रिणः</author>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1239,7 +1239,7 @@
 				<feature></feature>
 				<page>0089-0097</page>
 				<allauthors>
-					<author type="" sal="">विद्याविशारदाः धर्माधिकारिणः कुणिगल् रामशास्त्रिणः</author>
+					<author type="" sal="विद्याविशारदाः धर्माधिकारिणः">कुणिगल् रामशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1247,7 +1247,7 @@
 				<feature></feature>
 				<page>0098-0102</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वद्भिः करूरु शेषाचार्यैः परिशोधिता</author>
+					<author type="" sal="महाविद्वद्भिः">करूरु शेषाचार्यैः, परिशोधिता</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1255,7 +1255,7 @@
 				<feature></feature>
 				<page>0103-0105</page>
 				<allauthors>
-					<author type="" sal="">योगनरसिंहार्याः</author>
+					<author type="" sal="">योगनरसिंहार्यः</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -1265,7 +1265,7 @@
 				<feature></feature>
 				<page>0108-0112</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः क. गोपालकृष्णशास्त्रिणः</author>
+					<author type="" sal="महाविद्वांसः">गोपालकृष्णशास्त्रिणः, क.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1273,7 +1273,7 @@
 				<feature></feature>
 				<page>0113-0151</page>
 				<allauthors>
-					<author type="" sal="">महामहोपाध्यायाः अर्थशास्त्रविशारदाः शामशास्त्रिणः</author>
+					<author type="" sal="महामहोपाध्यायाः अर्थशास्त्रविशारदाः">शामशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1281,7 +1281,7 @@
 				<feature></feature>
 				<page>0152-0155</page>
 				<allauthors>
-					<author type="" sal="">कुक्के, सुब्रह्मण्यशर्माणः</author>
+					<author type="" sal="">कुक्के सुब्रह्मण्यशर्माणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1289,7 +1289,7 @@
 				<feature></feature>
 				<page>0156-0159</page>
 				<allauthors>
-					<author type="" sal="">श्रीयोगनरशिह्मार्यैः परिशोधितः</author>
+					<author type="" sal="">योगनरशिह्मार्यैः परिशोधितः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1297,7 +1297,7 @@
 				<feature></feature>
 				<page>0160-0160</page>
 				<allauthors>
-					<author type="" sal="">विद्यार्थी नारायणः</author>
+					<author type="" sal="विद्यार्थी">नारायणः</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -1307,7 +1307,7 @@
 				<feature></feature>
 				<page>0162-0173</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः श्री आरडिकुप्पं सुब्रह्मण्यशास्त्रिणः</author>
+					<author type="" sal="विद्वांसः">आरडिकुप्पं सुब्रह्मण्यशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1315,7 +1315,7 @@
 				<feature></feature>
 				<page>0174-0191</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः श्री शिवसुब्रह्मण्यशास्त्रिणः</author>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1323,7 +1323,7 @@
 				<feature></feature>
 				<page>0192-0193</page>
 				<allauthors>
-					<author type="" sal="">महामहोपाध्यायाः पण्डितरत्नं लक्ष्मीपुरं श्रीनिवासाचार्यः</author>
+					<author type="" sal="महामहोपाध्यायाः पण्डितरत्नं">लक्ष्मीपुरं श्रीनिवासाचार्यः</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -1335,7 +1335,7 @@
 				<feature></feature>
 				<page>0002-0008</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः श्री आरडिकुप्पं सुब्रह्मण्यशास्त्रिणः</author>
+					<author type="" sal="विद्वांसः">आरडिकुप्पं सुब्रह्मण्यशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1343,7 +1343,7 @@
 				<feature></feature>
 				<page>0009-0035</page>
 				<allauthors>
-					<author type="" sal="">महामहोपाध्यायाः पण्डितरत्नं लक्ष्मीपुरं श्रीनिवासाचार्याः</author>
+					<author type="" sal="महामहोपाध्यायाः पण्डितरत्नं">लक्ष्मीपुरं श्रीनिवासाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1351,7 +1351,7 @@
 				<feature></feature>
 				<page>0036-0052</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः करूरु शेषाचार्याः</author>
+					<author type="" sal="महाविद्वांसः">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1359,7 +1359,7 @@
 				<feature></feature>
 				<page>0053-0080</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः पि. आर्. शिवसुब्रह्मण्यशास्त्रिणः</author>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -1369,7 +1369,7 @@
 				<feature></feature>
 				<page>0081-0100</page>
 				<allauthors>
-					<author type="" sal="">श्रीयोगनरसिह्मार्यैः परिशोधितः</author>
+					<author type="" sal="">योगनरसिह्मार्यैः परिशोधितः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1377,7 +1377,7 @@
 				<feature></feature>
 				<page>0101-0101</page>
 				<allauthors>
-					<author type="" sal="">करूरु शेषाचार्याः</author>
+					<author type="" sal="">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1385,7 +1385,7 @@
 				<feature></feature>
 				<page>0102-0102</page>
 				<allauthors>
-					<author type="" sal="">विद्यार्थी-टि. आर्. चेन्निगरायपौराणिकः</author>
+					<author type="" sal="विद्यार्थी">चेन्निगरायपौराणिकः, टि. आर्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1393,7 +1393,7 @@
 				<feature></feature>
 				<page>0103-0104</page>
 				<allauthors>
-					<author type="" sal="">विद्यार्थी-एन्. नरसिह्माचार्यः</author>
+					<author type="" sal="विद्यार्थी">नरसिह्माचार्यः, एन्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1401,7 +1401,7 @@
 				<feature></feature>
 				<page>0105-0120</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः करूरु शेषाचार्याः</author>
+					<author type="" sal="महाविद्वांसः">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1409,7 +1409,7 @@
 				<feature></feature>
 				<page>0121-0128</page>
 				<allauthors>
-					<author type="" sal="">महामहोपाध्यायाः पण्डितरत्नं लक्ष्मीपुरं श्रीनिवासाचार्याः</author>
+					<author type="" sal="महामहोपाध्यायाः पण्डितरत्नं">लक्ष्मीपुरं श्रीनिवासाचार्यः</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -1419,7 +1419,7 @@
 				<feature></feature>
 				<page>0130-0142</page>
 				<allauthors>
-					<author type="" sal="">महामहोपाध्यायाः पण्डितरत्नं लक्ष्मीपुरं श्रीनिवासाचार्याः</author>
+					<author type="" sal="महामहोपाध्यायाः पण्डितरत्नं">लक्ष्मीपुरं श्रीनिवासाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1427,7 +1427,7 @@
 				<feature></feature>
 				<page>0143-0143</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः नेरूरु कृष्णाचार्याः</author>
+					<author type="" sal="महाविद्वांसः">नेरूरु कृष्णाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1435,7 +1435,7 @@
 				<feature></feature>
 				<page>0144-0160</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः पि. आर्. शिवसुब्रह्मण्यशास्त्रिणः</author>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1443,7 +1443,7 @@
 				<feature></feature>
 				<page>0161-0164</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः करूरु शेषाचार्याः</author>
+					<author type="" sal="महाविद्वांसः">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1451,7 +1451,7 @@
 				<feature></feature>
 				<page>0165-0168</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः के. श्रीनिवासरङ्गाचार्याः</author>
+					<author type="" sal="विद्वांसः">श्रीनिवासरङ्गाचार्यः, के.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1459,7 +1459,7 @@
 				<feature></feature>
 				<page>0169-0176</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः आरडिकुप्पं शिवसुब्रह्मण्यशास्त्रिणः</author>
+					<author type="" sal="विद्वांसः">शिवआरडिकुप्पं सुब्रह्मण्यशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -1471,7 +1471,7 @@
 				<feature></feature>
 				<page>0002-0016</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः काशी प्राणेशाचार्याः</author>
+					<author type="" sal="विद्वांसः">काशी प्राणेशाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1479,7 +1479,7 @@
 				<feature></feature>
 				<page>0017-0032</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः पि. आर्. शिवसुब्रह्मण्यशास्त्रिणः</author>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1487,7 +1487,7 @@
 				<feature></feature>
 				<page>0032aa-0032an</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः कुक्के सुब्रह्मण्यशास्त्रिणः</author>
+					<author type="" sal="महाविद्वांसः">कुक्के सुब्रह्मण्यशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1495,7 +1495,7 @@
 				<feature></feature>
 				<page>0032ao-0032as</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः क. गोपालकृष्णशास्त्रिणः</author>
+					<author type="" sal="महाविद्वांसः">गोपालकृष्णशास्त्रिणः, क.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1513,7 +1513,7 @@
 				<feature></feature>
 				<page>0034-0055</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः पि. आर्. शिवसुब्रह्मण्यशास्त्रिणः</author>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1521,7 +1521,7 @@
 				<feature></feature>
 				<page>0055ab-0055an</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः राजगोपालसूरिणः</author>
+					<author type="" sal="महाविद्वांसः">राजगोपालसूरिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1529,7 +1529,7 @@
 				<feature></feature>
 				<page>0055ap-0055az</page>
 				<allauthors>
-					<author type="" sal="">पण्डितरत्नं काशी शेषवेङ्कटाचलशास्त्रिणः</author>
+					<author type="" sal="पण्डितरत्नं">शेषवेङ्कटाचलशास्त्रिणः, काशी</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1537,7 +1537,7 @@
 				<feature></feature>
 				<page>0055ba-0055bi</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः कुक्के सुब्रह्मण्यशास्त्रिणः</author>
+					<author type="" sal="विद्वांसः">कुक्के सुब्रह्मण्यशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1545,7 +1545,7 @@
 				<feature></feature>
 				<page>0055bk-0055bn</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः आरडिकुप्पं सुब्रह्मण्यशास्त्रिणः</author>
+					<author type="" sal="विद्वांसः">आरडिकुप्पं सुब्रह्मण्यशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1553,7 +1553,7 @@
 				<feature></feature>
 				<page>0055bo-0055cg</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः काशी प्राणेशाचार्याः</author>
+					<author type="" sal="विद्वांसः">काशी प्राणेशाचार्यः</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -1563,7 +1563,7 @@
 				<feature></feature>
 				<page>0055cv-0055da</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः काशी प्राणेशाचार्याः</author>
+					<author type="" sal="विद्वांसः">काशी प्राणेशाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1571,7 +1571,7 @@
 				<feature></feature>
 				<page>0055dc-0055ea</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः पि. आर्. शिवसुब्रह्मण्यशास्त्रिणः</author>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1619,7 +1619,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author type="" sal="">एम्. जि. पाटील</author>
+					<author type="" sal="">पाटील, एम्. जि.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1633,7 +1633,7 @@
 				<feature></feature>
 				<page>0009-0010</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः काशी प्राणेशाचार्याः</author>
+					<author type="" sal="विद्वांसः">काशी प्राणेशाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1641,7 +1641,7 @@
 				<feature></feature>
 				<page>0025-0037</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः पि. आर्. शिवसुब्रह्मण्यशास्त्रिणः</author>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1689,7 +1689,7 @@
 				<feature></feature>
 				<page>0037bp-0042</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः काशी प्राणेशाचार्याः</author>
+					<author type="" sal="विद्वांसः">काशी प्राणेशाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1703,7 +1703,7 @@
 				<feature></feature>
 				<page>0042ac-0042ai</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः आरडिकोप्प सुब्रह्मण्यशास्त्रिणः</author>
+					<author type="" sal="विद्वांसः">आरडिकोप्प सुब्रह्मण्यशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1719,7 +1719,7 @@
 				<feature></feature>
 				<page>0042as-0042cb</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः कुक्के सुब्रह्मण्यशास्त्रिणः</author>
+					<author type="" sal="महाविद्वांसः">कुक्के सुब्रह्मण्यशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1733,7 +1733,7 @@
 				<feature></feature>
 				<page>0042cf-0042cf</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः पि. पि. लक्ष्मीनारायणोपाध्यायाः</author>
+					<author type="" sal="विद्वांसः">लक्ष्मीनारायणोपाध्यायाः, पि. पि.</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -1749,7 +1749,7 @@
 				<feature></feature>
 				<page>0001-0008</page>
 				<allauthors>
-					<author type="" sal="">पण्डित श्रीनिवासदेशिकाचार्याः</author>
+					<author type="" sal="पण्डित">श्रीनिवासदेशिकाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1757,7 +1757,7 @@
 				<feature></feature>
 				<page>0008aa-0008ah</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः पि. आर्. शिवसुब्रह्मण्यशास्त्रिणः</author>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1765,7 +1765,7 @@
 				<feature></feature>
 				<page>0008ai-0008ar</page>
 				<allauthors>
-					<author type="" sal="">कीर्तिशेष श्रमिच्छर्मोपाध्याय काशी तिम्मण्णाचार्याः</author>
+					<author type="" sal="कीर्तिशेष श्रमिच्छर्मोपाध्याय">काशी तिम्मण्णाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1779,7 +1779,7 @@
 				<feature></feature>
 				<page>0008bb-0008be</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः काशी प्राणेशाचार्याः</author>
+					<author type="" sal="विद्वांसः">काशी प्राणेशाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1805,7 +1805,7 @@
 				<feature></feature>
 				<page>0008bl-0008bl</page>
 				<allauthors>
-					<author type="" sal="">म. ग. पाटील्. मिरज.</author>
+					<author type="" sal="">पाटील्., म. ग., मिरज.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1813,7 +1813,7 @@
 				<feature></feature>
 				<page>0008bm-0008bm</page>
 				<allauthors>
-					<author type="" sal="">स. श्रीनिवासदेशिकाचार्याः</author>
+					<author type="" sal="">श्रीनिवासदेशिकाचार्यः, स.</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -1831,7 +1831,7 @@
 				<feature></feature>
 				<page>0001a-0001b</page>
 				<allauthors>
-					<author type="" sal="">आस्थानमहाविद्वांसः करूरु शेषाचार्याः</author>
+					<author type="" sal="आस्थानमहाविद्वांसः">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1839,7 +1839,7 @@
 				<feature></feature>
 				<page>0001c-0005</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः जग्गू आळ्वारय्यङ्गार्याः</author>
+					<author type="" sal="विद्वांसः">जग्गू आळ्वारय्यङ्गार्याः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1847,7 +1847,7 @@
 				<feature></feature>
 				<page>0047-0054</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः काशी प्राणेशाचार्याः</author>
+					<author type="" sal="विद्वांसः">काशी प्राणेशाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1855,7 +1855,7 @@
 				<feature></feature>
 				<page>0054aa-0054ab</page>
 				<allauthors>
-					<author type="" sal="">चि. महादेवय्य</author>
+					<author type="" sal="">महादेवय्य, चि.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1863,7 +1863,7 @@
 				<feature></feature>
 				<page>0054ac-0054ae</page>
 				<allauthors>
-					<author type="" sal="">पण्डित श्रीनिवासदेशिकाचार्याः</author>
+					<author type="" sal="पण्डित">श्रीनिवासदेशिकाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1871,7 +1871,7 @@
 				<feature></feature>
 				<page>0054af-0054ah</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः जग्गू वेङ्कटाचार्याः</author>
+					<author type="" sal="विद्वांसः">जग्गू वेङ्कटाचार्याः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1879,7 +1879,7 @@
 				<feature></feature>
 				<page>0054ai-0054au</page>
 				<allauthors>
-					<author type="" sal="">पण्डित श्रीनिवासदेशिकाचार्याः</author>
+					<author type="" sal="पण्डित">श्रीनिवासदेशिकाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1887,7 +1887,7 @@
 				<feature></feature>
 				<page>0054ax-0054ag</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः रा. नारायणस्वामिदीक्षिताः</author>
+					<author type="" sal="विद्वांसः">नारायणस्वामिदीक्षिताः, रा.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1917,7 +1917,7 @@
 				<feature></feature>
 				<page>0002a-0006</page>
 				<allauthors>
-					<author type="" sal="">महामहोपाध्यायाः सिद्धान्ति शिवशङ्करशास्त्रिणः</author>
+					<author type="" sal="महामहोपाध्यायाः सिद्धान्ति">शिवशङ्करशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1925,7 +1925,7 @@
 				<feature></feature>
 				<page>0006aa-0006ah</page>
 				<allauthors>
-					<author type="" sal="">आस्थानविद्वांसः तिरुमले सत्यागालं कृष्णदेशिकाचार्याः</author>
+					<author type="" sal="आस्थानविद्वांसः">तिरुमले सत्यागालं कृष्णदेशिकाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1933,7 +1933,7 @@
 				<feature></feature>
 				<page>0006ai-0006ap</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः पि. आर्. शिवसुब्रह्मण्यशास्त्रिणः</author>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1949,7 +1949,7 @@
 				<feature></feature>
 				<page>0006az-0006be</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः कुक्के सुब्रह्मण्यशास्त्रिणः</author>
+					<author type="" sal="महाविद्वांसः">कुक्के सुब्रह्मण्यशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1957,7 +1957,7 @@
 				<feature></feature>
 				<page>0006bf-0006bl</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः काशी प्रणेशाचार्याः</author>
+					<author type="" sal="विद्वांसः">काशी प्रणेशाचार्याः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1985,7 +1985,7 @@
 				<feature></feature>
 				<page>0017-0022</page>
 				<allauthors>
-					<author type="" sal="">आस्थानविद्वांसः तिरुमले सत्यागालं कृष्णदेशिकाचार्याः</author>
+					<author type="" sal="आस्थानविद्वांसः">तिरुमले सत्यागालं कृष्णदेशिकाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1999,7 +1999,7 @@
 				<feature></feature>
 				<page>0022ai-0022at</page>
 				<allauthors>
-					<author type="" sal="">पण्डित श्रीनिवासदेशिकाचार्याः</author>
+					<author type="" sal="पण्डित">श्रीनिवासदेशिकाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2007,7 +2007,7 @@
 				<feature></feature>
 				<page>0022au-0022ay</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः रा. नारायणस्वामिदीक्षिताः</author>
+					<author type="" sal="विद्वांसः">नारायणस्वामिदीक्षिताः, रा.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2023,7 +2023,7 @@
 				<feature></feature>
 				<page>0022bh-0022bi</page>
 				<allauthors>
-					<author type="" sal="">श्रीवेङ्कटरमणार्यः</author>
+					<author type="" sal="श्री">वेङ्कटरमणार्यः</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -2035,7 +2035,7 @@
 				<feature></feature>
 				<page>0001-0002</page>
 				<allauthors>
-					<author type="" sal="">विद्वान् सुब्बराय उपाध्यायः</author>
+					<author type="" sal="विद्वान्">सुब्बराय उपाध्यायः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2043,7 +2043,7 @@
 				<feature></feature>
 				<page>0002a-0002b</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः करूरु शेषाचार्याः</author>
+					<author type="" sal="महाविद्वांसः">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2051,7 +2051,7 @@
 				<feature></feature>
 				<page>0009-0016</page>
 				<allauthors>
-					<author type="" sal="">पण्डित ति. स. श्रीनिवासदेशिकाचार्याः</author>
+					<author type="" sal="पण्डित">श्रीनिवासदेशिकाचार्यः, ति. स.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2059,7 +2059,7 @@
 				<feature></feature>
 				<page>0016aa-0016aj</page>
 				<allauthors>
-					<author type="" sal="">श्री वेङ्कटरमणार्याः</author>
+					<author type="" sal="श्री">वेङ्कटरमणार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2067,7 +2067,7 @@
 				<feature></feature>
 				<page>0016ak-0016aq</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः करूरु शेषाचार्याः</author>
+					<author type="" sal="महाविद्वांसः">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2075,7 +2075,7 @@
 				<feature></feature>
 				<page>0016ar-0016bc</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः जग्गू आळ्वारय्यङ्गार्याः</author>
+					<author type="" sal="विद्वांसः">जग्गू आळ्वारय्यङ्गार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2083,7 +2083,7 @@
 				<feature></feature>
 				<page>0016bc-0016bc</page>
 				<allauthors>
-					<author type="" sal="">पण्डित ति. स. श्रीनिवासदेशिकाचार्याः</author>
+					<author type="" sal="पण्डित">श्रीनिवासदेशिकाचार्यः, ति. स.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2091,7 +2091,7 @@
 				<feature></feature>
 				<page>0016bd-0016bo</page>
 				<allauthors>
-					<author type="" sal="">आस्थानविद्वांसः निरुमले सत्यागालं कृष्णदेशिकाचार्याः</author>
+					<author type="" sal="आस्थानविद्वांसः">निरुमले सत्यागालं कृष्णदेशिकाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2099,7 +2099,7 @@
 				<feature></feature>
 				<page>0016bp-0016bx</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः पि. आर्. शिवसुब्रह्मण्यशास्त्रिणः</author>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2107,7 +2107,7 @@
 				<feature></feature>
 				<page>0016by-0016cf</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः रा. नारायणस्वामिदीक्षिताः</author>
+					<author type="" sal="विद्वांसः">नारायणस्वामिदीक्षिताः, रा.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2115,7 +2115,7 @@
 				<feature></feature>
 				<page>0016cg-0016cn</page>
 				<allauthors>
-					<author type="" sal="">श्रीवेङ्कटरमणार्याः</author>
+					<author type="" sal="श्री">वेङ्कटरमणार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2123,7 +2123,7 @@
 				<feature></feature>
 				<page>0016co-0016cr</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः के. गोपालकृष्णशास्त्रिणः</author>
+					<author type="" sal="महाविद्वांसः">गोपालकृष्णशास्त्रिणः, के.</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -2139,7 +2139,7 @@
 				<feature></feature>
 				<page>0002a-0002j</page>
 				<allauthors>
-					<author type="" sal="">श्रीगीर्वाणेन्द्रदीक्षिताः</author>
+					<author type="" sal="श्री">गीर्वाणेन्द्रदीक्षिताः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2147,7 +2147,7 @@
 				<feature></feature>
 				<page>0023-0032</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः आर्. नारायणस्वामिदीक्षिताः</author>
+					<author type="" sal="विद्वांसः">नारायणस्वामिदीक्षिताः, आर्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2155,7 +2155,7 @@
 				<feature></feature>
 				<page>0032aa-0032an</page>
 				<allauthors>
-					<author type="" sal="">श्रीवेङ्कटरमणार्याः</author>
+					<author type="" sal="श्री">वेङ्कटरमणार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2163,7 +2163,7 @@
 				<feature></feature>
 				<page>0032ao-0032ar</page>
 				<allauthors>
-					<author type="" sal="">आस्थानविद्वांसः टि. श्रीनिवासरङ्गाचार्याः</author>
+					<author type="" sal="आस्थानविद्वांसः">श्रीनिवासरङ्गाचार्यः, टि.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2171,7 +2171,7 @@
 				<feature></feature>
 				<page>0032as-0032aw</page>
 				<allauthors>
-					<author type="" sal="">श्रीकृष्णपरमेश्वरभट्टसूरिणः</author>
+					<author type="" sal="श्री">कृष्णपरमेश्वरभट्टसूरिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2179,7 +2179,7 @@
 				<feature></feature>
 				<page>0032ax-0032ba</page>
 				<allauthors>
-					<author type="" sal="">पि. आर्. सुब्रह्मण्यशास्त्रिणः बि.ए.</author>
+					<author type="" sal="">सुब्रह्मण्यशास्त्रिणः, पि. आर्., बि.ए.</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -2201,7 +2201,7 @@
 				<feature></feature>
 				<page>0005-0010</page>
 				<allauthors>
-					<author type="" sal="">श्रीकृष्णपरमेश्वरभट्टसूरिणः</author>
+					<author type="" sal="श्री">कृष्णपरमेश्वरभट्टसूरिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2209,7 +2209,7 @@
 				<feature></feature>
 				<page>0010aa-0010ah</page>
 				<allauthors>
-					<author type="" sal="">आस्थानविद्वांसः टि. श्रीनिवासरङ्गाचार्याः</author>
+					<author type="" sal="आस्थानविद्वांसः">श्रीनिवासरङ्गाचार्यः, टि.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2217,7 +2217,7 @@
 				<feature></feature>
 				<page>0010ai-0010ap</page>
 				<allauthors>
-					<author type="" sal="">श्रीगीर्वाणेन्द्रदीक्षिताः</author>
+					<author type="" sal="श्री">गीर्वाणेन्द्रदीक्षिताः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2225,7 +2225,7 @@
 				<feature></feature>
 				<page>0010aq-0010ay</page>
 				<allauthors>
-					<author type="" sal="">श्री वेङ्कटरमणार्याः</author>
+					<author type="" sal="श्री">वेङ्कटरमणार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2233,7 +2233,7 @@
 				<feature></feature>
 				<page>0010az-0010bf</page>
 				<allauthors>
-					<author type="" sal="">साहित्यरत्नम् महाविद्वांसः के. गोपालकृष्णशास्त्रिणः</author>
+					<author type="" sal="साहित्यरत्नम् महाविद्वांसः">गोपालकृष्णशास्त्रिणः, के.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2241,7 +2241,7 @@
 				<feature></feature>
 				<page>0010bf-0010bg</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः काशी प्राणेशाचार्याः</author>
+					<author type="" sal="विद्वांसः">काशी प्राणेशाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2249,7 +2249,7 @@
 				<feature></feature>
 				<page>0010bh-0010bo</page>
 				<allauthors>
-					<author type="" sal="">पि. आर्. सुब्रह्मण्यशास्त्रिणः बि.ए.</author>
+					<author type="" sal="">सुब्रह्मण्यशास्त्रिणः, पि. आर्., बि.ए.</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -2273,7 +2273,7 @@
 				<feature></feature>
 				<page>0013-0018</page>
 				<allauthors>
-					<author type="" sal="">आस्थानविद्वांसः टि. श्रीनिवासरङ्गाचार्याः</author>
+					<author type="" sal="आस्थानविद्वांसः">श्रीनिवासरङ्गाचार्यः, टि.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2281,7 +2281,7 @@
 				<feature></feature>
 				<page>0018aa-0018ah</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः काशी प्राणेशाचार्याः</author>
+					<author type="" sal="विद्वांसः">काशी प्राणेशाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2289,7 +2289,7 @@
 				<feature></feature>
 				<page>0018ai-0018ao</page>
 				<allauthors>
-					<author type="" sal="">श्रीगीर्वाणेन्द्रदीक्षिताः</author>
+					<author type="" sal="श्री">गीर्वाणेन्द्रदीक्षिताः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2309,7 +2309,7 @@
 				<feature></feature>
 				<page>0018au-0018bd</page>
 				<allauthors>
-					<author type="" sal="">पि. आर्. सुब्रह्मण्यशास्त्रिणः बि.ए.)</author>
+					<author type="" sal="">सुब्रह्मण्यशास्त्रिणः, पि. आर्., बि.ए.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2317,7 +2317,7 @@
 				<feature></feature>
 				<page>0018bd-0018be</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः करूरु शेषाचार्याः</author>
+					<author type="" sal="महाविद्वांसः">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2325,7 +2325,7 @@
 				<feature></feature>
 				<page>0018bf-0018bm</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः जग्गू आळ्वारय्यङ्गार्याः</author>
+					<author type="" sal="विद्वांसः">जग्गू आळ्वारय्यङ्गार्यः</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -2335,7 +2335,7 @@
 				<feature></feature>
 				<page>0001-0002</page>
 				<allauthors>
-					<author type="" sal="">प्रो. सि . आर्. नरसिंहशास्त्रिणः</author>
+					<author type="" sal="">नरसिंहशास्त्रिणः, प्रो. सि . आर्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2355,7 +2355,7 @@
 				<feature></feature>
 				<page>0002c-0002d</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः करूरु शेषाचार्याः</author>
+					<author type="" sal="महाविद्वांसः">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2369,7 +2369,7 @@
 				<feature></feature>
 				<page>0002h-0002k</page>
 				<allauthors>
-					<author type="" sal="">तिरुमले सत्यागालं श्रीनिवासदेशिकाचार्याः</author>
+					<author type="" sal="">तिरुमले सत्यागालं श्रीनिवासदेशिकाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2385,7 +2385,7 @@
 				<feature></feature>
 				<page>0002m-0002m</page>
 				<allauthors>
-					<author type="" sal="">तिरुमले सत्यागालं श्रीनिवासदेशिकाचार्याः</author>
+					<author type="" sal="">तिरुमले सत्यागालं श्रीनिवासदेशिकाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2399,7 +2399,7 @@
 				<feature></feature>
 				<page>0025-0032</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः पि. आर्. शिवसुब्रह्मण्यशास्त्रिणः</author>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2415,7 +2415,7 @@
 				<feature></feature>
 				<page>0032ai-0032as</page>
 				<allauthors>
-					<author type="" sal="">श्रीकृष्णपरमेश्वरभट्टसूरिणः</author>
+					<author type="" sal="श्री">कृष्णपरमेश्वरभट्टसूरिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2429,7 +2429,7 @@
 				<feature></feature>
 				<page>0032au-0032bf</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः काशी प्राणेशाचार्याः</author>
+					<author type="" sal="विद्वांसः">काशी प्राणेशाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2443,7 +2443,7 @@
 				<feature></feature>
 				<page>0032bh-0032bo</page>
 				<allauthors>
-					<author type="" sal="">महामहोपाध्याय विद्यालङ्कार अर्थशास्त्रविशारद डा. शामशास्त्रिवर्याः</author>
+					<author type="" sal="महामहोपाध्याय विद्यालङ्कार अर्थशास्त्रविशारद">शामशास्त्रिवर्यः, डा.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2451,7 +2451,7 @@
 				<feature></feature>
 				<page>0032bp-0032bx</page>
 				<allauthors>
-					<author type="" sal="">श्री वेङ्कटरमणार्यः</author>
+					<author type="" sal="श्री">वेङ्कटरमणार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2459,7 +2459,7 @@
 				<feature></feature>
 				<page>0032by-0032ce</page>
 				<allauthors>
-					<author type="" sal="">तर्कविद्वांसः ब्रह्ममीमांसाध्यायिनः, स्थानीकं संपत्कुमाराचार्याः</author>
+					<author type="" sal="तर्कविद्वांसः ब्रह्ममीमांसाध्यायिनः, स्थानीकं">संपत्कुमाराचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2475,7 +2475,7 @@
 				<feature></feature>
 				<page>0001-0001</page>
 				<allauthors>
-					<author type="" sal="">प्रो. सि. आर्. नरसिंहशास्त्रिणः</author>
+					<author type="" sal="प्रो">नरसिंहशास्त्रिणः, सि. आर्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2489,7 +2489,7 @@
 				<feature></feature>
 				<page>0027-0038</page>
 				<allauthors>
-					<author type="" sal="">श्री वेङ्कटरमणार्याः</author>
+					<author type="" sal="श्री">वेङ्कटरमणार्याः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2497,7 +2497,7 @@
 				<feature></feature>
 				<page>0039aa-0039ac</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः आ. सुब्रह्मण्यशास्त्रिणः</author>
+					<author type="" sal="विद्वांसः">सुब्रह्मण्यशास्त्रिणः, आ.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2505,7 +2505,7 @@
 				<feature></feature>
 				<page>0039ad-0039ag</page>
 				<allauthors>
-					<author type="" sal="">महामहोपाध्याय विद्यालङ्कार अर्थशास्त्रविशारद डा. शामशास्त्रिवर्याः</author>
+					<author type="" sal="महामहोपाध्याय विद्यालङ्कार अर्थशास्त्रविशारद">शामशास्त्रिवर्यः, डा.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2513,7 +2513,7 @@
 				<feature></feature>
 				<page>0039ah-0039as</page>
 				<allauthors>
-	`				<author type="" sal="">विद्वांसः पि. आर्. शिवसुब्रह्मण्यशास्त्रिणः</author>
+	`				<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
 				</allauthors>`
 			</entry>
 			<entry>
@@ -2521,7 +2521,7 @@
 				<feature></feature>
 				<page>0039at-0039bd</page>
 				<allauthors>
-					<author type="" sal="">प्रकाशकाः-विद्वांसः डि. कृष्णमूर्त्याचार्याः</author>
+					<author type="" sal="विद्वांसः">कृष्णमूर्त्याचार्यः, डि.</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -2533,7 +2533,7 @@
 				<feature></feature>
 				<page>000i-000j</page>
 				<allauthors>
-					<author type="" sal="">प्रो. सि. आर्. नरसिंहशास्त्रिणः</author>
+					<author type="" sal="प्रो">नरसिंहशास्त्रिणः, सि. आर्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2541,7 +2541,7 @@
 				<feature></feature>
 				<page>0001-0006</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः करूरु शेषाचार्याः</author>
+					<author type="" sal="महाविद्वांसः">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2549,7 +2549,7 @@
 				<feature></feature>
 				<page>0045-0060</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः पि. आर्. शिवसुब्रह्मण्यशास्त्रिणः</author>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2557,7 +2557,7 @@
 				<feature></feature>
 				<page>0060aa-0060ah</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः काशी प्राणेशाचार्याः</author>
+					<author type="" sal="विद्वांसः">काशी प्राणेशाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2565,7 +2565,7 @@
 				<feature></feature>
 				<page>0060ai-0060ap</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः आत्मकूरु दीक्षाचार्याः</author>
+					<author type="" sal="विद्वांसः">आत्मकूरु दीक्षाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2573,7 +2573,7 @@
 				<feature></feature>
 				<page>0060aq-0060ay</page>
 				<allauthors>
-					<author type="" sal="">पण्डित सत्यागालं श्रीनिवासदेशिकाचार्याः</author>
+					<author type="" sal="पण्डित">सत्यागालं श्रीनिवासदेशिकाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2581,7 +2581,7 @@
 				<feature></feature>
 				<page>0060az-0060ba</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः करूरु शेषाचार्याः</author>
+					<author type="" sal="महाविद्वांसः">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2589,7 +2589,7 @@
 				<feature></feature>
 				<page>0066bd-0066be</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः काशी प्राणेशाचार्याः</author>
+					<author type="" sal="विद्वांसः">काशी प्राणेशाचार्यः</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -2599,7 +2599,7 @@
 				<feature></feature>
 				<page>000i-000j</page>
 				<allauthors>
-					<author type="" sal="">प्रो. सि. आर्. नरसिंहशास्त्रिणः</author>
+					<author type="" sal="प्रो">नरसिंहशास्त्रिणः, सि. आर्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2607,7 +2607,7 @@
 				<feature></feature>
 				<page>0001-0006</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः कुक्के सुब्रह्मण्यशास्त्रिणः</author>
+					<author type="" sal="महाविद्वांसः">कुक्के सुब्रह्मण्यशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2615,7 +2615,7 @@
 				<feature></feature>
 				<page>0061-0076</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः पि. आर्. शिवसुब्रह्मण्यशास्त्रिणः</author>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2623,7 +2623,7 @@
 				<feature></feature>
 				<page>0076aa-0076ap</page>
 				<allauthors>
-					<author type="" sal="">निरुमले सत्यागालं श्रीनिवासदेशिकाचार्याः</author>
+					<author type="" sal="">तिरुमले सत्यागालं श्रीनिवासदेशिकाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2631,7 +2631,7 @@
 				<feature></feature>
 				<page>0076aq-0076as</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः कुक्के सुब्रह्मण्यशास्त्रिणः</author>
+					<author type="" sal="महाविद्वांसः">कुक्के सुब्रह्मण्यशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2639,7 +2639,7 @@
 				<feature></feature>
 				<page>0076at-0076at</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः के. श्रीनिवासरङ्गाचार्याः</author>
+					<author type="" sal="विद्वांसः">श्रीनिवासरङ्गाचार्यः, के.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2647,7 +2647,7 @@
 				<feature></feature>
 				<page>0076au-0076au</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः एस्. वेङ्कटाचार्याः</author>
+					<author type="" sal="विद्वांसः">वेङ्कटाचार्यः, एस्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2655,7 +2655,7 @@
 				<feature></feature>
 				<page>0076aw-0076aw</page>
 				<allauthors>
-					<author type="" sal="">धर्माधिकारि पौराणिकरत्न होळवनहळ्ळि शेषाचार्याः</author>
+					<author type="" sal="धर्माधिकारि पौराणिकरत्न">होळवनहळ्ळि शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2671,7 +2671,7 @@
 				<feature></feature>
 				<page>0001-0002</page>
 				<allauthors>
-					<author type="" sal="">प्रो. सि. आर्. नरसिंहशास्त्रिणः</author>
+					<author type="" sal="प्रो">नरसिंहशास्त्रिणः, सि. आर्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2679,7 +2679,7 @@
 				<feature></feature>
 				<page>0003-0008</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः काशी प्राणेशाचार्याः</author>
+					<author type="" sal="विद्वांसः">काशी प्राणेशाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2687,7 +2687,7 @@
 				<feature></feature>
 				<page>0077-0089</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः पि. आर्. शिवसुब्रह्मण्यशास्त्रिणः</author>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2701,7 +2701,7 @@
 				<feature></feature>
 				<page>0089ab-0089ac</page>
 				<allauthors>
-					<author type="" sal="">तिरुमले सत्यागालं श्रीनिवासदेशिकाचार्याः</author>
+					<author type="" sal="">तिरुमले सत्यागालं श्रीनिवासदेशिकाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2709,7 +2709,7 @@
 				<feature></feature>
 				<page>0089ad-0089ak</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः काशी प्राणेशाचार्याः</author>
+					<author type="" sal="विद्वांसः">काशी प्राणेशाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2717,7 +2717,7 @@
 				<feature></feature>
 				<page>0089al-0089as</page>
 				<allauthors>
-					<author type="" sal="">ज्यौतिषरन्तं करूरु शेषाचार्याः</author>
+					<author type="" sal="ज्यौतिषरन्तं">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2725,7 +2725,7 @@
 				<feature></feature>
 				<page>0089at-0089bb</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः आत्मकूरु दीक्षाचार्याः</author>
+					<author type="" sal="विद्वांसः">आत्मकूरु दीक्षाचार्यः</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -2735,7 +2735,7 @@
 				<feature></feature>
 				<page>0001-0002</page>
 				<allauthors>
-					<author type="" sal="">प्रो. सि. आर्. नरसिंहशास्त्रिणः</author>
+					<author type="" sal="प्रो">नरसिंहशास्त्रिणः, सि. आर्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2743,7 +2743,7 @@
 				<feature></feature>
 				<page>0002a-0002c</page>
 				<allauthors>
-					<author type="" sal="">श्री वेंकटरमणार्याः</author>
+					<author type="" sal="श्री">वेंकटरमणार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2751,7 +2751,7 @@
 				<feature></feature>
 				<page>0002d-0002d</page>
 				<allauthors>
-					<author type="" sal="">स. श्रीनिवासदेशिकाचार्याः</author>
+					<author type="" sal="">श्रीनिवासदेशिकाचार्यः, स.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2771,7 +2771,7 @@
 				<feature></feature>
 				<page>0017-0024</page>
 				<allauthors>
-					<author type="" sal="">तिरुमले सत्यागालं श्रीनिवासदेशिकाचार्याः</author>
+					<author type="" sal="">तिरुमले सत्यागालं श्रीनिवासदेशिकाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2779,7 +2779,7 @@
 				<feature></feature>
 				<page>0024aa-0024ah</page>
 				<allauthors>
-					<author type="" sal="">ज्यौतिषरत्नं करूरु शेषाचार्याः</author>
+					<author type="" sal="ज्यौतिषरत्नं">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2795,7 +2795,7 @@
 				<feature></feature>
 				<page>0024az-0024bc</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः रा. नारायणस्वामिदीक्षिताः</author>
+					<author type="" sal="विद्वांसः">नारायणस्वामिदीक्षिताः, रा.</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -2813,7 +2813,7 @@
 				<feature></feature>
 				<page>0001-0004</page>
 				<allauthors>
-					<author type="" sal="">पण्डित ति. स. श्रीनिवासदेशिकाचार्याः</author>
+					<author type="" sal="पण्डित">श्रीनिवासदेशिकाचार्यः, ति. स.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2821,7 +2821,7 @@
 				<feature></feature>
 				<page>0004a-0004b</page>
 				<allauthors>
-					<author type="" sal="">ज्यौतिषरत्नं करूरु शेषाचार्याः</author>
+					<author type="" sal="ज्यौतिषरत्नं">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2829,7 +2829,7 @@
 				<feature></feature>
 				<page>0017-0034</page>
 				<allauthors>
-					<author type="" sal="">ज्यौतिषरत्नं करूरु शेषाचार्याः</author>
+					<author type="" sal="ज्यौतिषरत्नं">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2843,7 +2843,7 @@
 				<feature></feature>
 				<page>0034ai-0034aj</page>
 				<allauthors>
-					<author type="" sal="">ज्यौतिषरत्नं करूरु शेषाचार्याः</author>
+					<author type="" sal="ज्यौतिषरत्नं">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2851,7 +2851,7 @@
 				<feature></feature>
 				<page>0034ak-0034ar</page>
 				<allauthors>
-					<author type="" sal="">ज्यौतिषरत्नं करूरु शेषाचार्यैश्शोधितः</author>
+					<author type="2" sal="ज्यौतिषरत्नं">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2859,7 +2859,7 @@
 				<feature></feature>
 				<page>0034as-0034ba</page>
 				<allauthors>
-					<author type="" sal="">विद्वांस जग्गु आल्वारय्यङ्गार्याः</author>
+					<author type="" sal="विद्वांस">जग्गु आल्वारय्यङ्गार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2867,7 +2867,7 @@
 				<feature></feature>
 				<page>0034bb-0034bi</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः पि. आर्. शिवसुब्रह्मण्यशास्त्रिणः</author>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2875,7 +2875,7 @@
 				<feature></feature>
 				<page>0034bj-0034bq</page>
 				<allauthors>
-					<author type="" sal="">पण्डित ति. स. श्रीनिवासदेशिकाचार्याः</author>
+					<author type="" sal="पण्डित">श्रीनिवासदेशिकाचार्यः, ति. स.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2883,7 +2883,7 @@
 				<feature></feature>
 				<page>0034br-0034bz</page>
 				<allauthors>
-					<author type="" sal="">श्रीमन्तः कृष्णमूर्तिशास्त्रिणः</author>
+					<author type="" sal="श्रीमन्तः">कृष्णमूर्तिशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2891,7 +2891,7 @@
 				<feature></feature>
 				<page>0034ca-0034cb</page>
 				<allauthors>
-					<author type="" sal="">ज्यौतिषरत्नं करूरु शेषाचार्याः</author>
+					<author type="" sal="ज्यौतिषरत्नं">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2899,7 +2899,7 @@
 				<feature></feature>
 				<page>0034cc-0034cd</page>
 				<allauthors>
-					<author type="" sal="">ज्यौतिषरत्नं करूरु शेषाचार्याः</author>
+					<author type="" sal="ज्यौतिषरत्नं">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2907,7 +2907,7 @@
 				<feature></feature>
 				<page>0034ce-0034cf</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः क्वाणदेशिकाचार्याः</author>
+					<author type="" sal="विद्वांसः">क्वाणदेशिकाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2915,7 +2915,7 @@
 				<feature></feature>
 				<page>0034cg-0034cg</page>
 				<allauthors>
-					<author type="" sal="">ब्र. श्री. गोपालाचार्याः</author>
+					<author type="" sal="ब्र. श्री.">गोपालाचार्यः</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -2925,9 +2925,9 @@
 				<feature></feature>
 				<page>0001-0008</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः पि. आर्. शिवसुब्रह्मण्यशास्त्रिणः</author>
-					<author type="" sal="">ज्यौतिषरत्नं करूरु शेषाचार्याः</author>
-					<author type="" sal="">काव्यकलानिधयः चिदम्बरशास्त्रिणः</author>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
+					<author type="" sal="ज्यौतिषरत्नं">करूरु शेषाचार्यः</author>
+					<author type="" sal="काव्यकलानिधयः">चिदम्बरशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2935,7 +2935,7 @@
 				<feature></feature>
 				<page>0009-0018</page>
 				<allauthors>
-					<author type="" sal="">श्रीमन्तः कृष्णमूर्तिशास्त्रिणः</author>
+					<author type="" sal="श्रीमन्तः">कृष्णमूर्तिशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2943,7 +2943,7 @@
 				<feature></feature>
 				<page>0018aa-0018af</page>
 				<allauthors>
-					<author type="" sal="">ज्यौतिषरत्नं करूरु शेषाचार्यैः शोधितः</author>
+					<author type="2" sal="ज्यौतिषरत्नं">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2951,7 +2951,7 @@
 				<feature></feature>
 				<page>0018ag-0018aw</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः पि. आर्. शिवसुब्रह्मण्यशास्त्रिणः</author>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2959,7 +2959,7 @@
 				<feature></feature>
 				<page>0018ax-0018az</page>
 				<allauthors>
-					<author type="" sal="">ज्यौतिषरत्नं करूरु शेषाचार्याः</author>
+					<author type="" sal="ज्यौतिषरत्नं">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2981,10 +2981,10 @@
 				<feature></feature>
 				<page>0003-0008</page>
 				<allauthors>
-					<author type="" sal="">ज्यौतिषरत्नं करूरु शेषाचार्याः</author>
-					<author type="" sal="">विद्वांसः पि. आर्. शिवसुब्रह्मण्यशास्त्रिणः</author>
-					<author type="" sal="">काव्यकलानिधयः चिदम्बरशास्त्रिणः</author>
-					<author type="" sal="">टि. कृष्णमाचार्यः</author>
+					<author type="" sal="ज्यौतिषरत्नं">करूरु शेषाचार्यः</author>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
+					<author type="" sal="काव्यकलानिधयः">चिदम्बरशास्त्रिणः</author>
+					<author type="" sal="">कृष्णमाचार्यः, टि.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2992,7 +2992,7 @@
 				<feature></feature>
 				<page>0008aa-0008ag</page>
 				<allauthors>
-					<author type="" sal="">तिरुमले सत्यागालं श्रीनिवासदेशिकाचार्याः</author>
+					<author type="" sal="">तिरुमले सत्यागालं श्रीनिवासदेशिकाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3000,7 +3000,7 @@
 				<feature></feature>
 				<page>0008ah-0008ah</page>
 				<allauthors>
-					<author type="" sal="">काव्यकलानिधयः चिदम्बरशास्त्रिणः</author>
+					<author type="" sal="काव्यकलानिधयः">चिदम्बरशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3008,7 +3008,7 @@
 				<feature></feature>
 				<page>0008ai-0008ap</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः आत्मकूरु दीक्षाचार्याः</author>
+					<author type="" sal="विद्वांसः">आत्मकूरु दीक्षाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3016,7 +3016,7 @@
 				<feature></feature>
 				<page>0008aq-0008bg</page>
 				<allauthors>
-					<author type="" sal="">तिरुमले सत्यागालं श्रीनिवासदेशिकाचार्याः</author>
+					<author type="" sal="">तिरुमले सत्यागालं श्रीनिवासदेशिकाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3024,7 +3024,7 @@
 				<feature></feature>
 				<page>0008bh-0008bo</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः काशी प्राणेशाचार्याः</author>
+					<author type="" sal="विद्वांसः">काशी प्राणेशाचार्यः</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -3036,7 +3036,7 @@
 				<feature></feature>
 				<page>0001-0002</page>
 				<allauthors>
-					<author type="" sal="">प्रो. सि. आर्. नरसिंहशास्त्रिणः एं. ए.</author>
+					<author type="" sal="प्रो">नरसिंहशास्त्रिणः, सि. आर्., एं.ए.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3044,7 +3044,7 @@
 				<feature></feature>
 				<page>0003-0004</page>
 				<allauthors>
-					<author type="" sal="">ज्यौतिषरत्नं ब्र।। श्री।। करूरु शेषाचार्याः</author>
+					<author type="" sal="ज्यौतिषरत्नं">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3052,7 +3052,7 @@
 				<feature></feature>
 				<page>0005-0007</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री ति. सत्यागालं श्रीनिवासदेशिकाचार्याः</author>
+					<author type="" sal="ब्र।। श्री">तिरुमले सत्यागालं श्रीनिवासदेशिकाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3060,7 +3060,7 @@
 				<feature></feature>
 				<page>0008-0009</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः वि. आर्. शिवसुब्रह्मण्यशास्त्रिणः</author>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, वि. आर्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3068,8 +3068,8 @@
 				<feature></feature>
 				<page>0010-0011</page>
 				<allauthors>
-					<author type="" sal="">ब्र।।श्री।। विद्वांसः पि. आर्. शिवसुब्रह्मण्यशास्त्रिणः</author>
-					<author type="" sal="">ब्र।।श्री।। काव्यकलानिधयः चिदम्बरशास्त्रिणः</author>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
+					<author type="" sal="काव्यकलानिधयः">चिदम्बरशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3083,7 +3083,7 @@
 				<feature></feature>
 				<page>0049-0064</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। तिरुमले सत्यागालं श्रीनिवासदेशिकाचार्याः</author>
+					<author type="" sal="">तिरुमले सत्यागालं श्रीनिवासदेशिकाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3091,7 +3091,7 @@
 				<feature></feature>
 				<page>0064aa-0064af</page>
 				<allauthors>
-					<author type="" sal="">महाविद्वांसः ब्र।। श्री।। कुक्के सुब्रह्मण्यशास्त्रिणः</author>
+					<author type="" sal="महाविद्वांसः">कुक्के सुब्रह्मण्यशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3099,7 +3099,7 @@
 				<feature></feature>
 				<page>0064ag-0064al</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः ब्र।। श्री।। एस्. वेंकटाचार्याः</author>
+					<author type="" sal="विद्वांसः">वेंकटाचार्यः, एस्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3107,7 +3107,7 @@
 				<feature></feature>
 				<page>0064am-0064ba</page>
 				<allauthors>
-					<author type="" sal="">श्रीकृष्णब्रह्मतन्त्रपरकालसंयमीन्द्रानुगृहीता</author>
+					<author type="" sal="">श्रीकृष्णब्रह्मतन्त्रपरकालसंयमीन्द्राः</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -3117,7 +3117,7 @@
 				<feature></feature>
 				<page>0001-0008</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः ब्र।। श्री।। पि. एस्. वेङ्कटाचालशास्त्रिणः</author>
+					<author type="" sal="विद्वांसः">वेङ्कटाचालशास्त्रिणः, पि. एस्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3125,7 +3125,7 @@
 				<feature></feature>
 				<page>0015-0022</page>
 				<allauthors>
-					<author type="" sal="">ज्यौतिषरत्नं ब्र।। श्री।। करूरु शेषाचार्यैश्शोधितः</author>
+					<author type="2" sal="ज्यौतिषरत्नं">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3133,7 +3133,7 @@
 				<feature></feature>
 				<page>0065-0080</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। पण्डित ति. स. श्रीनिवासदेशिकाचार्याः</author>
+					<author type="" sal="पण्डित">श्रीनिवासदेशिकाचार्यः, ति. स.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3141,7 +3141,7 @@
 				<feature></feature>
 				<page>0080a-0080h</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः ब्र।। श्री।। पि. आर्. शिवसुब्रह्मण्यशास्त्रिणः</author>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3149,7 +3149,7 @@
 				<feature></feature>
 				<page>0080i-0080p</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः ब्र।। श्री।। यं. एन्. वेङ्कटेशशास्त्रिणः</author>
+					<author type="" sal="विद्वांसः">वेङ्कटेशशास्त्रिणः, यं. एन्.</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -3159,7 +3159,7 @@
 				<feature></feature>
 				<page>0001-0004</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। पण्डित ति. स. श्रीनिवासदेशिकाचार्याः</author>
+					<author type="" sal="पण्डित">श्रीनिवासदेशिकाचार्यः, ति. स.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3167,7 +3167,7 @@
 				<feature></feature>
 				<page>0005-0007</page>
 				<allauthors>
-					<author type="" sal="">ज्यौतिषरत्नं ब्र।। श्री।। करूरु शेषाचार्याः</author>
+					<author type="" sal="ज्यौतिषरत्नं">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3175,7 +3175,7 @@
 				<feature></feature>
 				<page>0007a-0007c</page>
 				<allauthors>
-					<author type="" sal="">ज्यौतिषरत्नं ब्र।। श्री।। करूरु शेषाचार्याः</author>
+					<author type="" sal="ज्यौतिषरत्नं">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3183,7 +3183,7 @@
 				<feature></feature>
 				<page>0009-0024</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः ब्र। श्री।। यं. एस्. वेङ्कटेशशास्त्रिणः</author>
+					<author type="" sal="विद्वांसः">वेङ्कटेशशास्त्रिणः, यं. एस्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3191,7 +3191,7 @@
 				<feature></feature>
 				<page>0081-0104</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। पण्डित ति. स. श्रीनिवासदेशिकाचार्याः</author>
+					<author type="" sal="पण्डित">श्रीनिवासदेशिकाचार्यः, ति. स.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3199,7 +3199,7 @@
 				<feature></feature>
 				<page>0104aa-0104ap</page>
 				<allauthors>
-					<author type="" sal="">विद्वांसः ब्र।। श्री।। `जग्गु' आल्वारय्यङ्गार्याः</author>
+					<author type="" sal="विद्वांसः">जग्गु आल्वारय्यङ्गार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3207,7 +3207,7 @@
 				<feature></feature>
 				<page>0104aq-0104ay</page>
 				<allauthors>
-					<author type="" sal="">ज्यौतिषरत्नं ब्र।। श्री।। करूरु शेषाचार्यैश्शोधितः</author>
+					<author type="2" sal="ज्यौतिषरत्नं">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3215,7 +3215,7 @@
 				<feature></feature>
 				<page>0104az-0104bd</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। विद्वांसः पि. आर्. शिवसुब्रह्मण्यशास्त्रिणः</author>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3223,7 +3223,7 @@
 				<feature></feature>
 				<page>0104be-0104bi</page>
 				<allauthors>
-					<author type="" sal="">साहित्यरत्न ब्र।। श्री।। के. गोपालकृष्णशास्त्रिणः</author>
+					<author type="" sal="साहित्यरत्न">गोपालकृष्णशास्त्रिणः, के.</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -3253,7 +3253,7 @@
 				<feature></feature>
 				<page>0015-0022</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। विद्वांसः रा. नारायणस्वामिदीक्षिताः</author>
+					<author type="" sal="विद्वांसः">नारायणस्वामिदीक्षितः, रा.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3261,7 +3261,7 @@
 				<feature></feature>
 				<page>0077-0084</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। विद्वांसः जग्गु आळ्वारय्यङ्गार्याः</author>
+					<author type="" sal="विद्वांसः">जग्गु आळ्वारय्यङ्गार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3269,7 +3269,7 @@
 				<feature></feature>
 				<page>0084aa-0084ah</page>
 				<allauthors>
-					<author type="" sal="">ज्यौतिषरत्नं धर्माधिकारि ब्र।। श्री।। करूरु शेषाचार्यैस्संशोधितः</author>
+					<author type="2" sal="ज्यौतिषरत्नं">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3277,7 +3277,7 @@
 				<feature></feature>
 				<page>0084ai-0084aw</page>
 				<allauthors>
-					<author type="" sal="">आस्थानविद्वांसः ब्र।। श्री।। ति. स. श्रीनिवासदेशिकाचार्याः</author>
+					<author type="" sal="आस्थानविद्वांसः">श्रीनिवासदेशिकाचार्यः, ति. स.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3301,7 +3301,7 @@
 				<feature></feature>
 				<page>000i-000j</page>
 				<allauthors>
-					<author type="" sal="">प्रो।। सि. आर्. नरसिंहशास्त्रिणः, एं.ए.</author>
+					<author type="" sal="प्रो">नरसिंहशास्त्रिणः, सि. आर्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3309,7 +3309,7 @@
 				<feature></feature>
 				<page>0001-0004</page>
 				<allauthors>
-					<author type="" sal="">आस्थानविद्वांसः ब्र।। श्री।। ति. स. श्रीनिवासदेशिकाचार्याः</author>
+					<author type="" sal="आस्थानविद्वांसः">श्रीनिवासदेशिकाचार्यः, ति. स.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3317,7 +3317,7 @@
 				<feature></feature>
 				<page>0004a-0004b</page>
 				<allauthors>
-					<author type="" sal="">ज्यौतिषरत्नं, धर्माधिकारिणः ब्र।। श्री।। करूरु शेषाचार्याः</author>
+					<author type="" sal="ज्यौतिषरत्नं, धर्माधिकारिणः">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3325,7 +3325,7 @@
 				<feature></feature>
 				<page>0031-0038</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। विद्वांसः रा. नारायणस्वामिदीक्षिताः</author>
+					<author type="" sal="विद्वांसः">नारायणस्वामिदीक्षिताः, रा.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3333,7 +3333,7 @@
 				<feature></feature>
 				<page>0038aa-0038al</page>
 				<allauthors>
-					<author type="" sal="">ज्यौतिषरत्नं, धर्माधिकारि ब्र।। श्री।। करूरु शेषाचार्यैस्संशोधितः</author>
+					<author type="2" sal="ज्यौतिषरत्नं, धर्माधिकारि">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3347,7 +3347,7 @@
 				<feature></feature>
 				<page>0038au-0038bc</page>
 				<allauthors>
-					<author type="" sal="">ज्यौतिषरत्नं, धर्माधिकारि ब्र।। श्री।। करूरु शेषाचार्यैस्संशोधितः</author>
+					<author type="2" sal="ज्यौतिषरत्नं, धर्माधिकारि">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3361,7 +3361,7 @@
 				<feature></feature>
 				<page>0038bd-0038bk</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। विद्वांसः जग्गु आळ्वारय्यङ्गार्याः</author>
+					<author type="" sal="विद्वांसः">जग्गु आळ्वारय्यङ्गार्यः</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -3371,7 +3371,7 @@
 				<feature></feature>
 				<page>0001-0002</page>
 				<allauthors>
-					<author type="" sal="">प्रो।। सि।। आर्. नरसिंहशास्त्रिणः, एं.ए.</author>
+					<author type="" sal="प्रो">नरसिंहशास्त्रिणः, सि.आर्., एं.ए.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3379,7 +3379,7 @@
 				<feature></feature>
 				<page>0002a-0073</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। धर्माधिकारिभिः ज्यौतिषरत्नैः करूरु शेषाचार्यैश्शोधितः</author>
+					<author type="2" sal="ज्यौतिषरत्नं, धर्माधिकारि">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3387,7 +3387,7 @@
 				<feature></feature>
 				<page>0093-0100</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। विद्वांसः जग्गु आळ्वारय्यङ्गार्याः</author>
+					<author type="" sal="विद्वांसः">जग्गु आळ्वारय्यङ्गार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3395,7 +3395,7 @@
 				<feature></feature>
 				<page>0100a-0100h</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। विद्वांसः रा. नारायणस्वामिदीक्षिताः</author>
+					<author type="" sal="विद्वांसः">नारायणस्वामिदीक्षिताः, रा.</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -3405,7 +3405,7 @@
 				<feature></feature>
 				<page>0001-0003</page>
 				<allauthors>
-					<author type="" sal="">प्रो।। सि. आर्. नरसिंहशास्त्रिणः, एं.ए.</author>
+					<author type="" sal="प्रो">नरसिंहशास्त्रिणः, सि. आर्., एं.ए.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3413,7 +3413,7 @@
 				<feature></feature>
 				<page>0100-0100</page>
 				<allauthors>
-					<author type="" sal="">शतावधानिनः ब्र।। श्री।। चिदम्बरशास्त्रिणः</author>
+					<author type="" sal="शतावधानिनः">चिदम्बरशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3421,7 +3421,7 @@
 				<feature></feature>
 				<page>0101-0116</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। विद्वांसः जग्गु आळ्वारय्यङ्गार्याः</author>
+					<author type="" sal="विद्वांसः">जग्गु आळ्वारय्यङ्गार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3429,7 +3429,7 @@
 				<feature></feature>
 				<page>0117aa-0117ap</page>
 				<allauthors>
-					<author type="" sal="">ज्यौतिषरत्नं, धर्माधिकारि ब्र।। श्री।। करूरु शेषाचार्यैस्संशोधितः</author>
+					<author type="2" sal="ज्यौतिषरत्नं, धर्माधिकारि">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3437,7 +3437,7 @@
 				<feature></feature>
 				<page>0117aq-0117bg</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। विद्वांसः रा. नारायणस्वामिदीक्षिताः</author>
+					<author type="" sal="विद्वांसः">नारायणस्वामिदीक्षिताः, रा.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3445,7 +3445,7 @@
 				<feature></feature>
 				<page>0117bh-0117bx</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। विद्वांसः एस्. वेङ्कटाचार्याः</author>
+					<author type="" sal="विद्वांसः">वेङ्कटाचार्यः, विद्वांसः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3475,7 +3475,7 @@
 				<feature></feature>
 				<page>0001-0003</page>
 				<allauthors>
-					<author type="" sal="">प्रो।। सि. आर्. नरसिंहशास्त्रिणः, एं.ए.</author>
+					<author type="" sal="प्रो">नरसिंहशास्त्रिणः, सि. आर्., एं.ए.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3483,7 +3483,7 @@
 				<feature></feature>
 				<page>0004-0004</page>
 				<allauthors>
-					<author type="" sal="">ज्यौतिषरत्नं, धर्माधिकारि ब्र।। श्री।। करूरु शेषाचार्याः</author>
+					<author type="" sal="ज्यौतिषरत्नं, धर्माधिकारि">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3491,7 +3491,7 @@
 				<feature></feature>
 				<page>0117-0132</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। विद्वांसः जग्गु आळ्वारय्यङ्गार्याः</author>
+					<author type="" sal="विद्वांसः">जग्गु आळ्वारय्यङ्गार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3499,7 +3499,7 @@
 				<feature></feature>
 				<page>0132aa-0132ap</page>
 				<allauthors>
-					<author type="" sal="">ज्यौतिषरत्नं, धर्माधिकारि ब्र। श्री।। करूरु शेषाचार्यैस्संशोधितः</author>
+					<author type="2" sal="ज्यौतिषरत्नं, धर्माधिकारि">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3507,7 +3507,7 @@
 				<feature></feature>
 				<page>0132aq-0132bg</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। विद्वांसः रा. नारायणस्वामिदीक्षिताः</author>
+					<author type="" sal="विद्वांसः">नारायणस्वामिदीक्षिताः, रा.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3521,7 +3521,7 @@
 				<feature></feature>
 				<page>0132bp-0132bx</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। विद्वांसः एस्. वेङ्कटाचार्याः</author>
+					<author type="" sal="विद्वांसः">वेङ्कटाचार्यः, एस्.</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -3531,7 +3531,7 @@
 				<feature></feature>
 				<page>000k-000l</page>
 				<allauthors>
-					<author type="" sal="">प्रो।। सि. आर्. नरसिंहशास्त्रिणः, एं. ए.</author>
+					<author type="" sal="प्रो">नरसिंहशास्त्रिणः, सि. आर्., एं.ए.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3545,7 +3545,7 @@
 				<feature></feature>
 				<page>0001-0006</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। आस्थानविद्वांसः ति. स. श्रीनिवासदेशिकाचार्याः</author>
+					<author type="" sal="आस्थानविद्वांसः">श्रीनिवासदेशिकाचार्यः, ति. स.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3553,7 +3553,7 @@
 				<feature></feature>
 				<page>0006a-0006f</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। आस्थानविद्वांसः ति. स. श्रीनिवासदेशिकाचार्याः</author>
+					<author type="" sal="आस्थानविद्वांसः">श्रीनिवासदेशिकाचार्यः, ति. स.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3561,7 +3561,7 @@
 				<feature></feature>
 				<page>0006g-0006h</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। आस्थानविद्वांसः ति. स. श्रीनिवासदेशिकाचार्याः</author>
+					<author type="" sal="आस्थानविद्वांसः">श्रीनिवासदेशिकाचार्यः, ति. स.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3569,7 +3569,7 @@
 				<feature></feature>
 				<page>0006i-0006p</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। वि. कृष्णस्वाम्यय्यङ्गार्याः</author>
+					<author type="" sal="ब्र।। श्री।।">कृष्णस्वाम्यय्यङ्गार्यः, वि.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3577,7 +3577,7 @@
 				<feature></feature>
 				<page>0081-0089</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। विद्वांसः रा. नारायणस्वामिदीक्षिताः</author>
+					<author type="" sal="विद्वांसः">नारायणस्वामिदीक्षिताः, रा.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3585,7 +3585,7 @@
 				<feature></feature>
 				<page>0090-0090</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। महाविद्वांसः शतावधानि चिदम्बरशास्त्रिणः</author>
+					<author type="" sal="महाविद्वांसः शतावधानि">चिदम्बरशास्त्रिणः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3593,7 +3593,7 @@
 				<feature></feature>
 				<page>0090aa-0090ac</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। विद्वांसः एस्. वेङ्कटाचार्याः</author>
+					<author type="" sal="विद्वांसः">वेङ्कटाचार्यः, एस्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3601,7 +3601,7 @@
 				<feature></feature>
 				<page>0090ad-0090ad</page>
 				<allauthors>
-					<author type="" sal="">ज्यौतिषरत्नं, धर्माधिकारी ब्र।। श्री।। करूरु शेषाचार्याः</author>
+					<author type="" sal="ज्यौतिषरत्नं धर्माधिकारी">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3609,7 +3609,7 @@
 				<feature></feature>
 				<page>0090ae-0090al</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। विद्वद्भिः चक्रवर्तितिरुमलाचार्यैः शोधितः</author>
+					<author type="2" sal="विद्वद्भिः">चक्रवर्तितिरुमलाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3623,7 +3623,7 @@
 				<feature></feature>
 				<page>0090au-0090bc</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। विद्वांसः जग्गु आळ्वारय्यङ्गार्याः</author>
+					<author type="" sal="विद्वांसः">जग्गु आळ्वारय्यङ्गार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3641,7 +3641,7 @@
 				<feature></feature>
 				<page>000i-000j</page>
 				<allauthors>
-					<author type="" sal="">प्रो।। सि. आर्. नरसिंहशास्त्रिणः, एं.ए.</author>
+					<author type="" sal="प्रो">नरसिंहशास्त्रिणः, सि. आर्., एं.ए.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3655,7 +3655,7 @@
 				<feature></feature>
 				<page>0001-0008</page>
 				<allauthors>
-					<author type="" sal="">साहित्यरत्नं ब्र।। श्री।। जग्गु वेङ्कटाचार्याः</author>
+					<author type="" sal="साहित्यरत्नं">जग्गु वेङ्कटाचार्याः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3663,7 +3663,7 @@
 				<feature></feature>
 				<page>0009-0016</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। विद्वद्भिः चक्रवर्ति तिरुमलाचार्यैः शोधितम्</author>
+					<author type="2" sal="विद्वद्भिः">चक्रवर्ति तिरुमलाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3671,7 +3671,7 @@
 				<feature></feature>
 				<page>0141-0156</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। विद्वांसः जग्गु आळ्वारय्यङ्गार्याः</author>
+					<author type="" sal="विद्वांसः">जग्गु आळ्वारय्यङ्गार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3679,7 +3679,7 @@
 				<feature></feature>
 				<page>0156aa-0156ap</page>
 				<allauthors>
-					<author type="" sal="">ज्यौतिषरत्नं, धर्माधिकारि ब्र।। श्री।। करूरु शेषाचार्यैस्संशोधितः</author>
+					<author type="2" sal="ज्यौतिषरत्नं, धर्माधिकारि">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3687,7 +3687,7 @@
 				<feature></feature>
 				<page>0156aq-0156ay</page>
 				<allauthors>
-					<author type="" sal="">श्री वेङ्कटतातदेशिकाचार्यविरचितम्</author>
+					<author type="" sal="श्री">वेङ्कटतातदेशिकाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3695,7 +3695,7 @@
 				<feature></feature>
 				<page>0156az-0156bg</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। वि. कृष्णस्वाम्यय्यङ्गार्याः</author>
+					<author type="" sal="ब्र।। श्री।।">कृष्णस्वाम्यय्यङ्गार्यः, वि.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3713,7 +3713,7 @@
 				<feature></feature>
 				<page>0001-0002</page>
 				<allauthors>
-					<author type="" sal="">प्रो।। सि।। आर्. नरसिंहशास्त्रिणः, एं.ए.</author>
+					<author type="" sal="प्रो">नरसिंहशास्त्रिणः, सि।। आर्., एं.ए.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3721,7 +3721,7 @@
 				<feature></feature>
 				<page>0002a-0008</page>
 				<allauthors>
-					<author type="" sal="">ज्यौतिषरत्नं, धर्माधिकारिणः ब्र।। श्री।। करूरु शेषाचार्याः</author>
+					<author type="" sal="ज्यौतिषरत्नं, धर्माधिकारिणः">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3729,7 +3729,7 @@
 				<feature></feature>
 				<page>0025-0040</page>
 				<allauthors>
-					<author type="" sal="">ब्र। श्री।। महाविद्वद्भिः चक्रवर्ति तिरुमलाचार्यैः शोधितम्</author>
+					<author type="" sal="महाविद्वद्भिः">चक्रवर्ति तिरुमलाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3737,7 +3737,7 @@
 				<feature></feature>
 				<page>००८५-०१००</page>
 				<allauthors>
-					<author type="" sal="">ज्यौतिषरत्नं, धर्माधिकारि ब्र।। श्री।। करूरु शेषाचार्यैस्संशोधितः</author>
+					<author type="2" sal="ज्यौतिषरत्नं, धर्माधिकारि">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3745,7 +3745,7 @@
 				<feature></feature>
 				<page>0040aa-0040an</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। वि. कृष्णस्वाम्यय्यङ्गार्याः</author>
+					<author type="" sal="ब्र।। श्री।।">कृष्णस्वाम्यय्यङ्गार्यः, वि.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3753,7 +3753,7 @@
 				<feature></feature>
 				<page>0040ao-0040ar</page>
 				<allauthors>
-					<author type="" sal="">साहित्यरत्नं ब्र।। श्री।। जग्गू वेङ्कटाचार्याः</author>
+					<author type="" sal="साहित्यरत्नं">जग्गू वेङ्कटाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3767,7 +3767,7 @@
 				<feature></feature>
 				<page>0040bd-0040bs</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। विद्वांसः केशवशिवघनपाठिनः</author>
+					<author type="" sal="विद्वांसः">केशवशिवघनपाठिनः</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -3777,7 +3777,7 @@
 				<feature></feature>
 				<page>0001-0002</page>
 				<allauthors>
-					<author type="" sal="">प्रो।। सि. आर्. नरसिंहशास्त्रिणः, एं.एं.</author>
+					<author type="" sal="प्रो">नरसिंहशास्त्रिणः, सि. आर्., एं.एं.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3785,7 +3785,7 @@
 				<feature></feature>
 				<page>0015-0030</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। विद्वांसः केशवशिवघनपाठिनः</author>
+					<author type="" sal="विद्वांसः">केशवशिवघनपाठिनः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3799,7 +3799,7 @@
 				<feature></feature>
 				<page>0104a-0104f</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। महाविद्वद्भिः चक्रवर्ति तिरुमलाचार्यैः शोधितम्</author>
+					<author type="2" sal="महाविद्वद्भिः"> चक्रवर्ति तिरुमलाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3807,7 +3807,7 @@
 				<feature></feature>
 				<page>0104g-0104n</page>
 				<allauthors>
-					<author type="" sal="">ज्यौतिषरत्नं, धर्माधिकारि ब्र।। श्री।। करूरु शेषाचार्याः</author>
+					<author type="" sal="ज्यौतिषरत्नं, धर्माधिकारि">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -3819,7 +3819,7 @@
 				<feature></feature>
 				<page>000k-000l</page>
 				<allauthors>
-					<author type="" sal="">प्रो।। सि।। आर्. नरसिंहशास्त्रिणः एं.ए.</author>
+					<author type="" sal="प्रो">नरसिंहशास्त्रिणः, सि।। आर्., एं.ए.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3827,7 +3827,7 @@
 				<feature></feature>
 				<page>000m-000n</page>
 				<allauthors>
-					<author type="" sal="">श्री।। के. एस्. भास्करभट्टः, पाठशाला विद्यार्थी</author>
+					<author type="" sal="पाठशाला विद्यार्थी ">भास्करभट्टः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3835,7 +3835,7 @@
 				<feature></feature>
 				<page>0001-0004</page>
 				<allauthors>
-					<author type="" sal="">श्री।। राजा सोमशेखरदीक्षिताः</author>
+					<author type="" sal="श्री">राजा सोमशेखरदीक्षितः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3843,7 +3843,7 @@
 				<feature></feature>
 				<page>0031-0046</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। विद्वांसः केशवशिवघनपाठिनः</author>
+					<author type="" sal="विद्वांसः">केशवशिवघनपाठिनः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3851,7 +3851,7 @@
 				<feature></feature>
 				<page>0046aa-0046ai</page>
 				<allauthors>
-					<author type="" sal="">ज्यौतिषरत्नं, धर्माधिकारि ब्र।। श्री।। करूरु शेषाचार्याः</author>
+					<author type="" sal="ज्यौतिषरत्नं, धर्माधिकारि">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3859,7 +3859,7 @@
 				<feature></feature>
 				<page>0046aj-0046al</page>
 				<allauthors>
-					<author type="" sal="">ज्यौतिषरत्नं, धर्माधिकारि ब्र।। श्री।। करूरु शेषाचार्याः</author>
+					<author type="" sal="ज्यौतिषरत्नं, धर्माधिकारि">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3873,7 +3873,7 @@
 				<feature></feature>
 				<page>0046ao-0046be</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। विद्वांसः जग्गु आल्वरय्यङ्गार्याः</author>
+					<author type="" sal="विद्वांसः">जग्गु आल्वरय्यङ्गार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3887,7 +3887,7 @@
 				<feature></feature>
 				<page>0046bp-0046bs</page>
 				<allauthors>
-					<author type="" sal="">श्री।। ए. वि. गोपालाचार्याः, एं. ए., बि. एल्.</author>
+					<author type="" sal="श्री">गोपालाचार्याः, ए. वि., एं. ए., बि. एल्.</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -3897,7 +3897,7 @@
 				<feature></feature>
 				<page>0001-0002</page>
 				<allauthors>
-					<author type="" sal="">प्रो।। सि. आर्. नरसिंहशास्त्री, एं. ए.</author>
+					<author type="" sal="प्रो">नरसिंहशास्त्री, सि. आर्., एं.ए.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3911,7 +3911,7 @@
 				<feature></feature>
 				<page>0121aa-0121ag</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। विद्वान् जग्गु आळ्वारय्यङ्गार्यः</author>
+					<author type="" sal="विद्वान्">जग्गु आळ्वारय्यङ्गार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3919,7 +3919,7 @@
 				<feature></feature>
 				<page>0121ai-0121ay</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। विद्वान् केशवशिवघनपाठी</author>
+					<author type="" sal="विद्वान्">केशवशिवघनपाठी</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3927,7 +3927,7 @@
 				<feature></feature>
 				<page>0121az-0121bk</page>
 				<allauthors>
-					<author type="" sal="">ज्यौतिषरत्नं, धर्माधिकारी ब्र।। श्री।। करूरु शेषाचार्यः</author>
+					<author type="" sal="ज्यौतिषरत्नं धर्माधिकारी">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3935,7 +3935,7 @@
 				<feature></feature>
 				<page>0121bp-0121cf</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। विद्वान् एन्. नरसिंहाचार्यः</author>
+					<author type="" sal="विद्वान्">नरसिंहाचार्यः, एन्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3943,7 +3943,7 @@
 				<feature></feature>
 				<page>0121cg-0121cn</page>
 				<allauthors>
-					<author type="" sal="">श्री।। ए. वि. गोपालाचार्यः, एं. ए., बि.एल्.</author>
+					<author type="" sal="श्री">गोपालाचार्यः, ए. वि., एं.ए., बि.एल्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3961,7 +3961,7 @@
 				<feature></feature>
 				<page>000i-000j</page>
 				<allauthors>
-					<author type="" sal="">प्रो।। सि. आर्. नरसिंहशास्त्री, एं.ए.</author>
+					<author type="" sal="प्रो">नरसिंहशास्त्री, सि. आर्., एं.ए.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3969,7 +3969,7 @@
 				<feature></feature>
 				<page>000k-000k</page>
 				<allauthors>
-					<author type="" sal="">ज्यौतिषरत्नं धर्माधिकारी ब्र. श्री करूरु शेषाचार्यः</author>
+					<author type="" sal="ज्यौतिषरत्नं धर्माधिकारी">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3977,7 +3977,7 @@
 				<feature></feature>
 				<page>000m-000n</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। साहित्यरत्नं महाविद्वान् जग्गु वेङ्कटाचार्याः</author>
+					<author type="" sal="साहित्यरत्नं महाविद्वान्">जग्गु वेङ्कटाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3985,7 +3985,7 @@
 				<feature></feature>
 				<page>0001-0005</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। साहित्यरत्नं महाविद्वान् जग्गु वेङ्कटाचार्याः</author>
+					<author type="" sal="साहित्यरत्नं महाविद्वान्">जग्गु वेङ्कटाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3993,7 +3993,7 @@
 				<feature></feature>
 				<page>0005b-0005h</page>
 				<allauthors>
-					<author type="" sal="">श्री।। के. एस्. भास्करभट्टः, महापाठशाला विद्यार्थी</author>
+					<author type="" sal="महापाठशाला विद्यार्थी">भास्करभट्टः, के. एस्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4001,7 +4001,7 @@
 				<feature></feature>
 				<page>0013-0020</page>
 				<allauthors>
-					<author type="" sal="">श्री।। ए. वि . गोपालाचार्यः, एं. ए., बि.एल्.</author>
+					<author type="" sal="श्री">गोपालाचार्यः, ए. वि ., एं.ए., बि.एल्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4009,7 +4009,7 @@
 				<feature></feature>
 				<page>0020a-0020h</page>
 				<allauthors>
-					<author type="" sal="">ज्यौतिषरत्नं धर्माधिकारी ब्र. श्री. करूरु शेषाचार्यः</author>
+					<author type="" sal="ज्यौतिषरत्नं धर्माधिकारी">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4017,7 +4017,7 @@
 				<feature></feature>
 				<page>0065-0076</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। विद्वान् केशवशिवघनपाठी</author>
+					<author type="" sal="विद्वान्">केशवशिवघनपाठी</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4025,7 +4025,7 @@
 				<feature></feature>
 				<page>0076aa-0076ae</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। विद्वान् जग्गु आळ्वारय्यङ्गार्यः</author>
+					<author type="" sal="विद्वान्">जग्गु आळ्वारय्यङ्गार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4033,7 +4033,7 @@
 				<feature></feature>
 				<page>0076ag-0076aj</page>
 				<allauthors>
-					<author type="" sal="">ज्यौतिषरत्नं, धर्माधिकारी ब्र।। श्री।। करूरु शेषाचार्यः</author>
+					<author type="" sal="ज्यौतिषरत्नं धर्माधिकारी">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4041,7 +4041,7 @@
 				<feature></feature>
 				<page>0076ak-0076ar</page>
 				<allauthors>
-					<author type="" sal="">श्रीकाञ्जीप्रतिवादिभयङ्कर ब्र।। श्री।। अण्णङ्गराचार्यः</author>
+					<author type="" sal="श्रीकाञ्जीप्रतिवादिभयङ्कर">अण्णङ्गराचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4049,7 +4049,7 @@
 				<feature></feature>
 				<page>0076as-0076bb</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। विद्वान् एन्. नरसिंहाचार्यः</author>
+					<author type="" sal="विद्वान्">नरसिंहाचार्यः, एन्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4065,7 +4065,7 @@
 				<feature></feature>
 				<page>000i-000j</page>
 				<allauthors>
-					<author type="" sal="">प्रो।। सि. आर्. नरसिंहशास्त्री, एं.ए.</author>
+					<author type="" sal="प्रो">नरसिंहशास्त्री, सि. आर्., एं.ए.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4073,7 +4073,7 @@
 				<feature></feature>
 				<page>0001-0010</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। बेङ्कटाचार्यः</author>
+					<author type="" sal="ब्र।। श्री।।">बेङ्कटाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4081,7 +4081,7 @@
 				<feature></feature>
 				<page>0010aa-0010ah</page>
 				<allauthors>
-					<author type="" sal="">पण्डितरत्नं ब्र।। श्री।। पि. आर्. शिवसुब्रह्मण्यशास्त्री</author>
+					<author type="" sal="पण्डितरत्नं">शिवसुब्रह्मण्यशास्त्री, पि. आर्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4089,7 +4089,7 @@
 				<feature></feature>
 				<page>0010ai-0010as</page>
 				<allauthors>
-					<author type="" sal="">ज्यौतिषरत्नं धर्माधिकारी ब्र. श्री. करूरु शेषाचार्यः</author>
+					<author type="" sal="ज्यौतिषरत्नं धर्माधिकारी">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4097,7 +4097,7 @@
 				<feature></feature>
 				<page>0010au-0010ax</page>
 				<allauthors>
-					<author type="" sal="">श्री।। ए. वि. गोपालाचार्यः, एं.ए., बि.एल्.</author>
+					<author type="" sal="श्री">गोपालाचार्यः, ए. वि., एं.ए., बि.एल्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4111,7 +4111,7 @@
 				<feature></feature>
 				<page>0010bh-0010ca</page>
 				<allauthors>
-					<author type="" sal="">श्रीकाञ्जीप्रतिवादिभयङ्कर ब्र।। श्री।। अण्णङ्गराचार्यः</author>
+					<author type="" sal="श्रीकाञ्जीप्रतिवादिभयङ्कर">अण्णङ्गराचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4135,7 +4135,7 @@
 				<feature></feature>
 				<page>0001-0002</page>
 				<allauthors>
-					<author type="" sal="">प्रो।। सि. आर्. नरसिंहशास्त्री, एं.ए.</author>
+					<author type="" sal="प्रो">नरसिंहशास्त्री, सि. आर्., एं.ए.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4143,7 +4143,7 @@
 				<feature></feature>
 				<page>0003-0004</page>
 				<allauthors>
-					<author type="" sal="">ज्यौतिषरत्नं धर्माधिकरी ब्र।। श्री।। करूरु शेषाचार्यः</author>
+					<author type="" sal="ज्यौतिषरत्नं धर्माधिकरी">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4151,7 +4151,7 @@
 				<feature></feature>
 				<page>0009-0024</page>
 				<allauthors>
-					<author type="" sal="">पण्डितरत्नं ब्र।। श्री।। पि. आर्. शिवसुब्रह्मण्यशास्त्री</author>
+					<author type="" sal="पण्डितरत्नं">शिवसुब्रह्मण्यशास्त्री, पि. आर्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4165,7 +4165,7 @@
 				<feature></feature>
 				<page>0144aa-0144aw</page>
 				<allauthors>
-					<author type="" sal="">ज्यौतिषरत्नं धर्माधिकारी ब्र।। श्री।। करूरु शेषाचार्यः</author>
+					<author type="" sal="ज्यौतिषरत्नं धर्माधिकारी">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4173,7 +4173,7 @@
 				<feature></feature>
 				<page>0144ax-0144bm</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। विद्वान् जग्गु आळ्वारैय्यंगार्यः</author>
+					<author type="" sal="विद्वान्">जग्गु आळ्वारैय्यंगार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4181,7 +4181,7 @@
 				<feature></feature>
 				<page>0144bn-0144bu</page>
 				<allauthors>
-					<author type="" sal="">सङ्ग्रहकारः-ब्र।। श्री।। विद्वान् कृष्णघनपाठी</author>
+					<author type="2" sal="विद्वान्">कृष्णघनपाठी</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4197,7 +4197,7 @@
 				<feature></feature>
 				<page>000i-000k</page>
 				<allauthors>
-					<author type="" sal="">प्रो।। सि. आर्. नरसिंहशास्त्री, एम्, ए.</author>
+					<author type="" sal="प्रो">नरसिंहशास्त्री, सि. आर्., एम्, ए.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4205,7 +4205,7 @@
 				<feature></feature>
 				<page>000l-000l</page>
 				<allauthors>
-					<author type="" sal="">ज्यौतिषरत्नं धर्माधिकारी ब्र।। श्री।। करूरु शेषाचार्यः</author>
+					<author type="" sal="ज्यौतिषरत्नं धर्माधिकारी ">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4213,7 +4213,7 @@
 				<feature></feature>
 				<page>0001-0010</page>
 				<allauthors>
-					<author type="" sal="">धर्माधिकारी, ज्यौतिषरत्नं ब्र।। श्री।। करूरु शेषाचार्यः</author>
+					<author type="" sal="ज्यौतिषरत्नं धर्माधिकारी ">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4229,7 +4229,7 @@
 				<feature></feature>
 				<page>0023-0025am</page>
 				<allauthors>
-					<author type="" sal="">ज्यौतिषरत्नं, धर्माधिकारी ब्र।। श्री।। करूरु शेषाचार्यः</author>
+					<author type="" sal="ज्यौतिषरत्नं धर्माधिकारी">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4237,7 +4237,7 @@
 				<feature></feature>
 				<page>0025an-0025az</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। विद्वान् जग्गु आळ्वारैय्यंगार्यः</author>
+					<author type="" sal="विद्वान्">जग्गु आळ्वारैय्यंगार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4251,7 +4251,7 @@
 				<feature></feature>
 				<page>0025bi-0025br</page>
 				<allauthors>
-					<author type="" sal="">पण्डितरत्नं ब्र।। श्री।। पि. आर्. शिवसुब्रह्मण्यशास्त्री</author>
+					<author type="" sal="पण्डितरत्नं">शिवसुब्रह्मण्यशास्त्री, पि. आर्.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4275,7 +4275,7 @@
 				<feature></feature>
 				<page>0001-0002</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। सि. रामचन्द्राचार्यः, मैसूरु</author>
+					<author type="" sal="ब्र।। श्री।। ">रामचन्द्राचार्यः, सि., मैसूरु</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4283,7 +4283,7 @@
 				<feature></feature>
 				<page>0023-0038</page>
 				<allauthors>
-					<author type="" sal="">सङ्ग्रहकारः-ब्र।। श्री।। विद्वान् कृष्णघनपाठी, मैसूरु</author>
+					<author type="2" sal="विद्वान्">कृष्णघनपाठी, मैसूरु</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4291,7 +4291,7 @@
 				<feature></feature>
 				<page>0038aa-0038ap</page>
 				<allauthors>
-					<author type="" sal="">ज्यौतिषरत्नं, धर्माधिकारी ब्र।। श्री।। करूरु शेषाचार्यः, मैसूरु</author>
+					<author type="" sal="ज्यौतिषरत्नं धर्माधिकारी">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4299,7 +4299,7 @@
 				<feature></feature>
 				<page>0038aq-0038ay</page>
 				<allauthors>
-					<author type="" sal="">महामहोपाध्यायः, मद्रप्रान्तास्थानकविः पण्डितराजः, कृष्णमूर्तिशास्त्री, मधुरा</author>
+					<author type="" sal="महामहोपाध्यायः, मद्रप्रान्तास्थानकविः पण्डितराजः">कृष्णमूर्तिशास्त्री, मधुरा</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4307,7 +4307,7 @@
 				<feature></feature>
 				<page>0038az-0038bc</page>
 				<allauthors>
-					<author type="" sal="">विद्वत्सज्जनकृपाभिलाषी, ज्योतिःसिद्धान्तकेसरी, वेंकटसुब्बाशास्त्री, कोळ्ळेगाल</author>
+					<author type="" sal="विद्वत्सज्जनकृपाभिलाषी ज्योतिःसिद्धान्तकेसरी">वेंकटसुब्बाशास्त्री, कोळ्ळेगाल</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4315,7 +4315,7 @@
 				<feature></feature>
 				<page>0038bd-0038cg</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। विद्वान् केशवशिवघनपाठी, बेङ्गळूरु</author>
+					<author type="" sal="विद्वान्">केशवशिवघनपाठी, बेङ्गळूरु</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4323,7 +4323,7 @@
 				<feature></feature>
 				<page>0038ci-0038db</page>
 				<allauthors>
-					<author type="" sal="">प्रबन्धा अ. वे. गोपालाचार्यः, तिरुचिनापल्ली</author>
+					<author type="" sal="प्रबन्धा">गोपालाचार्यः, अ. वे., तिरुचिनापल्ली</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4331,7 +4331,7 @@
 				<feature></feature>
 				<page>0038dd-0038dw</page>
 				<allauthors>
-					<author type="" sal="">पण्डितरत्नं ब्र।। श्री।। पि. आर्. शिवसुब्रह्मण्यशास्त्री, मैसूरु</author>
+					<author type="" sal="पण्डितरत्नं">शिवसुब्रह्मण्यशास्त्री, पि. आर्., मैसूरु</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4345,7 +4345,7 @@
 				<feature></feature>
 				<page>0038eo-0038ew</page>
 				<allauthors>
-					<author type="" sal="">ज्यौतिषरत्नं, धर्माधिकारी ब्र।। श्री।। करूरु शेषाचार्यः, मैसूरु</author>
+					<author type="" sal="ज्यौतिषरत्नं धर्माधिकारी">करूरु शेषाचार्यः</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4353,7 +4353,7 @@
 				<feature></feature>
 				<page>0038ex-0038fa</page>
 				<allauthors>
-					<author type="" sal="">ले. डा. शिवनाथशर्मा शास्त्री साहित्याचार्यः पुरातत्त्वविशारदः विद्यावारिधिः डी. ओ. सी. आदि. प्राध्यापकः गवर्न्मेण्ट् ओरियण्टल् कालेज्, श्रीनगर-काश्मीर</author>
+					<author type="" sal="पुरातत्त्वविशारदः विद्यावारिधिः">शिवनाथशर्मा शास्त्री, ले. डा., डी. ओ. सी.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4361,7 +4361,7 @@
 				<feature></feature>
 				<page>0038fb-0038fs</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। सरसकविराजः रामानुजाचार्यः, मद्रपुरी</author>
+					<author type="" sal="सरसकविराजः">रामानुजाचार्यः, मद्रपुरी</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4369,7 +4369,7 @@
 				<feature></feature>
 				<page>0038ft-0038hl</page>
 				<allauthors>
-					<author type="" sal="">ब्र।। श्री।। ति. स. श्रीनिवासदेशिकाचार्यः, मैसूरु</author>
+					<author type="" sal="ब्र।। श्री।।">श्रीनिवासदेशिकाचार्यः,  ति. स., मैसूरु</author>
 				</allauthors>
 			</entry>
 		</issue>
