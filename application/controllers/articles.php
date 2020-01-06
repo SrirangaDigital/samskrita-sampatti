@@ -146,7 +146,7 @@ class articles extends Controller {
 			$query = array_filter($query); unset($query['submit']);
 			$urlQuery['q'] = "text:" . $query['fullText_text'];
 			$filterString = $this->model->filterArrayToString($urlQuery);
-			$url = SOLR_URL . 'samskruthaSampathiText/select?' . $filterString;
+			$url = SOLR_URL . SEARCH_COLLECTION .'/select?' . $filterString;
 			$result = json_decode($this->model->getDataFromApi($url), true);
 			if($result['response']['numFound'] == 0) {
 				 $this->view('error/noResults');
@@ -155,7 +155,8 @@ class articles extends Controller {
 				$total_result = $result['response']['numFound'];
 				$urlQuery['rows'] = $total_result;
 				$filterString = $this->model->filterArrayToString($urlQuery);
-				$url = SOLR_URL . 'samskruthaSampathiText/select?' . $filterString;
+				$url = SOLR_URL . SEARCH_COLLECTION . '/select?' . $filterString;
+
 				$result = json_decode($this->model->getDataFromApi($url), true);
 				$booksAndPageNo = array();
 				for($i = 0;$i<$total_result;$i++) {
