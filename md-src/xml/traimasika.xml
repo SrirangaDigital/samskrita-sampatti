@@ -1,0 +1,4377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SKTEL SYSTEM "sahrudaya.dtd">
+
+<SSMP>
+	<volume vnum="002">
+		<issue inum="01" month="जनवरि" year="१९२६" info="">
+			<entry>
+				<title>पत्रिकाविषयः. (स्वविषयः)</title>
+				<feature></feature>
+				<page>0001-0007</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>वैदिकधर्मप्ररोचनम्</title>
+				<feature></feature>
+				<page>0008-0026</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">आत्मकूरु रङ्गाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>वेदभाषा-शेषांशः</title>
+				<feature></feature>
+				<page>0027-0034</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">शामाचार्यः, वि</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>महीशूरराज्याभिवृद्दिचम्पू</title>
+				<feature></feature>
+				<page>0035-0053</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">करपत्तूरु वेङ्कटरामशाश्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>क्रोधनसंवत्सर विद्वत्परीक्षा वृत्तान्तसंग्रहः</title>
+				<feature></feature>
+				<page>0054-0060</page>
+				<allauthors>
+					<author type="" sal="">महापाठशालाध्यक्षः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="02" month="एप्रिल्" year="१९२६" info="">
+			<entry>
+				<title>वेदतत्त्वम्</title>
+				<feature></feature>
+				<page>0061-0067</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>शाकुन्तलनाटकविमर्शः</title>
+				<feature></feature>
+				<page>0068-0077</page>
+				<allauthors>
+					<author type="" sal="">आजि रामानुजय्यंगार्याः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>संस्कृतभाषा</title>
+				<feature></feature>
+				<page>0078-0087</page>
+				<allauthors>
+					<author type="" sal="अनुभूतमहाराजसंस्कृतमहापाठशाला प्रिन्सिपल्नामकाधिकारः">मोक्षगुंडं लक्ष्मीपतय्य, बि.ए.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ज्यौतिश्शास्त्रस्य विदमूलत्वम्</title>
+				<feature></feature>
+				<page>0088-0099</page>
+				<allauthors>
+					<author type="" sal="ज्यौतिषरत्नं">तरहरिज्यौतिषिकाः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>महीशूरदेशाभ्युदयचम्पूप्रबन्धः</title>
+				<feature></feature>
+				<page>0100-0104</page>
+				<allauthors>
+					<author type="" sal="आस्थानमहाविद्वांसः समस्त्रनाम">सीतारामशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>विद्यार्थिपारितोषिकसभा</title>
+				<feature></feature>
+				<page>0105-0108</page>
+				<allauthors>
+					<author type="" sal="">महापाठशालाध्यक्षः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="03" month="जुलै" year="१९२६" info="">
+			<entry>
+				<title>प्रमाणपरीक्षा (क्यांट्नामक पाश्चात्य विद्वद्वरविरचित ग्रंथसारः)</title>
+				<feature></feature>
+				<page>0109-0119</page>
+				<allauthors>
+					<author type="" sal="डाक्टर् अर्थशास्त्रविशारद">शामशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ज्योतिश्शास्त्रस्य वेदमूलत्वम्</title>
+				<feature></feature>
+				<page>0120-0134</page>
+				<allauthors>
+					<author type="" sal="ज्यौतिषरत्नं">नरहरिज्यौतिषिकाः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>महिशूरदेसाभ्युदयचम्पूप्रबन्धः</title>
+				<feature></feature>
+				<page>0135-0152</page>
+				<allauthors>
+					<author type="" sal="आस्थानमहाविद्वांसः सहस्त्रनाम">सीतारामशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>पाठशालावृत्तान्तः</title>
+				<feature></feature>
+				<page>0153-0156</page>
+				<allauthors>
+					<author type="" sal="">महापाठशालाध्यक्षः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="04" month="अक्टोबर्" year="१९२६" info="">
+			<entry>
+				<title>लोकतत्त्वम्</title>
+				<feature></feature>
+				<page>0157-0167</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>भाषातत्त्वम्</title>
+				<feature></feature>
+				<page>0168-0192</page>
+				<allauthors>
+					<author type="" sal="डाक्टर् अर्थशास्त्रविशारद">शामाशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>दर्शनमीमांसा...</title>
+				<feature></feature>
+				<page>0193-0219</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>पाठशालानुबन्धिवृत्तान्तः</title>
+				<feature></feature>
+				<page>0220-0258</page>
+				<allauthors>
+					<author type="" sal="">पण्डिताः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>पञ्चाशत्सवत्संरमहोत्सवीयविज्ञप्तिः</title>
+				<feature></feature>
+				<page>0259-0268</page>
+				<allauthors>
+					<author type="" sal="">महापाठशालाध्यक्षः</author>
+				</allauthors>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="003">
+		<issue inum="01" month="जनवरि" year="१९२७" info="">
+			<entry>
+				<title>पत्रिकाविषयः, स्वविषयः</title>
+				<feature></feature>
+				<page>000e-000h</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>संस्कृतभाषा</title>
+				<feature></feature>
+				<page>0001-0005</page>
+				<allauthors>
+					<author type="" sal="प्राच्यकोशागारपण्डिताः">वेंकटनरसिंहशास्त्रिणः, जि.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>महिशूरदेशाभ्युदय चम्पूः</title>
+				<feature></feature>
+				<page>0006-0021</page>
+				<allauthors>
+					<author type="" sal="आस्थान महाविद्वांसः सहस्त्रनाम">सीताराम शास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>महापाठशाला वृत्तान्तः (श्रीमन्महाराज सुभाषितम्)</title>
+				<feature></feature>
+				<page>0022-0027</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ज्योतिश्शास्त्रावतरणम्</title>
+				<feature></feature>
+				<page>0028-0036</page>
+				<allauthors>
+					<author type="" sal="पाठशाला ज्योतिश्शास्त्र प्रधानोपाध्यायाः">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>विद्वत्परीक्षा वृत्तान्तपत्रिका</title>
+				<feature></feature>
+				<page>0037-0041</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>पञ्चाशत्संवत्सर महोत्सववृत्तान्तः</title>
+				<feature></feature>
+				<page>0042-0047</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="02" month="एप्रिल्" year="१९२७" info="">
+			<entry>
+				<title>श्रीकृष्णनृपोदयप्रबन्धः</title>
+				<feature></feature>
+				<page>0049-0066</page>
+				<allauthors>
+					<author type="" sal="">कुक्के सुब्रह्मण्यशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>वेदसमयविमर्शः</title>
+				<feature></feature>
+				<page>0067-0086</page>
+				<allauthors>
+					<author type="" sal="महापाठशाला साहित्य प्रधानोपाध्यायाः">गोपालकृष्णशास्त्रिणः, के.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>महापाठशालावृत्तान्तः</title>
+				<feature></feature>
+				<page>0087-0090</page>
+				<allauthors>
+					<author type="" sal="">पाठशालाध्यक्षाः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>पूर्वमीमांसाभाष्यभूषणम्</title>
+				<feature></feature>
+				<page>0091-0098</page>
+				<allauthors>
+					<author type="" sal="पण्डितरत्नं">लक्ष्मीपुरं श्रीनिवासाचार्यः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="03" month="जुलै" year="१९२७" info="">
+			<entry>
+				<title>कविकाव्यविचारः</title>
+				<feature></feature>
+				<page>0099-0111</page>
+				<allauthors>
+					<author type="" sal="सरलकविसूरिणः">चक्रवर्ति राजगोपालाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>व्यवहारतत्त्वम्</title>
+				<feature></feature>
+				<page>0112-0123</page>
+				<allauthors>
+					<author type="" sal="प्राच्यकोशागार पण्डिताः">नरसिंहाचार्याः, सो</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>महापाठशालावृत्तान्तः</title>
+				<feature></feature>
+				<page>0124-0126</page>
+				<allauthors>
+					<author type="" sal="">पाठशालाध्यक्षाः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>पूर्वमीमांसाभाष्यभूषणम्</title>
+				<feature></feature>
+				<page>0126aa-0126ax</page>
+				<allauthors>
+					<author type="" sal="महामहोपाध्यायाः पण्डितरत्नं">लक्ष्मीपुरं श्रीनिवासाचार्यः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="04" month="अक्टोबर्" year="१९२७" info="">
+			<entry>
+				<title>शरावती जोगजलपातवर्णनम्</title>
+				<feature></feature>
+				<page>0127-0136</page>
+				<allauthors>
+					<author type="" sal="">कुक्के सुब्रह्मण्यशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>रजतमहोत्सववृत्तान्तः</title>
+				<feature></feature>
+				<page>0137-0147</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>महापाठशालावृत्तान्तः</title>
+				<feature></feature>
+				<page>0148-0152</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>पूर्वमीमांसाभाष्यभूषणम्</title>
+				<feature></feature>
+				<page>0152aa-0152ax</page>
+				<allauthors>
+					<author type="" sal="महामहोपाध्यायाः पण्डितरत्नं">लक्ष्मीपुरं श्रीनिवासाचार्यः</author>
+				</allauthors>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="004">
+		<issue inum="01" month="जनवरि" year="१९२८" info="">
+			<entry>
+				<title>पत्रिकाविषयः</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कविकाव्यविचारः</title>
+				<feature></feature>
+				<page>0003-0016</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः सरलकविसूरिणः">चक्रवर्ति राजगोपालाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कालिदासोपज्ञरसज्ञता</title>
+				<feature></feature>
+				<page>0017-0024</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">कन्नंबाडि गोपालकृष्णशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>पूर्वमीमांसाभाष्यभूषणम्</title>
+				<feature></feature>
+				<page>0057-0080</page>
+				<allauthors>
+					<author type="" sal="महामहोपाध्यायाः पण्डितरत्नं">लक्ष्मीपुरं श्रीनिवासाचार्यः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="02" month="एप्रिल्" year="१९२८" info="">
+			<entry>
+				<title>विद्यार्थिपारितोषिकसभा वृत्तान्तः</title>
+				<feature></feature>
+				<page>0025-0038</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>कालदासोपज्ञरसज्ञता</title>
+				<feature></feature>
+				<page>0039-0046</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">कन्नंबाडि गोपालकृष्णशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>वर्णाश्रमधर्मः</title>
+				<feature></feature>
+				<page>0047-0062</page>
+				<allauthors>
+					<author type="" sal="विद्यारत्नाकराः">कोडवाशल् नरसिंहाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>महापाठशाला वृत्तान्तः</title>
+				<feature></feature>
+				<page>0063-0068</page>
+				<allauthors>
+					<author type="" sal="">शालाध्यक्षः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>पूर्वमीमांसाभाष्यभूषणम्</title>
+				<feature></feature>
+				<page>0081-0104</page>
+				<allauthors>
+					<author type="" sal="महामहोपाध्यायाः पण्डितरत्नं">लक्ष्मीपुरं श्रीनिवासाचार्यः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="03" month="जुलै" year="१९२८" info="">
+			<entry>
+				<title>श्रीकृष्णनृपोदयः</title>
+				<feature></feature>
+				<page>0069d-0079</page>
+				<allauthors>
+					<author type="" sal="शिवमोग्गा">कुक्के सुब्रह्मण्यशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>काळिदासोपज्ञरसज्ञता</title>
+				<feature></feature>
+				<page>0080-0087</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">गोपालकृष्णशास्त्रिणः, क</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अम्बास्तुतिः</title>
+				<feature></feature>
+				<page>0088-0088</page>
+				<allauthors>
+					<author type="" sal="विद्यार्थी">केशवभट्टः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>पाठशालावृत्तान्तः</title>
+				<feature></feature>
+				<page>0089-104</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>मीमांसाभाष्यभूषणम्</title>
+				<feature></feature>
+				<page>0105-0143</page>
+				<allauthors>
+					<author type="" sal="महामहोपाध्यायाः पण्डितरत्नं">लक्ष्मीपुरं श्रीनिवासाचार्यः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="04" month="अक्टोबर्" year="१९२८" info="">
+			<entry>
+				<title>कुन्दमालाविमर्शः</title>
+				<feature></feature>
+				<page>0091-0107</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">गोपालकृष्णशास्त्रिणः, क</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>जीवन्मुक्तिपूजा</title>
+				<feature></feature>
+				<page>0108-0118</page>
+				<allauthors>
+					<author type="" sal="महापाठशालाध्यक्षाः">गोगनृसिंहार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>उपनिषत्सारार्थः</title>
+				<feature></feature>
+				<page>0118-0124</page>
+				<allauthors>
+					<author type="" sal="महामहोपाध्याय विद्यानिधि">विरूपाक्षशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="005">
+		<issue inum="01" month="जनवरि" year="१९२९" info="">
+			<entry>
+				<title>वेणीसंहारम्</title>
+				<feature></feature>
+				<page>0001-0004</page>
+				<allauthors>
+					<author type="" sal="विद्यार्थी">लक्ष्मीनारायणसोमयाजी, के.(कोट-सालिग्राम)</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>वेदप्रामाण्यनिरूपणम्</title>
+				<feature></feature>
+				<page>0005-0010</page>
+				<allauthors>
+					<author type="" sal="महाविद्वान् मीमांसारत्नं">वैद्यनाथशाश्त्रिणः, ब्र., बेंगळूरु.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ब्रह्मसूत्रसारार्थः</title>
+				<feature></feature>
+				<page>0011-0016</page>
+				<allauthors>
+					<author type="" sal="महाविद्वान् ">होळवनहळ्ळि शेषाचार्यः, ब्र.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>भगवदाराधनम्</title>
+				<feature></feature>
+				<page>0017-0025</page>
+				<allauthors>
+					<author type="" sal="महामहोपाध्याय पण्डितरत्नं">लक्ष्मीपुरं श्रीनिवासाचार्यः, ब्र.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>विशिष्टाद्वैतम्</title>
+				<feature></feature>
+				<page>0026-0038</page>
+				<allauthors>
+					<author type="" sal="महामहोपाध्याय पण्डितरत्नं">लक्ष्मीपुरं श्रीनिवासाचार्यः, ब्र.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीशारदास्तुतिः</title>
+				<feature></feature>
+				<page>0039-0044</page>
+				<allauthors>
+					<author type="" sal="पण्डित">कुक्के सुब्रह्मण्यशास्त्रिणः, ब्र.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>महापाठशालावृत्तान्तः</title>
+				<feature></feature>
+				<page>0045-0045</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>विद्वत्परीक्षावृत्तान्तः</title>
+				<feature></feature>
+				<page>0047-0052</page>
+				<allauthors>
+					<author type="" sal="">विद्वत्परीक्षामहासभा कार्यदर्शिनः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="02" month="एप्रिल्" year="१९२९" info="">
+			<entry>
+				<title>सम्पादकीयम्</title>
+				<feature></feature>
+				<page>0054-0058</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>पाञ्चात्यप्रमाणतत्वम्</title>
+				<feature></feature>
+				<page>0059-0069</page>
+				<allauthors>
+					<author type="" sal="अर्थशास्त्रविशारदाः डाक्टर्">शामशास्त्रिणः, आर्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>विशिष्टाद्वैतम्-(पूर्वतॊऽनुवृत्तम्)</title>
+				<feature></feature>
+				<page>0070-0075</page>
+				<allauthors>
+					<author type="" sal="महामहोपाध्याय पण्डितरत्नं">लष्मीपुरं श्रीनिवासाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>उपनयनमीमांसा</title>
+				<feature></feature>
+				<page>0076-0083</page>
+				<allauthors>
+					<author type="" sal="श्रीमन्महाराजास्थानधर्माधिकारिणः महाविद्वांसः">शेष वेङ्कटाचलशास्त्रिणः, काशी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कुन्दमालाविमर्शः-(अनुवृत्तः)</title>
+				<feature></feature>
+				<page>0084-0092</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः साहित्यप्रधानोपाध्यायाः">गोपालकृष्णशास्त्रिणः, के.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अभिनवसुभाषितावलिः</title>
+				<feature></feature>
+				<page>0093-0096</page>
+				<allauthors>
+					<author type="" sal="महापाठशालोपाध्यायाः श्रीमन्तः">हरियप्पार्यः, एच्. एल्, एं.ए.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>महापाठशालावृत्तान्तः</title>
+				<feature></feature>
+				<page>0097-0100</page>
+				<allauthors>
+					<author type="" sal="श्रीमन्तः">हरियप्पार्यः, एच. एल्, एं.ए.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रवणानन्दम् (श्री वेङ्कटाध्वरीकृतम्)</title>
+				<feature></feature>
+				<page>0101-0107</page>
+				<allauthors>
+					<author type="2" sal="">योगनरसिंहार्यैः, एच्., परिशोधितम्</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="03" month="जुलै" year="१९२९" info="">
+			<entry>
+				<title>अन्योक्तिमुक्तावलीप्रबन्धः</title>
+				<feature></feature>
+				<page>0110-0115</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">श्रीनिवासाचार्यः, भाग्यपल्ल्यभिजनाः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कुन्दमालाविमर्शः</title>
+				<feature></feature>
+				<page>0116-0126</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">कन्नंबाडि गोपालकृष्णशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>काव्यावलोकनम्-(वासुदेवकृतरामकथाविचारः)</title>
+				<feature></feature>
+				<page>0127-0131</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">खङ्कीघट्टं वेङ्कटाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>मनस्तत्त्वम्</title>
+				<feature></feature>
+				<page>0132-0140</page>
+				<allauthors>
+					<author type="" sal="अर्थशास्त्रविशारदाः विद्यालङ्काराः">शामशास्त्रिणः, आर्., बि.ए., पि. एच्. डि., एम्. आर्. ए. एस्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>विशिष्टाद्वैतम्</title>
+				<feature></feature>
+				<page>0141-0144</page>
+				<allauthors>
+					<author type="" sal="महामहोपाध्याय पण्डितरन्तं">लक्ष्मीपुरं श्रीनिवासाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>देवराजरचितः कुट्टाकारशिरोमणिः (स्वोपज्ञया व्याख्याया संवलितः)</title>
+				<feature></feature>
+				<page>0145-0148</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अभिनवसुभाषितावलिः - II</title>
+				<feature></feature>
+				<page>0149-0152</page>
+				<allauthors>
+					<author type="" sal="">हरियप्पाः, एच्. एल्., एम्. ए.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>महापाठशालावृत्तान्तः</title>
+				<feature></feature>
+				<page>0153-0155</page>
+				<allauthors>
+					<author type="" sal="">हरियप्पाः, एच्. एल्., एम्. ए.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>सम्पादकीयम्</title>
+				<feature></feature>
+				<page>0156-0156</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="04" month="अक्टोबर्" year="१९२९" info="">
+			<entry>
+				<title>मनस्तत्त्वम्</title>
+				<feature></feature>
+				<page>0158-0169</page>
+				<allauthors>
+					<author type="" sal="डाक्टर्">शामशास्त्रिणः, आर्., पिएच्.डि., एम्. आर्. ए. एस्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>विशिष्टाद्वैतम्</title>
+				<feature></feature>
+				<page>0170-0180</page>
+				<allauthors>
+					<author type="" sal="महामहोपाध्यायाः पण्डितरत्नं">लक्ष्मीपुरं श्रीनिवासाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कुट्टाकारशिरोमणिः (स्वोपज्ञया व्याख्याया संवलितः)</title>
+				<feature></feature>
+				<page>0181-0184</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>वालिवधन्यायदृढमञ्चूषा</title>
+				<feature></feature>
+				<page>0185-0192</page>
+				<allauthors>
+					<author type="" sal="धर्माधिकारिणः महाविद्वांसः">शेषवेङ्कटाचलशास्त्रिणः, काशी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>संस्कृत सक्तिमञ्चरी</title>
+				<feature></feature>
+				<page>0196-0205</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">मैसूरु सीतागमशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीशाङ्करवेदान्तः (निरुढ मैसूरु विश्वविद्यानिलय रेजिस्ट्रार्-नामकाधिकारैः वि. सुब्रह्मण्यायांर्थेगङ्लभाषायामारचितप्रबन्धस्य संस्कृतानुवादः)</title>
+				<feature></feature>
+				<page>0206-0207</page>
+				<allauthors>
+					<author type="" sal="">योगनरसिंहार्यः, एच्.</author>
+				</allauthors>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="006">
+		<issue inum="01" month="जनवरि" year="१९३०" info="">
+			<entry>
+				<title>श्रीशारदास्तोत्रचतुष्टयम्</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author type="" sal="">जग्गु शिंग्रय्यंगार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कुवलयानन्दपाठसंशोधनम्</title>
+				<feature></feature>
+				<page>0003-0006</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">गोपालकृष्णशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अन्धबालकः (The Blind Boy)</title>
+				<feature></feature>
+				<page>0007-0007</page>
+				<allauthors>
+					<author type="" sal="विद्यार्थी">नारायणः, एच्. वि.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>वालिवधन्यायदृढमञ्चूषा</title>
+				<feature></feature>
+				<page>0008-0016</page>
+				<allauthors>
+					<author type="" sal="धर्माधिकारिणः">शेषवेङ्कटाचलशास्त्रिणः, काशी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कुट्टाकारशिरोमणिः</title>
+				<feature></feature>
+				<page>0017-0024</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कुन्दमालाविमर्शः</title>
+				<feature></feature>
+				<page>0025-0032</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">गोपालकृष्णशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अभिप्रायमयूखः</title>
+				<feature></feature>
+				<page>0033-0039</page>
+				<allauthors>
+					<author type="" sal="">सम्पादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>महापाठशाला वृत्तान्तः</title>
+				<feature></feature>
+				<page>0040-0041</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>विद्वत्परीक्षा वृत्तान्तः</title>
+				<feature></feature>
+				<page>0042-0048</page>
+				<allauthors>
+					<author type="" sal="">हरियप्प, एच्, एल्., एं.ए.</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="02" month="एप्रिल्" year="१९३०" info="">
+			<entry>
+				<title>बोधायनवृत्तिकारगतः सन्देहः</title>
+				<feature></feature>
+				<page>0049-0053</page>
+				<allauthors>
+					<author type="" sal="">सुब्रह्मण्यशर्माणः, य.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>मुरारिविरचितैकादशाद्यधिकरणम्</title>
+				<feature></feature>
+				<page>0054-0056</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः श्रीमन्महाराजसंस्कृतमहापाठशाला मीमांसाप्रधानोपाध्यायाः">आरडिकुप्पं सुब्रह्मण्यशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कुट्टाकारशिरोमणिः (अनुवृत्तः) महालक्ष्मीमुक्तावल्याख्या स्वोपज्ञया टीकया संवलितः</title>
+				<feature></feature>
+				<page>0057-0064</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीगुरुप्रार्थना</title>
+				<feature></feature>
+				<page>0065-0066</page>
+				<allauthors>
+					<author type="" sal="">कृष्णस्वामिनः, आर्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>व्याससिद्धान्तमार्ताण्ड विमर्शनम्</title>
+				<feature></feature>
+				<page>0067-0074</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">पालघाट् नारायणशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अभिनवसुभाषितावलिः III</title>
+				<feature></feature>
+				<page>0075-0077</page>
+				<allauthors>
+					<author type="" sal="">हरियप्पाः, एच्. एल्., एं.ए.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>धर्मजिज्ञासा</title>
+				<feature></feature>
+				<page>0078-0083</page>
+				<allauthors>
+					<author type="" sal="अर्थशास्त्रविशारदाः महामहोपाध्यायाः">शामशास्त्रिणः, आर्., पिएच्.डि., एम्.आर्.ए.एस्</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>गायत्री</title>
+				<feature></feature>
+				<page>0084-0087</page>
+				<allauthors>
+					<author type="" sal="धर्माधिकारिणः">शेषवेङ्कटाचलशास्त्रिणः, काशी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कुवलयानन्दपाठासंशोधनम् II</title>
+				<feature></feature>
+				<page>0088-0092</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">गोपालकृष्णशास्त्रिणः, क.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अभिप्रायमयूखः IV</title>
+				<feature></feature>
+				<page>0093-0098</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="03-04" month="जुलै, अक्टोबर्" year="१९३०" info="">
+			<entry>
+				<title>बोधायनामावास्यानिर्णयः</title>
+				<feature></feature>
+				<page>0104-0110</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः सिद्धान्ति">तम्मय्यशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कुट्टाकारशिरोमणिः (अनुवृत्तः) महालक्ष्मीमुक्तावल्याख्याया स्वोपज्ञया टीकया संवलितः</title>
+				<feature></feature>
+				<page>0111-0116</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अधर्ममोटनम्</title>
+				<feature></feature>
+				<page>0117-0128</page>
+				<allauthors>
+					<author type="" sal="विद्यार्थी">नारायणः, एच्. वि.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अङ्गत्वनिरुक्तिः</title>
+				<feature></feature>
+				<page>0129-0141</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">आरडिकुप्पं सुब्रह्मण्यशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कुवलयानन्दपाठसंशोधनम्</title>
+				<feature></feature>
+				<page>0142-0149</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">गोपालकृष्णशास्त्रिणः, क.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>माहिषेयकृतं तैत्तिरीयप्रातिशाख्यभाष्यम्</title>
+				<feature></feature>
+				<page>0150-0153</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">कृष्णघनपाठिनः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>गुरुशिष्यभावः</title>
+				<feature></feature>
+				<page>0154-0167</page>
+				<allauthors>
+					<author type="" sal="धर्माधिकारिणः">शेषवेङ्कटाचलशास्त्रिणः, काशी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कौण्डिन्यप्रहसनम्</title>
+				<feature></feature>
+				<page>0168-0168</page>
+				<allauthors>
+					<author type="" sal="विद्यार्थी">नारायणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>प्रमोदसंवत्सरीयविद्वत्परीक्षासम्भावनाप्रकारः</title>
+				<feature></feature>
+				<page>0169-0175</page>
+				<allauthors />
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="007">
+		<issue inum="01" month="जनवरि" year="१९३१" info="">
+			<entry>
+				<title>कुट्टाकारशिरोमणिः (अनुवृत्तः) महालक्ष्मीमुक्तावल्याख्यया नवटीकया संवलितः</title>
+				<feature></feature>
+				<page>0001-0008</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कुवलयानन्दपाठसंशोधनम् IV</title>
+				<feature></feature>
+				<page>0009-0016</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">गोपालकृष्णशास्त्रिणः, क.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अधिवनसंवादः (अथवा नाध्यायमीमांसा)</title>
+				<feature></feature>
+				<page>0017-0025</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अङ्गत्वनिरुक्तिः-कारकत्वविचारः</title>
+				<feature></feature>
+				<page>0026-0037</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">आरडिकुप्पं सुब्रह्मण्यशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अमिलियागलेत्तिरितिनाटकम् (लेसिंग्नामकजर्मन् महाकवि विरचितम्)</title>
+				<feature></feature>
+				<page>0038-0054</page>
+				<allauthors>
+					<author type="" sal="अर्थशास्त्रविशारदाः महामहोपाध्यायाः">शामशास्त्रिणः, आर्., बि.ए., पिएच्.डि.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>वेदार्थसंग्रहप्रमेयसंग्रहः</title>
+				<feature></feature>
+				<page>0055-0062</page>
+				<allauthors>
+					<author type="" sal="पण्डितरत्नं महामहोपाध्यायाः">लक्ष्मीपुरं श्रीनिवासाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>पत्रिकाविषयः (स्वविषयः)</title>
+				<feature></feature>
+				<page>0063-0064</page>
+				<allauthors>
+					<author type="" sal="">सम्पादकः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="02" month="एप्रिल्" year="१९३१" info="">
+			<entry>
+				<title>कुट्टाकारशिरोमणिः (अनुवृत्तः) महालक्ष्मीमुक्तावल्याख्यया नवटीकया संवलितः</title>
+				<feature></feature>
+				<page>0066-0084</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>शास्त्रतत्त्वम्</title>
+				<feature></feature>
+				<page>0085-0099</page>
+				<allauthors>
+					<author type="" sal="पण्डितरत्नं महामहोपाध्यायाः">लक्ष्मीपुरं श्रीनिवासाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कुवलयानन्दपाठसंशोधनम् V</title>
+				<feature></feature>
+				<page>0100-0109</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">गोपालकृष्णशास्त्रिणः, क.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीमन्महाराज वैजननमहोत्सवश्लोकाः</title>
+				<feature></feature>
+				<page>0110-0110</page>
+				<allauthors>
+					<author type="" sal="विद्यार्थी">नारायणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ग्रन्थविमर्शः</title>
+				<feature></feature>
+				<page>0111-0111</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>महापाठशाला वृत्तान्तः</title>
+				<feature></feature>
+				<page>0113-0114</page>
+				<allauthors>
+					<author type="" sal="">महापाठशालाध्यक्षः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="03" month="जुलै" year="१९३१" info="">
+			<entry>
+				<title>अमिलियागलेत्तिरितिनाटकम् (लेसिंग्नामकजर्मन् महाकवि विरचितम्)</title>
+				<feature></feature>
+				<page>0116-0136</page>
+				<allauthors>
+					<author type="" sal="अर्थशास्त्रविशारदाः महामहोपाध्यायाः">शामशास्त्रिणः, आर्., बि.ए., पिएच्.डि.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कुट्टाकारशिरोमणिः (अनुवृत्तः) महालक्ष्मीमुक्तावल्याख्यया नवटीकया संवलितः</title>
+				<feature></feature>
+				<page>0137-0146</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कुवलयानन्दपाठसंशोधनम् VI</title>
+				<feature></feature>
+				<page>0147-0154</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">गोपालकृष्णशास्त्रिणः, क.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अङ्गत्वनिरुक्तिः-कारकत्वविचारः</title>
+				<feature></feature>
+				<page>0155-0162</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">आरडिकुप्पं सुब्रह्मण्यशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अभिप्रायमयूखः</title>
+				<feature></feature>
+				<page>0163-0166</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="04" month="अक्टोबर्" year="१९३१" info="">
+			<entry>
+				<title>अधिवनसंवादपरिशिष्टम् (अथवा स्त्रीस्वातन्त्र्यम्)</title>
+				<feature></feature>
+				<page>0168-0187</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कुट्टाकारशिरोमणिः (अनुवृत्तः) महालक्ष्मीमुक्तावल्याख्यया नवटीकया संवलितः</title>
+				<feature></feature>
+				<page>0188-0192</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अङ्गत्वनिरुक्तिः-(अनुवृत्ता)</title>
+				<feature></feature>
+				<page>0193-0196</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">आरडिकुप्पं सुब्रह्मण्यशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>मोक्षतत्त्वम्</title>
+				<feature></feature>
+				<page>0197-0212</page>
+				<allauthors>
+					<author type="" sal="महामहोपाध्यायाः पण्डितरत्नं">लक्ष्मीपुरं श्रीनिवासाचार्यः</author>
+				</allauthors>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="008">
+		<issue inum="01" month="जनवरि" year="१९३२" info="">
+			<entry>
+				<title>शैवदर्शनम्</title>
+				<feature></feature>
+				<page>0003-0011</page>
+				<allauthors>
+					<author type="" sal="महामहोपाध्यायाः पण्डितरत्नं">लक्ष्मीपुरं श्रीनिवासाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कुवलयानन्दपाठसंशोधनम् VII</title>
+				<feature></feature>
+				<page>0012-0017</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">गोपालकृष्णशास्त्रिणः, क.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कुट्टाकारशिरोमणेः शुद्धिपत्रम्</title>
+				<feature></feature>
+				<page>0018-0022</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रवणानन्दम् (श्रीवेङ्कटाध्वरिविरचितम्))</title>
+				<feature></feature>
+				<page>0023-0032</page>
+				<allauthors>
+					<author type="" sal="">श्रीयोगनरसिह्मर्यैः परिशोधितम्</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>मेघमाला (श्रीकृष्णब्रह्मतत्त्वपरकालसंयमीन्द्रकृता)</title>
+				<feature></feature>
+				<page>0033-0041</page>
+				<allauthors>
+					<author type="" sal="महाविद्वद्भिः">शेषाचार्यैः, क., परिशोधिता</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>आत्मनो महिमा तच्छक्तिश्च</title>
+				<feature></feature>
+				<page>0041-0048</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>घ्राणनयनविवादः</title>
+				<feature></feature>
+				<page>0049-0051</page>
+				<allauthors>
+					<author type="" sal="विद्यार्थी">नारायणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अभिप्रायमयूखः, पत्रिकाविषयः</title>
+				<feature></feature>
+				<page>0052-0056</page>
+				<allauthors>
+					<author type="" sal="">सम्पादकः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="02" month="एप्रिल्" year="१९३२" info="">
+			<entry>
+				<title>अमिलिया गलेत्तिरिति नाटकम्</title>
+				<feature></feature>
+				<page>0058-0072</page>
+				<allauthors>
+					<author type="" sal="महामहोपाध्यायाः अर्थशास्त्रविशारदाः">शामशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>उत्तररामचरिते कस्य रसस्य प्राधान्यम्</title>
+				<feature></feature>
+				<page>0073-0074</page>
+				<allauthors>
+					<author type="" sal="विद्यार्थी">नारायणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कुट्टाकारशिरोमणेरूपोद्धातः</title>
+				<feature></feature>
+				<page>0075-0077</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>आत्मनो महिमा नच्छक्तिश्च (अनुवर्तते)</title>
+				<feature></feature>
+				<page>0078-0088</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>प्रौढाविवाहखण्डनशास्त्रम्</title>
+				<feature></feature>
+				<page>0089-0097</page>
+				<allauthors>
+					<author type="" sal="विद्याविशारदाः धर्माधिकारिणः">कुणिगल् रामशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>मेघमाला (श्रीकृष्णब्रह्मतत्त्वपरकालसंयमीन्द्रकृता) अनुवृत्ता</title>
+				<feature></feature>
+				<page>0098-0102</page>
+				<allauthors>
+					<author type="" sal="महाविद्वद्भिः">करूरु शेषाचार्यैः, परिशोधिता</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कन्नडभाषा म्लेच्छभाषेत्यत्र शारदातनयस्य साक्ष्यम्</title>
+				<feature></feature>
+				<page>0103-0105</page>
+				<allauthors>
+					<author type="" sal="">योगनरसिंहार्यः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="03" month="जुलै" year="१९३२" info="">
+			<entry>
+				<title>कुवलयानन्दपाठसंशोधनम् VIII</title>
+				<feature></feature>
+				<page>0108-0112</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">गोपालकृष्णशास्त्रिणः, क.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अमिलिया गलेत्तिरिति नाटकम्</title>
+				<feature></feature>
+				<page>0113-0151</page>
+				<allauthors>
+					<author type="" sal="महामहोपाध्यायाः अर्थशास्त्रविशारदाः">शामशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>केम्मण्णुगुण्डिः (शोणशैलमधिकृत्य)</title>
+				<feature></feature>
+				<page>0152-0155</page>
+				<allauthors>
+					<author type="" sal="">कुक्के सुब्रह्मण्यशर्माणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रवणानन्दः (श्रीवेङ्कटाध्वरिविरचितः)</title>
+				<feature></feature>
+				<page>0156-0159</page>
+				<allauthors>
+					<author type="" sal="">योगनरशिह्मार्यैः परिशोधितः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीमन्महाराजजन्मोत्सवशुभाशंसनश्लोकाः</title>
+				<feature></feature>
+				<page>0160-0160</page>
+				<allauthors>
+					<author type="" sal="विद्यार्थी">नारायणः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="04" month="अक्टोबर्" year="१९३२" info="">
+			<entry>
+				<title>अङ्गत्वनिरुक्तिः (अनुवृत्ता)</title>
+				<feature></feature>
+				<page>0162-0173</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">आरडिकुप्पं सुब्रह्मण्यशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>हिन्दूधर्मशास्त्रसमितेः प्रश्नानां समाधाननिर्णयसंक्षेपः</title>
+				<feature></feature>
+				<page>0174-0191</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>विभ्रमविवेकविमर्शः</title>
+				<feature></feature>
+				<page>0192-0193</page>
+				<allauthors>
+					<author type="" sal="महामहोपाध्यायाः पण्डितरत्नं">लक्ष्मीपुरं श्रीनिवासाचार्यः</author>
+				</allauthors>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="009">
+		<issue inum="01-02" month="जनवरि, एप्रिल्" year="१९३३" info="">
+			<entry>
+				<title>अङ्गत्वनिरुक्तिः (अनुवृत्ता)</title>
+				<feature></feature>
+				<page>0002-0008</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">आरडिकुप्पं सुब्रह्मण्यशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अस्पृश्यशास्त्रार्थः</title>
+				<feature></feature>
+				<page>0009-0035</page>
+				<allauthors>
+					<author type="" sal="महामहोपाध्यायाः पण्डितरत्नं">लक्ष्मीपुरं श्रीनिवासाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अखिलकर्णाटकज्यौतिषिकसम्मेलनाध्यक्षभाषणम्</title>
+				<feature></feature>
+				<page>0036-0052</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>आत्मनो महिमा तच्छक्तिश्च (अनुवृत्ता)</title>
+				<feature></feature>
+				<page>0053-0080</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="03" month="जुलै" year="१९३३" info="">
+			<entry>
+				<title>श्रवणानन्दे (श्रीवेङ्कटाध्वरिविरचिते) द्वितीयशतकम्</title>
+				<feature></feature>
+				<page>0081-0100</page>
+				<allauthors>
+					<author type="" sal="">योगनरसिह्मार्यैः परिशोधितः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>पञ्चरत्नम्</title>
+				<feature></feature>
+				<page>0101-0101</page>
+				<allauthors>
+					<author type="" sal="">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>प्रदोषसङ्खः</title>
+				<feature></feature>
+				<page>0102-0102</page>
+				<allauthors>
+					<author type="" sal="विद्यार्थी">चेन्निगरायपौराणिकः, टि. आर्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>प्रमोदविषयः</title>
+				<feature></feature>
+				<page>0103-0104</page>
+				<allauthors>
+					<author type="" sal="विद्यार्थी">नरसिह्माचार्यः, एन्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>बीजफलविमर्शः</title>
+				<feature></feature>
+				<page>0105-0120</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अदृष्टपरीक्षा</title>
+				<feature></feature>
+				<page>0121-0128</page>
+				<allauthors>
+					<author type="" sal="महामहोपाध्यायाः पण्डितरत्नं">लक्ष्मीपुरं श्रीनिवासाचार्यः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="04" month="अक्टोबर्" year="१९३३" info="">
+			<entry>
+				<title>अदृष्टपरीक्षा (अनुवृत्ता)</title>
+				<feature></feature>
+				<page>0130-0142</page>
+				<allauthors>
+					<author type="" sal="महामहोपाध्यायाः पण्डितरत्नं">लक्ष्मीपुरं श्रीनिवासाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>विद्वत्प्रवरश्वेतवनवासिविरचितोणादिसूत्रवृत्तिग्रन्थविमर्शः</title>
+				<feature></feature>
+				<page>0143-0143</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">नेरूरु कृष्णाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>आत्मनो महिमा तच्छक्तिश्च (अनुवृत्ता)</title>
+				<feature></feature>
+				<page>0144-0160</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कुट्टाकारशिरोमणेरुपोद्धातः (अनुवृत्तः)</title>
+				<feature></feature>
+				<page>0161-0164</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>काश्यपसंहिताविमर्शः</title>
+				<feature></feature>
+				<page>0165-0168</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">श्रीनिवासरङ्गाचार्यः, के.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अङ्गत्वनिरुक्तिः (अनुवृत्ता)</title>
+				<feature></feature>
+				<page>0169-0176</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">शिवआरडिकुप्पं सुब्रह्मण्यशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="010">
+		<issue inum="01" month="जनवरि" year="१९३४" info="">
+			<entry>
+				<title>तुतातभट्टाचार्यः</title>
+				<feature></feature>
+				<page>0002-0016</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">काशी प्राणेशाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>आत्मनो महिमा तच्छक्तिश्च (अनुवर्तते)</title>
+				<feature></feature>
+				<page>0017-0032</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>मुखरमुखमुकुरम् (प्रहसनम्)</title>
+				<feature></feature>
+				<page>0032aa-0032an</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">कुक्के सुब्रह्मण्यशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कश्चन विमर्शः</title>
+				<feature></feature>
+				<page>0032ao-0032as</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">गोपालकृष्णशास्त्रिणः, क.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>संपादकविज्ञप्तिः</title>
+				<feature></feature>
+				<page>0032at-0032at</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="02-03" month="एप्रिल्, जुलै" year="१९३४" info="">
+			<entry>
+				<title>आत्मनो महिमा तच्छक्तिश्च (अनुवृत्ता)</title>
+				<feature></feature>
+				<page>0034-0055</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>त्रिपाद्विद्या</title>
+				<feature></feature>
+				<page>0055ab-0055an</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">राजगोपालसूरिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>यज्ञीयपशुहिंसाविचारः</title>
+				<feature></feature>
+				<page>0055ap-0055az</page>
+				<allauthors>
+					<author type="" sal="पण्डितरत्नं">शेषवेङ्कटाचलशास्त्रिणः, काशी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>चेतःप्रसादो नाम जगद्गुरुचरितम्</title>
+				<feature></feature>
+				<page>0055ba-0055bi</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">कुक्के सुब्रह्मण्यशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अङ्गत्वनिरुक्तिः (अनुवृत्ता)</title>
+				<feature></feature>
+				<page>0055bk-0055bn</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">आरडिकुप्पं सुब्रह्मण्यशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>योगवादः</title>
+				<feature></feature>
+				<page>0055bo-0055cg</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">काशी प्राणेशाचार्यः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="04" month="अक्टोबर्" year="१९३४" info="">
+			<entry>
+				<title>योगवादः (अनुवृत्तः)</title>
+				<feature></feature>
+				<page>0055cv-0055da</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">काशी प्राणेशाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>दयातत्त्वसमीक्षा</title>
+				<feature></feature>
+				<page>0055dc-0055ea</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नव्यन्यायचरितम्</title>
+				<feature></feature>
+				<page>0055eb-0055ei</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>श्रीमन्महाराजसंस्कृतमहापाठशालीयोदन्तसन्दोह</title>
+				<feature></feature>
+				<page>0055ej-0055ek</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>विद्यार्थिसङ्घः</title>
+				<feature></feature>
+				<page>0055el-0055el</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>संवत्सरान्ते निवेदनम्</title>
+				<feature></feature>
+				<page>0055em-0055en</page>
+				<allauthors />
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="011">
+		<issue inum="01" month="जनवरि" year="१९३५" info="">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>वत्सरारम्भमङ्गलाशासनम्</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>नरेन्द्राष्टकम्</title>
+				<feature></feature>
+				<page>0005-0006</page>
+				<allauthors>
+					<author type="" sal="">पाटील, एम्. जि.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>आवेदनम्</title>
+				<feature></feature>
+				<page>0006-0006</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>नव्यन्यायचरितम् (समाप्तम्)</title>
+				<feature></feature>
+				<page>0009-0010</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">काशी प्राणेशाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>दयातत्त्वसमीक्षा (समाप्ता)</title>
+				<feature></feature>
+				<page>0025-0037</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>योगवादः (अनुवृत्तः)</title>
+				<feature></feature>
+				<page>0037aa-0037ac</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>लोचनोल्लासः (अनुवृत्तः)</title>
+				<feature></feature>
+				<page>0037ad-0037as</page>
+				<allauthors>
+					<author type="" sal="">श्रीकृष्णब्रह्मतत्त्वपरकालसंयमिनः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>उदन्तसन्दोहः</title>
+				<feature></feature>
+				<page>0037at-0037ay</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>सम्पादकभूमिः</title>
+				<feature></feature>
+				<page>0037ay-0037bb</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="02-03" month="एप्रिल्, जुलै" year="१९३५" info="">
+			<entry>
+				<title>ग्राहकमहाशयेषु विज्ञप्तिः</title>
+				<feature></feature>
+				<page>0037bl-0037bl</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>मासावतरणिका सुभाषितानि च</title>
+				<feature></feature>
+				<page>0037bn-0037bo</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>योगवादः (अनुवृत्तः)</title>
+				<feature></feature>
+				<page>0037bp-0042</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">काशी प्राणेशाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीकृष्णराजजन्मोत्सवहर्षोद्गमः</title>
+				<feature></feature>
+				<page>0042aa-0042ab</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>अङ्गत्वनिरुक्तिः</title>
+				<feature></feature>
+				<page>0042ac-0042ai</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">आरडिकोप्प सुब्रह्मण्यशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>लोचनोल्लासः</title>
+				<feature></feature>
+				<page>0042aj-0042aq</page>
+				<allauthors>
+					<author type="" sal="">श्रीकृष्णब्रह्मतत्त्वपरकालसंयमिनः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>चेतःप्रसादोनाम कालटी कुम्भाभिषेकचम्पूः</title>
+				<feature></feature>
+				<page>0042as-0042cb</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">कुक्के सुब्रह्मण्यशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ग्रन्थविमर्शः</title>
+				<feature></feature>
+				<page>0042cc-0042cf</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>समस्यापूरणम्</title>
+				<feature></feature>
+				<page>0042cf-0042cf</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">लक्ष्मीनारायणोपाध्यायाः, पि. पि.</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="04" month="अक्टोबर्" year="१९३५" info="">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature></feature>
+				<page>000i-000j</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>श्रीकृष्णराजनवनतिसुधोपहारः</title>
+				<feature></feature>
+				<page>0001-0008</page>
+				<allauthors>
+					<author type="" sal="पण्डित">श्रीनिवासदेशिकाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>काव्यजिज्ञासा</title>
+				<feature></feature>
+				<page>0008aa-0008ah</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीरामस्तवतारावळी</title>
+				<feature></feature>
+				<page>0008ai-0008ar</page>
+				<allauthors>
+					<author type="" sal="कीर्तिशेष श्रमिच्छर्मोपाध्याय">काशी तिम्मण्णाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अखिलभारतीयप्राच्यविद्याविपश्चित्सम्मेलनोपक्रमभाषणम्</title>
+				<feature></feature>
+				<page>0008as-0008ba</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>योगवादः (अनुवृत्तः)</title>
+				<feature></feature>
+				<page>0008bb-0008be</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">काशी प्राणेशाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>चेतःप्रसादस्य शुद्धिपत्रम्</title>
+				<feature></feature>
+				<page>0008bf-0008bg</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>पत्रिकापरिचयः</title>
+				<feature></feature>
+				<page>0008bj-0008bj</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>लोचनोल्लासस्य शुद्धिपत्रम्</title>
+				<feature></feature>
+				<page>0008bk-0008bk</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>समस्यापूरणोद्यमाः</title>
+				<feature></feature>
+				<page>0008bl-0008bl</page>
+				<allauthors>
+					<author type="" sal="">पाटील्., म. ग., मिरज.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>समस्यापूरणम्</title>
+				<feature></feature>
+				<page>0008bm-0008bm</page>
+				<allauthors>
+					<author type="" sal="">श्रीनिवासदेशिकाचार्यः, स.</author>
+				</allauthors>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="012">
+		<issue inum="01-02" month="जनवरि, एप्रिल्" year="१९३६" info="">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>धातृवत्सरारम्भमङ्गलाशासनम्</title>
+				<feature></feature>
+				<page>0001a-0001b</page>
+				<allauthors>
+					<author type="" sal="आस्थानमहाविद्वांसः">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>करुणरसतरङ्गिणी</title>
+				<feature></feature>
+				<page>0001c-0005</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">जग्गू आळ्वारय्यङ्गार्याः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>योगवादः (समाप्तः)</title>
+				<feature></feature>
+				<page>0047-0054</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">काशी प्राणेशाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रुतिप्रामाण्यविषयः</title>
+				<feature></feature>
+				<page>0054aa-0054ab</page>
+				<allauthors>
+					<author type="" sal="">महादेवय्य, चि.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीकृष्णराजयशोवर्णनम्</title>
+				<feature></feature>
+				<page>0054ac-0054ae</page>
+				<allauthors>
+					<author type="" sal="पण्डित">श्रीनिवासदेशिकाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>वादभूमिः</title>
+				<feature></feature>
+				<page>0054af-0054ah</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">जग्गू वेङ्कटाचार्याः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीकृष्णराजनवनीतसुधोपहारः</title>
+				<feature></feature>
+				<page>0054ai-0054au</page>
+				<allauthors>
+					<author type="" sal="पण्डित">श्रीनिवासदेशिकाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रौतप्रकाशिका</title>
+				<feature></feature>
+				<page>0054ax-0054ag</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">नारायणस्वामिदीक्षिताः, रा.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>स्वर्णमुक्तासंवादः (तालापत्रपुस्तकतः)</title>
+				<feature></feature>
+				<page>0054bh-0054bs</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>श्रीवेलापुरीयसौम्यकेशवोत्सवमालिका-(अनुवृत्तः)</title>
+				<feature></feature>
+				<page>0054bt-0054cf</page>
+				<allauthors>
+					<author type="" sal="">श्रीकृष्णब्रह्मतन्त्रपरकालसंयमीन्द्राः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="03" month="जुलै" year="१९३६" info="">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ताम्बूलमीमांसा</title>
+				<feature></feature>
+				<page>0002a-0006</page>
+				<allauthors>
+					<author type="" sal="महामहोपाध्यायाः सिद्धान्ति">शिवशङ्करशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>साहित्यतत्त्वम्</title>
+				<feature></feature>
+				<page>0006aa-0006ah</page>
+				<allauthors>
+					<author type="" sal="आस्थानविद्वांसः">तिरुमले सत्यागालं कृष्णदेशिकाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>काव्यजिज्ञासा</title>
+				<feature></feature>
+				<page>0006ai-0006ap</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीवेलापुरीयसौम्यकेशवोत्सवमालिका-(अनुवृत्तः)</title>
+				<feature></feature>
+				<page>0006aq-0006ay</page>
+				<allauthors>
+					<author type="" sal="">श्रीकृष्णब्रह्मतन्त्रपरकालसंयमीन्द्राः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>वृन्दावनम्</title>
+				<feature></feature>
+				<page>0006az-0006be</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">कुक्के सुब्रह्मण्यशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>योगवादः</title>
+				<feature></feature>
+				<page>0006bf-0006bl</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">काशी प्रणेशाचार्याः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>पत्रिकासमालोचना</title>
+				<feature></feature>
+				<page>0006bm-0006bo</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>वादभूमिः</title>
+				<feature></feature>
+				<page>0006bp-0006bq</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="04" month="अक्टोबर्" year="१९३६" info="">
+			<entry>
+				<title>वर्णापदेशः</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>साहित्यतत्त्वम् (अनुवृत्तम्)</title>
+				<feature></feature>
+				<page>0017-0022</page>
+				<allauthors>
+					<author type="" sal="आस्थानविद्वांसः">तिरुमले सत्यागालं कृष्णदेशिकाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>व्युत्पत्तिवादस्य अनन्ताचार्यकृतटिप्पणी</title>
+				<feature></feature>
+				<page>0022aa-0022ah</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>सूक्तिसुधाकणः</title>
+				<feature></feature>
+				<page>0022ai-0022at</page>
+				<allauthors>
+					<author type="" sal="पण्डित">श्रीनिवासदेशिकाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रौतप्रकाशिका (अनुवृत्ता)</title>
+				<feature></feature>
+				<page>0022au-0022ay</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">नारायणस्वामिदीक्षिताः, रा.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीवेलापुरीयसौम्यकेशवोत्सवमालिका-(अनुवृत्ता)</title>
+				<feature></feature>
+				<page>0022az-0022bf</page>
+				<allauthors>
+					<author type="" sal="">श्रीकृष्णब्रह्मतन्त्रपरकालसंयमीन्द्राः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ग्रन्थसमालोचना</title>
+				<feature></feature>
+				<page>0022bh-0022bi</page>
+				<allauthors>
+					<author type="" sal="श्री">वेङ्कटरमणार्यः</author>
+				</allauthors>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="013">
+		<issue inum="01-02" month="जनवरि, एप्रिल्" year="१९३६" info="">
+			<entry>
+				<title>वीणा</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author type="" sal="विद्वान्">सुब्बराय उपाध्यायः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नव्येश्वरवत्सरारम्भमङ्गलाशासनम्</title>
+				<feature></feature>
+				<page>0002a-0002b</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>सूक्तिसुधाकणः</title>
+				<feature></feature>
+				<page>0009-0016</page>
+				<allauthors>
+					<author type="" sal="पण्डित">श्रीनिवासदेशिकाचार्यः, ति. स.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>सनातनभौतिकविज्ञानम्</title>
+				<feature></feature>
+				<page>0016aa-0016aj</page>
+				<allauthors>
+					<author type="" sal="श्री">वेङ्कटरमणार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीवेलापुरीयसौम्यकेशवोत्सवमालिका भूमिका</title>
+				<feature></feature>
+				<page>0016ak-0016aq</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>करुणरसतरङ्गिणी (अनुवृत्ता)</title>
+				<feature></feature>
+				<page>0016ar-0016bc</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">जग्गू आळ्वारय्यङ्गार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>उपपत्तिगोपनम्</title>
+				<feature></feature>
+				<page>0016bc-0016bc</page>
+				<allauthors>
+					<author type="" sal="पण्डित">श्रीनिवासदेशिकाचार्यः, ति. स.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>साहित्यतत्त्वम् (समाप्तम्)</title>
+				<feature></feature>
+				<page>0016bd-0016bo</page>
+				<allauthors>
+					<author type="" sal="आस्थानविद्वांसः">निरुमले सत्यागालं कृष्णदेशिकाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>काव्यजिज्ञासा (अनुवृत्ता)</title>
+				<feature></feature>
+				<page>0016bp-0016bx</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रौतप्रकाशिका (अनुवृत्ता)</title>
+				<feature></feature>
+				<page>0016by-0016cf</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">नारायणस्वामिदीक्षिताः, रा.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीमन्महीशूरदेशीयसंस्कृतविद्याभ्युदयः</title>
+				<feature></feature>
+				<page>0016cg-0016cn</page>
+				<allauthors>
+					<author type="" sal="श्री">वेङ्कटरमणार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कश्चिन्नव्यविमर्शः</title>
+				<feature></feature>
+				<page>0016co-0016cr</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">गोपालकृष्णशास्त्रिणः, के.</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="03" month="जुलै - सेप्टम्बर्" year="१९३६" info="">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>अन्यापदेशः (अनुवर्तते)</title>
+				<feature></feature>
+				<page>0002a-0002j</page>
+				<allauthors>
+					<author type="" sal="श्री">गीर्वाणेन्द्रदीक्षिताः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रौतप्रकाशिका (समाप्ता)</title>
+				<feature></feature>
+				<page>0023-0032</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">नारायणस्वामिदीक्षिताः, आर्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीमन्महीशूरदेशीयसंस्कृतविद्याभ्युदयः</title>
+				<feature></feature>
+				<page>0032aa-0032an</page>
+				<allauthors>
+					<author type="" sal="श्री">वेङ्कटरमणार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>साहित्यविचारः (अनुवर्तते)</title>
+				<feature></feature>
+				<page>0032ao-0032ar</page>
+				<allauthors>
+					<author type="" sal="आस्थानविद्वांसः">श्रीनिवासरङ्गाचार्यः, टि.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>दृक्पञ्चाङ्गविमर्शः (अनुवर्तते)</title>
+				<feature></feature>
+				<page>0032as-0032aw</page>
+				<allauthors>
+					<author type="" sal="श्री">कृष्णपरमेश्वरभट्टसूरिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>उपासनाकाण्डम् (अनुवर्तते)</title>
+				<feature></feature>
+				<page>0032ax-0032ba</page>
+				<allauthors>
+					<author type="" sal="">सुब्रह्मण्यशास्त्रिणः, पि. आर्., बि.ए.</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="04" month="अक्टोबर् - डिसेम्बर्" year="१९३६" info="">
+			<entry>
+				<title>श्लोकाः</title>
+				<feature></feature>
+				<page>०००१-०००२</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>शालापरीक्षावृत्तान्तः</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>दृक्पञ्चाङ्गविमर्शः (अनुवृत्तः)</title>
+				<feature></feature>
+				<page>0005-0010</page>
+				<allauthors>
+					<author type="" sal="श्री">कृष्णपरमेश्वरभट्टसूरिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>साहित्यविचारः (अनुवृत्तः)</title>
+				<feature></feature>
+				<page>0010aa-0010ah</page>
+				<allauthors>
+					<author type="" sal="आस्थानविद्वांसः">श्रीनिवासरङ्गाचार्यः, टि.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अन्यापदेशः (अनुवृत्तः)</title>
+				<feature></feature>
+				<page>0010ai-0010ap</page>
+				<allauthors>
+					<author type="" sal="श्री">गीर्वाणेन्द्रदीक्षिताः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>सनातनभौतिकविज्ञानम्</title>
+				<feature></feature>
+				<page>0010aq-0010ay</page>
+				<allauthors>
+					<author type="" sal="श्री">वेङ्कटरमणार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कश्चिन्नव्यविमर्शः</title>
+				<feature></feature>
+				<page>0010az-0010bf</page>
+				<allauthors>
+					<author type="" sal="साहित्यरत्नम् महाविद्वांसः">गोपालकृष्णशास्त्रिणः, के.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अब्दुर् रहीम् खान् खानानस्य संस्कृतप्रियता</title>
+				<feature></feature>
+				<page>0010bf-0010bg</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">काशी प्राणेशाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>उपासनाकाण्डम् (अनुवृत्तम्)</title>
+				<feature></feature>
+				<page>0010bh-0010bo</page>
+				<allauthors>
+					<author type="" sal="">सुब्रह्मण्यशास्त्रिणः, पि. आर्., बि.ए.</author>
+				</allauthors>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="014">
+		<issue inum="01" month="जनवरि-मार्च्" year="१९३८" info="">
+			<entry>
+				<title>नववत्सरोदयः</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>नरस्य सप्तावस्थाः</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>साहित्यविचारः</title>
+				<feature></feature>
+				<page>0013-0018</page>
+				<allauthors>
+					<author type="" sal="आस्थानविद्वांसः">श्रीनिवासरङ्गाचार्यः, टि.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कवने काश्चन कामिन्यः</title>
+				<feature></feature>
+				<page>0018aa-0018ah</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">काशी प्राणेशाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अन्यापदेशः</title>
+				<feature></feature>
+				<page>0018ai-0018ao</page>
+				<allauthors>
+					<author type="" sal="श्री">गीर्वाणेन्द्रदीक्षिताः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>महापाठशालापारितोषिकोत्सवे पठिताः श्लोकाः</title>
+				<feature></feature>
+				<page>0018ap-0018ap</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>शालाया उdnतसन्दोहः</title>
+				<feature></feature>
+				<page>0018aq-0018at</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>उपासनाकाण्डम्</title>
+				<feature></feature>
+				<page>0018au-0018bd</page>
+				<allauthors>
+					<author type="" sal="">सुब्रह्मण्यशास्त्रिणः, पि. आर्., बि.ए.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>बहुधान्यवत्सरारम्भमङ्गळाशंसनम्</title>
+				<feature></feature>
+				<page>0018bd-0018be</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>करुणरसतरङ्गिणी</title>
+				<feature></feature>
+				<page>0018bf-0018bm</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">जग्गू आळ्वारय्यङ्गार्यः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="02-03" month="एप्रिल्-जुलै" year="१९३८" info="">
+			<entry>
+				<title>सुभाषितम्</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author type="" sal="">नरसिंहशास्त्रिणः, प्रो. सि . आर्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कल्याणवार्ता</title>
+				<feature></feature>
+				<page>0002a-0002a</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>श्रीमद्युवराजपुत्र विवाहकालिकशुभाशंसनम्</title>
+				<feature></feature>
+				<page>0002b-0002b</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>श्री सम्पत्कुमारनवरत्नहारस्तवः</title>
+				<feature></feature>
+				<page>0002c-0002d</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीमद्बहुधान्यसंवत्सर शुभसमागम महोत्सवप्रमोदपत्रिका अस्मद्राजर्षेराश्रीर्वादपद्यावळिः</title>
+				<feature></feature>
+				<page>0002e-0002h</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>राजर्षिरत्नमालिका</title>
+				<feature></feature>
+				<page>0002h-0002k</page>
+				<allauthors>
+					<author type="" sal="">तिरुमले सत्यागालं श्रीनिवासदेशिकाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>वर्धन्त्युत्सवे मङ्गलाशीर्वचनम्</title>
+				<feature></feature>
+				<page>0002l-0002m</page>
+				<allauthors>
+					<author type="" sal="">चिन्नस्वामिशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>उपपत्तिगोपनप्रकाशनम्</title>
+				<feature></feature>
+				<page>0002m-0002m</page>
+				<allauthors>
+					<author type="" sal="">तिरुमले सत्यागालं श्रीनिवासदेशिकाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीवेलापुरीयसौम्यकेशवोत्सवमालिका शुद्धिपत्रम्</title>
+				<feature></feature>
+				<page>0002n-0002n</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>काव्यजिज्ञासा (अनुवृत्ता)</title>
+				<feature></feature>
+				<page>0025-0032</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>व्युत्पत्तिवादस्य श्रीमदनन्ताचार्यकृतटिप्पणी</title>
+				<feature></feature>
+				<page>0032aa-0032ah</page>
+				<allauthors>
+					<author type="" sal="">अनुवृत्तम्</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>दृक्पञ्चाङ्गविमर्शः (अनुवृत्तः)</title>
+				<feature></feature>
+				<page>0032ai-0032as</page>
+				<allauthors>
+					<author type="" sal="श्री">कृष्णपरमेश्वरभट्टसूरिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रौतप्रकाशिका शुद्धाशुद्धपत्रिका</title>
+				<feature></feature>
+				<page>0032at-0032at</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>कवने काश्चन कामिन्यः (अनुवृत्तम्)</title>
+				<feature></feature>
+				<page>0032au-0032bf</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">काशी प्राणेशाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>सूक्तयः</title>
+				<feature></feature>
+				<page>0032bg-0032bg</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>अनाद्यादिदम्पती</title>
+				<feature></feature>
+				<page>0032bh-0032bo</page>
+				<allauthors>
+					<author type="" sal="महामहोपाध्याय विद्यालङ्कार अर्थशास्त्रविशारद">शामशास्त्रिवर्यः, डा.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>सनातनभौतिकविज्ञानम् (अनुवृत्तम्)</title>
+				<feature></feature>
+				<page>0032bp-0032bx</page>
+				<allauthors>
+					<author type="" sal="श्री">वेङ्कटरमणार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>वादभूमिविमर्शः कुवलयानन्दचन्द्रिका</title>
+				<feature></feature>
+				<page>0032by-0032ce</page>
+				<allauthors>
+					<author type="" sal="तर्कविद्वांसः ब्रह्ममीमांसाध्यायिनः, स्थानीकं">संपत्कुमाराचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>महासभा परीक्षा विशेषपारितोषक वितरणम्</title>
+				<feature></feature>
+				<page>0032cf-0032cf</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="04" month="अक्टोबर्" year="१९३८" info="">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author type="" sal="प्रो">नरसिंहशास्त्रिणः, सि. आर्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीमद्ब्रह्मतन्त्रपरकालमठीय षष्टितम (बहुधान्यवात्सरिक) विद्वत्सभोदन्तः</title>
+				<feature></feature>
+				<page>0002-0008</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>सनातनभौतिकविज्ञानम्</title>
+				<feature></feature>
+				<page>0027-0038</page>
+				<allauthors>
+					<author type="" sal="श्री">वेङ्कटरमणार्याः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ब्र।। श्री।। विरूपाक्षशास्त्रिणां भावचित्रानावरण महोत्सवः</title>
+				<feature></feature>
+				<page>0039aa-0039ac</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">सुब्रह्मण्यशास्त्रिणः, आ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अनाद्यादिदम्पती (ii)</title>
+				<feature></feature>
+				<page>0039ad-0039ag</page>
+				<allauthors>
+					<author type="" sal="महामहोपाध्याय विद्यालङ्कार अर्थशास्त्रविशारद">शामशास्त्रिवर्यः, डा.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>काव्यजिज्ञासा (अनुवृत्ता)</title>
+				<feature></feature>
+				<page>0039ah-0039as</page>
+				<allauthors>
+	`				<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
+				</allauthors>`
+			</entry>
+			<entry>
+				<title>व्युत्पत्तिवाद टिप्पणी (iii)</title>
+				<feature></feature>
+				<page>0039at-0039bd</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">कृष्णमूर्त्याचार्यः, डि.</author>
+				</allauthors>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="015">
+		<issue inum="01" month="मार्च्" year="१९३९" info="प्रमाथी-वासन्ती">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature></feature>
+				<page>000i-000j</page>
+				<allauthors>
+					<author type="" sal="प्रो">नरसिंहशास्त्रिणः, सि. आर्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>इन्द्रध्वजलक्षणम्</title>
+				<feature></feature>
+				<page>0001-0006</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>काव्यजिज्ञासा (vi)</title>
+				<feature></feature>
+				<page>0045-0060</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>उत्तररामचरिते रसविवेचनम् (i)</title>
+				<feature></feature>
+				<page>0060aa-0060ah</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">काशी प्राणेशाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>सव्यभिचारटिप्पणी (i)</title>
+				<feature></feature>
+				<page>0060ai-0060ap</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">आत्मकूरु दीक्षाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>राजाशीर्वचन पद्यावळिः</title>
+				<feature></feature>
+				<page>0060aq-0060ay</page>
+				<allauthors>
+					<author type="" sal="पण्डित">सत्यागालं श्रीनिवासदेशिकाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नव्यप्रमाथिवत्सरारम्भमङ्गलाशंसनम्</title>
+				<feature></feature>
+				<page>0060az-0060ba</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>उदन्तसंन्दोहः</title>
+				<feature></feature>
+				<page>0066bd-0066be</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">काशी प्राणेशाचार्यः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="02" month="जून्" year="१९३९" info="प्रमाथी-ग्रैष्मी">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature></feature>
+				<page>000i-000j</page>
+				<allauthors>
+					<author type="" sal="प्रो">नरसिंहशास्त्रिणः, सि. आर्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>हंस-मानिनीसंवादः</title>
+				<feature></feature>
+				<page>0001-0006</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">कुक्के सुब्रह्मण्यशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>काव्यजिज्ञासा (vii)</title>
+				<feature></feature>
+				<page>0061-0076</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>हयशीर्षविलासः (i)</title>
+				<feature></feature>
+				<page>0076aa-0076ap</page>
+				<allauthors>
+					<author type="" sal="">तिरुमले सत्यागालं श्रीनिवासदेशिकाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>भारतषोडशी</title>
+				<feature></feature>
+				<page>0076aq-0076as</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">कुक्के सुब्रह्मण्यशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>यादवाभ्युदयम्</title>
+				<feature></feature>
+				<page>0076at-0076at</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">श्रीनिवासरङ्गाचार्यः, के.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>लक्ष्मीस्तुतिपञ्चकम्</title>
+				<feature></feature>
+				<page>0076au-0076au</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">वेङ्कटाचार्यः, एस्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>राजाशीर्वचन पद्यावळिः</title>
+				<feature></feature>
+				<page>0076aw-0076aw</page>
+				<allauthors>
+					<author type="" sal="धर्माधिकारि पौराणिकरत्न">होळवनहळ्ळि शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>डृक्पञ्चाङ्गविमर्शशुद्धिपत्रम्</title>
+				<feature></feature>
+				<page>0076ax-0076ay</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="03" month="सेप्टेंबर््" year="१९३९" info="प्रमाथी-शारदी">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author type="" sal="प्रो">नरसिंहशास्त्रिणः, सि. आर्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>प्रबन्धनिकषः</title>
+				<feature></feature>
+				<page>0003-0008</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">काशी प्राणेशाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>काव्यजिज्ञासा (viii)</title>
+				<feature></feature>
+				<page>0077-0089</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>सादरस्वीकारः</title>
+				<feature></feature>
+				<page>0089aa-0089aa</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>श्रीमन्मुम्मडिकृष्णराजेन्द्रविरचितोद्दिष्टवर्णग्राहपद्यकोष्ठकमः</title>
+				<feature></feature>
+				<page>0089ab-0089ac</page>
+				<allauthors>
+					<author type="" sal="">तिरुमले सत्यागालं श्रीनिवासदेशिकाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>दर्शनतत्त्वम् (i)</title>
+				<feature></feature>
+				<page>0089ad-0089ak</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">काशी प्राणेशाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>भौमान्तरिक्षसंसर्गसमर्थनम् (i)</title>
+				<feature></feature>
+				<page>0089al-0089as</page>
+				<allauthors>
+					<author type="" sal="ज्यौतिषरन्तं">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>सव्यभिचारटिप्पणी (ii)</title>
+				<feature></feature>
+				<page>0089at-0089bb</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">आत्मकूरु दीक्षाचार्यः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="04" month="डिसेंबर्" year="१९३९" info="प्रमाथी-हैमन्ती">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author type="" sal="प्रो">नरसिंहशास्त्रिणः, सि. आर्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>सनातनभौतिकविज्ञानस्य सुद्धाशुद्धपत्रिका</title>
+				<feature></feature>
+				<page>0002a-0002c</page>
+				<allauthors>
+					<author type="" sal="श्री">वेंकटरमणार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>समस्या</title>
+				<feature></feature>
+				<page>0002d-0002d</page>
+				<allauthors>
+					<author type="" sal="">श्रीनिवासदेशिकाचार्यः, स.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>सनातनभौतिकविज्ञानस्य मुखपत्रम्</title>
+				<feature></feature>
+				<page>0002e-0002e</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ग्रन्थविमर्शः</title>
+				<feature></feature>
+				<page>0002f-0002f</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>हयशीर्षविलासः</title>
+				<feature></feature>
+				<page>0017-0024</page>
+				<allauthors>
+					<author type="" sal="">तिरुमले सत्यागालं श्रीनिवासदेशिकाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>भौमान्तरिक्षसंसर्गसमर्थनम्</title>
+				<feature></feature>
+				<page>0024aa-0024ah</page>
+				<allauthors>
+					<author type="" sal="ज्यौतिषरत्नं">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>मञ्जुळमञ्जीर नाम नाटकम्</title>
+				<feature></feature>
+				<page>0024ai-0024ap</page>
+				<allauthors>
+					<author type="" sal="">आल्वारय्यङ्गार्याः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रौतप्रकाशिका विस्तृत भूमिका</title>
+				<feature></feature>
+				<page>0024az-0024bc</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">नारायणस्वामिदीक्षिताः, रा.</author>
+				</allauthors>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="016">
+		<issue inum="01-02" month="मार्च्-जून्" year="१९४०" info="प्रमाथी-ग्रैष्मी">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature></feature>
+				<page>000i-000j</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>राजाशीर्वादपद्यावळिः</title>
+				<feature></feature>
+				<page>0001-0004</page>
+				<allauthors>
+					<author type="" sal="पण्डित">श्रीनिवासदेशिकाचार्यः, ति. स.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नव्यविक्रमवत्सरारम्भमङ्गलाशासनम्</title>
+				<feature></feature>
+				<page>0004a-0004b</page>
+				<allauthors>
+					<author type="" sal="ज्यौतिषरत्नं">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>भौमान्तरिक्षसंसर्गसमर्थनम्</title>
+				<feature></feature>
+				<page>0017-0034</page>
+				<allauthors>
+					<author type="" sal="ज्यौतिषरत्नं">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नृसिंहजटालक्षणम्</title>
+				<feature></feature>
+				<page>0034ab-0034ah</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>श्रीयुवराजकण्ठीरवनरसिंहराजचरमश्लोकावळिः</title>
+				<feature></feature>
+				<page>0034ai-0034aj</page>
+				<allauthors>
+					<author type="" sal="ज्यौतिषरत्नं">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीहयवदनविजयः-श्रीवेंकटराघवसूरिविरचितः</title>
+				<feature></feature>
+				<page>0034ak-0034ar</page>
+				<allauthors>
+					<author type="2" sal="ज्यौतिषरत्नं">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>मञ्जुळमञ्जीरम्</title>
+				<feature></feature>
+				<page>0034as-0034ba</page>
+				<allauthors>
+					<author type="" sal="विद्वांस">जग्गु आल्वारय्यङ्गार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>तन्त्रतत्वाधिजिगांसा</title>
+				<feature></feature>
+				<page>0034bb-0034bi</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>हयशीर्षविलासः</title>
+				<feature></feature>
+				<page>0034bj-0034bq</page>
+				<allauthors>
+					<author type="" sal="पण्डित">श्रीनिवासदेशिकाचार्यः, ति. स.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीवाणीकर्णाभरणम्</title>
+				<feature></feature>
+				<page>0034br-0034bz</page>
+				<allauthors>
+					<author type="" sal="श्रीमन्तः">कृष्णमूर्तिशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीकृष्णसार्वभौमाभिनन्दनपद्यमाला</title>
+				<feature></feature>
+				<page>0034ca-0034cb</page>
+				<allauthors>
+					<author type="" sal="ज्यौतिषरत्नं">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीमज्जयचामराजमङ्गळाशंसनपञ्चरत्नम्</title>
+				<feature></feature>
+				<page>0034cc-0034cd</page>
+				<allauthors>
+					<author type="" sal="ज्यौतिषरत्नं">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>विमर्शः</title>
+				<feature></feature>
+				<page>0034ce-0034cf</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">क्वाणदेशिकाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कुलकम्</title>
+				<feature></feature>
+				<page>0034cg-0034cg</page>
+				<allauthors>
+					<author type="" sal="ब्र. श्री.">गोपालाचार्यः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="03" month="सेप्टेंबर््" year="१९४०" info="विक्रमः-शारदी">
+			<entry>
+				<title>महाराजश्रीकृष्णराजेन्द्रनिर्वाणम्-चरमश्लोकावळि</title>
+				<feature></feature>
+				<page>0001-0008</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
+					<author type="" sal="ज्यौतिषरत्नं">करूरु शेषाचार्यः</author>
+					<author type="" sal="काव्यकलानिधयः">चिदम्बरशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>वणीकर्णाभरणम्</title>
+				<feature></feature>
+				<page>0009-0018</page>
+				<allauthors>
+					<author type="" sal="श्रीमन्तः">कृष्णमूर्तिशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>हयवदनविजयः [श्रीवेङ्कटराघवसूरिविरचितः]</title>
+				<feature></feature>
+				<page>0018aa-0018af</page>
+				<allauthors>
+					<author type="2" sal="ज्यौतिषरत्नं">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नन्त्रतत्त्वाधिजिगांसा</title>
+				<feature></feature>
+				<page>0018ag-0018aw</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीसम्पत्कुमारनवरत्नहारस्तवः उभयवेदान्तप्रवर्तनमहासभामङ्गळाशासनं च.</title>
+				<feature></feature>
+				<page>0018ax-0018az</page>
+				<allauthors>
+					<author type="" sal="ज्यौतिषरत्नं">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीहयवदनसेवासङ्घमहोत्सवः</title>
+				<feature></feature>
+				<page>0018ba-0018be</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="04" month="डिसेंबर्" year="१९४०" info="विक्रमः-हैमन्ती">
+			<entry>
+				<title>मकुटाभिषेकवैजयन्ती</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>श्रीमज्जयचामराजपट्टाभिषेकमङ्गलाशंसनपद्यमाला</title>
+				<feature></feature>
+				<page>0003-0008</page>
+				<allauthors>
+					<author type="" sal="ज्यौतिषरत्नं">करूरु शेषाचार्यः</author>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
+					<author type="" sal="काव्यकलानिधयः">चिदम्बरशास्त्रिणः</author>
+					<author type="" sal="">कृष्णमाचार्यः, टि.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीमज्जयचामराजपट्टाभिषेकप्रमोदपद्यावळिः</title>
+				<feature></feature>
+				<page>0008aa-0008ag</page>
+				<allauthors>
+					<author type="" sal="">तिरुमले सत्यागालं श्रीनिवासदेशिकाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीचामराजेन्द्रविजयोत्सवाशीर्वादः</title>
+				<feature></feature>
+				<page>0008ah-0008ah</page>
+				<allauthors>
+					<author type="" sal="काव्यकलानिधयः">चिदम्बरशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>सव्यभिचारटिप्पणी</title>
+				<feature></feature>
+				<page>0008ai-0008ap</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">आत्मकूरु दीक्षाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>हयशीर्षविलासः</title>
+				<feature></feature>
+				<page>0008aq-0008bg</page>
+				<allauthors>
+					<author type="" sal="">तिरुमले सत्यागालं श्रीनिवासदेशिकाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>दर्शनतत्त्वम्</title>
+				<feature></feature>
+				<page>0008bh-0008bo</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">काशी प्राणेशाचार्यः</author>
+				</allauthors>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="017">
+		<issue inum="01" month="मार्च्" year="१९४१" info="वृष-वासन्ती">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author type="" sal="प्रो">नरसिंहशास्त्रिणः, सि. आर्., एं.ए.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नव्यवृषवत्सरारम्भमङ्गलाशंसनम्</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author type="" sal="ज्यौतिषरत्नं">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीमज्जयचामराजमङ्गलाशासनपद्यावलिः</title>
+				<feature></feature>
+				<page>0005-0007</page>
+				<allauthors>
+					<author type="" sal="ब्र।। श्री">तिरुमले सत्यागालं श्रीनिवासदेशिकाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीमद्युवराजकुमार्याः श्री।। विजयलक्ष्म्यम्बायाः विवाहमङ्गलाशंसनीषट्पदी</title>
+				<feature></feature>
+				<page>0008-0009</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, वि. आर्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीमद्युवराजकुमार्याः श्री जयचामुण्ड्यम्बायाः विवाहमङ्गलाशंसनम्</title>
+				<feature></feature>
+				<page>0010-0011</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
+					<author type="" sal="काव्यकलानिधयः">चिदम्बरशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>वाणीकर्णाभरणस्य शुद्धाशुद्धपाठाः</title>
+				<feature></feature>
+				<page>0012-0012</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>हयशीर्षविलासः</title>
+				<feature></feature>
+				<page>0049-0064</page>
+				<allauthors>
+					<author type="" sal="">तिरुमले सत्यागालं श्रीनिवासदेशिकाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>काव्यकलापरिचयः</title>
+				<feature></feature>
+				<page>0064aa-0064af</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः">कुक्के सुब्रह्मण्यशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>साहित्यसरस्वती</title>
+				<feature></feature>
+				<page>0064ag-0064al</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">वेंकटाचार्यः, एस्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कावेरीलहरी सभूमिका</title>
+				<feature></feature>
+				<page>0064am-0064ba</page>
+				<allauthors>
+					<author type="" sal="">श्रीकृष्णब्रह्मतन्त्रपरकालसंयमीन्द्राः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="02" month="जून्" year="१९४१" info="वृष-ग्रैष्मी">
+			<entry>
+				<title>अपर्णाचरणाभरणम्</title>
+				<feature></feature>
+				<page>0001-0008</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">वेङ्कटाचालशास्त्रिणः, पि. एस्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीहयवदनविजयः-श्रीवेङ्कटराघवसूरिविरचितः</title>
+				<feature></feature>
+				<page>0015-0022</page>
+				<allauthors>
+					<author type="2" sal="ज्यौतिषरत्नं">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>हयशीर्षविलासः</title>
+				<feature></feature>
+				<page>0065-0080</page>
+				<allauthors>
+					<author type="" sal="पण्डित">श्रीनिवासदेशिकाचार्यः, ति. स.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>तन्त्रतत्वाधिजिगांसा</title>
+				<feature></feature>
+				<page>0080a-0080h</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>धर्मतत्त्वदर्पणम्</title>
+				<feature></feature>
+				<page>0080i-0080p</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">वेङ्कटेशशास्त्रिणः, यं. एन्.</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="03-04" month="सेप्टेंबर््-डिसेंबर्" year="१९४१" info="वृष-शारदी, हैमन्ती">
+			<entry>
+				<title>श्रीमाच्चित्रभानुसंवत्सरसमारम्भमहोत्सवोपहृत राजाशीर्वादपद्यावळिः</title>
+				<feature></feature>
+				<page>0001-0004</page>
+				<allauthors>
+					<author type="" sal="पण्डित">श्रीनिवासदेशिकाचार्यः, ति. स.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नव्यचित्रभानुवत्सरारम्भमङ्गलाशंसनम्</title>
+				<feature></feature>
+				<page>0005-0007</page>
+				<allauthors>
+					<author type="" sal="ज्यौतिषरत्नं">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीलक्ष्मीनृसिंहनवरत्नहारस्तवः</title>
+				<feature></feature>
+				<page>0007a-0007c</page>
+				<allauthors>
+					<author type="" sal="ज्यौतिषरत्नं">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>धर्मतत्त्वदर्पणम्</title>
+				<feature></feature>
+				<page>0009-0024</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">वेङ्कटेशशास्त्रिणः, यं. एस्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>हयशीर्षविलासः</title>
+				<feature></feature>
+				<page>0081-0104</page>
+				<allauthors>
+					<author type="" sal="पण्डित">श्रीनिवासदेशिकाचार्यः, ति. स.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>मञ्जुळमञ्जीरं नाम नाटकम्</title>
+				<feature></feature>
+				<page>0104aa-0104ap</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">जग्गु आल्वारय्यङ्गार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीहयवदनविजयः-श्रीवेङ्कटराघवसूरिविरचितः</title>
+				<feature></feature>
+				<page>0104aq-0104ay</page>
+				<allauthors>
+					<author type="2" sal="ज्यौतिषरत्नं">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीधर्मव्यवस्थावज्रहारसुषमा</title>
+				<feature></feature>
+				<page>0104az-0104bd</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">शिवसुब्रह्मण्यशास्त्रिणः, पि. आर्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कश्चनविमर्शः</title>
+				<feature></feature>
+				<page>0104be-0104bi</page>
+				<allauthors>
+					<author type="" sal="साहित्यरत्न">गोपालकृष्णशास्त्रिणः, के.</author>
+				</allauthors>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="018">
+		<issue inum="03" month="सेप्टेंबर्" year="१९४३" info="स्वभानुः-शारदी">
+			<entry>
+				<title>छात्रपारितोषिकसभायां पठिता पद्यपङ्किः</title>
+				<feature></feature>
+				<page>000i-000j</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>श्रीमद्गोपालाचार्याणां श्रीद्विवेदिसुब्रह्मण्यावधानिनां च भावचित्रप्रदर्शने पठिता पद्यपङ्किः</title>
+				<feature></feature>
+				<page>0001-0003</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>श्रीमत्समूर्तार्चाधिकरणभिनन्दिनी, ऋग्वेदसंहितापदपाठसमालोचना च</title>
+				<feature></feature>
+				<page>0003a-0003b</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>नारदीया शिक्षा</title>
+				<feature></feature>
+				<page>0015-0022</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">नारायणस्वामिदीक्षितः, रा.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>मञ्जुळमञ्जीरं नाम नाटकम्</title>
+				<feature></feature>
+				<page>0077-0084</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">जग्गु आळ्वारय्यङ्गार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>हयवदनविजयः श्रीवेङ्कटराघवसूरिविरचितः</title>
+				<feature></feature>
+				<page>0084aa-0084ah</page>
+				<allauthors>
+					<author type="2" sal="ज्यौतिषरत्नं">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>हयशीर्षविलासस्योपोद्धातः समालोचना च</title>
+				<feature></feature>
+				<page>0084ai-0084aw</page>
+				<allauthors>
+					<author type="" sal="आस्थानविद्वांसः">श्रीनिवासदेशिकाचार्यः, ति. स.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>हस्तलिखितपुस्तकानां सविवरणसूचिनी</title>
+				<feature></feature>
+				<page>0084ax-0084be</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>1942-43-44ರಲ್ಲಿ ಪಾಠಶಾಲಾ ಪುಸ್ತಕಭಂಡಾರಕ್ಕೆ ಉಚಿತವಾಗಿ ಬಂದ ಪುಸ್ತಕಗಳ ಪಟ್ಟಿ</title>
+				<feature></feature>
+				<page>0084bf-0084bi</page>
+				<allauthors />
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="020">
+		<issue inum="01" month="मार्च्" year="१९४४" info="तारण-वासन्ती">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature></feature>
+				<page>000i-000j</page>
+				<allauthors>
+					<author type="" sal="प्रो">नरसिंहशास्त्रिणः, सि. आर्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>राजाशीर्वादपद्यमालिका</title>
+				<feature></feature>
+				<page>0001-0004</page>
+				<allauthors>
+					<author type="" sal="आस्थानविद्वांसः">श्रीनिवासदेशिकाचार्यः, ति. स.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नव्यतारणवत्सरारम्भमङ्गलाशंसनम्</title>
+				<feature></feature>
+				<page>0004a-0004b</page>
+				<allauthors>
+					<author type="" sal="ज्यौतिषरत्नं, धर्माधिकारिणः">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नारदीया शिक्षा</title>
+				<feature></feature>
+				<page>0031-0038</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">नारायणस्वामिदीक्षिताः, रा.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>होरासारः-श्रीपृथुयशोविरचितः</title>
+				<feature></feature>
+				<page>0038aa-0038al</page>
+				<allauthors>
+					<author type="2" sal="ज्यौतिषरत्नं, धर्माधिकारि">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>हस्तलिखितपुस्तकानां सविवरणसूचिनी</title>
+				<feature></feature>
+				<page>0038am-0038at</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>हयवदनविजयः - श्रीवेङ्कटराघवसूरिविरचितः</title>
+				<feature></feature>
+				<page>0038au-0038bc</page>
+				<allauthors>
+					<author type="2" sal="ज्यौतिषरत्नं, धर्माधिकारि">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अथ षष्ठोल्लासः</title>
+				<feature></feature>
+				<page>0038bb-0038bc</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>मञ्जुळमञ्जीरं नाम नाटकम्</title>
+				<feature></feature>
+				<page>0038bd-0038bk</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">जग्गु आळ्वारय्यङ्गार्यः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="02" month="जून्" year="१९४४" info="तारण-ग्रैष्मी">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author type="" sal="प्रो">नरसिंहशास्त्रिणः, सि.आर्., एं.ए.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्री हयवदनविजयः - (श्रीवेङ्कटराघवसूरिविरचितः) मुखपत्रोपोद्धातविषयानुक्रमणिकाः</title>
+				<feature></feature>
+				<page>0002a-0073</page>
+				<allauthors>
+					<author type="2" sal="ज्यौतिषरत्नं, धर्माधिकारि">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>मञ्जुळमञ्जीरं नाम नाटकम्</title>
+				<feature></feature>
+				<page>0093-0100</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">जग्गु आळ्वारय्यङ्गार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नारदीया शिक्षा</title>
+				<feature></feature>
+				<page>0100a-0100h</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">नारायणस्वामिदीक्षिताः, रा.</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="03-04" month="सेप्टेंबर्-डिसेंबर्" year="१९४४" info="तारण-शारदी-हैमन्ती">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature></feature>
+				<page>0001-0003</page>
+				<allauthors>
+					<author type="" sal="प्रो">नरसिंहशास्त्रिणः, सि. आर्., एं.ए.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीमन्महीशूरमहाराज जयचामराजेन्द्र जन्मवर्धन्ती महोत्सवाशीर्वादः</title>
+				<feature></feature>
+				<page>0100-0100</page>
+				<allauthors>
+					<author type="" sal="शतावधानिनः">चिदम्बरशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>मञ्जुळमञ्जीरं नाम नाटकम्</title>
+				<feature></feature>
+				<page>0101-0116</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">जग्गु आळ्वारय्यङ्गार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>होरासारः-श्री पृथुयशो विरचितः</title>
+				<feature></feature>
+				<page>0117aa-0117ap</page>
+				<allauthors>
+					<author type="2" sal="ज्यौतिषरत्नं, धर्माधिकारि">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नारदीया शिक्षा</title>
+				<feature></feature>
+				<page>0117aq-0117bg</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">नारायणस्वामिदीक्षिताः, रा.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>साहित्यसरस्वती--ध्वनिप्रस्थानम्</title>
+				<feature></feature>
+				<page>0117bh-0117bx</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">वेङ्कटाचार्यः, विद्वांसः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>हस्तलिखितपुस्तकानां सविवरणसूचिनी</title>
+				<feature></feature>
+				<page>0117by-0117cf</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>सप्रमोदाङ्गीकारः</title>
+				<feature></feature>
+				<page>0117cg-0117cg</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>श्रीमन्महाराज संस्कृतमहापाठशाला विद्यार्थिसंघ वार्षिकोत्सव सभाध्यक्षाणां विद्यार्थिपारितोषिक सभाध्यक्षाणां च भाषणे</title>
+				<feature></feature>
+				<page>0117ci-0117cp</page>
+				<allauthors />
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="021">
+		<issue inum="01-02" month="मार्च्-जून्" year="१९४५" info="पार्थिव-वासन्ती-ग्रैष्मी">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature></feature>
+				<page>0001-0003</page>
+				<allauthors>
+					<author type="" sal="प्रो">नरसिंहशास्त्रिणः, सि. आर्., एं.ए.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नव्यवत्सरारम्भमङ्गलाशंसनम्</title>
+				<feature></feature>
+				<page>0004-0004</page>
+				<allauthors>
+					<author type="" sal="ज्यौतिषरत्नं, धर्माधिकारि">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>मञ्जुळमञ्जीरं नाम नाटकम्</title>
+				<feature></feature>
+				<page>0117-0132</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">जग्गु आळ्वारय्यङ्गार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>होरासारः-श्री पृथुयशोविरचितः</title>
+				<feature></feature>
+				<page>0132aa-0132ap</page>
+				<allauthors>
+					<author type="2" sal="ज्यौतिषरत्नं, धर्माधिकारि">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नारदीया शिक्षा</title>
+				<feature></feature>
+				<page>0132aq-0132bg</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">नारायणस्वामिदीक्षिताः, रा.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>हस्तलिखितपुस्तकसविवरणसूचिनी</title>
+				<feature></feature>
+				<page>0132bh-0132bo</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>साहित्यसरस्वती-ध्वनिदूषण प्रतिविधानम्</title>
+				<feature></feature>
+				<page>0132bp-0132bx</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">वेङ्कटाचार्यः, एस्.</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="03-04" month="सेप्टेंबर्-डिसेंबर्" year="१९४५" info="पार्थिव-शारदी-हैमन्ती">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature></feature>
+				<page>000k-000l</page>
+				<allauthors>
+					<author type="" sal="प्रो">नरसिंहशास्त्रिणः, सि. आर्., एं.ए.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नारदीय शिक्षा</title>
+				<feature></feature>
+				<page>000m-000m</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>(i) श्रीमज्जयचामराजङ्गळाशासनपद्यावळिः</title>
+				<feature></feature>
+				<page>0001-0006</page>
+				<allauthors>
+					<author type="" sal="आस्थानविद्वांसः">श्रीनिवासदेशिकाचार्यः, ति. स.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>(ii) श्रीसूक्तपादुकास्तवः, कमलानतिमालिकाच</title>
+				<feature></feature>
+				<page>0006a-0006f</page>
+				<allauthors>
+					<author type="" sal="आस्थानविद्वांसः">श्रीनिवासदेशिकाचार्यः, ति. स.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>(iii) श्रीवेङ्कटेशपादावलम्बस्तवः</title>
+				<feature></feature>
+				<page>0006g-0006h</page>
+				<allauthors>
+					<author type="" sal="आस्थानविद्वांसः">श्रीनिवासदेशिकाचार्यः, ति. स.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>संस्कृतव्याकरणम्</title>
+				<feature></feature>
+				<page>0006i-0006p</page>
+				<allauthors>
+					<author type="" sal="ब्र।। श्री।।">कृष्णस्वाम्यय्यङ्गार्यः, वि.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नारदीया शिक्षा</title>
+				<feature></feature>
+				<page>0081-0089</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">नारायणस्वामिदीक्षिताः, रा.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीजयचामराजेन्द्र वैजननदिनमहोत्सव महाशीर्वादः</title>
+				<feature></feature>
+				<page>0090-0090</page>
+				<allauthors>
+					<author type="" sal="महाविद्वांसः शतावधानि">चिदम्बरशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>साहित्यसरस्वती-ध्वनिलक्षणदूषण प्रतिविधानम्</title>
+				<feature></feature>
+				<page>0090aa-0090ac</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">वेङ्कटाचार्यः, एस्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>वैयाकरणभूषण-पण्डितरत्न-श्रीकाशीसुब्रह्मण्यशास्त्रिणां चरमश्लोकावलिः</title>
+				<feature></feature>
+				<page>0090ad-0090ad</page>
+				<allauthors>
+					<author type="" sal="ज्यौतिषरत्नं धर्माधिकारी">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीशारीरकाराधनम्-श्रीमदनन्तदासविरचितः</title>
+				<feature></feature>
+				<page>0090ae-0090al</page>
+				<allauthors>
+					<author type="2" sal="विद्वद्भिः">चक्रवर्तितिरुमलाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>हस्तलिखितपुस्तकानां सविवरणसूचनी</title>
+				<feature></feature>
+				<page>0090am-0090at</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>मञ्जुळमञ्जीरं नाम नाटकम्</title>
+				<feature></feature>
+				<page>0090au-0090bc</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">जग्गु आळ्वारय्यङ्गार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीमन्महाराजसंस्कृत महापाठशाला विद्यार्थिपारितोषिकसभाध्यक्षाणां विद्यार्थिसङ्घवार्षिकोत्सवसभाध्यक्षाणां च भाषणे</title>
+				<feature></feature>
+				<page>0090bd-0090bp</page>
+				<allauthors />
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="022">
+		<issue inum="01-02" month="मार्च्-जून्" year="१९४६" info="व्यय-वासन्ती-ग्रैष्मी">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature></feature>
+				<page>000i-000j</page>
+				<allauthors>
+					<author type="" sal="प्रो">नरसिंहशास्त्रिणः, सि. आर्., एं.ए.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>राजस्थान-भारती-समालोचनम्</title>
+				<feature></feature>
+				<page>000k-000l</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>दशकुमारचरितविमर्शविमर्शः</title>
+				<feature></feature>
+				<page>0001-0008</page>
+				<allauthors>
+					<author type="" sal="साहित्यरत्नं">जग्गु वेङ्कटाचार्याः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीशारीरकाराधनम्-श्रीमदनन्तदासविरचितम्</title>
+				<feature></feature>
+				<page>0009-0016</page>
+				<allauthors>
+					<author type="2" sal="विद्वद्भिः">चक्रवर्ति तिरुमलाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>मञ्जुळमञ्जीरं नाम नाटकम्</title>
+				<feature></feature>
+				<page>0141-0156</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">जग्गु आळ्वारय्यङ्गार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>होरासारः-श्री पृथुयशोविरचितः</title>
+				<feature></feature>
+				<page>0156aa-0156ap</page>
+				<allauthors>
+					<author type="2" sal="ज्यौतिषरत्नं, धर्माधिकारि">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ताम्रपर्ण्यष्टोत्तरशतकम्</title>
+				<feature></feature>
+				<page>0156aq-0156ay</page>
+				<allauthors>
+					<author type="" sal="श्री">वेङ्कटतातदेशिकाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>संस्कृतव्याकरणम्</title>
+				<feature></feature>
+				<page>0156az-0156bg</page>
+				<allauthors>
+					<author type="" sal="ब्र।। श्री।।">कृष्णस्वाम्यय्यङ्गार्यः, वि.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>हस्तलिखितपुस्तकानां सविवरणसूचनी</title>
+				<feature></feature>
+				<page>0156bh-0156bo</page>
+				<allauthors />
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="023">
+		<issue inum="01-02" month="मार्च्-जून्" year="१९४७" info="सर्वजित्-वासन्ती-ग्रैष्मी">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author type="" sal="प्रो">नरसिंहशास्त्रिणः, सि।। आर्., एं.ए.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कुट्टाकारशिरोमणेरुपोद्धातः</title>
+				<feature></feature>
+				<page>0002a-0008</page>
+				<allauthors>
+					<author type="" sal="ज्यौतिषरत्नं, धर्माधिकारिणः">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीशारीरकाराधनम्-श्रीमदनन्तदासविरचितम्</title>
+				<feature></feature>
+				<page>0025-0040</page>
+				<allauthors>
+					<author type="" sal="महाविद्वद्भिः">चक्रवर्ति तिरुमलाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>होरासारः-श्री पृथुयशोविरचितः</title>
+				<feature></feature>
+				<page>००८५-०१००</page>
+				<allauthors>
+					<author type="2" sal="ज्यौतिषरत्नं, धर्माधिकारि">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>संस्कृतव्याकरणम्</title>
+				<feature></feature>
+				<page>0040aa-0040an</page>
+				<allauthors>
+					<author type="" sal="ब्र।। श्री।।">कृष्णस्वाम्यय्यङ्गार्यः, वि.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>दशकुमारचरितविमर्शविमर्शः</title>
+				<feature></feature>
+				<page>0040ao-0040ar</page>
+				<allauthors>
+					<author type="" sal="साहित्यरत्नं">जग्गू वेङ्कटाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>हस्तलिखितपुस्तकानां सविवरणसूचनी</title>
+				<feature></feature>
+				<page>0040au-0040bc</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>व्याळिशिक्षा</title>
+				<feature></feature>
+				<page>0040bd-0040bs</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">केशवशिवघनपाठिनः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="03-04" month="सेप्टेंबर्-डिसेंबर्" year="१९४७" info="सर्वजित्-शारदी-हैमन्ती">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author type="" sal="प्रो">नरसिंहशास्त्रिणः, सि. आर्., एं.एं.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>व्याळिशिक्षा</title>
+				<feature></feature>
+				<page>0015-0030</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">केशवशिवघनपाठिनः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>हस्तलिखितपुस्तकानां सविवरणसूचनी</title>
+				<feature></feature>
+				<page>0081-0104</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>श्रीशारीरकाराधनम्-श्रीमदनन्तदासविरचितम्</title>
+				<feature></feature>
+				<page>0104a-0104f</page>
+				<allauthors>
+					<author type="2" sal="महाविद्वद्भिः"> चक्रवर्ति तिरुमलाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्री भास्करीय गोळयन्त्रविषयव्यावर्णनम्</title>
+				<feature></feature>
+				<page>0104g-0104n</page>
+				<allauthors>
+					<author type="" sal="ज्यौतिषरत्नं, धर्माधिकारि">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="024">
+		<issue inum="01-02" month="मार्च्-जून्" year="१९४८" info="सर्वजित्-वासन्ती-ग्रैष्मी">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature></feature>
+				<page>000k-000l</page>
+				<allauthors>
+					<author type="" sal="प्रो">नरसिंहशास्त्रिणः, सि।। आर्., एं.ए.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीमन्महाराज श्रीजयचामराजेन्द्र वैजननदिनीयः आशीर्वादः (श्री।। महाविद्वांसः चिदम्बरशास्त्रिणः) श्रीमज्जयचामराज सार्वभौम वैजननदिन महोत्सव शुभाशंसनम्</title>
+				<feature></feature>
+				<page>000m-000n</page>
+				<allauthors>
+					<author type="" sal="पाठशाला विद्यार्थी ">भास्करभट्टः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>चिदम्बररहस्यम्</title>
+				<feature></feature>
+				<page>0001-0004</page>
+				<allauthors>
+					<author type="" sal="श्री">राजा सोमशेखरदीक्षितः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>व्याळिशिक्षा</title>
+				<feature></feature>
+				<page>0031-0046</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">केशवशिवघनपाठिनः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्री भास्करीय गोळयन्त्रविषयव्यावर्णनम्</title>
+				<feature></feature>
+				<page>0046aa-0046ai</page>
+				<allauthors>
+					<author type="" sal="ज्यौतिषरत्नं, धर्माधिकारि">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>मुखपत्रम्, विषयानुक्रमणिकाः</title>
+				<feature></feature>
+				<page>0046aj-0046al</page>
+				<allauthors>
+					<author type="" sal="ज्यौतिषरत्नं, धर्माधिकारि">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नारदीयशिक्षा (मुखपत्रम्)</title>
+				<feature></feature>
+				<page>0046am-0046am</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>बलिविजयनाटकम्</title>
+				<feature></feature>
+				<page>0046ao-0046be</page>
+				<allauthors>
+					<author type="" sal="विद्वांसः">जग्गु आल्वरय्यङ्गार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>हस्तलिखितपुस्तकानां सविवरणसूचनी</title>
+				<feature></feature>
+				<page>0046bh-0046bo</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>मुरारिनान्दीश्लोकानुभवः</title>
+				<feature></feature>
+				<page>0046bp-0046bs</page>
+				<allauthors>
+					<author type="" sal="श्री">गोपालाचार्याः, ए. वि., एं. ए., बि. एल्.</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="03-04" month="सेप्टेंबर्-डिसेंबर्" year="१९४८" info="सर्वजित्-वासन्ती-ग्रैष्मी">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author type="" sal="प्रो">नरसिंहशास्त्री, सि. आर्., एं.ए.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>हस्तलिखितपुस्तकानां सविवरणसूचनी</title>
+				<feature></feature>
+				<page>0113-0120</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>बलिविजयनाटकम्</title>
+				<feature></feature>
+				<page>0121aa-0121ag</page>
+				<allauthors>
+					<author type="" sal="विद्वान्">जग्गु आळ्वारय्यङ्गार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>व्याळिशिक्षा</title>
+				<feature></feature>
+				<page>0121ai-0121ay</page>
+				<allauthors>
+					<author type="" sal="विद्वान्">केशवशिवघनपाठी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्री भास्करीय गोळयन्त्रविवरणम्</title>
+				<feature></feature>
+				<page>0121az-0121bk</page>
+				<allauthors>
+					<author type="" sal="ज्यौतिषरत्नं धर्माधिकारी">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कीर्तिसेना</title>
+				<feature></feature>
+				<page>0121bp-0121cf</page>
+				<allauthors>
+					<author type="" sal="विद्वान्">नरसिंहाचार्यः, एन्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>मुरारिनान्दीश्लोकानुभवः</title>
+				<feature></feature>
+				<page>0121cg-0121cn</page>
+				<allauthors>
+					<author type="" sal="श्री">गोपालाचार्यः, ए. वि., एं.ए., बि.एल्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>वार्तासङ्ग्रहः</title>
+				<feature></feature>
+				<page>0121co-0121cr</page>
+				<allauthors />
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="025">
+		<issue inum="01-02" month="मार्च्-जून्" year="१९४९" info="विरोधि-वासन्ती-ग्रैष्मी">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature></feature>
+				<page>000i-000j</page>
+				<allauthors>
+					<author type="" sal="प्रो">नरसिंहशास्त्री, सि. आर्., एं.ए.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नव्यवत्सरारम्भमङ्गलाशंसनम्</title>
+				<feature></feature>
+				<page>000k-000k</page>
+				<allauthors>
+					<author type="" sal="ज्यौतिषरत्नं धर्माधिकारी">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>व्याळिशिक्षा</title>
+				<feature></feature>
+				<page>000m-000n</page>
+				<allauthors>
+					<author type="" sal="साहित्यरत्नं महाविद्वान्">जग्गु वेङ्कटाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>विदितपदस्य विचारः</title>
+				<feature></feature>
+				<page>0001-0005</page>
+				<allauthors>
+					<author type="" sal="साहित्यरत्नं महाविद्वान्">जग्गु वेङ्कटाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कालिदासमतिशेते भासः</title>
+				<feature></feature>
+				<page>0005b-0005h</page>
+				<allauthors>
+					<author type="" sal="महापाठशाला विद्यार्थी">भास्करभट्टः, के. एस्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>मुरारिनान्दीश्लोकानुभवः</title>
+				<feature></feature>
+				<page>0013-0020</page>
+				<allauthors>
+					<author type="" sal="श्री">गोपालाचार्यः, ए. वि ., एं.ए., बि.एल्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>लौकिकगाथाचतुश्शती</title>
+				<feature></feature>
+				<page>0020a-0020h</page>
+				<allauthors>
+					<author type="" sal="ज्यौतिषरत्नं धर्माधिकारी">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>व्याळिशिक्षा</title>
+				<feature></feature>
+				<page>0065-0076</page>
+				<allauthors>
+					<author type="" sal="विद्वान्">केशवशिवघनपाठी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>मञ्जुळमञ्जीरस्योपोद्धातः (मुखपत्रसहितः)</title>
+				<feature></feature>
+				<page>0076aa-0076ae</page>
+				<allauthors>
+					<author type="" sal="विद्वान्">जग्गु आळ्वारय्यङ्गार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>विजयतां गैर्वाणी वाणी</title>
+				<feature></feature>
+				<page>0076ag-0076aj</page>
+				<allauthors>
+					<author type="" sal="ज्यौतिषरत्नं धर्माधिकारी">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>गोदासूक्तसर्वस्वम्</title>
+				<feature></feature>
+				<page>0076ak-0076ar</page>
+				<allauthors>
+					<author type="" sal="श्रीकाञ्जीप्रतिवादिभयङ्कर">अण्णङ्गराचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कीर्तिसेना (मुखपत्रसहिता)</title>
+				<feature></feature>
+				<page>0076as-0076bb</page>
+				<allauthors>
+					<author type="" sal="विद्वान्">नरसिंहाचार्यः, एन्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>हस्तलिखितपुस्तकानां सविवरणसूचनी</title>
+				<feature></feature>
+				<page>0076bf-0076bm</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="03-04" month="सेप्टेंबर्-डिसेंबर्" year="१९४९" info="विरोधि-शारदी-हैमन्ती">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature></feature>
+				<page>000i-000j</page>
+				<allauthors>
+					<author type="" sal="प्रो">नरसिंहशास्त्री, सि. आर्., एं.ए.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>गद्यकाव्यम्</title>
+				<feature></feature>
+				<page>0001-0010</page>
+				<allauthors>
+					<author type="" sal="ब्र।। श्री।।">बेङ्कटाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>महाकविहृदयरत्नाकरपरानुस्मरणी स्फूर्तिः</title>
+				<feature></feature>
+				<page>0010aa-0010ah</page>
+				<allauthors>
+					<author type="" sal="पण्डितरत्नं">शिवसुब्रह्मण्यशास्त्री, पि. आर्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>लौकिकगाथाचतुश्शती (मुखपत्रसहिता)</title>
+				<feature></feature>
+				<page>0010ai-0010as</page>
+				<allauthors>
+					<author type="" sal="ज्यौतिषरत्नं धर्माधिकारी">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>मुरारिनान्दीश्लोकानुभवः</title>
+				<feature></feature>
+				<page>0010au-0010ax</page>
+				<allauthors>
+					<author type="" sal="श्री">गोपालाचार्यः, ए. वि., एं.ए., बि.एल्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>हस्तलिखितपुस्तकानां सविवरणसूचनी</title>
+				<feature></feature>
+				<page>0010az-0010bg</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>गोदासूक्रसर्वस्वम्</title>
+				<feature></feature>
+				<page>0010bh-0010ca</page>
+				<allauthors>
+					<author type="" sal="श्रीकाञ्जीप्रतिवादिभयङ्कर">अण्णङ्गराचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>वार्तासङ्ग्रहः</title>
+				<feature></feature>
+				<page>0010cc-0010ce</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>सर्वज्ञसन्देशविमर्शः</title>
+				<feature></feature>
+				<page>0010cf-0010cf</page>
+				<allauthors />
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="026">
+		<issue inum="01-02" month="मार्च्-जून्" year="१९५०" info="">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author type="" sal="प्रो">नरसिंहशास्त्री, सि. आर्., एं.ए.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>विकृतिवत्सरीयमङ्गळाशंसनम्</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author type="" sal="ज्यौतिषरत्नं धर्माधिकरी">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>महाकविहृदयरत्नाकरपरानुस्मरणी स्फूर्तिः</title>
+				<feature></feature>
+				<page>0009-0024</page>
+				<allauthors>
+					<author type="" sal="पण्डितरत्नं">शिवसुब्रह्मण्यशास्त्री, पि. आर्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>हस्तलिखितपुस्तकानां सविवरणसूचनी</title>
+				<feature></feature>
+				<page>0137-0144</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>जातकफलविसंवादविमर्शः (मुखपत्रसहितः)</title>
+				<feature></feature>
+				<page>0144aa-0144aw</page>
+				<allauthors>
+					<author type="" sal="ज्यौतिषरत्नं धर्माधिकारी">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अमूल्यमाल्यम्</title>
+				<feature></feature>
+				<page>0144ax-0144bm</page>
+				<allauthors>
+					<author type="" sal="विद्वान्">जग्गु आळ्वारैय्यंगार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>व्यासशिक्षा</title>
+				<feature></feature>
+				<page>0144bn-0144bu</page>
+				<allauthors>
+					<author type="2" sal="विद्वान्">कृष्णघनपाठी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>आर्यन्पात् पत्रिकाविमर्शः</title>
+				<feature></feature>
+				<page>0144bw-0144bw</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="03-04" month="सेप्टेंबर्-डिसेंबर्" year="१९५०" info="विकृति-शारदी-हैमन्ती">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature></feature>
+				<page>000i-000k</page>
+				<allauthors>
+					<author type="" sal="प्रो">नरसिंहशास्त्री, सि. आर्., एम्, ए.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नव्यखरवत्सरारम्भमङ्गळाशंसनम्</title>
+				<feature></feature>
+				<page>000l-000l</page>
+				<allauthors>
+					<author type="" sal="ज्यौतिषरत्नं धर्माधिकारी ">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्री के. गुरुदत्त बि.ए. महोदयैरारचितस्य घटिकोत्सवोपन्यासस्य अनुवादः</title>
+				<feature></feature>
+				<page>0001-0010</page>
+				<allauthors>
+					<author type="" sal="ज्यौतिषरत्नं धर्माधिकारी ">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>व्यासशिक्षा</title>
+				<feature></feature>
+				<page>0010a-0022</page>
+				<allauthors>
+					<author type="" sal="">सङ्ग्रहकारः-ब्र।। श्री।। विद्वान् कृष्णघनपाठी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>केरलप्रश्नमाला</title>
+				<feature></feature>
+				<page>0023-0025am</page>
+				<allauthors>
+					<author type="" sal="ज्यौतिषरत्नं धर्माधिकारी">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अमूल्यमाल्यम्</title>
+				<feature></feature>
+				<page>0025an-0025az</page>
+				<allauthors>
+					<author type="" sal="विद्वान्">जग्गु आळ्वारैय्यंगार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>हस्तलिखितपुस्तकानां सविवरणसूचनी</title>
+				<feature></feature>
+				<page>0025ba-0025bh</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>महाकविह्र्त्रइदयरत्नाकरपरानुस्मरणी स्फूर्तिः</title>
+				<feature></feature>
+				<page>0025bi-0025br</page>
+				<allauthors>
+					<author type="" sal="पण्डितरत्नं">शिवसुब्रह्मण्यशास्त्री, पि. आर्.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>प्रबन्धसमालोचनम्</title>
+				<feature></feature>
+				<page>0025bu-0025by</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>चिद्विलासविमर्शः</title>
+				<feature></feature>
+				<page>0025bz-0025cb</page>
+				<allauthors />
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="027">
+		<issue inum="01-04" month="मार्च्-डिसेंबर" year="१९५१" info="">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author type="" sal="ब्र।। श्री।। ">रामचन्द्राचार्यः, सि., मैसूरु</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>व्यासशिक्षा</title>
+				<feature></feature>
+				<page>0023-0038</page>
+				<allauthors>
+					<author type="2" sal="विद्वान्">कृष्णघनपाठी, मैसूरु</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>केरलप्रश्नमाला (मुखपत्रसहिता, भूमिका)</title>
+				<feature></feature>
+				<page>0038aa-0038ap</page>
+				<allauthors>
+					<author type="" sal="ज्यौतिषरत्नं धर्माधिकारी">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीभार्गवीग्रीवाभरणम्</title>
+				<feature></feature>
+				<page>0038aq-0038ay</page>
+				<allauthors>
+					<author type="" sal="महामहोपाध्यायः, मद्रप्रान्तास्थानकविः पण्डितराजः">कृष्णमूर्तिशास्त्री, मधुरा</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ज्योतिश्शास्त्रविचारप्रकटना</title>
+				<feature></feature>
+				<page>0038az-0038bc</page>
+				<allauthors>
+					<author type="" sal="विद्वत्सज्जनकृपाभिलाषी ज्योतिःसिद्धान्तकेसरी">वेंकटसुब्बाशास्त्री, कोळ्ळेगाल</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>व्याळिशिक्षा</title>
+				<feature></feature>
+				<page>0038bd-0038cg</page>
+				<allauthors>
+					<author type="" sal="विद्वान्">केशवशिवघनपाठी, बेङ्गळूरु</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>विक्रमोर्वशीय नान्दीश्लोकानुभवः</title>
+				<feature></feature>
+				<page>0038ci-0038db</page>
+				<allauthors>
+					<author type="" sal="प्रबन्धा">गोपालाचार्यः, अ. वे., तिरुचिनापल्ली</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>महाकविह्र्त्रइदयरत्नाकरपरानुस्मरणी स्फूर्तिः</title>
+				<feature></feature>
+				<page>0038dd-0038dw</page>
+				<allauthors>
+					<author type="" sal="पण्डितरत्नं">शिवसुब्रह्मण्यशास्त्री, पि. आर्., मैसूरु</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>हस्तलिखितपुस्तकानां सविवरणसूचनी</title>
+				<feature></feature>
+				<page>0038dy-0038en</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>केरलप्रश्नमाला</title>
+				<feature></feature>
+				<page>0038eo-0038ew</page>
+				<allauthors>
+					<author type="" sal="ज्यौतिषरत्नं धर्माधिकारी">करूरु शेषाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>भुवनेऽस्मिन् कवयो निरङ्कुशाः</title>
+				<feature></feature>
+				<page>0038ex-0038fa</page>
+				<allauthors>
+					<author type="" sal="पुरातत्त्वविशारदः विद्यावारिधिः">शिवनाथशर्मा शास्त्री, ले. डा., डी. ओ. सी.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>लक्ष्मीकल्याणम् मुखपत्रसहितम्</title>
+				<feature></feature>
+				<page>0038fb-0038fs</page>
+				<allauthors>
+					<author type="" sal="सरसकविराजः">रामानुजाचार्यः, मद्रपुरी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>बन्धश्लोकः, मुखपत्रसहितः, भूमिकाभूषितश्च</title>
+				<feature></feature>
+				<page>0038ft-0038hl</page>
+				<allauthors>
+					<author type="" sal="ब्र।। श्री।।">श्रीनिवासदेशिकाचार्यः,  ति. स., मैसूरु</author>
+				</allauthors>
+			</entry>
+		</issue>
+	</volume>
+</SSMP>
