@@ -4,7 +4,7 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInita097f0612b7deefe5504683a8018ac19
+class ComposerStaticInita6a1bc2ac06b73e5d8d77d98ab6a8437
 {
     public static $files = array (
         '3a37ebac017bc098e9a86b35401e7a68' => __DIR__ . '/..' . '/mongodb/mongodb/src/functions.php',
@@ -27,8 +27,8 @@ class ComposerStaticInita097f0612b7deefe5504683a8018ac19
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->prefixLengthsPsr4 = ComposerStaticInita097f0612b7deefe5504683a8018ac19::$prefixLengthsPsr4;
-            $loader->prefixDirsPsr4 = ComposerStaticInita097f0612b7deefe5504683a8018ac19::$prefixDirsPsr4;
+            $loader->prefixLengthsPsr4 = ComposerStaticInita6a1bc2ac06b73e5d8d77d98ab6a8437::$prefixLengthsPsr4;
+            $loader->prefixDirsPsr4 = ComposerStaticInita6a1bc2ac06b73e5d8d77d98ab6a8437::$prefixDirsPsr4;
 
         }, null, ClassLoader::class);
     }

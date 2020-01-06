@@ -29,7 +29,7 @@ use MongoDB\Exception\UnsupportedException;
  * @see \MongoDB\Collection::findOneAndReplace()
  * @see http://docs.mongodb.org/manual/reference/command/findAndModify/
  */
-class FindOneAndReplace implements Executable, Explainable
+class FindOneAndReplace implements Executable
 {
     const RETURN_DOCUMENT_BEFORE = 1;
     const RETURN_DOCUMENT_AFTER = 2;
@@ -41,11 +41,8 @@ class FindOneAndReplace implements Executable, Explainable
      *
      * Supported options:
      *
-     *  * bypassDocumentValidation (boolean): If true, allows the write to
-     *    circumvent document level validation.
-     *
-     *    For servers < 3.2, this option is ignored as document level validation
-     *    is not available.
+     *  * bypassDocumentValidation (boolean): If true, allows the write to opt
+     *    out of document level validation.
      *
      *  * collation (document): Collation specification.
      *
@@ -63,10 +60,6 @@ class FindOneAndReplace implements Executable, Explainable
      *    FindOneAndReplace::RETURN_DOCUMENT_BEFORE or
      *    FindOneAndReplace::RETURN_DOCUMENT_AFTER. The default is
      *    FindOneAndReplace::RETURN_DOCUMENT_BEFORE.
-     *
-     *  * session (MongoDB\Driver\Session): Client session.
-     *
-     *    Sessions are not supported for server versions < 3.6.
      *
      *  * sort (document): Determines which document the operation modifies if
      *    the query selects multiple documents.
@@ -147,10 +140,5 @@ class FindOneAndReplace implements Executable, Explainable
     public function execute(Server $server)
     {
         return $this->findAndModify->execute($server);
-    }
-
-    public function getCommandDocument(Server $server)
-    {
-        return $this->findAndModify->getCommandDocument($server);
     }
 }
