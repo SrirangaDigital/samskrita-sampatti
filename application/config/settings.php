@@ -5,6 +5,8 @@ define('JOURNALS_COLLECTION', 'journals');
 define('MANDALA_COLLECTION','mandala');
 define('ALPHABET_COLLECTION', 'alphabet');
 define('MAIN_TITLE', 'SAMSKRITA SAMPATI');
+define('SEARCH_COLLECTION', 'samskruthaSampattiText');
+define('WORDSEARCH_COLLECTION', 'samskruthaSampattiWords');
 define('DEFAULT_COVER_IMAGE', PUBLIC_URL . 'images/stock/cover.svg');
 
 define('PER_PAGE', 25);
