@@ -29,6 +29,7 @@ class book extends Controller {
 		$data = json_decode($data, true);
 		$data['category'] = (isset($query['details_collection_category'])) ? $query['details_collection_category'] : '';
 		$data['veda'] = (isset($query['details_collection_veda'])) ? $query['details_collection_veda'] : '';
+		//var_dump($data); exit(0);
 		$this->view('book/list', $data);
 	}
 

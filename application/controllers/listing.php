@@ -96,6 +96,43 @@ class listing extends Controller {
 		($result['values']) ? $this->view('listing/items', json_encode($result)) : $this->view('error/index');
 	}
 
+
+	public function sahithya($query = [], $letter = DEFAULT_LETTER) {
+
+		// Albhabetic list of authors displayed letter wise
+		// listing/authors/A
+		$filter = $this->model->filterArrayToString($query);
+		$url = BASE_URL . 'api/bookDistinct/details.contributors.author?' . $filter . '&details.contributors.author=@^' . $letter;
+
+		$result = json_decode($this->model->getDataFromApi($url), true);
+		$result['pageTitle'] = NAV_ARCHIVE_AUTHORS;
+		$result['subTitle'] = AUTHOR;
+		$result['nextUrl'] = BASE_URL . 'articles/author/';
+
+		// getting alphabet list
+		$url = BASE_URL . 'api/alphabet/';
+		$result['alphabet'] = json_decode($this->model->getDataFromApi($url), true)['author'];
+
+		($result['values']) ? $this->view('listing/sahithyaitem', json_encode($result)) : $this->view('error/index');
+	}
+	public function shastra($query = [], $letter = DEFAULT_LETTER) {
+
+		// Albhabetic list of authors displayed letter wise
+		// listing/authors/A
+		$filter = $this->model->filterArrayToString($query);
+		$url = BASE_URL . 'api/bookDistinct/details.contributors.author?' . $filter . '&details.contributors.author=@^' . $letter;
+
+		$result = json_decode($this->model->getDataFromApi($url), true);
+		$result['pageTitle'] = NAV_ARCHIVE_AUTHORS;
+		$result['subTitle'] = AUTHOR;
+		$result['nextUrl'] = BASE_URL . 'articles/author/';
+
+		// getting alphabet list
+		$url = BASE_URL . 'api/alphabet/';
+		$result['alphabet'] = json_decode($this->model->getDataFromApi($url), true)['author'];
+
+		($result['values']) ? $this->view('listing/shastraitem', json_encode($result)) : $this->view('error/index');
+	}
 	public function journal($query = [], $param = 'journal') {
 
 		// Listing of various categories such as features and series

@@ -1,22 +1,8 @@
 <div class="container-fluid">
 	<div class="row justify-content-end mb-4 slider slider-1">
 		<div class="col-md-5">
-			<p class="callout">कति कवयः कति कृतयः<br />कति लुप्ताः कति चरन्ति कति शिथिलाः । <br />तदपि प्रवर्तयति मां<br />शङ्करपारम्यसंकथालोभः । </p>
-			<p class="description">Meaning of this sholka in English will be shown here Meaning of this sholka will be shown here. Meaning of this sholka will be shown here. Meaning of this sholka in English will be shown here.</p>
-		</div>
-	</div>
-</div>
-<div class="container mainpage">
-	<div class="row align-items-center justify-content-around intro">
-		<div class="col-md-6 ">
-			<h1>What?</h1>
-			<p>A curated &amp; well annotated Digital Library containing more than a million pages of carefully selected Samskrita literature in various subjects with table of contents, keywords and full-text based search engines along with a descriptive two page summary for each book to enhance accessibility of such a collection. A <em>freemium</em> based access is given to the digital library with additional features that could be subscribed to.</p>
-		</div>
-		<div class="col-md-6">
-			<figure class="figure">
-				<img class="img-fluid border-2" src="<?=STOCK_IMAGE_URL?>scene-08.jpg">
-				<!-- <figcaption class="figure-caption">पुराण । इतिहास</figcaption> -->
-			</figure>
+			<p class="callout"> <br /> <br /><br /></p>
+			<p class="description"><br/><br/></p>
 		</div>
 	</div>
 </div>
@@ -34,14 +20,14 @@
 				<p class="card-desc eng"><?=$data['veda_vedanga'] . " Books"?></p>
 			</div>
 		</a>
-		<a href="<?=BASE_URL?>book/list?details.collection.category=Shastra" class="card col-md-3">
+		<a href="<?=BASE_URL?>shastra" class="card col-md-3">
 			<img src="<?=STOCK_IMAGE_URL?>scene-02.jpg" class="card-img-top" alt="षड्दर्शनानि">
 			<div class="card-body">
 				<h5 class="card-title">Shastra</h5>
 				<p class="card-desc eng"><?=$data['shastra'] . " Books"?></p>
 			</div>
 		</a>
-		<a href="<?=BASE_URL?>book/list?details.collection.category=Ithihasa Purana" class="card col-md-3">
+		<a href="<?=BASE_URL?>Puranam-itihasa" class="card col-md-3">
 			<img src="<?=STOCK_IMAGE_URL?>scene-03.jpg" class="card-img-top" alt="पुराणं - इतिहासः">
 			<div class="card-body">
 				<h5 class="card-title">Puranam itihasaha</h5>
@@ -50,7 +36,7 @@
 		</a>
 	</div>
 	<div class="row justify-content-center mb-5 card-deck">
-		<a href="<?=BASE_URL?>book/list?details.collection.category=Sahithya" class="card col-md-3">
+	<a href="<?=BASE_URL?>book/list?details.collection.category=Sahithya"" class="card col-md-3">
 			<img src="<?=STOCK_IMAGE_URL?>scene-04.jpg" class="card-img-top" alt="साहित्य">
 			<div class="card-body">
 				<h5 class="card-title">Sahitya</h5>

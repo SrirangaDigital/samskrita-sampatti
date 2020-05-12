@@ -1,6 +1,6 @@
 <?php
 	$category = $data['category'];
-	$veda = $data['veda'];
+	$veda = $data['veda']; 
 	unset($data['category'])
 ?>
 <div class="container">
@@ -17,7 +17,8 @@
 					<a href="<?=BASE_URL?>book/v/<?=$row['id']?>"><img src="<?=$row['cover']?>" alt="cover page" /></a>
 				</div>
 				<div class="col-md-8 headblock">
-					<a href="<?=BASE_URL?>book/v/<?=$row['id']?>"><h1 class="title"><?=$row['details']['title']?></h1></a>
+				<?=$row['details']['bookId']?>
+					Title : <a href="<?=BASE_URL?>book/v/<?=$row['id']?>"><h1 class="title"><?=$row['details']['title']?></h1></a>
 
 					<?php foreach ($row['details']['contributors']['author'] as $author) echo '<h2 class="author">' . $author . '</h2>'; ?>
 
