@@ -1,7 +1,8 @@
 <?php
 	$category = $data['category'];
 	$veda = $data['veda']; 
-	unset($data['category'])
+	unset($data['category']);
+	unset($data['veda'])
 ?>
 <div class="container">
 	<div class="row justify-content-center">

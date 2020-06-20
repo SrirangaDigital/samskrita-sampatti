@@ -12,7 +12,7 @@
 				<p class="card-desc eng"></p>
 			</div>
 		</a>
-		<a href="#" class="card col-md-3">
+		<a href="<?=BASE_URL?>book/list?details.collection.category=Veda Vedanga&details.collection.veda=Yajurveda" class="card col-md-3">
 			<img src="<?=STOCK_IMAGE_URL?>scene-02.jpg" class="card-img-top" alt="वेदवेदाङ्ग">
 			<div class="card-body">
 				<h5 class="card-title">Yajurveda</h5>
