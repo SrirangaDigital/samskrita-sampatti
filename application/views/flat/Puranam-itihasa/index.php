@@ -5,7 +5,7 @@
 		</div>
 	</div>
 	<div class="row justify-content-center mb-5 card-deck">
-		<a href="#" class="card col-md-3">
+		<a href="<?=BASE_URL?>book/list?details.collection.category=Ithihasa Purana&details.collection.itihasa=Ramayana" class="card col-md-3">
 			<img src="<?=STOCK_IMAGE_URL?>scene-01.jpg" class="card-img-top" alt="वेदवेदाङ्ग">
 			<div class="card-body">
 				<h5 class="card-title">Ramayana</h5>
