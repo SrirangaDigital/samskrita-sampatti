@@ -9,7 +9,9 @@
 <div class="container-fluid back-gray card-slider subjects">
 	<div class="row justify-content-center mb-4">
 		<div class="col-md-3">
+<!--
 			<h3 class="title">मुख्यविभागाः</h3>
+-->
 		</div>
 	</div>
 	<div class="row justify-content-center mb-5 card-deck">
